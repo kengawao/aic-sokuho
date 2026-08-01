@@ -20,7 +20,7 @@ from jinja2 import Environment, FileSystemLoader
 
 BASE = pathlib.Path(__file__).parent
 DB = BASE / "matome.db"
-SITE = BASE / "site"
+SITE = BASE / "docs"  # GitHub Pagesのブランチ公開は /docs 固定のため
 FOCUS_HINT_FILE = BASE / "focus_hint.txt"
 
 DAILY_LIMIT = 10

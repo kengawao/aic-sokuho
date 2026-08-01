@@ -6,6 +6,6 @@ __pycache__/
 # ローカル専用
 .claude/
 
-# 注意: matome.db と site/ はコミット対象
-# (matome.db = 重複排除の状態、site/ = 公開するHTML。
+# 注意: matome.db と docs/ はコミット対象
+# (matome.db = 重複排除の状態、docs/ = 公開するHTML。
 #  GitHub Actionsが毎日更新してpushする)
