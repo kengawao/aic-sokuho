@@ -1,0 +1,34 @@
+name: daily-matome
+on:
+  schedule:
+    - cron: "0 21 * * *"   # UTC 21:00 = 日本時間 朝6:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 人気記事分析(GA4設定済みの場合のみ動作)
+        run: python analyze.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+      - name: 記事生成
+        run: python generate.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: commit & push
+        run: |
+          git config user.name "matome-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "daily articles $(date +%F)"
+          git push

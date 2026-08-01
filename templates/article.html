@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}{{ art.catchy_title }} | AIC速報{% endblock %}
+{% block content %}
+<article class="card">
+  <h1>{{ art.catchy_title }}</h1>
+  <p class="meta">
+    <span class="cat">{{ art.category }}</span>{{ date }} |
+    出典: <a href="{{ source.url }}" rel="nofollow noopener" target="_blank">{{ source.title }}</a>
+  </p>
+
+  <div class="ad">広告スペース(AdSense等のコードに差し替え)</div>
+
+  <section class="summary"><p>{{ art.summary }}</p></section>
+
+  <h2>ここがポイント</h2>
+  <ul class="points">
+    {% for p in art.points %}<li>{{ p }}</li>{% endfor %}
+  </ul>
+
+  <h2>コメント</h2>
+  <section class="comments">
+    {% for c in art.comments %}
+    <div class="comment">
+      <b>{{ loop.index }}: つぶやき</b>
+      <p>{{ c }}</p>
+    </div>
+    {% if loop.index == 10 %}<div class="ad">広告スペース(記事中)</div>{% endif %}
+    {% endfor %}
+  </section>
+
+  <div class="ad">広告スペース(記事下・アフィリエイト枠)</div>
+
+  <p><a href="index.html">← 記事一覧へ戻る</a></p>
+</article>
+{% endblock %}
