@@ -176,7 +176,9 @@ def main():
     con = init_db()
     SITE.mkdir(exist_ok=True)
     env = Environment(loader=FileSystemLoader(BASE / "templates"))
-    today = datetime.date.today().isoformat()
+    # GitHub Actionsのランナー(UTC)でも日本時間の日付になるようJST固定
+    jst = datetime.timezone(datetime.timedelta(hours=9))
+    today = datetime.datetime.now(jst).date().isoformat()
     focus_hint = load_focus_hint()
 
     candidates = fetch_candidates(con)
