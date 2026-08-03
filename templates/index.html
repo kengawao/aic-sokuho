@@ -1,22 +1,52 @@
 {% extends "base.html" %}
-{% block title %}AIC速報 - 実際のニュースにコメンテーターたちが反応するまとめサイト{% endblock %}
+{% block title %}AIC速報 - {{ t.site_desc }}{% endblock %}
 {% block meta %}
-<meta name="description" content="実際のニュースにコメンテーターたちが反応するまとめサイト。毎朝10本の注目ニュースを掲載。">
+<meta name="description" content="{{ t.meta_desc }}">
 <meta property="og:title" content="AIC速報">
-<meta property="og:description" content="実際のニュースにコメンテーターたちが反応するまとめサイト。">
+<meta property="og:description" content="{{ t.site_desc }}">
 <meta property="og:type" content="website">
 {% endblock %}
 {% block content %}
 <div class="card">
-  <p>実際のニュースにコメンテーターたちが反応するまとめサイトです。</p>
+  <p>{{ t.site_desc }}</p>
 </div>
+
+<div class="tabs">
+  <button type="button" class="tab active" data-cat="all">{{ t.tab_all }}</button>
+  {% for c in cats %}
+  <button type="button" class="tab" data-cat="{{ c.key }}">{{ c.label }}</button>
+  {% endfor %}
+</div>
+
 {% for a in articles %}
-<div class="card index-item">
+<div class="card index-item" data-cat="{{ a.category }}">
   <span class="cat">{{ a.category }}</span>
   <a href="{{ a.slug }}.html">{{ a.title }}</a>
   <div class="meta">{{ a.created }}</div>
 </div>
 {% else %}
-<div class="card">まだ記事がありません。</div>
+<div class="card">{{ t.no_articles }}</div>
 {% endfor %}
+
+<script>
+// カテゴリタブ: 選択を保存し、次回訪問時も同じカテゴリを表示
+(function(){
+  var tabs = document.querySelectorAll(".tab");
+  function apply(cat){
+    tabs.forEach(function(b){ b.classList.toggle("active", b.dataset.cat === cat); });
+    document.querySelectorAll(".index-item").forEach(function(el){
+      el.style.display = (cat === "all" || el.dataset.cat === cat) ? "" : "none";
+    });
+  }
+  tabs.forEach(function(b){
+    b.addEventListener("click", function(){
+      try { localStorage.setItem("aic_cat", b.dataset.cat); } catch(e) {}
+      apply(b.dataset.cat);
+    });
+  });
+  var saved = null;
+  try { saved = localStorage.getItem("aic_cat"); } catch(e) {}
+  if (saved) apply(saved);
+})();
+</script>
 {% endblock %}

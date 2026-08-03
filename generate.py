@@ -2,15 +2,21 @@
 """まとめサイト記事生成パイプライン。
 
 RSSからニュースを取得し、Claude APIで要約とAIコメントを生成して
-静的HTMLを site/ に出力する。
+静的HTMLを docs/ に出力する(日本語+英語の2言語)。
+
+使い方:
+  python generate.py                # 通常実行: ニュース10本+面白ネタ1本
+  python generate.py --column-only  # 面白ネタ1本のみ(不定期の午後投稿用。約4割の確率でスキップ)
 
 ANTHROPIC_API_KEY が未設定の場合はモックモードで動作し、
 API呼び出しの代わりにサンプルデータで記事を生成する(動作確認用)。
 """
+import argparse
 import datetime
 import json
 import os
 import pathlib
+import random
 import re
 import sqlite3
 import sys
@@ -20,12 +26,17 @@ from jinja2 import Environment, FileSystemLoader
 
 BASE = pathlib.Path(__file__).parent
 DB = BASE / "matome.db"
-SITE = BASE / "docs"  # GitHub Pagesのブランチ公開は /docs 固定のため
+SITE = BASE / "docs"
 FOCUS_HINT_FILE = BASE / "focus_hint.txt"
 
 DAILY_LIMIT = 10
 COMMENTS_PER_ARTICLE = 30
 MODEL = "claude-haiku-4-5-20251001"
+
+# 話題性フィルタに渡す候補の上限(多いほど選択肢が増えるがプロンプトが長くなる)
+CANDIDATE_POOL = 60
+
+SITE_BASE_URL = "https://kengawao.github.io/aic-sokuho/"
 
 RSS_FEEDS = [
     "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
@@ -38,15 +49,61 @@ RSS_FEEDS = [
     "https://www.nhk.or.jp/rss/news/cat0.xml",
 ]
 
-# 話題性フィルタに渡す候補の上限(多いほど選択肢が増えるがプロンプトが長くなる)
-CANDIDATE_POOL = 60
-
-SITE_BASE_URL = "https://kengawao.github.io/aic-sokuho/"
-
 MOCK_MODE = not os.environ.get("ANTHROPIC_API_KEY")
 
-PROMPT = """あなたはまとめサイトの編集者です。以下のニュースを題材に記事を作成してください。
+# 画面表示ラベル(日英)
+T = {
+    "ja": {
+        "site_desc": "実際のニュースにコメンテーターたちが反応するまとめサイトです。",
+        "meta_desc": "実際のニュースにコメンテーターたちが反応するまとめサイト。毎朝10本の注目ニュースを掲載。",
+        "points": "ここがポイント",
+        "comments": "コメント",
+        "commenter": "つぶやき",
+        "related": "関連記事",
+        "back": "← 記事一覧へ戻る",
+        "source": "出典",
+        "footer_copy": "出典記事の著作権は各報道機関に帰属します。",
+        "footer_ai": "コメントはすべてAI作成です",
+        "switch": "English",
+        "tab_all": "すべて",
+        "ad": "広告スペース",
+        "no_articles": "まだ記事がありません。",
+    },
+    "en": {
+        "site_desc": "A roundup site where commentators react to real Japanese news.",
+        "meta_desc": "A roundup site where commentators react to real Japanese news. 10 hot topics every morning.",
+        "points": "Key Points",
+        "comments": "Comments",
+        "commenter": "Anon",
+        "related": "Related Articles",
+        "back": "← Back to all articles",
+        "source": "Source",
+        "footer_copy": "All source-article copyrights belong to the respective news organizations.",
+        "footer_ai": "All comments are AI-generated",
+        "switch": "日本語",
+        "tab_all": "All",
+        "ad": "Ad space",
+        "no_articles": "No articles yet.",
+    },
+}
 
+# カテゴリ(key=DB格納値、labelは言語別)
+CATEGORIES = [
+    {"key": "国内", "ja": "国内", "en": "Domestic"},
+    {"key": "国際", "ja": "国際", "en": "World"},
+    {"key": "経済", "ja": "経済", "en": "Business"},
+    {"key": "エンタメ", "ja": "エンタメ", "en": "Entertainment"},
+    {"key": "スポーツ", "ja": "スポーツ", "en": "Sports"},
+    {"key": "IT", "ja": "IT", "en": "Tech"},
+    {"key": "コラム", "ja": "コラム", "en": "Column"},
+]
+
+TONE_FUN = """今回は「面白ネタ・コラム」枠です。ニュースを堅く伝えるのではなく、
+ゆるく面白おかしく紹介するコラム調で書くこと。コメントもボケとツッコミ多めで
+楽しい雰囲気にすること。categoryは必ず「コラム」にすること。"""
+
+PROMPT = """あなたはまとめサイトの編集者です。以下のニュースを題材に記事を作成してください。
+{tone}
 ニュース見出し: {title}
 RSS概要: {summary}
 出典URL: {url}
@@ -55,10 +112,16 @@ RSS概要: {summary}
 以下のJSON形式のみで出力してください:
 {{
   "catchy_title": "クリックしたくなる記事タイトル。次の型を状況に応じて使う: 具体的な数字を入れる/「なぜ」「どうなる?」等の疑問形/意外性の対比(〜のはずが〜)/読者への問いかけ。ただし事実に反する誇張・釣りは禁止",
-  "category": "国内/経済/エンタメ/スポーツ/IT/国際 のいずれか",
+  "category": "国内/経済/エンタメ/スポーツ/IT/国際/コラム のいずれか",
   "summary": "ニュースの内容を自分の言葉で書いた200字程度の要約(原文のコピー禁止)",
   "points": ["論点1", "論点2", "論点3"],
-  "comments": ["コメント本文", ...]
+  "comments": ["コメント本文", ...],
+  "en": {{
+    "catchy_title": "英語版タイトル(直訳でなく英語圏で自然なもの)",
+    "summary": "英語版要約",
+    "points": ["英語版の論点", ...],
+    "comments": ["commentsと同じ件数・同じ順序で、自然な英語のネット掲示板風に訳したもの。>>番号アンカーは維持"]
+  }}
 }}
 commentsは{n_comments}件。匿名掲示板(5ちゃんねる)風のスレッドとして書くこと:
 - 口語・短文中心。「これは草」「マジかよ」のようなネットスラングも適度に使う
@@ -80,6 +143,13 @@ def init_db():
             created TEXT,
             slug TEXT)"""
     )
+    # 既存DBへの列追加(初回のみ実行される)
+    for ddl in ("ALTER TABLE articles ADD COLUMN has_en INTEGER DEFAULT 0",
+                "ALTER TABLE articles ADD COLUMN title_en TEXT"):
+        try:
+            con.execute(ddl)
+        except sqlite3.OperationalError:
+            pass
     con.commit()
     return con
 
@@ -104,16 +174,23 @@ def fetch_candidates(con, limit=CANDIDATE_POOL):
     return items[:limit]
 
 
+def _extract_json(text):
+    start, end = text.find("{"), text.rfind("}") + 1
+    return json.loads(text[start:end])
+
+
 def select_buzzworthy(candidates, limit=DAILY_LIMIT):
-    """候補の中から閲覧数が期待できるニュースをClaudeに選別させる。"""
-    if len(candidates) <= limit or MOCK_MODE:
-        return candidates[:limit]
+    """閲覧数が期待できるニュースlimit本+面白ネタ1本をClaudeに選別させる。"""
+    if MOCK_MODE or len(candidates) <= limit:
+        main = candidates[:limit]
+        fun = candidates[limit] if len(candidates) > limit else None
+        return main, fun
     import anthropic
 
     listing = "\n".join(f"{i}: {c['title']}" for i, c in enumerate(candidates))
-    prompt = f"""あなたはまとめサイトの編集長です。以下のニュース一覧から、
-まとめサイトで最も閲覧数(クリック)が期待できる{limit}本を選んでください。
+    prompt = f"""あなたはまとめサイトの編集長です。以下のニュース一覧から選定してください。
 
+(1) まとめサイトで最も閲覧数(クリック)が期待できる{limit}本 = "main"
 選定基準:
 - 賛否が分かれ、コメント欄の議論が盛り上がりそうな話題
 - 感情を動かす話題(驚き・怒り・共感・不安)
@@ -121,29 +198,62 @@ def select_buzzworthy(candidates, limit=DAILY_LIMIT):
 - 同じ話題・同じジャンルばかりに偏らず、バランスを取ること
 - 同一の出来事を扱う記事が複数ある場合は、最も情報量が多そうな1本だけを選ぶこと
 
+(2) 思わず笑える・ほっこりする・変わったニュース1本 = "fun"(mainとは別のもの)
+
 {listing}
 
-選んだ{limit}本の番号だけをJSON配列で出力してください。例: [3, 15, 27]"""
+JSONのみ出力: {{"main": [番号, ...], "fun": 番号}}
+funに適した候補が無い場合は "fun": null"""
     try:
         client = anthropic.Anthropic()
         msg = client.messages.create(
-            model=MODEL, max_tokens=200,
+            model=MODEL, max_tokens=300,
             messages=[{"role": "user", "content": prompt}],
         )
-        text = msg.content[0].text
-        idx = json.loads(text[text.find("["):text.rfind("]") + 1])
-        picked = [candidates[i] for i in idx
+        data = _extract_json(msg.content[0].text)
+        picked = [candidates[i] for i in data.get("main", [])
                   if isinstance(i, int) and 0 <= i < len(candidates)]
-        # 不足分は取得順で補完
         for c in candidates:
             if len(picked) >= limit:
                 break
             if c not in picked:
                 picked.append(c)
-        return picked[:limit]
+        fun = None
+        fi = data.get("fun")
+        if isinstance(fi, int) and 0 <= fi < len(candidates) and candidates[fi] not in picked:
+            fun = candidates[fi]
+        return picked[:limit], fun
     except Exception as ex:
         print(f"話題性フィルタに失敗、取得順で継続: {ex}", file=sys.stderr)
-        return candidates[:limit]
+        return candidates[:limit], None
+
+
+def select_fun_only(candidates):
+    """面白ネタ1本だけを選ぶ(午後の不定期投稿用)。"""
+    if not candidates:
+        return None
+    if MOCK_MODE:
+        return candidates[0]
+    import anthropic
+
+    listing = "\n".join(f"{i}: {c['title']}" for i, c in enumerate(candidates))
+    prompt = f"""以下のニュース一覧から、まとめサイトの「面白ネタ・コラム」枠に最も適した
+1本を選んでください(思わず笑える・ほっこりする・変わった話題)。
+{listing}
+
+番号のみをJSONで出力: {{"fun": 番号}} 適した候補が無ければ {{"fun": null}}"""
+    try:
+        client = anthropic.Anthropic()
+        msg = client.messages.create(
+            model=MODEL, max_tokens=100,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        fi = _extract_json(msg.content[0].text).get("fun")
+        if isinstance(fi, int) and 0 <= fi < len(candidates):
+            return candidates[fi]
+    except Exception as ex:
+        print(f"面白ネタ選定に失敗: {ex}", file=sys.stderr)
+    return None
 
 
 def load_focus_hint():
@@ -154,41 +264,50 @@ def load_focus_hint():
     return ""
 
 
-def generate_article_mock(news):
+def generate_article_mock(news, fun=False):
     """モックモード: API呼び出しなしでパイプラインを検証するためのダミー生成。"""
-    base = [
-        "これはデカいニュースだな",
-        "マジかよ、朝から驚いた",
-        ">>1 デカいというか今後どうなるかだな",
-        "詳細まだ出てないのか?",
-        ">>2 自分も同じ反応だったわ",
-        "冷静に考えるとそこまで意外でもない",
-        ">>6 いやいや、十分意外だろ",
-        "ソース見てきたけど続報待ちっぽい",
-        "ちなみに過去にも似た事例あったよな",
-        ">>9 あれとは規模が違う気がする",
+    base_ja = [
+        "これはデカいニュースだな", "マジかよ、朝から驚いた",
+        ">>1 デカいというか今後どうなるかだな", "詳細まだ出てないのか?",
+        ">>2 自分も同じ反応だったわ", "冷静に考えるとそこまで意外でもない",
+        ">>6 いやいや、十分意外だろ", "ソース見てきたけど続報待ちっぽい",
+        "ちなみに過去にも似た事例あったよな", ">>9 あれとは規模が違う気がする",
     ]
-    comments = [base[i % len(base)] for i in range(COMMENTS_PER_ARTICLE)]
+    base_en = [
+        "This is huge news", "No way, what a surprise",
+        ">>1 Huge, but the real question is what happens next", "Any details yet?",
+        ">>2 Same reaction here", "Honestly not that surprising if you think about it",
+        ">>6 Nah, this is plenty surprising", "Checked the source, waiting for updates",
+        "There was a similar case before btw", ">>9 Different scale though",
+    ]
+    n = COMMENTS_PER_ARTICLE
     return {
-        "catchy_title": f"【話題】{news['title']}",
-        "category": "国内",
-        "summary": (news["summary"] or news["title"]) [:200]
+        "catchy_title": ("【コラム】" if fun else "【話題】") + news["title"],
+        "category": "コラム" if fun else "国内",
+        "summary": (news["summary"] or news["title"])[:200]
         + "(※モックモード: 実運用ではClaudeが独自要約を生成します)",
         "points": ["論点1(モック)", "論点2(モック)", "論点3(モック)"],
-        "comments": comments,
+        "comments": [base_ja[i % len(base_ja)] for i in range(n)],
+        "en": {
+            "catchy_title": "[Mock] " + news["title"],
+            "summary": "Mock English summary.",
+            "points": ["Point 1 (mock)", "Point 2 (mock)", "Point 3 (mock)"],
+            "comments": [base_en[i % len(base_en)] for i in range(n)],
+        },
     }
 
 
-def generate_article_api(news, focus_hint=""):
+def generate_article_api(news, focus_hint="", fun=False):
     import anthropic
 
     client = anthropic.Anthropic()
     msg = client.messages.create(
         model=MODEL,
-        max_tokens=4000,
+        max_tokens=9000,
         messages=[{
             "role": "user",
             "content": PROMPT.format(
+                tone=TONE_FUN if fun else "",
                 title=news["title"],
                 summary=news["summary"],
                 url=news["url"],
@@ -197,34 +316,90 @@ def generate_article_api(news, focus_hint=""):
             ),
         }],
     )
-    text = msg.content[0].text
-    start, end = text.find("{"), text.rfind("}") + 1
-    return json.loads(text[start:end])
+    return _extract_json(msg.content[0].text)
 
 
-def generate_article(news, focus_hint=""):
+def generate_article(news, focus_hint="", fun=False):
     if MOCK_MODE:
-        return generate_article_mock(news)
-    return generate_article_api(news, focus_hint)
+        return generate_article_mock(news, fun)
+    return generate_article_api(news, focus_hint, fun)
+
+
+def related_articles(con, category, lang):
+    """同カテゴリの直近記事(回遊率向上のため記事下に表示)。"""
+    if lang == "en":
+        rows = con.execute(
+            "SELECT slug, title_en FROM articles WHERE category=? AND has_en=1 "
+            "ORDER BY id DESC LIMIT 5", (category,)).fetchall()
+    else:
+        rows = con.execute(
+            "SELECT slug, title FROM articles WHERE category=? "
+            "ORDER BY id DESC LIMIT 5", (category,)).fetchall()
+    return [{"slug": r[0], "title": r[1]} for r in rows if r[1]]
+
+
+def write_article_pages(con, env, art, news, today, slug):
+    """日本語ページと(あれば)英語ページを書き出す。has_enを返す。"""
+    tpl = env.get_template("article.html")
+    en = art.get("en") or {}
+    has_en = bool(en.get("catchy_title") and en.get("comments"))
+
+    html = tpl.render(
+        art=art, source=news, date=today, t=T["ja"], lang="ja",
+        alt_url=f"en/{slug}.html" if has_en else None,
+        related=related_articles(con, art["category"], "ja"))
+    (SITE / f"{slug}.html").write_text(html, encoding="utf-8")
+
+    if has_en:
+        (SITE / "en").mkdir(exist_ok=True)
+        en_art = {
+            "catchy_title": en["catchy_title"],
+            "category": art["category"],
+            "summary": en.get("summary", ""),
+            "points": en.get("points", []),
+            "comments": en["comments"],
+        }
+        html = tpl.render(
+            art=en_art, source=news, date=today, t=T["en"], lang="en",
+            alt_url=f"../{slug}.html",
+            related=related_articles(con, art["category"], "en"))
+        (SITE / "en" / f"{slug}.html").write_text(html, encoding="utf-8")
+    return has_en
 
 
 def render_site(con, env):
+    tpl = env.get_template("index.html")
+    cats_ja = [{"key": c["key"], "label": c["ja"]} for c in CATEGORIES]
+    cats_en = [{"key": c["key"], "label": c["en"]} for c in CATEGORIES]
+
     rows = con.execute(
         "SELECT slug, title, category, created FROM articles ORDER BY id DESC LIMIT 100"
     ).fetchall()
-    articles = [
-        {"slug": r[0], "title": r[1], "category": r[2], "created": r[3]}
-        for r in rows
-    ]
-    html = env.get_template("index.html").render(articles=articles)
+    articles = [{"slug": r[0], "title": r[1], "category": r[2], "created": r[3]}
+                for r in rows]
+    html = tpl.render(articles=articles, t=T["ja"], lang="ja",
+                      alt_url="en/index.html", cats=cats_ja)
     (SITE / "index.html").write_text(html, encoding="utf-8")
 
+    rows = con.execute(
+        "SELECT slug, title_en, category, created FROM articles WHERE has_en=1 "
+        "ORDER BY id DESC LIMIT 100").fetchall()
+    articles_en = [{"slug": r[0], "title": r[1], "category": r[2], "created": r[3]}
+                   for r in rows if r[1]]
+    (SITE / "en").mkdir(exist_ok=True)
+    html = tpl.render(articles=articles_en, t=T["en"], lang="en",
+                      alt_url="../index.html", cats=cats_en)
+    (SITE / "en" / "index.html").write_text(html, encoding="utf-8")
+
     # 検索エンジン向けサイトマップ(全記事対象)
-    all_rows = con.execute("SELECT slug, created FROM articles ORDER BY id DESC").fetchall()
-    urls = [f"  <url><loc>{SITE_BASE_URL}</loc></url>"] + [
-        f"  <url><loc>{SITE_BASE_URL}{r[0]}.html</loc><lastmod>{r[1]}</lastmod></url>"
-        for r in all_rows
-    ]
+    all_rows = con.execute(
+        "SELECT slug, created, has_en FROM articles ORDER BY id DESC").fetchall()
+    urls = [f"  <url><loc>{SITE_BASE_URL}</loc></url>",
+            f"  <url><loc>{SITE_BASE_URL}en/index.html</loc></url>"]
+    for r in all_rows:
+        urls.append(f"  <url><loc>{SITE_BASE_URL}{r[0]}.html</loc><lastmod>{r[1]}</lastmod></url>")
+        if r[2]:
+            urls.append(f"  <url><loc>{SITE_BASE_URL}en/{r[0]}.html</loc><lastmod>{r[1]}</lastmod></url>")
     sitemap = ('<?xml version="1.0" encoding="UTF-8"?>\n'
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                + "\n".join(urls) + "\n</urlset>\n")
@@ -234,57 +409,76 @@ def render_site(con, env):
         encoding="utf-8")
 
 
+def next_seq(con, today):
+    return con.execute(
+        "SELECT COUNT(*) FROM articles WHERE created=?", (today,)).fetchone()[0]
+
+
+def insert_article(con, news, art, today, slug, has_en):
+    con.execute(
+        "INSERT INTO articles(url,title,category,created,slug,has_en,title_en) "
+        "VALUES(?,?,?,?,?,?,?)",
+        (news["url"], art["catchy_title"], art["category"], today, slug,
+         1 if has_en else 0,
+         (art.get("en") or {}).get("catchy_title")))
+    con.commit()
+
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--column-only", action="store_true",
+                        help="面白ネタ・コラム1本のみ生成(不定期の午後投稿用)")
+    args = parser.parse_args()
+
     if MOCK_MODE:
         print("[!] ANTHROPIC_API_KEY 未設定のためモックモードで実行します")
     con = init_db()
     SITE.mkdir(exist_ok=True)
     env = Environment(loader=FileSystemLoader(BASE / "templates"))
-    # GitHub Actionsのランナー(UTC)でも日本時間の日付になるようJST固定
     jst = datetime.timezone(datetime.timedelta(hours=9))
     today = datetime.datetime.now(jst).date().isoformat()
-    focus_hint = load_focus_hint()
 
-    candidates = fetch_candidates(con)
-    if not candidates:
-        print("新規ニュースがありません")
-        render_site(con, env)
-        return
-    print(f"候補 {len(candidates)} 本から選別中...")
-    candidates = select_buzzworthy(candidates)
+    if args.column_only:
+        # 不定期性の演出: 約4割の確率で投稿しない(朝のコラム枠で最低1日1本は担保済み)
+        if random.random() < 0.4:
+            print("今回はスキップ(不定期投稿)")
+            return
+        candidates = fetch_candidates(con)
+        news = select_fun_only(candidates)
+        if not news:
+            print("面白ネタ候補がありません")
+            return
+        plan = [(news, True, "")]
+    else:
+        candidates = fetch_candidates(con)
+        if not candidates:
+            print("新規ニュースがありません")
+            render_site(con, env)
+            return
+        print(f"候補 {len(candidates)} 本から選別中...")
+        main_news, fun_news = select_buzzworthy(candidates)
+        focus_hint = load_focus_hint()
+        plan = [(n, False, focus_hint if i == 0 else "")
+                for i, n in enumerate(main_news)]
+        if fun_news:
+            plan.append((fun_news, True, ""))
 
-    # 同日に複数回実行しても既存記事を上書きしないよう、連番は既存数から続ける
-    seq = con.execute(
-        "SELECT COUNT(*) FROM articles WHERE created=?", (today,)).fetchone()[0]
-
+    seq = next_seq(con, today)
     generated = 0
-    for i, news in enumerate(candidates):
-        # 1本目のみ人気分析に基づく編集方針を適用
-        hint = focus_hint if i == 0 else ""
+    for news, fun, hint in plan:
         try:
-            art = generate_article(news, hint)
+            art = generate_article(news, hint, fun)
         except Exception as ex:
             print(f"skip: {news['title']} ({ex})", file=sys.stderr)
             continue
         slug = f"{today}-{seq}"
         seq += 1
-        # 回遊率向上のため、同カテゴリの直近記事を関連記事として表示
-        related = [
-            {"slug": r[0], "title": r[1]}
-            for r in con.execute(
-                "SELECT slug, title FROM articles WHERE category=? "
-                "ORDER BY id DESC LIMIT 5", (art["category"],)).fetchall()
-        ]
-        html = env.get_template("article.html").render(
-            art=art, source=news, date=today, related=related)
-        (SITE / f"{slug}.html").write_text(html, encoding="utf-8")
-        con.execute(
-            "INSERT INTO articles(url,title,category,created,slug) VALUES(?,?,?,?,?)",
-            (news["url"], art["catchy_title"], art["category"], today, slug),
-        )
-        con.commit()
+        has_en = write_article_pages(con, env, art, news, today, slug)
+        insert_article(con, news, art, today, slug, has_en)
         generated += 1
-        print(f"generated: {slug}.html  {art['catchy_title']}")
+        label = "[コラム]" if fun else ""
+        print(f"generated: {slug}.html {label} {art['catchy_title']}"
+              + (" (+en)" if has_en else ""))
 
     render_site(con, env)
     print(f"完了: {generated}本生成 / index.html 更新")

@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ lang }}">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% block title %}AIC速報{% endblock %}</title>
-{% block meta %}{% endblock %}
+<title>AIC速報 - A roundup site where commentators react to real Japanese news.</title>
+
+<meta name="description" content="A roundup site where commentators react to real Japanese news. 10 hot topics every morning.">
+<meta property="og:title" content="AIC速報">
+<meta property="og:description" content="A roundup site where commentators react to real Japanese news.">
+<meta property="og:type" content="website">
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C7PCBL5LEG"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,8 +20,8 @@
 <script>
 // ブラウザ言語/保存済みの選択に応じて日英ページを自動振り分け
 (function(){
-  var alt = "{{ alt_url or '' }}";
-  var lang = "{{ lang }}";
+  var alt = "../index.html";
+  var lang = "en";
   if (!alt) return;
   var pref = null;
   try { pref = localStorage.getItem("aic_lang"); } catch(e) {}
@@ -67,15 +72,68 @@
 <body>
 <header>
   <a href="index.html">AIC速報</a>
-  {% if alt_url %}
-  <a class="langswitch" href="{{ alt_url }}"
-     onclick="try{localStorage.setItem('aic_lang','{{ 'en' if lang == 'ja' else 'ja' }}')}catch(e){}">{{ t.switch }}</a>
-  {% endif %}
+  
+  <a class="langswitch" href="../index.html"
+     onclick="try{localStorage.setItem('aic_lang','ja')}catch(e){}">日本語</a>
+  
 </header>
-<main>{% block content %}{% endblock %}</main>
+<main>
+<div class="card">
+  <p>A roundup site where commentators react to real Japanese news.</p>
+</div>
+
+<div class="tabs">
+  <button type="button" class="tab active" data-cat="all">All</button>
+  
+  <button type="button" class="tab" data-cat="国内">Domestic</button>
+  
+  <button type="button" class="tab" data-cat="国際">World</button>
+  
+  <button type="button" class="tab" data-cat="経済">Business</button>
+  
+  <button type="button" class="tab" data-cat="エンタメ">Entertainment</button>
+  
+  <button type="button" class="tab" data-cat="スポーツ">Sports</button>
+  
+  <button type="button" class="tab" data-cat="IT">Tech</button>
+  
+  <button type="button" class="tab" data-cat="コラム">Column</button>
+  
+</div>
+
+
+<div class="card index-item" data-cat="コラム">
+  <span class="cat">コラム</span>
+  <a href="2026-08-03-20.html">YouTuber's Daughter Steals the Show in GTO Remake—No 'Nepotism Pass' Here!</a>
+  <div class="meta">2026-08-03</div>
+</div>
+
+
+<script>
+// カテゴリタブ: 選択を保存し、次回訪問時も同じカテゴリを表示
+(function(){
+  var tabs = document.querySelectorAll(".tab");
+  function apply(cat){
+    tabs.forEach(function(b){ b.classList.toggle("active", b.dataset.cat === cat); });
+    document.querySelectorAll(".index-item").forEach(function(el){
+      el.style.display = (cat === "all" || el.dataset.cat === cat) ? "" : "none";
+    });
+  }
+  tabs.forEach(function(b){
+    b.addEventListener("click", function(){
+      try { localStorage.setItem("aic_cat", b.dataset.cat); } catch(e) {}
+      apply(b.dataset.cat);
+    });
+  });
+  var saved = null;
+  try { saved = localStorage.getItem("aic_cat"); } catch(e) {}
+  if (saved) apply(saved);
+})();
+</script>
+</main>
 <footer>
-  <p class="disclosure-small">{{ t.footer_copy }}</p>
-  <p class="disclosure-tiny">{{ t.footer_ai }}</p>
+  <p class="disclosure-small">All source-article copyrights belong to the respective news organizations.</p>
+  <p class="disclosure-tiny">All comments are AI-generated</p>
 </footer>
 </body>
 </html>

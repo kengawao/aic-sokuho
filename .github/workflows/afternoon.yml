@@ -1,0 +1,29 @@
+name: afternoon-column
+on:
+  schedule:
+    - cron: "0 6 * * *"   # UTC 6:00 = 日本時間 15:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 面白ネタ・コラム生成(約6割の確率で投稿)
+        run: python generate.py --column-only
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: commit & push
+        run: |
+          git config user.name "matome-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "afternoon column $(date +%F)"
+          git push

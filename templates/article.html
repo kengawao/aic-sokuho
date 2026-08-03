@@ -13,38 +13,38 @@
   <h1>{{ art.catchy_title }}</h1>
   <p class="meta">
     <span class="cat">{{ art.category }}</span>{{ date }} |
-    出典: <a href="{{ source.url }}" rel="nofollow noopener" target="_blank">{{ source.title }}</a>
+    {{ t.source }}: <a href="{{ source.url }}" rel="nofollow noopener" target="_blank">{{ source.title }}</a>
   </p>
 
-  <div class="ad">広告スペース(AdSense等のコードに差し替え)</div>
+  <div class="ad">{{ t.ad }} 1</div>
 
   <section class="summary"><p>{{ art.summary }}</p></section>
 
-  <h2>ここがポイント</h2>
+  <h2>{{ t.points }}</h2>
   <ul class="points">
     {% for p in art.points %}<li>{{ p }}</li>{% endfor %}
   </ul>
 
-  <h2>コメント</h2>
+  <h2>{{ t.comments }}</h2>
   <section class="comments">
     {% for c in art.comments %}
     <div class="comment">
-      <b>{{ loop.index }}: つぶやき</b>
+      <b>{{ loop.index }}: {{ t.commenter }}</b>
       <p>{{ c }}</p>
     </div>
-    {% if loop.index == 10 %}<div class="ad">広告スペース(記事中)</div>{% endif %}
+    {% if loop.index == 10 %}<div class="ad">{{ t.ad }} 2</div>{% endif %}
     {% endfor %}
   </section>
 
-  <div class="ad">広告スペース(記事下・アフィリエイト枠)</div>
+  <div class="ad">{{ t.ad }} 3</div>
 
   {% if related %}
-  <h2>関連記事</h2>
+  <h2>{{ t.related }}</h2>
   <ul class="related">
     {% for r in related %}<li><a href="{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}
   </ul>
   {% endif %}
 
-  <p><a href="index.html">← 記事一覧へ戻る</a></p>
+  <p><a href="index.html">{{ t.back }}</a></p>
 </article>
 {% endblock %}
