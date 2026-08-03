@@ -41,6 +41,8 @@ RSS_FEEDS = [
 # 話題性フィルタに渡す候補の上限(多いほど選択肢が増えるがプロンプトが長くなる)
 CANDIDATE_POOL = 60
 
+SITE_BASE_URL = "https://kengawao.github.io/aic-sokuho/"
+
 MOCK_MODE = not os.environ.get("ANTHROPIC_API_KEY")
 
 PROMPT = """あなたはまとめサイトの編集者です。以下のニュースを題材に記事を作成してください。
@@ -117,6 +119,7 @@ def select_buzzworthy(candidates, limit=DAILY_LIMIT):
 - 感情を動かす話題(驚き・怒り・共感・不安)
 - 芸能人・著名人、お金、健康、事件・事故など大衆的関心の高い分野
 - 同じ話題・同じジャンルばかりに偏らず、バランスを取ること
+- 同一の出来事を扱う記事が複数ある場合は、最も情報量が多そうな1本だけを選ぶこと
 
 {listing}
 
@@ -215,6 +218,20 @@ def render_site(con, env):
     ]
     html = env.get_template("index.html").render(articles=articles)
     (SITE / "index.html").write_text(html, encoding="utf-8")
+
+    # 検索エンジン向けサイトマップ(全記事対象)
+    all_rows = con.execute("SELECT slug, created FROM articles ORDER BY id DESC").fetchall()
+    urls = [f"  <url><loc>{SITE_BASE_URL}</loc></url>"] + [
+        f"  <url><loc>{SITE_BASE_URL}{r[0]}.html</loc><lastmod>{r[1]}</lastmod></url>"
+        for r in all_rows
+    ]
+    sitemap = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+               '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+               + "\n".join(urls) + "\n</urlset>\n")
+    (SITE / "sitemap.xml").write_text(sitemap, encoding="utf-8")
+    (SITE / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\nSitemap: {SITE_BASE_URL}sitemap.xml\n",
+        encoding="utf-8")
 
 
 def main():
