@@ -1,5 +1,13 @@
 {% extends "base.html" %}
 {% block title %}{{ art.catchy_title }} | AIC速報{% endblock %}
+{% block meta %}
+<meta name="description" content="{{ art.summary[:120] }}">
+<meta property="og:title" content="{{ art.catchy_title }}">
+<meta property="og:description" content="{{ art.summary[:120] }}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="AIC速報">
+<meta name="twitter:card" content="summary">
+{% endblock %}
 {% block content %}
 <article class="card">
   <h1>{{ art.catchy_title }}</h1>
@@ -29,6 +37,13 @@
   </section>
 
   <div class="ad">広告スペース(記事下・アフィリエイト枠)</div>
+
+  {% if related %}
+  <h2>関連記事</h2>
+  <ul class="related">
+    {% for r in related %}<li><a href="{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}
+  </ul>
+  {% endif %}
 
   <p><a href="index.html">← 記事一覧へ戻る</a></p>
 </article>

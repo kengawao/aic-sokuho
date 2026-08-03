@@ -32,8 +32,14 @@ RSS_FEEDS = [
     "https://news.yahoo.co.jp/rss/topics/domestic.xml",
     "https://news.yahoo.co.jp/rss/topics/entertainment.xml",
     "https://news.yahoo.co.jp/rss/topics/it.xml",
+    "https://news.yahoo.co.jp/rss/topics/business.xml",
+    "https://news.yahoo.co.jp/rss/topics/sports.xml",
+    "https://news.yahoo.co.jp/rss/topics/world.xml",
     "https://www.nhk.or.jp/rss/news/cat0.xml",
 ]
+
+# 話題性フィルタに渡す候補の上限(多いほど選択肢が増えるがプロンプトが長くなる)
+CANDIDATE_POOL = 60
 
 MOCK_MODE = not os.environ.get("ANTHROPIC_API_KEY")
 
@@ -46,7 +52,7 @@ RSS概要: {summary}
 
 以下のJSON形式のみで出力してください:
 {{
-  "catchy_title": "クリックしたくなる記事タイトル(煽りすぎず、事実に反しない範囲で)",
+  "catchy_title": "クリックしたくなる記事タイトル。次の型を状況に応じて使う: 具体的な数字を入れる/「なぜ」「どうなる?」等の疑問形/意外性の対比(〜のはずが〜)/読者への問いかけ。ただし事実に反する誇張・釣りは禁止",
   "category": "国内/経済/エンタメ/スポーツ/IT/国際 のいずれか",
   "summary": "ニュースの内容を自分の言葉で書いた200字程度の要約(原文のコピー禁止)",
   "points": ["論点1", "論点2", "論点3"],
@@ -76,7 +82,7 @@ def init_db():
     return con
 
 
-def fetch_candidates(con, limit=DAILY_LIMIT):
+def fetch_candidates(con, limit=CANDIDATE_POOL):
     """RSSから未処理のニュースを収集する。"""
     items, seen = [], set()
     for feed_url in RSS_FEEDS:
@@ -94,6 +100,47 @@ def fetch_candidates(con, limit=DAILY_LIMIT):
                 "summary": re.sub(r"<[^>]+>", "", getattr(e, "summary", "")),
             })
     return items[:limit]
+
+
+def select_buzzworthy(candidates, limit=DAILY_LIMIT):
+    """候補の中から閲覧数が期待できるニュースをClaudeに選別させる。"""
+    if len(candidates) <= limit or MOCK_MODE:
+        return candidates[:limit]
+    import anthropic
+
+    listing = "\n".join(f"{i}: {c['title']}" for i, c in enumerate(candidates))
+    prompt = f"""あなたはまとめサイトの編集長です。以下のニュース一覧から、
+まとめサイトで最も閲覧数(クリック)が期待できる{limit}本を選んでください。
+
+選定基準:
+- 賛否が分かれ、コメント欄の議論が盛り上がりそうな話題
+- 感情を動かす話題(驚き・怒り・共感・不安)
+- 芸能人・著名人、お金、健康、事件・事故など大衆的関心の高い分野
+- 同じ話題・同じジャンルばかりに偏らず、バランスを取ること
+
+{listing}
+
+選んだ{limit}本の番号だけをJSON配列で出力してください。例: [3, 15, 27]"""
+    try:
+        client = anthropic.Anthropic()
+        msg = client.messages.create(
+            model=MODEL, max_tokens=200,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        text = msg.content[0].text
+        idx = json.loads(text[text.find("["):text.rfind("]") + 1])
+        picked = [candidates[i] for i in idx
+                  if isinstance(i, int) and 0 <= i < len(candidates)]
+        # 不足分は取得順で補完
+        for c in candidates:
+            if len(picked) >= limit:
+                break
+            if c not in picked:
+                picked.append(c)
+        return picked[:limit]
+    except Exception as ex:
+        print(f"話題性フィルタに失敗、取得順で継続: {ex}", file=sys.stderr)
+        return candidates[:limit]
 
 
 def load_focus_hint():
@@ -186,6 +233,8 @@ def main():
         print("新規ニュースがありません")
         render_site(con, env)
         return
+    print(f"候補 {len(candidates)} 本から選別中...")
+    candidates = select_buzzworthy(candidates)
 
     # 同日に複数回実行しても既存記事を上書きしないよう、連番は既存数から続ける
     seq = con.execute(
@@ -202,8 +251,15 @@ def main():
             continue
         slug = f"{today}-{seq}"
         seq += 1
+        # 回遊率向上のため、同カテゴリの直近記事を関連記事として表示
+        related = [
+            {"slug": r[0], "title": r[1]}
+            for r in con.execute(
+                "SELECT slug, title FROM articles WHERE category=? "
+                "ORDER BY id DESC LIMIT 5", (art["category"],)).fetchall()
+        ]
         html = env.get_template("article.html").render(
-            art=art, source=news, date=today)
+            art=art, source=news, date=today, related=related)
         (SITE / f"{slug}.html").write_text(html, encoding="utf-8")
         con.execute(
             "INSERT INTO articles(url,title,category,created,slug) VALUES(?,?,?,?,?)",
