@@ -318,7 +318,7 @@
 </head>
 <body>
 <header>
-  <a href="index.html">🚀 AIC通信</a>
+  <a href="index.html" style="display:flex;align-items:center;gap:10px;"><svg width="26" height="26" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>AIC通信</a>
   {% if alt_url %}
   <a class="langswitch" href="{{ alt_url }}"
      onclick="try{localStorage.setItem('aic_lang','{{ 'en' if lang == 'ja' else 'ja' }}')}catch(e){}">{{ t.switch }}</a>
@@ -326,7 +326,7 @@
 </header>
 <main>{% block content %}{% endblock %}</main>
 <footer>
-  {% if lang == "ja" %}<p><a href="links.html">🔗 リンク集・相互リンク募集</a></p>{% endif %}
+  {% if lang == "ja" %}<p><a href="links.html">リンク集・相互リンク募集</a></p>{% endif %}
   <p class="disclosure-small">{{ t.footer_copy }}</p>
   <p class="disclosure-tiny">{{ t.footer_ai }}</p>
 </footer>

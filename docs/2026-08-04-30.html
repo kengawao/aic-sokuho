@@ -36,45 +36,297 @@
   }
 })();
 </script>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="AIC通信 RSS" href="https://kengawao.github.io/aic-sokuho/rss.xml">
 <style>
-  :root { --accent: #2b6cb0; --bg: #f7f8fa; --card: #fff; --text: #222; }
-  * { box-sizing: border-box; }
-  body { margin: 0; font-family: "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
-         background: var(--bg); color: var(--text); line-height: 1.7; }
-  header { background: var(--accent); color: #fff; padding: 14px 16px;
-           display: flex; justify-content: space-between; align-items: center; }
-  header a { color: #fff; text-decoration: none; font-weight: bold; font-size: 1.2em; }
-  header a.langswitch { font-size: .85em; font-weight: normal;
-           border: 1px solid rgba(255,255,255,.6); border-radius: 4px; padding: 2px 10px; }
-  main { max-width: 760px; margin: 0 auto; padding: 16px; }
-  .card { background: var(--card); border-radius: 8px; padding: 16px 20px;
-          margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
-  .meta { color: #666; font-size: .85em; }
-  .cat { display: inline-block; background: var(--accent); color: #fff;
-         border-radius: 4px; padding: 1px 8px; font-size: .8em; margin-right: 8px; }
-  .comment { border-bottom: 1px solid #eee; padding: 10px 0; }
-  .comment b { color: #228822; font-size: .9em; }
-  .disclosure-small { font-size: 8pt; color: #999; margin: 4px 0; }
-  .disclosure-tiny { font-size: 6pt; color: #aaa; margin: 4px 0; }
-  .comment p { margin: 4px 0 0; }
-  .ad { background: #eee; color: #999; text-align: center; padding: 20px 0;
-        margin: 16px 0; border-radius: 6px; font-size: .85em; }
-  .ad-label { font-size: .75em; color: #aaa; margin-bottom: 6px; }
-  footer { text-align: center; color: #888; font-size: .8em; padding: 24px 0; }
-  h1 { font-size: 1.4em; line-height: 1.4; }
-  ul.points li { margin-bottom: 4px; }
-  ul.related li { margin-bottom: 4px; }
-  .index-item a { text-decoration: none; color: var(--text); font-weight: bold; }
-  .index-item a:hover { color: var(--accent); }
-  .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
-  .tab { border: 1px solid var(--accent); background: var(--card); color: var(--accent);
-         border-radius: 16px; padding: 4px 14px; font-size: .85em; cursor: pointer; }
-  .tab.active { background: var(--accent); color: #fff; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --primary: #2563eb;
+    --secondary: #1e40af;
+    --accent: #f59e0b;
+    --bg-dark: #0f172a;
+    --bg-light: #f8fafc;
+    --card: #ffffff;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --danger: #ef4444;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-dark: #0f172a;
+      --bg-light: #1e293b;
+      --card: #1e293b;
+      --text-main: #f1f5f9;
+      --text-muted: #cbd5e1;
+      --border: #334155;
+    }
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: linear-gradient(135deg, var(--bg-light) 0%, #f0f9ff 100%);
+    color: var(--text-main);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); }
+  }
+
+  header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 10px 30px rgba(37, 99, 235, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+  }
+  header a { text-decoration: none; color: white; }
+  header a[href="index.html"] {
+    font-size: 1.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -1px;
+  }
+  header a.langswitch {
+    font-size: 0.95em;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding: 6px 16px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+  }
+  header a.langswitch:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
+  }
+
+  main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    animation: fadeIn 0.5s ease;
+  }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+  .card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--border);
+  }
+  .card:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+  .card.hero {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  .card.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .card.hero p { font-size: 1.1em; opacity: 0.95; }
+
+  .meta {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+  }
+
+  .cat {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-right: 8px;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+  }
+
+  h1 {
+    font-size: 1.8em;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+  h2 {
+    font-size: 1.4em;
+    margin: 1.5rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--accent);
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+
+  .comment {
+    border-left: 4px solid var(--primary);
+    padding: 0.75rem 0 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: rgba(37, 99, 235, 0.05);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+  .comment:hover { background: rgba(37, 99, 235, 0.08); }
+  .comment b {
+    color: var(--primary);
+    font-size: 0.95em;
+  }
+  .comment p { margin: 0.25rem 0 0; }
+
+  .ad {
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.1) 0%, rgba(245, 158, 11, 0.05) 100%);
+    border: 2px dashed var(--accent);
+    color: var(--text-muted);
+    text-align: center;
+    padding: 2rem;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    font-size: 0.9em;
+  }
+  .ad-label {
+    font-size: 0.8em;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  footer {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    padding: 3rem 1.5rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+  footer a { color: var(--primary); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  ul.points, ul.related {
+    list-style: none;
+    margin: 1rem 0;
+  }
+  ul.points li, ul.related li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+  }
+  ul.points li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--success);
+    font-weight: bold;
+  }
+  ul.related li:before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+    font-weight: bold;
+  }
+  ul.related li a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  ul.related li a:hover {
+    color: var(--secondary);
+    text-decoration: underline;
+    padding-left: 0.5rem;
+  }
+
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .tab {
+    border: 2px solid var(--border);
+    background: var(--card);
+    color: var(--text-main);
+    border-radius: 24px;
+    padding: 6px 16px;
+    font-size: 0.95em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .tab:hover {
+    border-color: var(--primary);
+    background: rgba(37, 99, 235, 0.05);
+  }
+  .tab.active {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  }
+
+  .index-item a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+  .index-item a:hover { color: var(--primary); }
+
+  .disclosure-small {
+    font-size: 8pt;
+    color: var(--text-muted);
+    margin: 0.75rem 0;
+  }
+  .disclosure-tiny {
+    font-size: 6pt;
+    color: #aaa;
+    margin: 0.5rem 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    .disclosure-tiny { color: #666; }
+  }
+
+  article p { margin-bottom: 1rem; }
+
+  /* モバイル対応 */
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1rem;
+    }
+    main { margin: 1rem auto; padding: 0 1rem; }
+    .card { padding: 1.5rem; }
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.2em; }
+    .card.hero { padding: 2rem 1rem; }
+    .card.hero h1 { font-size: 1.8em; }
+  }
 </style>
 </head>
 <body>
 <header>
-  <a href="index.html">AIC通信</a>
+  <a href="index.html" style="display:flex;align-items:center;gap:10px;"><svg width="26" height="26" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>AIC通信</a>
   
   <a class="langswitch" href="en/2026-08-04-30.html"
      onclick="try{localStorage.setItem('aic_lang','en')}catch(e){}">English</a>
