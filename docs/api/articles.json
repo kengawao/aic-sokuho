@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 83,
+ "count": 104,
  "articles": [
+  {
+   "slug": "2026-08-05-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-20.html",
+   "title": "金メダリスト高木美帆さんの記念品が包丁10本？ なぜこんなことに…",
+   "title_en": "Why Did Olympic Gold Medalist Takagi Miho Receive 10 Kitchen Knives?",
+   "category": "コラム",
+   "published": "2026-08-05",
+   "summary": "スピードスケート選手の高木美帆さんが、オリンピックでの活躍を称えて贈られた記念品が包丁10本だったというユニークなニュース。一体どういう経緯でこのような記念品が選ばれたのか、その背景には意外な理由が隠れているかもしれません。"
+  },
+  {
+   "slug": "2026-08-05-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-19.html",
+   "title": "三菱重工が「SMR」開発に本腰　小型原子炉は原発問題の救世主になるのか",
+   "title_en": "Mitsubishi Heavy Industries Pushes Forward with SMR Development: Can Small Reactors Solve Japan's Energy Crisis?",
+   "category": "経済",
+   "published": "2026-08-05",
+   "summary": "政府が原子力活用を強化する方針の下、三菱重工業が次世代型小型原子炉「SMR（小型モジュール炉）」の国内実用化に向けた本格開発を開始する。従来型より安全性と経済性に優れるとされ、地方の電力供給や産業用途での活用が期待されている。エネルギー自給率向上と脱炭素化の両立を目指す日本の戦略の一環。"
+  },
+  {
+   "slug": "2026-08-05-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-18.html",
+   "title": "ロッテ・益田直也が250セーブ達成、日本プロ野球史上何番目の快挙？",
+   "title_en": "Lotte's Masuda Achieves 250 Saves Milestone—Where Does This Rank in NPB History?",
+   "category": "スポーツ",
+   "published": "2026-08-05",
+   "summary": "千葉ロッテマリーンズのベテランリリーフ投手・益田直也が、プロ野球通算250セーブを達成した。この偉業は日本野球史において極めて稀な記録であり、長年の第一線での活躍が認められた形となった。安定感のあるピッチングで何度も試合の終盤を任され、チームの勝利に大きく貢献してきた益田の継続的な活動が評価されている。"
+  },
+  {
+   "slug": "2026-08-05-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-17.html",
+   "title": "九州道、8月後半ついに通行可能に　一体何が起きていたのか？",
+   "title_en": "Kyushu Expressway to Reopen by Late August: What's Been Going On?",
+   "category": "国内",
+   "published": "2026-08-05",
+   "summary": "九州道で大規模な工事または被害が発生していたとみられ、通行が制限されていた状況が8月後半までに解消される見通しが示された。具体的な原因や区間については報道されているが、多くのドライバーや物流業者に影響を与えていたこの状況が解決に向かうことで、地域の経済活動の正常化が期待されている。"
+  },
+  {
+   "slug": "2026-08-05-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-16.html",
+   "title": "ドコモが銀行業参入、NTTグループの金融戦略はどこまで広がる?",
+   "title_en": "NTT Docomo Enters Banking: How Far Will the Telecom Giant's Financial Ambitions Reach?",
+   "category": "経済",
+   "published": "2026-08-05",
+   "summary": "NTTドコモが銀行業に参入し、新たな金融サービスを開始した。携帯キャリアとしての顧客基盤と決済網を活かし、従来の銀行にはない利便性を提供することが狙い。金融業界における異業種参入の加速と、既存銀行との競争構図の変化が注目される動きとなっている。"
+  },
+  {
+   "slug": "2026-08-05-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-15.html",
+   "title": "ヤーレンズが武道館単独公演決定、ニッチ音楽シーンからの躍進が止まらない",
+   "title_en": "Ya-Renz Breaks Through: Niche Band Secures Legendary Budokan Solo Performance",
+   "category": "エンタメ",
+   "published": "2026-08-05",
+   "summary": "音楽グループ・ヤーレンズが日本武道館での単独公演開催を発表した。ニッチな音楽ジャンルのアーティストが武道館という大規模会場でのイベントを実現するのは業界内でも注目度が高く、アンダーグラウンドからメインストリームへの成功事例として語られている。ファンの間でも大きな話題になっている。"
+  },
+  {
+   "slug": "2026-08-05-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-14.html",
+   "title": "新首相バーナムの初外交はゼレンスキーとの海軍基地訪問　英国のウクライナ支援姿勢を鮮明に",
+   "title_en": "UK's New PM Barnum Hosts Zelenskyy at Naval Base: First Foreign Visit Signals Strong Ukraine Support",
+   "category": "国際",
+   "published": "2026-08-05",
+   "summary": "ウクライナのゼレンスキー大統領がイギリスを訪問し、新首相アンディ・バーナム氏と共にポーツマスの海軍基地を視察した。バーナム政権発足後、外国首脳の訪英は初めてとなる。この訪問を通じて、英国の継続的なウクライナ支援と両国の連携強化が示された。"
+  },
+  {
+   "slug": "2026-08-05-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-13.html",
+   "title": "米国がイランに「大規模攻撃」を開始　報復の応酬で中東情勢がさらに悪化か",
+   "title_en": "US Launches 'Large-Scale' Attack on Iran in Escalating Middle East Conflict",
+   "category": "国際",
+   "published": "2026-08-05",
+   "summary": "アメリカ中央軍は29日、イランによる弾道ミサイル攻撃への報復として、イランに対する「大規模な」攻撃を実施したと発表した。これに先立つ28日には、米国とサウジアラビアがイラク内のイラン系勢力の拠点を共同で攻撃。報復の連鎖が続いており、中東地域の緊張がさらに高まっている状況だ。"
+  },
+  {
+   "slug": "2026-08-05-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-12.html",
+   "title": "「14座制覇の登山家」ニルマル・プルジャさん、ブロードピークの雪崩で遺体発見",
+   "title_en": "Renowned Mountaineer Nirmal Purja Found Dead After Avalanche on Broad Peak",
+   "category": "国際",
+   "published": "2026-08-05",
+   "summary": "ネパール出身の著名登山家ニルマル・プルジャさん（43）がパキスタンのブロードピークで雪崩に遭い、遺体で発見された。イギリスを拠点に活動していた彼は、世界的に知られた登山家で、多くの高峰制覇の記録を持つ。救助隊が2日に遺体を確認し、発表した。"
+  },
+  {
+   "slug": "2026-08-05-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-11.html",
+   "title": "ロシアの観光地ビーチでドローン攻撃、子ども3人含む7人死亡",
+   "title_en": "Drone Strike on Russian Beach Kills 7, Including 3 Children",
+   "category": "国際",
+   "published": "2026-08-05",
+   "summary": "ロシア南部の混雑したビーチでウクライナのドローンによる攻撃が発生し、子ども3人を含む7人が殺害された。地元当局の発表によると40人以上が負傷。戦闘地域から離れた観光地での民間人被害は、紛争の深刻化を示唆している。"
+  },
+  {
+   "slug": "2026-08-05-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-10.html",
+   "title": "FIFA会長が孤立状態に…欧州が強硬姿勢を貫く理由とは",
+   "title_en": "FIFA President Isolated as Europe Takes Hard Line—What's Really Going On?",
+   "category": "国際",
+   "published": "2026-08-05",
+   "summary": "FIFA会長が国際的な孤立状況に直面している。特に欧州のサッカー連盟が強硬な態度を取り続けており、会長の指導力に対する信頼が揺らいでいる。背景には組織内の利権問題や意思決定プロセスをめぐる対立があり、欧州勢がFIFAの改革を強く求めている状況が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-05-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-9.html",
+   "title": "23歳・桑木志帆がメジャー制覇、プレーオフで運命の分かれ道　相手選手を襲った\"不運\"とは",
+   "title_en": "Japanese Golfer Kuwaki Claims Historic Major Victory; German Rival Faces Unlikely Misfortune in Playoff",
+   "category": "スポーツ",
+   "published": "2026-08-05",
+   "summary": "ゴルフのメジャー大会AIG全英女子オープンで、日本の桑木志帆選手が23歳で初優勝を果たした。最終ラウンド後のプレーオフで優勝を争ったドイツのエスター・ヘンゼライト選手が、打ったボールが運営スタッフに当たるという極めてまれな事象に見舞われ、その結果が優勝の行方を左右する展開となった。"
+  },
+  {
+   "slug": "2026-08-05-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-8.html",
+   "title": "40年ぶりの円安を止めるため、日米が13年ぶりに手を組んだ理由",
+   "title_en": "Japan and US Team Up to Combat Historic Yen Weakness for First Time in 13 Years",
+   "category": "経済",
+   "published": "2026-08-05",
+   "summary": "日本とアメリカが7月31日、共同で円買いの為替介入を実施したことが3日に発表された。円が40年ぶりの安値を更新するのを阻止するためで、日米の協調介入は2011年以来13年ぶり。片山財務相は「今後さらなる協調介入も躊躇しない」とのコメントを発表。円相場の急速な下落に対応する日本の危機感が伺える。"
+  },
+  {
+   "slug": "2026-08-05-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-7.html",
+   "title": "夏の甲子園、今年も夕方開幕へ 猛暑対策で「2部制」を拡大、選手たちを襲う気温との戦いは続く",
+   "title_en": "Summer Koshien Kicks Off with Evening Ceremony: Heat Countermeasures Expanded as High School Baseball Battles Rising Temperatures",
+   "category": "スポーツ",
+   "published": "2026-08-05",
+   "summary": "5日に甲子園球場で開幕する夏の全国高校野球選手権。昨年に続き開会式を夕方に実施するなど、厳しい暑さへの対策を強化する。気温が上がりやすい日中時間帯の試合を減らす「2部制」日程も拡大される予定で、選手たちの健康と安全を最優先とした運営が展開される。"
+  },
+  {
+   "slug": "2026-08-05-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-6.html",
+   "title": "延長12回のサヨナラ被弾…巨人、痛恨の逆転負け。なぜここまで?",
+   "title_en": "Giants Lose in Heartbreaking Fashion: Extra Inning Walk-Off Home Run in 12th",
+   "category": "スポーツ",
+   "published": "2026-08-05",
+   "summary": "読売ジャイアンツが延長12回裏に相手チームにサヨナラ本塁打を浴びて敗戦。試合終盤まで優位に進めていたと見られるが、最後の最後で同点に追いつかれ、延長まで持ち込まれた末の逆転負けとなった。シーズンの重要な局面での痛い落とし所となった。"
+  },
+  {
+   "slug": "2026-08-05-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-5.html",
+   "title": "オンワード樫山で3人死亡、経営層の『指導不徹底』が招いた悲劇",
+   "title_en": "Onward Kashiyama's Tragic Deaths Expose Management's Failure to Enforce Safety Standards",
+   "category": "経済",
+   "published": "2026-08-05",
+   "summary": "大手アパレルメーカーのオンワード樫山で労働環境に関連する問題により3人の死亡事例が判明。調査の結果、経営層による適切な指導と安全管理体制が不十分だったことが明らかになった。企業の労働環境改善と責任体制の強化が急務となっている。"
+  },
+  {
+   "slug": "2026-08-05-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-4.html",
+   "title": "我が家・杉山、入院の病名ついに公表 ファンに心配かけた理由とは",
+   "title_en": "Wagaya's Sugiyama Reveals Hospital Diagnosis: What Fans Need to Know",
+   "category": "エンタメ",
+   "published": "2026-08-05",
+   "summary": "お笑いコンビ「我が家」のメンバーである杉山が入院していたことについて、病名を公表した。詳細は不明だが、既に回復に向かっているとみられる。杉山の入院についてはSNSでも話題となっており、ファンからは心配の声が上がっていた。今回の病名公表により、ファンの関心がさらに高まっている。"
+  },
+  {
+   "slug": "2026-08-05-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-3.html",
+   "title": "台風13号、週末に沖縄直撃か…今から準備すべきことは？",
+   "title_en": "Typhoon No. 13 Set to Batter Okinawa This Weekend—What Should You Prepare?",
+   "category": "国内",
+   "published": "2026-08-05",
+   "summary": "台風13号が週末に沖縄地方への直撃が予想されている。気象庁の最新の進路予報によると、土日の沖縄は暴風雨となる可能性が高く、交通機関の乱れや停電のリスクが指摘されている。沖縄県民および渡航予定者は事前の準備や最新情報の確認が求められている。"
+  },
+  {
+   "slug": "2026-08-05-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-2.html",
+   "title": "消費減税の財源はどこから？自民幹事長が野党に詰め寄る",
+   "title_en": "Where's the Money? LDP Demands Clear Funding Plan for Consumption Tax Cut",
+   "category": "経済",
+   "published": "2026-08-05",
+   "summary": "自民党の幹事長が消費減税の実現を掲げる野党に対し、その財源を具体的に示すよう求めた。減税による税収減の補填方法が明確でないままの政策提案では国民の信頼を得られないと指摘。今後の財政政策をめぐる与野党の対立が本格化する見通しだ。"
+  },
+  {
+   "slug": "2026-08-05-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-1.html",
+   "title": "刃物男に警官が発砲、現場で死亡 警察の判断は正当だったのか",
+   "title_en": "Police Officer Shoots Armed Man Dead: Was the Use of Force Justified?",
+   "category": "国内",
+   "published": "2026-08-05",
+   "summary": "刃物を所持していた男が警察官に取り押さえられる際に、警官が発砲し男が死亡する事件が発生した。警察は正当防衛と主張しているが、このような重武装警察官による対応が適切だったかについて、市民からは議論の声も上がっている。事件の詳細と背景について検証する。"
+  },
+  {
+   "slug": "2026-08-05-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-05-0.html",
+   "title": "熊本地震から1週間、避難所に7500人超が生活…今後の支援体制はどうなる?",
+   "title_en": "One Week After Kumamoto Earthquake: Over 7,500 Still in Shelters—What's Next for Relief Efforts?",
+   "category": "国内",
+   "published": "2026-08-05",
+   "summary": "熊本地震の発生から1週間が経過し、依然として7500人を超える被災者が避難所での生活を余儀なくされている。電気やガス、水道などのライフラインの復旧が進む一方で、避難所での衛生管理や健康管理が課題となっている。自治体と支援団体は、被災者の生活環境改善に向けた取り組みを加速させている。"
+  },
   {
    "slug": "2026-08-04-31",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-31.html",
