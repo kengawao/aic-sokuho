@@ -34,7 +34,7 @@ COMMENTS_PER_ARTICLE = 30
 MODEL = "claude-haiku-4-5-20251001"
 
 # 話題性フィルタに渡す候補の上限(多いほど選択肢が増えるがプロンプトが長くなる)
-CANDIDATE_POOL = 60
+CANDIDATE_POOL = 80
 
 SITE_BASE_URL = "https://kengawao.github.io/aic-sokuho/"
 
@@ -47,7 +47,14 @@ RSS_FEEDS = [
     "https://news.yahoo.co.jp/rss/topics/sports.xml",
     "https://news.yahoo.co.jp/rss/topics/world.xml",
     "https://www.nhk.or.jp/rss/news/cat0.xml",
+    # 国際ニュース強化用(取得失敗しても他フィードで継続する)
+    "https://feeds.bbci.co.uk/japanese/rss.xml",
+    "https://www.cnn.co.jp/rss/cnn/cnn.rdf",
+    "https://www.afpbb.com/rss/afpbb/afpbbnews.rdf",
 ]
+
+INTL_LIMIT = 5   # 国際記事の追加本数
+NICHE_LIMIT = 5  # ニッチ記事の追加本数
 
 MOCK_MODE = not os.environ.get("ANTHROPIC_API_KEY")
 
@@ -179,53 +186,82 @@ def _extract_json(text):
     return json.loads(text[start:end])
 
 
-def select_buzzworthy(candidates, limit=DAILY_LIMIT):
-    """閲覧数が期待できるニュースlimit本+面白ネタ1本をClaudeに選別させる。"""
+def select_articles(candidates, limit=DAILY_LIMIT):
+    """本命limit本+国際5本+ニッチ5本+面白ネタ1本をClaudeに選別させる。
+
+    戻り値: {"main": [...], "intl": [...], "niche": [...], "fun": news or None}
+    """
     if MOCK_MODE or len(candidates) <= limit:
-        main = candidates[:limit]
-        fun = candidates[limit] if len(candidates) > limit else None
-        return main, fun
+        return {
+            "main": candidates[:limit],
+            "intl": candidates[limit:limit + INTL_LIMIT],
+            "niche": candidates[limit + INTL_LIMIT:limit + INTL_LIMIT + NICHE_LIMIT],
+            "fun": (candidates[limit + INTL_LIMIT + NICHE_LIMIT]
+                    if len(candidates) > limit + INTL_LIMIT + NICHE_LIMIT else None),
+        }
     import anthropic
 
     listing = "\n".join(f"{i}: {c['title']}" for i, c in enumerate(candidates))
-    prompt = f"""あなたはまとめサイトの編集長です。以下のニュース一覧から選定してください。
+    prompt = f"""あなたはまとめサイトの編集長です。以下のニュース一覧から4種類の枠を選定してください。
+各枠に同じ番号を重複して入れてはいけません。
 
-(1) まとめサイトで最も閲覧数(クリック)が期待できる{limit}本 = "main"
-選定基準:
+(1) "main": まとめサイトで最も閲覧数(クリック)が期待できる{limit}本
 - 賛否が分かれ、コメント欄の議論が盛り上がりそうな話題
 - 感情を動かす話題(驚き・怒り・共感・不安)
 - 芸能人・著名人、お金、健康、事件・事故など大衆的関心の高い分野
 - 同じ話題・同じジャンルばかりに偏らず、バランスを取ること
 - 同一の出来事を扱う記事が複数ある場合は、最も情報量が多そうな1本だけを選ぶこと
 
-(2) 思わず笑える・ほっこりする・変わったニュース1本 = "fun"(mainとは別のもの)
+(2) "intl": 海外の出来事・国際情勢のニュース{INTL_LIMIT}本
+- 日本の読者にも興味を持たれやすい国際的な話題を優先
+
+(3) "niche": 大衆向けではないが特定の層に強く刺さるニッチな話題{NICHE_LIMIT}本
+- ジャンル不問(マニアックな技術・業界内ニュース・地方の話題・専門分野など)
+- 検索で調べる人が確実にいそうなもの
+
+(4) "fun": 思わず笑える・ほっこりする・変わったニュース1本
 
 {listing}
 
-JSONのみ出力: {{"main": [番号, ...], "fun": 番号}}
-funに適した候補が無い場合は "fun": null"""
+JSONのみ出力: {{"main": [番号, ...], "intl": [番号, ...], "niche": [番号, ...], "fun": 番号}}
+適した候補が無い枠は空配列または null"""
     try:
         client = anthropic.Anthropic()
         msg = client.messages.create(
-            model=MODEL, max_tokens=300,
+            model=MODEL, max_tokens=500,
             messages=[{"role": "user", "content": prompt}],
         )
         data = _extract_json(msg.content[0].text)
-        picked = [candidates[i] for i in data.get("main", [])
-                  if isinstance(i, int) and 0 <= i < len(candidates)]
-        for c in candidates:
-            if len(picked) >= limit:
+        used = set()
+
+        def take(key, n):
+            out = []
+            for i in data.get(key) or []:
+                if isinstance(i, int) and 0 <= i < len(candidates) and i not in used:
+                    used.add(i)
+                    out.append(candidates[i])
+                if len(out) >= n:
+                    break
+            return out
+
+        main = take("main", limit)
+        # mainの不足分は取得順で補完
+        for i, c in enumerate(candidates):
+            if len(main) >= limit:
                 break
-            if c not in picked:
-                picked.append(c)
+            if i not in used:
+                used.add(i)
+                main.append(c)
+        intl = take("intl", INTL_LIMIT)
+        niche = take("niche", NICHE_LIMIT)
         fun = None
         fi = data.get("fun")
-        if isinstance(fi, int) and 0 <= fi < len(candidates) and candidates[fi] not in picked:
+        if isinstance(fi, int) and 0 <= fi < len(candidates) and fi not in used:
             fun = candidates[fi]
-        return picked[:limit], fun
+        return {"main": main, "intl": intl, "niche": niche, "fun": fun}
     except Exception as ex:
         print(f"話題性フィルタに失敗、取得順で継続: {ex}", file=sys.stderr)
-        return candidates[:limit], None
+        return {"main": candidates[:limit], "intl": [], "niche": [], "fun": None}
 
 
 def select_fun_only(candidates):
@@ -391,6 +427,18 @@ def render_site(con, env):
                       alt_url="../index.html", cats=cats_en)
     (SITE / "en" / "index.html").write_text(html, encoding="utf-8")
 
+    # リンク集ページ(相互リンクは links.json に {"name","url","desc"} で追加)
+    links_file = BASE / "links.json"
+    links = []
+    if links_file.exists():
+        try:
+            links = json.loads(links_file.read_text(encoding="utf-8"))
+        except Exception as ex:
+            print(f"links.json 読み込み失敗: {ex}", file=sys.stderr)
+    html = env.get_template("links.html").render(
+        links=links, t=T["ja"], lang="ja", alt_url=None)
+    (SITE / "links.html").write_text(html, encoding="utf-8")
+
     # 検索エンジン向けサイトマップ(全記事対象)
     all_rows = con.execute(
         "SELECT slug, created, has_en FROM articles ORDER BY id DESC").fetchall()
@@ -456,12 +504,17 @@ def main():
             render_site(con, env)
             return
         print(f"候補 {len(candidates)} 本から選別中...")
-        main_news, fun_news = select_buzzworthy(candidates)
+        sel = select_articles(candidates)
         focus_hint = load_focus_hint()
         plan = [(n, False, focus_hint if i == 0 else "")
-                for i, n in enumerate(main_news)]
-        if fun_news:
-            plan.append((fun_news, True, ""))
+                for i, n in enumerate(sel["main"])]
+        plan += [(n, False, "この記事は国際ニュース枠です。categoryは必ず「国際」にすること。")
+                 for n in sel["intl"]]
+        plan += [(n, False, "この記事はニッチ枠です。その分野に詳しい読者にも読み応えが"
+                            "あるよう、要約と論点は具体的に書くこと。")
+                 for n in sel["niche"]]
+        if sel["fun"]:
+            plan.append((sel["fun"], True, ""))
 
     seq = next_seq(con, today)
     generated = 0

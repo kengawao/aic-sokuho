@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}リンク集 | AIC速報{% endblock %}
+{% block content %}
+<div class="card">
+  <h1>リンク集</h1>
+  {% if links %}
+  <ul class="related">
+    {% for l in links %}
+    <li><a href="{{ l.url }}" rel="noopener" target="_blank">{{ l.name }}</a>
+      {% if l.desc %} — {{ l.desc }}{% endif %}</li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p>現在リンクを募集しています。</p>
+  {% endif %}
+  <h2>相互リンクについて</h2>
+  <p>当サイトは相互リンクを募集しています。ニュース・まとめ・ブログ系サイトを
+     運営されている方は、貴サイトに当サイトへのリンクを設置のうえ、
+     <a href="https://github.com/kengawao/aic-sokuho/issues" rel="noopener" target="_blank">こちらの連絡フォーム</a>
+     からサイト名・URL・紹介文をお知らせください。確認後に掲載します。</p>
+  <p><a href="index.html">{{ t.back }}</a></p>
+</div>
+{% endblock %}

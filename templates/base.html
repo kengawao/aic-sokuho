@@ -50,8 +50,9 @@
   .disclosure-small { font-size: 8pt; color: #999; margin: 4px 0; }
   .disclosure-tiny { font-size: 6pt; color: #aaa; margin: 4px 0; }
   .comment p { margin: 4px 0 0; }
-  .ad { background: #eee; color: #999; text-align: center; padding: 30px 0;
+  .ad { background: #eee; color: #999; text-align: center; padding: 20px 0;
         margin: 16px 0; border-radius: 6px; font-size: .85em; }
+  .ad-label { font-size: .75em; color: #aaa; margin-bottom: 6px; }
   footer { text-align: center; color: #888; font-size: .8em; padding: 24px 0; }
   h1 { font-size: 1.4em; line-height: 1.4; }
   ul.points li { margin-bottom: 4px; }
@@ -74,6 +75,7 @@
 </header>
 <main>{% block content %}{% endblock %}</main>
 <footer>
+  {% if lang == "ja" %}<p><a href="links.html" style="color:#888;">リンク集・相互リンク募集</a></p>{% endif %}
   <p class="disclosure-small">{{ t.footer_copy }}</p>
   <p class="disclosure-tiny">{{ t.footer_ai }}</p>
 </footer>

@@ -16,7 +16,7 @@
     {{ t.source }}: <a href="{{ source.url }}" rel="nofollow noopener" target="_blank">{{ source.title }}</a>
   </p>
 
-  <div class="ad">{{ t.ad }} 1</div>
+  {% include "ads/top.html" %}
 
   <section class="summary"><p>{{ art.summary }}</p></section>
 
@@ -32,11 +32,11 @@
       <b>{{ loop.index }}: {{ t.commenter }}</b>
       <p>{{ c }}</p>
     </div>
-    {% if loop.index == 10 %}<div class="ad">{{ t.ad }} 2</div>{% endif %}
+    {% if loop.index == 10 %}{% include "ads/mid.html" %}{% endif %}
     {% endfor %}
   </section>
 
-  <div class="ad">{{ t.ad }} 3</div>
+  {% include "ads/bottom.html" %}
 
   {% if related %}
   <h2>{{ t.related }}</h2>

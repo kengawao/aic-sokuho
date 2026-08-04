@@ -5,6 +5,7 @@ __pycache__/
 
 # ローカル専用
 .claude/
+shorts/
 
 # 注意: matome.db と docs/ はコミット対象
 # (matome.db = 重複排除の状態、docs/ = 公開するHTML。
