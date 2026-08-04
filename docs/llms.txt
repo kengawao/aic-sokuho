@@ -1,0 +1,25 @@
+# AIC通信
+
+> 実際の日本のニュース(RSS)を題材に、AIが独自要約と掲示板風コメントを生成して
+> 毎日約20本公開するまとめサイト。日本語・英語の2言語対応。
+> 全記事の要約・コメント・タイトルはAI(Claude)による生成物であり、
+> コメントは実在の人物の発言ではない。
+
+## 機械可読リソース
+
+- [記事一覧JSON API](https://kengawao.github.io/aic-sokuho/api/articles.json): 全記事のメタデータ(タイトル・URL・カテゴリ・日付・要約)
+- [RSSフィード](https://kengawao.github.io/aic-sokuho/rss.xml): 最新50記事
+- [サイトマップ](https://kengawao.github.io/aic-sokuho/sitemap.xml): 全ページURL
+
+## 主要ページ
+
+- [トップページ(日本語)](https://kengawao.github.io/aic-sokuho/)
+- [トップページ(英語)](https://kengawao.github.io/aic-sokuho/en/index.html)
+- [リンク集](https://kengawao.github.io/aic-sokuho/links.html)
+
+## メタ情報
+
+- カテゴリ: 国内, 国際, 経済, エンタメ, スポーツ, IT, コラム
+- 更新頻度: 毎日 6:00 JST(約20本) + 15:00 JST(不定期コラム)
+- 運営形態: 自動生成(Claude API + GitHub Actions)
+- 記事引用時の注意: 要約はAI生成のため、一次情報は各記事内の出典リンクを参照すること

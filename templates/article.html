@@ -1,12 +1,22 @@
-{% extends "base.html" %}
-{% block title %}{{ art.catchy_title }} | AIC速報{% endblock %}
+﻿{% extends "base.html" %}
+{% block title %}{{ art.catchy_title }} | AIC通信{% endblock %}
 {% block meta %}
 <meta name="description" content="{{ art.summary[:120] }}">
 <meta property="og:title" content="{{ art.catchy_title }}">
 <meta property="og:description" content="{{ art.summary[:120] }}">
 <meta property="og:type" content="article">
-<meta property="og:site_name" content="AIC速報">
+<meta property="og:site_name" content="AIC通信">
 <meta name="twitter:card" content="summary">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "NewsArticle",
+ "headline": {{ art.catchy_title|tojson }},
+ "datePublished": "{{ date }}",
+ "description": {{ art.summary[:120]|tojson }},
+ "isBasedOn": {{ source.url|tojson }},
+ "publisher": {"@type": "Organization", "name": "AIC通信"},
+ "author": {"@type": "SoftwareApplication", "name": "Claude (AI)"},
+ "creativeWorkStatus": "AI-generated"}
+</script>
 {% endblock %}
 {% block content %}
 <article class="card">

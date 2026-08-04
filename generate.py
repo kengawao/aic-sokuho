@@ -152,7 +152,8 @@ def init_db():
     )
     # 既存DBへの列追加(初回のみ実行される)
     for ddl in ("ALTER TABLE articles ADD COLUMN has_en INTEGER DEFAULT 0",
-                "ALTER TABLE articles ADD COLUMN title_en TEXT"):
+                "ALTER TABLE articles ADD COLUMN title_en TEXT",
+                "ALTER TABLE articles ADD COLUMN summary TEXT"):
         try:
             con.execute(ddl)
         except sqlite3.OperationalError:
@@ -439,6 +440,9 @@ def render_site(con, env):
         links=links, t=T["ja"], lang="ja", alt_url=None)
     (SITE / "links.html").write_text(html, encoding="utf-8")
 
+    # ---- AI・機械閲覧用ページ群 ----
+    render_machine_readable(con)
+
     # 検索エンジン向けサイトマップ(全記事対象)
     all_rows = con.execute(
         "SELECT slug, created, has_en FROM articles ORDER BY id DESC").fetchall()
@@ -457,6 +461,98 @@ def render_site(con, env):
         encoding="utf-8")
 
 
+def render_machine_readable(con):
+    """AIエージェント・クローラー向けの機械可読ページを生成する。
+
+    - llms.txt: LLM/AIエージェント向けのサイト案内(llmstxt.org準拠)
+    - api/articles.json: 全記事メタデータのJSON API
+    - rss.xml: RSS 2.0フィード(最新50件)
+    """
+    rows = con.execute(
+        "SELECT slug, title, title_en, category, created, has_en, summary "
+        "FROM articles ORDER BY id DESC").fetchall()
+
+    # JSON API
+    (SITE / "api").mkdir(exist_ok=True)
+    items = [{
+        "slug": r[0],
+        "url": f"{SITE_BASE_URL}{r[0]}.html",
+        "url_en": f"{SITE_BASE_URL}en/{r[0]}.html" if r[5] else None,
+        "title": r[1],
+        "title_en": r[2],
+        "category": r[3],
+        "published": r[4],
+        "summary": r[6] or None,
+    } for r in rows]
+    api = {
+        "site": "AIC通信",
+        "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
+        "note": "全記事の要約とコメントはAIによる生成物です",
+        "count": len(items),
+        "articles": items,
+    }
+    (SITE / "api" / "articles.json").write_text(
+        json.dumps(api, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    # RSS 2.0(最新50件)
+    def rfc822(date_str):
+        d = datetime.datetime.strptime(date_str, "%Y-%m-%d")
+        return d.strftime("%a, %d %b %Y 06:00:00 +0900")
+
+    rss_items = []
+    for r in rows[:50]:
+        desc = (r[6] or "").replace("&", "&amp;").replace("<", "&lt;")
+        title = r[1].replace("&", "&amp;").replace("<", "&lt;")
+        rss_items.append(
+            f"  <item>\n"
+            f"    <title>{title}</title>\n"
+            f"    <link>{SITE_BASE_URL}{r[0]}.html</link>\n"
+            f"    <guid>{SITE_BASE_URL}{r[0]}.html</guid>\n"
+            f"    <category>{r[3]}</category>\n"
+            f"    <pubDate>{rfc822(r[4])}</pubDate>\n"
+            f"    <description>{desc}</description>\n"
+            f"  </item>")
+    rss = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+           '<rss version="2.0">\n<channel>\n'
+           '  <title>AIC通信</title>\n'
+           f'  <link>{SITE_BASE_URL}</link>\n'
+           '  <description>実際のニュースにコメンテーターたちが反応するまとめサイト'
+           '(要約・コメントはAI生成)</description>\n'
+           '  <language>ja</language>\n'
+           + "\n".join(rss_items) + "\n</channel>\n</rss>\n")
+    (SITE / "rss.xml").write_text(rss, encoding="utf-8")
+
+    # llms.txt(AIエージェント向けサイト案内)
+    cats = ", ".join(c["key"] for c in CATEGORIES)
+    llms = f"""# AIC通信
+
+> 実際の日本のニュース(RSS)を題材に、AIが独自要約と掲示板風コメントを生成して
+> 毎日約20本公開するまとめサイト。日本語・英語の2言語対応。
+> 全記事の要約・コメント・タイトルはAI(Claude)による生成物であり、
+> コメントは実在の人物の発言ではない。
+
+## 機械可読リソース
+
+- [記事一覧JSON API]({SITE_BASE_URL}api/articles.json): 全記事のメタデータ(タイトル・URL・カテゴリ・日付・要約)
+- [RSSフィード]({SITE_BASE_URL}rss.xml): 最新50記事
+- [サイトマップ]({SITE_BASE_URL}sitemap.xml): 全ページURL
+
+## 主要ページ
+
+- [トップページ(日本語)]({SITE_BASE_URL})
+- [トップページ(英語)]({SITE_BASE_URL}en/index.html)
+- [リンク集]({SITE_BASE_URL}links.html)
+
+## メタ情報
+
+- カテゴリ: {cats}
+- 更新頻度: 毎日 6:00 JST(約20本) + 15:00 JST(不定期コラム)
+- 運営形態: 自動生成(Claude API + GitHub Actions)
+- 記事引用時の注意: 要約はAI生成のため、一次情報は各記事内の出典リンクを参照すること
+"""
+    (SITE / "llms.txt").write_text(llms, encoding="utf-8")
+
+
 def next_seq(con, today):
     return con.execute(
         "SELECT COUNT(*) FROM articles WHERE created=?", (today,)).fetchone()[0]
@@ -464,11 +560,12 @@ def next_seq(con, today):
 
 def insert_article(con, news, art, today, slug, has_en):
     con.execute(
-        "INSERT INTO articles(url,title,category,created,slug,has_en,title_en) "
-        "VALUES(?,?,?,?,?,?,?)",
+        "INSERT INTO articles(url,title,category,created,slug,has_en,title_en,summary) "
+        "VALUES(?,?,?,?,?,?,?,?)",
         (news["url"], art["catchy_title"], art["category"], today, slug,
          1 if has_en else 0,
-         (art.get("en") or {}).get("catchy_title")))
+         (art.get("en") or {}).get("catchy_title"),
+         art.get("summary", "")))
     con.commit()
 
 

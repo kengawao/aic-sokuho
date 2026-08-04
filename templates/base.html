@@ -1,10 +1,11 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="{{ lang }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% block title %}AIC速報{% endblock %}</title>
+<title>{% block title %}AIC通信{% endblock %}</title>
 {% block meta %}{% endblock %}
+<link rel="alternate" type="application/rss+xml" title="AIC通信 RSS" href="{{ 'https://kengawao.github.io/aic-sokuho/rss.xml' }}">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C7PCBL5LEG"></script>
 <script>
@@ -317,7 +318,7 @@
 </head>
 <body>
 <header>
-  <a href="index.html">🚀 AIC速報</a>
+  <a href="index.html">🚀 AIC通信</a>
   {% if alt_url %}
   <a class="langswitch" href="{{ alt_url }}"
      onclick="try{localStorage.setItem('aic_lang','{{ 'en' if lang == 'ja' else 'ja' }}')}catch(e){}">{{ t.switch }}</a>

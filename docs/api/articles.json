@@ -1,0 +1,838 @@
+{
+ "site": "AIC通信",
+ "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
+ "note": "全記事の要約とコメントはAIによる生成物です",
+ "count": 83,
+ "articles": [
+  {
+   "slug": "2026-08-04-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-31.html",
+   "title": "血のつながりなんて関係ない！飯窪春菜が語った「本当の家族」とは何か",
+   "title_en": "Blood Relation Doesn't Matter—What Haruna Iikubo Really Means by Family",
+   "category": "コラム",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-30.html",
+   "title": "ライン川が干上がる寸前、欧州の物流と電力危機は本当に迫っているのか",
+   "title_en": "Is Europe's Water Crisis Really a Prelude to Complete Economic Collapse?",
+   "category": "国際",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-29.html",
+   "title": "昆虫食企業が炎上して倒産、なぜ再起を目指すのか",
+   "title_en": "Why Does an Insect Food Company Want a Comeback After Fiasco and Bankruptcy?",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-28.html",
+   "title": "タクシー会社で成績上位が外国人ドライバー、何が違うのか？",
+   "title_en": "Why Are Foreign Taxi Drivers Outperforming Japanese Staff in Sales Rankings?",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-27.html",
+   "title": "ポケカ、マイナンバーカードで本人認証へ　高額取引の信頼性向上はできるのか",
+   "title_en": "Pokemon Card Players to Use My Number for Authentication: Can This Stop Fraud in High-Value Trading?",
+   "category": "エンタメ",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-26.html",
+   "title": "日本のエンジニアが危機感を募らせる理由～世界との競争で何が足りないのか",
+   "title_en": "Why Japan's Elite Engineers Are Losing Confidence in the Country's Tech Future",
+   "category": "IT",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-25.html",
+   "title": "2年半ぶりの外部接触　アウンサンスーチー氏の現在の姿、軍事政権が公開した写真から見えるものは？",
+   "title_en": "After 2.5 Years of Isolation: What Does the Military Regime's Photo of Aung San Suu Kyi Really Tell Us?",
+   "category": "国際",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-24.html",
+   "title": "ベネズエラ地震で死者6000人超　南米大陸を襲った大惨事の全容",
+   "title_en": "Venezuela Earthquake Death Toll Exceeds 6,000: A Nation in Crisis",
+   "category": "国際",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-23.html",
+   "title": "ウクライナ大統領が日本との関係強化を指示、その狙いは？",
+   "title_en": "Ukraine's President Signals Push to Strengthen Ties with Japan—What's the Strategy?",
+   "category": "国際",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-22.html",
+   "title": "ウクライナ軍がロシアビーチを攻撃、7人死亡—戦況は新局面へ",
+   "title_en": "Ukrainian Forces Strike Russian Beach, 7 Killed—Military Escalation Continues",
+   "category": "国際",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-21.html",
+   "title": "イランが協議を一蹴、米大統領が激怒 核問題めぐる対立が激化",
+   "title_en": "Iran Rejects US Talks as American President Lashes Out",
+   "category": "国際",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-20.html",
+   "title": "地震直後に売上金を回収させられた従業員が爆発に巻き込まれ死亡…企業の危機管理が問われる",
+   "title_en": "Employees Ordered Back Into Store After Evacuation, Killed in Explosion During Kumamoto Earthquake",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-19.html",
+   "title": "トヨタが営業利益3兆4000億円に上方修正　円安が追い風になった理由",
+   "title_en": "Toyota Surges to Record 3.4 Trillion Yen Operating Profit as Weak Yen Boosts Exports",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-18.html",
+   "title": "ヌートバー、まさかのDバックス移籍へ。WBC覇者はメジャーでどうなる？",
+   "title_en": "Nootbaar's Shock Move to Diamondbacks: Can the WBC Star Succeed in Arizona?",
+   "category": "スポーツ",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-17.html",
+   "title": "大企業の賃上げ5.37%、本当に給料は増える？春闘集計から見える現実",
+   "title_en": "Japan's Major Corporations Boost Wages 5.37%—But Will Workers Actually Feel Richer?",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-16.html",
+   "title": "夏帆、ついに朝ドラ初出演へ　来春NHK放送決定",
+   "title_en": "Actress Natsu Inoue to Make Her First Morning Drama Appearance Next Spring on NHK",
+   "category": "エンタメ",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-15.html",
+   "title": "政府が被災地に242億円の予備費を投入へ。復興はここからが本勝負か",
+   "title_en": "Japan Allocates $1.7 Billion in Emergency Relief for Disaster Victims: Will It Be Enough?",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-14.html",
+   "title": "断水問題、8月末までに解消へ　首相が直接指示",
+   "title_en": "Prime Minister Orders Water Shortage Resolution by End of August",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-13.html",
+   "title": "ルフィ事件の幹部に懲役20年確定へ、特殊詐欺グループの組織的犯行がもたらした判決の重み",
+   "title_en": "20-Year Sentence Confirmed for Luffy Crime Mastermind: Justice System's Response to Organized Fraud Network",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-12.html",
+   "title": "熊本で震度5強以上の地震に1週間注意、専門家が警告",
+   "title_en": "Kumamoto on Alert: Strong Earthquakes Possible Within the Week",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-11.html",
+   "title": "104番号廃止から何年？60代母が今も毎日かけ続ける理由が泣ける",
+   "title_en": "Still Dialing 104: Why This 60-Year-Old Mother Can't Break a Habit",
+   "category": "コラム",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-10.html",
+   "title": "ベンチ外で踊る球児たちの秘密 野球部の練習風景が予想外すぎた",
+   "title_en": "Baseball Bench Players Dancing Their Way to Victory? The Surprising Truth Behind High School Baseball Practice",
+   "category": "コラム",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-9.html",
+   "title": "来年4月から食料品の消費税が1%に？政府が5日に閣議決定へ、家計への影響は",
+   "title_en": "Japan's Government Eyes Food Tax Cut to 1% from April 2025 - What Does This Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-8.html",
+   "title": "日米が円安阻止へ本気モード、追加協調介入も辞さず…ドル調達の新スキームとは?",
+   "title_en": "Japan and US Get Serious on Yen Crisis: What's Behind Their New Dollar Strategy?",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-7.html",
+   "title": "熊本地震から1週間で38人死亡—車中泊と猛暑が生む「二次災害」をどう防ぐ？",
+   "title_en": "One Week After Kumamoto Earthquake: 38 Deaths—How to Prevent the Hidden Toll of Evacuation Hardships",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-6.html",
+   "title": "MLB化するNPB…ピッチクロック導入でゲーム時間はどう変わる？",
+   "title_en": "NPB Goes Global: How Will Pitch Clock Rules Change Japanese Baseball?",
+   "category": "スポーツ",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-5.html",
+   "title": "日産が2年ぶりの黒字転換！4～6月期37億円の利益で何が変わった？",
+   "title_en": "Nissan Returns to Profit After 2 Years: What Changed?",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-4.html",
+   "title": "熊本県の宿泊キャンセル約9億円、何が起きた？",
+   "title_en": "Kumamoto Prefecture Faces 900 Million Yen in Hotel Cancellations—What's Happening?",
+   "category": "経済",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-3.html",
+   "title": "性的ディープフェイク被害が2倍に急増　警察庁が警告",
+   "title_en": "Sexual Deepfake Cases Double: Japan's Police Agency Sounds Alarm",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-2.html",
+   "title": "熊本地震支援に7.3億円超のふるさと納税が殺到、その理由は？",
+   "title_en": "Kumamoto Earthquake Relief: Over 730 Million Yen Raised Through Hometown Tax Donation Program",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-1.html",
+   "title": "榮倉奈々が12年ぶりにTVドラマ主演へ。ブランクを経ての復帰作に注目が集まる",
+   "title_en": "Eikura Nana Makes Triumphant Return to TV Drama After 12-Year Hiatus",
+   "category": "エンタメ",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-04-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-04-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-04-0.html",
+   "title": "地震で家が倒壊したのに、避難直後に盗難被害？被災者の二重苦が明らかに",
+   "title_en": "Double Tragedy: Earthquake Leaves Homes in Ruins, Then Thieves Strike Evacuees",
+   "category": "国内",
+   "published": "2026-08-04",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-03-20.html",
+   "title": "カジサックの長女、GTOで女優デビュー！親の七光りじゃなくてちゃんと演技してた件",
+   "title_en": "YouTuber's Daughter Steals the Show in GTO Remake—No 'Nepotism Pass' Here!",
+   "category": "コラム",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-19.html",
+   "url_en": null,
+   "title": "避難後に戻すよう指示…イオンモール爆発で2人死亡、金庫の売上金が招いた悲劇",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-18.html",
+   "url_en": null,
+   "title": "別ペンネームで再起用、第三者委が『人権侵害に加担』と認定。小学館の対応が厳しく批判される",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-17.html",
+   "url_en": null,
+   "title": "震度7の被災地が40℃超え…4日連続の危険な暑さ、熊本の地震活動と酷暑のダブルパンチ",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-16.html",
+   "url_en": null,
+   "title": "阪神・大山悠輔が離婚を発表 球界屈指の強打者に何があった？",
+   "title_en": null,
+   "category": "スポーツ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-15.html",
+   "url_en": null,
+   "title": "体重55kg、15歳で相撲界へ。新弟子検査合格できるのか？",
+   "title_en": null,
+   "category": "スポーツ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-14.html",
+   "url_en": null,
+   "title": "イオン爆発で雑貨店幹部が指示か、謝罪に追い込まれた背景は？",
+   "title_en": null,
+   "category": "経済",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-13.html",
+   "url_en": null,
+   "title": "イオン爆発事故で『戻る指示』を出した者に法的責任は問えるのか？",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-12.html",
+   "url_en": null,
+   "title": "アリアナ・グランデ、SNS監視の重圧で疲弊？ 超有名セレブが直面する「プライバシーの代償」",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-11.html",
+   "url_en": null,
+   "title": "アリアナ・グランデが活動休止を発表...ファンから心配の声が殺到",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-10.html",
+   "url_en": null,
+   "title": "なぜ爆発の危機に気付かなかった？千葉工場、前夜からのガス漏れを見落とし",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-9.html",
+   "url_en": null,
+   "title": "高額療養費制度が変わる？政府が仕掛ける医療費改革の真意とは",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-8.html",
+   "url_en": null,
+   "title": "熊本で40℃超え地獄へ…3日の最高気温予想が恐ろしいことになってる",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-7.html",
+   "url_en": null,
+   "title": "川口能活と板倉滉人が超遠距離恋愛を実らせた！二人の絆の秘密とは",
+   "title_en": null,
+   "category": "スポーツ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-6.html",
+   "url_en": null,
+   "title": "板倉が結婚！日本代表からユニークな祝福メッセージ続々",
+   "title_en": null,
+   "category": "スポーツ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-5.html",
+   "url_en": null,
+   "title": "桑木志帆が全英女子ゴルフで優勝！日本勢の快挙に感動の声",
+   "title_en": null,
+   "category": "スポーツ",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-4.html",
+   "url_en": null,
+   "title": "同僚男性を殺害した容疑で逮捕 職場での何があった？",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-3.html",
+   "url_en": null,
+   "title": "地震の前に珍しい雲が出る？専門家が注意喚起する『雲と地震』の都市伝説",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-2.html",
+   "url_en": null,
+   "title": "爆発危険な状況で客に戻るよう指示…店舗運営側が謝罪",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-1.html",
+   "url_en": null,
+   "title": "災害関連死をいかに減らすか 官房長官が対策強化を表明",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-03-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-03-0.html",
+   "url_en": null,
+   "title": "高市内閣の支持率59.2%に上昇 JNN最新調査で明らかに",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-03",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-19.html",
+   "url_en": null,
+   "title": "熊本地震から1ヶ月、死者36人に…避難所の酷暑対策が急務に",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-18.html",
+   "url_en": null,
+   "title": "地震被害に通信各社が動く　データ通信料金サポートなど支援策を発表",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-17.html",
+   "url_en": null,
+   "title": "JAL系保険サイトが保険業法違反か 金融庁の指摘で波紋",
+   "title_en": null,
+   "category": "経済",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-16.html",
+   "url_en": null,
+   "title": "Apple純利益27%増で過去最高更新！iPhone需要がヤバイ",
+   "title_en": null,
+   "category": "IT",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-15.html",
+   "url_en": null,
+   "title": "Anthropic AIが3社に不正侵入被害　AI企業のセキュリティ体制に問題か",
+   "title_en": null,
+   "category": "IT",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-14.html",
+   "url_en": null,
+   "title": "Chromeに13年超の脆弱性が潜んでいた、AI技術で発見される",
+   "title_en": null,
+   "category": "IT",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-13.html",
+   "url_en": null,
+   "title": "デュエマサポアプリで個人情報漏えいの恐れ、ユーザーが対策を急ぐ",
+   "title_en": null,
+   "category": "IT",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-12.html",
+   "url_en": null,
+   "title": "EU、生成AIの暴走に本気で対抗へ 監督強化の新ルール導入",
+   "title_en": null,
+   "category": "IT",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-11.html",
+   "url_en": null,
+   "title": "11歳プロゲーマーの練習時間が判明→平日は1時間のみ、その理由が話題に",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-10.html",
+   "url_en": null,
+   "title": "レミオロメン、Dr.flumpoolツアーに帯同決定！懐かしバンド共演の話題沸騰",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-9.html",
+   "url_en": null,
+   "title": "片岡鶴太郎、夜11時起床の生活リズム明かす『俳優とは思えない日常』",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-8.html",
+   "url_en": null,
+   "title": "ダイアン津田、ドラマ主演で大躍進！芸人から俳優へ新境地",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-7.html",
+   "url_en": null,
+   "title": "杉本彩が明かした闘病の壮絶さ「命の危機を感じた」",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-6.html",
+   "url_en": null,
+   "title": "吉川晃司、公演中止で心配の声 のど不調の原因は？",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-5.html",
+   "url_en": null,
+   "title": "山本舞香が事務所退所を発表 今後の活動について明かす",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-4.html",
+   "url_en": null,
+   "title": "山本舞香ら複数タレントが所属事務所に関する報告を発表",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-3.html",
+   "url_en": null,
+   "title": "れいわ新選組が山本譲司氏を新代表に選出　党の新体制が始動",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-2.html",
+   "url_en": null,
+   "title": "縦割り行政にメス！国家情報局が発足、情報機関の統合で何が変わる？",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-1.html",
+   "url_en": null,
+   "title": "医療費の自己負担が最大7%増へ…高額療養費の上限引き上げで家計への影響は？",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-01-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-01-0.html",
+   "url_en": null,
+   "title": "石破氏『財源示さない減税は無責任』で政界に激震？ 岸田政権の減税政策に疑問",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-01",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-9.html",
+   "url_en": null,
+   "title": "首相が熊本被災地へ3日に視察決定 復興支援の動き加速か",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-8.html",
+   "url_en": null,
+   "title": "2200人規模の避難者受け入れへ調整開始　被災地支援の具体化進む",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-7.html",
+   "url_en": null,
+   "title": "後藤真希、40歳でも変わらぬ輝き アイドルオーラは時間を超える",
+   "title_en": null,
+   "category": "エンタメ",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-6.html",
+   "url_en": null,
+   "title": "バレー男子、米国との激闘でフルセット惜敗…五輪へ向けた課題が浮き彫りに",
+   "title_en": null,
+   "category": "スポーツ",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-5.html",
+   "url_en": null,
+   "title": "DeNA牧、祖母の死を乗り越えて決勝弾…背番号に込めた想い",
+   "title_en": null,
+   "category": "スポーツ",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-4.html",
+   "url_en": null,
+   "title": "著名登山家がパキスタンの雪崩で死亡 高所登山の危険性改めて浮き彫りに",
+   "title_en": null,
+   "category": "国際",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-3.html",
+   "url_en": null,
+   "title": "祖母の家で2歳児が行方不明に…帰省中の突然の事態",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-2.html",
+   "url_en": null,
+   "title": "日米が円安是正で動く、円相場はどうなる？",
+   "title_en": null,
+   "category": "経済",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-1.html",
+   "url_en": null,
+   "title": "災害後の片付けで後悔しないために…り災証明申請は『撮影が命』",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-02",
+   "summary": null
+  },
+  {
+   "slug": "2026-08-02-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-02-0.html",
+   "url_en": null,
+   "title": "週明け熊本は40℃超えの可能性…列島を襲う危険な猛暑に警戒呼びかけ",
+   "title_en": null,
+   "category": "国内",
+   "published": "2026-08-02",
+   "summary": null
+  }
+ ]
+}

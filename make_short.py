@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """記事からショート動画(縦型1080x1920 MP4)を生成する。
 
 YouTube Shorts / TikTok / Instagram Reels 向け。
@@ -31,7 +31,7 @@ OUT = BASE / "shorts"
 
 W, H = 1080, 1920
 VOICE = "ja-JP-NanamiNeural"
-SITE_NAME = "AIC速報"
+SITE_NAME = "AIC通信"
 ACCENT = (43, 108, 176)
 BG = (18, 24, 38)
 FG = (245, 247, 250)
@@ -112,7 +112,7 @@ def make_slide(path, heading, body_lines, page, total):
         y += 88
         if y > H - 260:
             break
-    d.text((60, H - 150), "続きは AIC速報 で(プロフィールのリンクから)",
+    d.text((60, H - 150), "続きは AIC通信 で(プロフィールのリンクから)",
            font=load_font(46), fill=(160, 200, 255))
     img.save(path)
 
@@ -147,7 +147,7 @@ def main():
         slides.append((f"みんなの反応 {i + 1}", wrap("「" + c + "」", 15), c))
     slides.append(("チャンネル登録・フォローお願いします",
                    wrap("最新ニュースのまとめを毎日配信中!", 15),
-                   "この続きと他のニュースは、AIC速報でチェックしてください。"))
+                   "この続きと他のニュースは、AIC通信でチェックしてください。"))
 
     with tempfile.TemporaryDirectory() as td:
         td = pathlib.Path(td)
