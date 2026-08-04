@@ -12,13 +12,16 @@
 <article class="card">
   <h1>{{ art.catchy_title }}</h1>
   <p class="meta">
-    <span class="cat">{{ art.category }}</span>{{ date }} |
-    {{ t.source }}: <a href="{{ source.url }}" rel="nofollow noopener" target="_blank">{{ source.title }}</a>
+    <span class="cat">{{ art.category }}</span>
+    <time>{{ date }}</time> •
+    {{ t.source }}: <a href="{{ source.url }}" rel="nofollow noopener" target="_blank" style="color: var(--primary); text-decoration: none;">{{ source.title }}</a>
   </p>
 
   {% include "ads/top.html" %}
 
-  <section class="summary"><p>{{ art.summary }}</p></section>
+  <section class="summary" style="background: rgba(37, 99, 235, 0.05); padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
+    <p style="margin: 0; color: var(--text-main); font-size: 1.05em; line-height: 1.8;">{{ art.summary }}</p>
+  </section>
 
   <h2>{{ t.points }}</h2>
   <ul class="points">
@@ -45,6 +48,8 @@
   </ul>
   {% endif %}
 
-  <p><a href="index.html">{{ t.back }}</a></p>
+  <p style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+    <a href="index.html" style="color: var(--primary); text-decoration: none; font-weight: 600;">{{ t.back }}</a>
+  </p>
 </article>
 {% endblock %}

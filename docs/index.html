@@ -10,6 +10,7 @@
 <meta property="og:description" content="実際のニュースにコメンテーターたちが反応するまとめサイトです。">
 <meta property="og:type" content="website">
 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C7PCBL5LEG"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -18,7 +19,6 @@
   gtag('config', 'G-C7PCBL5LEG');
 </script>
 <script>
-// ブラウザ言語/保存済みの選択に応じて日英ページを自動振り分け
 (function(){
   var alt = "en/index.html";
   var lang = "ja";
@@ -35,51 +35,302 @@
 })();
 </script>
 <style>
-  :root { --accent: #2b6cb0; --bg: #f7f8fa; --card: #fff; --text: #222; }
-  * { box-sizing: border-box; }
-  body { margin: 0; font-family: "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
-         background: var(--bg); color: var(--text); line-height: 1.7; }
-  header { background: var(--accent); color: #fff; padding: 14px 16px;
-           display: flex; justify-content: space-between; align-items: center; }
-  header a { color: #fff; text-decoration: none; font-weight: bold; font-size: 1.2em; }
-  header a.langswitch { font-size: .85em; font-weight: normal;
-           border: 1px solid rgba(255,255,255,.6); border-radius: 4px; padding: 2px 10px; }
-  main { max-width: 760px; margin: 0 auto; padding: 16px; }
-  .card { background: var(--card); border-radius: 8px; padding: 16px 20px;
-          margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
-  .meta { color: #666; font-size: .85em; }
-  .cat { display: inline-block; background: var(--accent); color: #fff;
-         border-radius: 4px; padding: 1px 8px; font-size: .8em; margin-right: 8px; }
-  .comment { border-bottom: 1px solid #eee; padding: 10px 0; }
-  .comment b { color: #228822; font-size: .9em; }
-  .disclosure-small { font-size: 8pt; color: #999; margin: 4px 0; }
-  .disclosure-tiny { font-size: 6pt; color: #aaa; margin: 4px 0; }
-  .comment p { margin: 4px 0 0; }
-  .ad { background: #eee; color: #999; text-align: center; padding: 20px 0;
-        margin: 16px 0; border-radius: 6px; font-size: .85em; }
-  .ad-label { font-size: .75em; color: #aaa; margin-bottom: 6px; }
-  footer { text-align: center; color: #888; font-size: .8em; padding: 24px 0; }
-  h1 { font-size: 1.4em; line-height: 1.4; }
-  ul.points li { margin-bottom: 4px; }
-  ul.related li { margin-bottom: 4px; }
-  .index-item a { text-decoration: none; color: var(--text); font-weight: bold; }
-  .index-item a:hover { color: var(--accent); }
-  .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
-  .tab { border: 1px solid var(--accent); background: var(--card); color: var(--accent);
-         border-radius: 16px; padding: 4px 14px; font-size: .85em; cursor: pointer; }
-  .tab.active { background: var(--accent); color: #fff; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --primary: #2563eb;
+    --secondary: #1e40af;
+    --accent: #f59e0b;
+    --bg-dark: #0f172a;
+    --bg-light: #f8fafc;
+    --card: #ffffff;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --danger: #ef4444;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-dark: #0f172a;
+      --bg-light: #1e293b;
+      --card: #1e293b;
+      --text-main: #f1f5f9;
+      --text-muted: #cbd5e1;
+      --border: #334155;
+    }
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: linear-gradient(135deg, var(--bg-light) 0%, #f0f9ff 100%);
+    color: var(--text-main);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); }
+  }
+
+  header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 10px 30px rgba(37, 99, 235, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+  }
+  header a { text-decoration: none; color: white; }
+  header a[href="index.html"] {
+    font-size: 1.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -1px;
+  }
+  header a.langswitch {
+    font-size: 0.95em;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding: 6px 16px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+  }
+  header a.langswitch:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
+  }
+
+  main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    animation: fadeIn 0.5s ease;
+  }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+  .card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--border);
+  }
+  .card:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+  .card.hero {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  .card.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .card.hero p { font-size: 1.1em; opacity: 0.95; }
+
+  .meta {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+  }
+
+  .cat {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-right: 8px;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+  }
+
+  h1 {
+    font-size: 1.8em;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+  h2 {
+    font-size: 1.4em;
+    margin: 1.5rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--accent);
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+
+  .comment {
+    border-left: 4px solid var(--primary);
+    padding: 0.75rem 0 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: rgba(37, 99, 235, 0.05);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+  .comment:hover { background: rgba(37, 99, 235, 0.08); }
+  .comment b {
+    color: var(--primary);
+    font-size: 0.95em;
+  }
+  .comment p { margin: 0.25rem 0 0; }
+
+  .ad {
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.1) 0%, rgba(245, 158, 11, 0.05) 100%);
+    border: 2px dashed var(--accent);
+    color: var(--text-muted);
+    text-align: center;
+    padding: 2rem;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    font-size: 0.9em;
+  }
+  .ad-label {
+    font-size: 0.8em;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  footer {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    padding: 3rem 1.5rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+  footer a { color: var(--primary); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  ul.points, ul.related {
+    list-style: none;
+    margin: 1rem 0;
+  }
+  ul.points li, ul.related li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+  }
+  ul.points li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--success);
+    font-weight: bold;
+  }
+  ul.related li:before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+    font-weight: bold;
+  }
+  ul.related li a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  ul.related li a:hover {
+    color: var(--secondary);
+    text-decoration: underline;
+    padding-left: 0.5rem;
+  }
+
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .tab {
+    border: 2px solid var(--border);
+    background: var(--card);
+    color: var(--text-main);
+    border-radius: 24px;
+    padding: 6px 16px;
+    font-size: 0.95em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .tab:hover {
+    border-color: var(--primary);
+    background: rgba(37, 99, 235, 0.05);
+  }
+  .tab.active {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  }
+
+  .index-item a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+  .index-item a:hover { color: var(--primary); }
+
+  .disclosure-small {
+    font-size: 8pt;
+    color: var(--text-muted);
+    margin: 0.75rem 0;
+  }
+  .disclosure-tiny {
+    font-size: 6pt;
+    color: #aaa;
+    margin: 0.5rem 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    .disclosure-tiny { color: #666; }
+  }
+
+  article p { margin-bottom: 1rem; }
+
+  /* モバイル対応 */
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1rem;
+    }
+    main { margin: 1rem auto; padding: 0 1rem; }
+    .card { padding: 1.5rem; }
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.2em; }
+    .card.hero { padding: 2rem 1rem; }
+    .card.hero h1 { font-size: 1.8em; }
+  }
 </style>
 </head>
 <body>
 <header>
-  <a href="index.html">AIC速報</a>
+  <a href="index.html">🚀 AIC速報</a>
   
   <a class="langswitch" href="en/index.html"
      onclick="try{localStorage.setItem('aic_lang','en')}catch(e){}">English</a>
   
 </header>
 <main>
-<div class="card">
+<div class="card hero">
+  <h1>🚀 AIC速報</h1>
   <p>実際のニュースにコメンテーターたちが反応するまとめサイトです。</p>
 </div>
 
@@ -103,507 +354,925 @@
 </div>
 
 
-<div class="card index-item" data-cat="コラム">
-  <span class="cat">コラム</span>
-  <a href="2026-08-04-31.html">血のつながりなんて関係ない！飯窪春菜が語った「本当の家族」とは何か</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国際">
-  <span class="cat">国際</span>
-  <a href="2026-08-04-30.html">ライン川が干上がる寸前、欧州の物流と電力危機は本当に迫っているのか</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-29.html">昆虫食企業が炎上して倒産、なぜ再起を目指すのか</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-28.html">タクシー会社で成績上位が外国人ドライバー、何が違うのか？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-04-27.html">ポケカ、マイナンバーカードで本人認証へ　高額取引の信頼性向上はできるのか</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="IT">
-  <span class="cat">IT</span>
-  <a href="2026-08-04-26.html">日本のエンジニアが危機感を募らせる理由～世界との競争で何が足りないのか</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国際">
-  <span class="cat">国際</span>
-  <a href="2026-08-04-25.html">2年半ぶりの外部接触　アウンサンスーチー氏の現在の姿、軍事政権が公開した写真から見えるものは？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国際">
-  <span class="cat">国際</span>
-  <a href="2026-08-04-24.html">ベネズエラ地震で死者6000人超　南米大陸を襲った大惨事の全容</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国際">
-  <span class="cat">国際</span>
-  <a href="2026-08-04-23.html">ウクライナ大統領が日本との関係強化を指示、その狙いは？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国際">
-  <span class="cat">国際</span>
-  <a href="2026-08-04-22.html">ウクライナ軍がロシアビーチを攻撃、7人死亡—戦況は新局面へ</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国際">
-  <span class="cat">国際</span>
-  <a href="2026-08-04-21.html">イランが協議を一蹴、米大統領が激怒 核問題めぐる対立が激化</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-20.html">地震直後に売上金を回収させられた従業員が爆発に巻き込まれ死亡…企業の危機管理が問われる</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-19.html">トヨタが営業利益3兆4000億円に上方修正　円安が追い風になった理由</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-04-18.html">ヌートバー、まさかのDバックス移籍へ。WBC覇者はメジャーでどうなる？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-17.html">大企業の賃上げ5.37%、本当に給料は増える？春闘集計から見える現実</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-04-16.html">夏帆、ついに朝ドラ初出演へ　来春NHK放送決定</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-15.html">政府が被災地に242億円の予備費を投入へ。復興はここからが本勝負か</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-14.html">断水問題、8月末までに解消へ　首相が直接指示</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-13.html">ルフィ事件の幹部に懲役20年確定へ、特殊詐欺グループの組織的犯行がもたらした判決の重み</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-12.html">熊本で震度5強以上の地震に1週間注意、専門家が警告</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="コラム">
-  <span class="cat">コラム</span>
-  <a href="2026-08-04-11.html">104番号廃止から何年？60代母が今も毎日かけ続ける理由が泣ける</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="コラム">
-  <span class="cat">コラム</span>
-  <a href="2026-08-04-10.html">ベンチ外で踊る球児たちの秘密 野球部の練習風景が予想外すぎた</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-9.html">来年4月から食料品の消費税が1%に？政府が5日に閣議決定へ、家計への影響は</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-8.html">日米が円安阻止へ本気モード、追加協調介入も辞さず…ドル調達の新スキームとは?</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-7.html">熊本地震から1週間で38人死亡—車中泊と猛暑が生む「二次災害」をどう防ぐ？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-04-6.html">MLB化するNPB…ピッチクロック導入でゲーム時間はどう変わる？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-5.html">日産が2年ぶりの黒字転換！4～6月期37億円の利益で何が変わった？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-04-4.html">熊本県の宿泊キャンセル約9億円、何が起きた？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-3.html">性的ディープフェイク被害が2倍に急増　警察庁が警告</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-2.html">熊本地震支援に7.3億円超のふるさと納税が殺到、その理由は？</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-04-1.html">榮倉奈々が12年ぶりにTVドラマ主演へ。ブランクを経ての復帰作に注目が集まる</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-04-0.html">地震で家が倒壊したのに、避難直後に盗難被害？被災者の二重苦が明らかに</a>
-  <div class="meta">2026-08-04</div>
-</div>
-
-<div class="card index-item" data-cat="コラム">
-  <span class="cat">コラム</span>
-  <a href="2026-08-03-20.html">カジサックの長女、GTOで女優デビュー！親の七光りじゃなくてちゃんと演技してた件</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-19.html">避難後に戻すよう指示…イオンモール爆発で2人死亡、金庫の売上金が招いた悲劇</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-03-18.html">別ペンネームで再起用、第三者委が『人権侵害に加担』と認定。小学館の対応が厳しく批判される</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-17.html">震度7の被災地が40℃超え…4日連続の危険な暑さ、熊本の地震活動と酷暑のダブルパンチ</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-03-16.html">阪神・大山悠輔が離婚を発表 球界屈指の強打者に何があった？</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-03-15.html">体重55kg、15歳で相撲界へ。新弟子検査合格できるのか？</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-03-14.html">イオン爆発で雑貨店幹部が指示か、謝罪に追い込まれた背景は？</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-13.html">イオン爆発事故で『戻る指示』を出した者に法的責任は問えるのか？</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-03-12.html">アリアナ・グランデ、SNS監視の重圧で疲弊？ 超有名セレブが直面する「プライバシーの代償」</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-03-11.html">アリアナ・グランデが活動休止を発表...ファンから心配の声が殺到</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-10.html">なぜ爆発の危機に気付かなかった？千葉工場、前夜からのガス漏れを見落とし</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-9.html">高額療養費制度が変わる？政府が仕掛ける医療費改革の真意とは</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-8.html">熊本で40℃超え地獄へ…3日の最高気温予想が恐ろしいことになってる</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-03-7.html">川口能活と板倉滉人が超遠距離恋愛を実らせた！二人の絆の秘密とは</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-03-6.html">板倉が結婚！日本代表からユニークな祝福メッセージ続々</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-03-5.html">桑木志帆が全英女子ゴルフで優勝！日本勢の快挙に感動の声</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-4.html">同僚男性を殺害した容疑で逮捕 職場での何があった？</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-3.html">地震の前に珍しい雲が出る？専門家が注意喚起する『雲と地震』の都市伝説</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-2.html">爆発危険な状況で客に戻るよう指示…店舗運営側が謝罪</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-1.html">災害関連死をいかに減らすか 官房長官が対策強化を表明</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-03-0.html">高市内閣の支持率59.2%に上昇 JNN最新調査で明らかに</a>
-  <div class="meta">2026-08-03</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-02-19.html">熊本地震から1ヶ月、死者36人に…避難所の酷暑対策が急務に</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-02-18.html">地震被害に通信各社が動く　データ通信料金サポートなど支援策を発表</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-02-17.html">JAL系保険サイトが保険業法違反か 金融庁の指摘で波紋</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="IT">
-  <span class="cat">IT</span>
-  <a href="2026-08-02-16.html">Apple純利益27%増で過去最高更新！iPhone需要がヤバイ</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="IT">
-  <span class="cat">IT</span>
-  <a href="2026-08-02-15.html">Anthropic AIが3社に不正侵入被害　AI企業のセキュリティ体制に問題か</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="IT">
-  <span class="cat">IT</span>
-  <a href="2026-08-02-14.html">Chromeに13年超の脆弱性が潜んでいた、AI技術で発見される</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="IT">
-  <span class="cat">IT</span>
-  <a href="2026-08-02-13.html">デュエマサポアプリで個人情報漏えいの恐れ、ユーザーが対策を急ぐ</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="IT">
-  <span class="cat">IT</span>
-  <a href="2026-08-02-12.html">EU、生成AIの暴走に本気で対抗へ 監督強化の新ルール導入</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-02-11.html">11歳プロゲーマーの練習時間が判明→平日は1時間のみ、その理由が話題に</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-02-10.html">レミオロメン、Dr.flumpoolツアーに帯同決定！懐かしバンド共演の話題沸騰</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-01-9.html">片岡鶴太郎、夜11時起床の生活リズム明かす『俳優とは思えない日常』</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-01-8.html">ダイアン津田、ドラマ主演で大躍進！芸人から俳優へ新境地</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-01-7.html">杉本彩が明かした闘病の壮絶さ「命の危機を感じた」</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-01-6.html">吉川晃司、公演中止で心配の声 のど不調の原因は？</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-01-5.html">山本舞香が事務所退所を発表 今後の活動について明かす</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-01-4.html">山本舞香ら複数タレントが所属事務所に関する報告を発表</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-01-3.html">れいわ新選組が山本譲司氏を新代表に選出　党の新体制が始動</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-01-2.html">縦割り行政にメス！国家情報局が発足、情報機関の統合で何が変わる？</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-01-1.html">医療費の自己負担が最大7%増へ…高額療養費の上限引き上げで家計への影響は？</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-01-0.html">石破氏『財源示さない減税は無責任』で政界に激震？ 岸田政権の減税政策に疑問</a>
-  <div class="meta">2026-08-01</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-02-9.html">首相が熊本被災地へ3日に視察決定 復興支援の動き加速か</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-02-8.html">2200人規模の避難者受け入れへ調整開始　被災地支援の具体化進む</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="エンタメ">
-  <span class="cat">エンタメ</span>
-  <a href="2026-08-02-7.html">後藤真希、40歳でも変わらぬ輝き アイドルオーラは時間を超える</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-02-6.html">バレー男子、米国との激闘でフルセット惜敗…五輪へ向けた課題が浮き彫りに</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="スポーツ">
-  <span class="cat">スポーツ</span>
-  <a href="2026-08-02-5.html">DeNA牧、祖母の死を乗り越えて決勝弾…背番号に込めた想い</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="国際">
-  <span class="cat">国際</span>
-  <a href="2026-08-02-4.html">著名登山家がパキスタンの雪崩で死亡 高所登山の危険性改めて浮き彫りに</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-02-3.html">祖母の家で2歳児が行方不明に…帰省中の突然の事態</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="経済">
-  <span class="cat">経済</span>
-  <a href="2026-08-02-2.html">日米が円安是正で動く、円相場はどうなる？</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-02-1.html">災害後の片付けで後悔しないために…り災証明申請は『撮影が命』</a>
-  <div class="meta">2026-08-02</div>
-</div>
-
-<div class="card index-item" data-cat="国内">
-  <span class="cat">国内</span>
-  <a href="2026-08-02-0.html">週明け熊本は40℃超えの可能性…列島を襲う危険な猛暑に警戒呼びかけ</a>
-  <div class="meta">2026-08-02</div>
+<div style="display: grid; gap: 1.5rem;">
+  
+  <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">コラム</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-31.html" style="font-size: 1.1em;">血のつながりなんて関係ない！飯窪春菜が語った「本当の家族」とは何か</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国際</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-30.html" style="font-size: 1.1em;">ライン川が干上がる寸前、欧州の物流と電力危機は本当に迫っているのか</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-29.html" style="font-size: 1.1em;">昆虫食企業が炎上して倒産、なぜ再起を目指すのか</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-28.html" style="font-size: 1.1em;">タクシー会社で成績上位が外国人ドライバー、何が違うのか？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-27.html" style="font-size: 1.1em;">ポケカ、マイナンバーカードで本人認証へ　高額取引の信頼性向上はできるのか</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="IT" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">IT</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-26.html" style="font-size: 1.1em;">日本のエンジニアが危機感を募らせる理由～世界との競争で何が足りないのか</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国際</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-25.html" style="font-size: 1.1em;">2年半ぶりの外部接触　アウンサンスーチー氏の現在の姿、軍事政権が公開した写真から見えるものは？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国際</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-24.html" style="font-size: 1.1em;">ベネズエラ地震で死者6000人超　南米大陸を襲った大惨事の全容</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国際</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-23.html" style="font-size: 1.1em;">ウクライナ大統領が日本との関係強化を指示、その狙いは？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国際</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-22.html" style="font-size: 1.1em;">ウクライナ軍がロシアビーチを攻撃、7人死亡—戦況は新局面へ</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国際</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-21.html" style="font-size: 1.1em;">イランが協議を一蹴、米大統領が激怒 核問題めぐる対立が激化</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-20.html" style="font-size: 1.1em;">地震直後に売上金を回収させられた従業員が爆発に巻き込まれ死亡…企業の危機管理が問われる</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-19.html" style="font-size: 1.1em;">トヨタが営業利益3兆4000億円に上方修正　円安が追い風になった理由</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-18.html" style="font-size: 1.1em;">ヌートバー、まさかのDバックス移籍へ。WBC覇者はメジャーでどうなる？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-17.html" style="font-size: 1.1em;">大企業の賃上げ5.37%、本当に給料は増える？春闘集計から見える現実</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-16.html" style="font-size: 1.1em;">夏帆、ついに朝ドラ初出演へ　来春NHK放送決定</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-15.html" style="font-size: 1.1em;">政府が被災地に242億円の予備費を投入へ。復興はここからが本勝負か</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-14.html" style="font-size: 1.1em;">断水問題、8月末までに解消へ　首相が直接指示</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-13.html" style="font-size: 1.1em;">ルフィ事件の幹部に懲役20年確定へ、特殊詐欺グループの組織的犯行がもたらした判決の重み</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-12.html" style="font-size: 1.1em;">熊本で震度5強以上の地震に1週間注意、専門家が警告</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">コラム</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-11.html" style="font-size: 1.1em;">104番号廃止から何年？60代母が今も毎日かけ続ける理由が泣ける</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">コラム</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-10.html" style="font-size: 1.1em;">ベンチ外で踊る球児たちの秘密 野球部の練習風景が予想外すぎた</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-9.html" style="font-size: 1.1em;">来年4月から食料品の消費税が1%に？政府が5日に閣議決定へ、家計への影響は</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-8.html" style="font-size: 1.1em;">日米が円安阻止へ本気モード、追加協調介入も辞さず…ドル調達の新スキームとは?</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-7.html" style="font-size: 1.1em;">熊本地震から1週間で38人死亡—車中泊と猛暑が生む「二次災害」をどう防ぐ？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-6.html" style="font-size: 1.1em;">MLB化するNPB…ピッチクロック導入でゲーム時間はどう変わる？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-5.html" style="font-size: 1.1em;">日産が2年ぶりの黒字転換！4～6月期37億円の利益で何が変わった？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-4.html" style="font-size: 1.1em;">熊本県の宿泊キャンセル約9億円、何が起きた？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-3.html" style="font-size: 1.1em;">性的ディープフェイク被害が2倍に急増　警察庁が警告</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-2.html" style="font-size: 1.1em;">熊本地震支援に7.3億円超のふるさと納税が殺到、その理由は？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-1.html" style="font-size: 1.1em;">榮倉奈々が12年ぶりにTVドラマ主演へ。ブランクを経ての復帰作に注目が集まる</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-04</time>
+      </div>
+      <a href="2026-08-04-0.html" style="font-size: 1.1em;">地震で家が倒壊したのに、避難直後に盗難被害？被災者の二重苦が明らかに</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">コラム</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-20.html" style="font-size: 1.1em;">カジサックの長女、GTOで女優デビュー！親の七光りじゃなくてちゃんと演技してた件</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-19.html" style="font-size: 1.1em;">避難後に戻すよう指示…イオンモール爆発で2人死亡、金庫の売上金が招いた悲劇</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-18.html" style="font-size: 1.1em;">別ペンネームで再起用、第三者委が『人権侵害に加担』と認定。小学館の対応が厳しく批判される</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-17.html" style="font-size: 1.1em;">震度7の被災地が40℃超え…4日連続の危険な暑さ、熊本の地震活動と酷暑のダブルパンチ</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-16.html" style="font-size: 1.1em;">阪神・大山悠輔が離婚を発表 球界屈指の強打者に何があった？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-15.html" style="font-size: 1.1em;">体重55kg、15歳で相撲界へ。新弟子検査合格できるのか？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-14.html" style="font-size: 1.1em;">イオン爆発で雑貨店幹部が指示か、謝罪に追い込まれた背景は？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-13.html" style="font-size: 1.1em;">イオン爆発事故で『戻る指示』を出した者に法的責任は問えるのか？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-12.html" style="font-size: 1.1em;">アリアナ・グランデ、SNS監視の重圧で疲弊？ 超有名セレブが直面する「プライバシーの代償」</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-11.html" style="font-size: 1.1em;">アリアナ・グランデが活動休止を発表...ファンから心配の声が殺到</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-10.html" style="font-size: 1.1em;">なぜ爆発の危機に気付かなかった？千葉工場、前夜からのガス漏れを見落とし</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-9.html" style="font-size: 1.1em;">高額療養費制度が変わる？政府が仕掛ける医療費改革の真意とは</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-8.html" style="font-size: 1.1em;">熊本で40℃超え地獄へ…3日の最高気温予想が恐ろしいことになってる</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-7.html" style="font-size: 1.1em;">川口能活と板倉滉人が超遠距離恋愛を実らせた！二人の絆の秘密とは</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-6.html" style="font-size: 1.1em;">板倉が結婚！日本代表からユニークな祝福メッセージ続々</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-5.html" style="font-size: 1.1em;">桑木志帆が全英女子ゴルフで優勝！日本勢の快挙に感動の声</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-4.html" style="font-size: 1.1em;">同僚男性を殺害した容疑で逮捕 職場での何があった？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-3.html" style="font-size: 1.1em;">地震の前に珍しい雲が出る？専門家が注意喚起する『雲と地震』の都市伝説</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-2.html" style="font-size: 1.1em;">爆発危険な状況で客に戻るよう指示…店舗運営側が謝罪</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-1.html" style="font-size: 1.1em;">災害関連死をいかに減らすか 官房長官が対策強化を表明</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-03</time>
+      </div>
+      <a href="2026-08-03-0.html" style="font-size: 1.1em;">高市内閣の支持率59.2%に上昇 JNN最新調査で明らかに</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-19.html" style="font-size: 1.1em;">熊本地震から1ヶ月、死者36人に…避難所の酷暑対策が急務に</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-18.html" style="font-size: 1.1em;">地震被害に通信各社が動く　データ通信料金サポートなど支援策を発表</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-17.html" style="font-size: 1.1em;">JAL系保険サイトが保険業法違反か 金融庁の指摘で波紋</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="IT" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">IT</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-16.html" style="font-size: 1.1em;">Apple純利益27%増で過去最高更新！iPhone需要がヤバイ</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="IT" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">IT</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-15.html" style="font-size: 1.1em;">Anthropic AIが3社に不正侵入被害　AI企業のセキュリティ体制に問題か</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="IT" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">IT</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-14.html" style="font-size: 1.1em;">Chromeに13年超の脆弱性が潜んでいた、AI技術で発見される</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="IT" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">IT</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-13.html" style="font-size: 1.1em;">デュエマサポアプリで個人情報漏えいの恐れ、ユーザーが対策を急ぐ</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="IT" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">IT</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-12.html" style="font-size: 1.1em;">EU、生成AIの暴走に本気で対抗へ 監督強化の新ルール導入</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-11.html" style="font-size: 1.1em;">11歳プロゲーマーの練習時間が判明→平日は1時間のみ、その理由が話題に</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-10.html" style="font-size: 1.1em;">レミオロメン、Dr.flumpoolツアーに帯同決定！懐かしバンド共演の話題沸騰</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-9.html" style="font-size: 1.1em;">片岡鶴太郎、夜11時起床の生活リズム明かす『俳優とは思えない日常』</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-8.html" style="font-size: 1.1em;">ダイアン津田、ドラマ主演で大躍進！芸人から俳優へ新境地</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-7.html" style="font-size: 1.1em;">杉本彩が明かした闘病の壮絶さ「命の危機を感じた」</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-6.html" style="font-size: 1.1em;">吉川晃司、公演中止で心配の声 のど不調の原因は？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-5.html" style="font-size: 1.1em;">山本舞香が事務所退所を発表 今後の活動について明かす</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-4.html" style="font-size: 1.1em;">山本舞香ら複数タレントが所属事務所に関する報告を発表</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-3.html" style="font-size: 1.1em;">れいわ新選組が山本譲司氏を新代表に選出　党の新体制が始動</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-2.html" style="font-size: 1.1em;">縦割り行政にメス！国家情報局が発足、情報機関の統合で何が変わる？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-1.html" style="font-size: 1.1em;">医療費の自己負担が最大7%増へ…高額療養費の上限引き上げで家計への影響は？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-01</time>
+      </div>
+      <a href="2026-08-01-0.html" style="font-size: 1.1em;">石破氏『財源示さない減税は無責任』で政界に激震？ 岸田政権の減税政策に疑問</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-9.html" style="font-size: 1.1em;">首相が熊本被災地へ3日に視察決定 復興支援の動き加速か</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-8.html" style="font-size: 1.1em;">2200人規模の避難者受け入れへ調整開始　被災地支援の具体化進む</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="エンタメ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">エンタメ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-7.html" style="font-size: 1.1em;">後藤真希、40歳でも変わらぬ輝き アイドルオーラは時間を超える</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-6.html" style="font-size: 1.1em;">バレー男子、米国との激闘でフルセット惜敗…五輪へ向けた課題が浮き彫りに</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="スポーツ" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">スポーツ</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-5.html" style="font-size: 1.1em;">DeNA牧、祖母の死を乗り越えて決勝弾…背番号に込めた想い</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国際</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-4.html" style="font-size: 1.1em;">著名登山家がパキスタンの雪崩で死亡 高所登山の危険性改めて浮き彫りに</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-3.html" style="font-size: 1.1em;">祖母の家で2歳児が行方不明に…帰省中の突然の事態</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="経済" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">経済</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-2.html" style="font-size: 1.1em;">日米が円安是正で動く、円相場はどうなる？</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-1.html" style="font-size: 1.1em;">災害後の片付けで後悔しないために…り災証明申請は『撮影が命』</a>
+    </div>
+  </div>
+  
+  <div class="card index-item" data-cat="国内" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">国内</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
+      </div>
+      <a href="2026-08-02-0.html" style="font-size: 1.1em;">週明け熊本は40℃超えの可能性…列島を襲う危険な猛暑に警戒呼びかけ</a>
+    </div>
+  </div>
+  
 </div>
 
 
 <script>
-// カテゴリタブ: 選択を保存し、次回訪問時も同じカテゴリを表示
 (function(){
   var tabs = document.querySelectorAll(".tab");
   function apply(cat){
@@ -625,7 +1294,7 @@
 </script>
 </main>
 <footer>
-  <p><a href="links.html" style="color:#888;">リンク集・相互リンク募集</a></p>
+  <p><a href="links.html">🔗 リンク集・相互リンク募集</a></p>
   <p class="disclosure-small">出典記事の著作権は各報道機関に帰属します。</p>
   <p class="disclosure-tiny">コメントはすべてAI作成です</p>
 </footer>

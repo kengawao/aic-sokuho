@@ -1,23 +1,29 @@
 {% extends "base.html" %}
-{% block title %}リンク集 | AIC速報{% endblock %}
+{% block title %}🔗 リンク集 | AIC速報{% endblock %}
 {% block content %}
 <div class="card">
-  <h1>リンク集</h1>
+  <h1>🔗 リンク集</h1>
   {% if links %}
-  <ul class="related">
+  <ul class="related" style="margin-top: 2rem;">
     {% for l in links %}
     <li><a href="{{ l.url }}" rel="noopener" target="_blank">{{ l.name }}</a>
-      {% if l.desc %} — {{ l.desc }}{% endif %}</li>
+      {% if l.desc %}<div style="font-size: 0.9em; color: var(--text-muted); margin-top: 0.25rem;">{{ l.desc }}</div>{% endif %}</li>
     {% endfor %}
   </ul>
   {% else %}
-  <p>現在リンクを募集しています。</p>
+  <p style="text-align: center; color: var(--text-muted); margin: 2rem 0;">相互リンク募集中！</p>
   {% endif %}
-  <h2>相互リンクについて</h2>
-  <p>当サイトは相互リンクを募集しています。ニュース・まとめ・ブログ系サイトを
-     運営されている方は、貴サイトに当サイトへのリンクを設置のうえ、
-     <a href="https://github.com/kengawao/aic-sokuho/issues" rel="noopener" target="_blank">こちらの連絡フォーム</a>
-     からサイト名・URL・紹介文をお知らせください。確認後に掲載します。</p>
-  <p><a href="index.html">{{ t.back }}</a></p>
+
+  <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+    <h2>相互リンクについて</h2>
+    <p>当サイトは相互リンクを募集しています。ニュース・まとめ・ブログ系サイトを
+       運営されている方は、貴サイトに当サイトへのリンクを設置のうえ、
+       <a href="https://github.com/kengawao/aic-sokuho/issues" rel="noopener" target="_blank">こちらの連絡フォーム</a>
+       からサイト名・URL・紹介文をお知らせください。確認後に掲載します。</p>
+  </div>
+
+  <p style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+    <a href="index.html" style="color: var(--primary); text-decoration: none; font-weight: 600;">{{ t.back }}</a>
+  </p>
 </div>
 {% endblock %}

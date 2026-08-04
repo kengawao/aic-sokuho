@@ -7,7 +7,8 @@
 <meta property="og:type" content="website">
 {% endblock %}
 {% block content %}
-<div class="card">
+<div class="card hero">
+  <h1>🚀 AIC速報</h1>
   <p>{{ t.site_desc }}</p>
 </div>
 
@@ -18,18 +19,28 @@
   {% endfor %}
 </div>
 
-{% for a in articles %}
-<div class="card index-item" data-cat="{{ a.category }}">
-  <span class="cat">{{ a.category }}</span>
-  <a href="{{ a.slug }}.html">{{ a.title }}</a>
-  <div class="meta">{{ a.created }}</div>
+{% if articles %}
+<div style="display: grid; gap: 1.5rem;">
+  {% for a in articles %}
+  <div class="card index-item" data-cat="{{ a.category }}" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">{{ a.category }}</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">{{ a.created }}</time>
+      </div>
+      <a href="{{ a.slug }}.html" style="font-size: 1.1em;">{{ a.title }}</a>
+    </div>
+  </div>
+  {% endfor %}
 </div>
 {% else %}
-<div class="card">{{ t.no_articles }}</div>
-{% endfor %}
+<div class="card">
+  <p style="text-align: center; color: var(--text-muted);">{{ t.no_articles }}</p>
+</div>
+{% endif %}
 
 <script>
-// カテゴリタブ: 選択を保存し、次回訪問時も同じカテゴリを表示
 (function(){
   var tabs = document.querySelectorAll(".tab");
   function apply(cat){
