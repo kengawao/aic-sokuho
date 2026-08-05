@@ -2,6 +2,7 @@ name: daily-matome
 on:
   schedule:
     - cron: "0 21 * * *"   # UTC 21:00 = 日本時間 朝6:00
+    - cron: "0 9 * * *"    # UTC 9:00 = 日本時間 夕方18:00
   workflow_dispatch:
 
 permissions:
