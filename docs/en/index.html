@@ -350,12 +350,27 @@
   
   <button type="button" class="tab" data-cat="IT">Tech</button>
   
+  <button type="button" class="tab" data-cat="健康">Health</button>
+  
+  <button type="button" class="tab" data-cat="科学">Science</button>
+  
   <button type="button" class="tab" data-cat="コラム">Column</button>
   
 </div>
 
 
 <div style="display: grid; gap: 1.5rem;">
+  
+  <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">コラム</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-06</time>
+      </div>
+      <a href="2026-08-06-0.html" style="font-size: 1.1em;">Why You Crave Ramen After Drinking: Science Reveals the Hidden Truth Behind Late-Night Noodles</a>
+    </div>
+  </div>
   
   <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
        onclick="this.querySelector('a').click()">

@@ -350,12 +350,27 @@
   
   <button type="button" class="tab" data-cat="IT">IT</button>
   
+  <button type="button" class="tab" data-cat="健康">健康</button>
+  
+  <button type="button" class="tab" data-cat="科学">科学</button>
+  
   <button type="button" class="tab" data-cat="コラム">コラム</button>
   
 </div>
 
 
 <div style="display: grid; gap: 1.5rem;">
+  
+  <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">コラム</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-06</time>
+      </div>
+      <a href="2026-08-06-0.html" style="font-size: 1.1em;">飲酒後のラーメン欲、実は科学的理由があった！深夜ラーメン店の勝因が判明</a>
+    </div>
+  </div>
   
   <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
        onclick="this.querySelector('a').click()">
@@ -1443,17 +1458,6 @@
         <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
       </div>
       <a href="2026-08-02-5.html" style="font-size: 1.1em;">DeNA牧、祖母の死を乗り越えて決勝弾…背番号に込めた想い</a>
-    </div>
-  </div>
-  
-  <div class="card index-item" data-cat="国際" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
-       onclick="this.querySelector('a').click()">
-    <div style="flex: 1;">
-      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
-        <span class="cat">国際</span>
-        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
-      </div>
-      <a href="2026-08-02-4.html" style="font-size: 1.1em;">著名登山家がパキスタンの雪崩で死亡 高所登山の危険性改めて浮き彫りに</a>
     </div>
   </div>
   

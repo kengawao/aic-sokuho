@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 104,
+ "count": 105,
  "articles": [
+  {
+   "slug": "2026-08-06-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-0.html",
+   "title": "飲酒後のラーメン欲、実は科学的理由があった！深夜ラーメン店の勝因が判明",
+   "title_en": "Why You Crave Ramen After Drinking: Science Reveals the Hidden Truth Behind Late-Night Noodles",
+   "category": "コラム",
+   "published": "2026-08-06",
+   "summary": "飲酒後に無性に食べたくなる「締めラーメン」。この謎の欲求には生物学的な根拠があることが分かった。アルコール代謝時の体の変化と食欲メカニズムの関係性により、酔っ払いたちは本能的にラーメンを求めていたのだ。深夜ラーメン屋の繁盛の秘密は、科学が答えを握っていたようである。"
+  },
   {
    "slug": "2026-08-05-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-05-20.html",
