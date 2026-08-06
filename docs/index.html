@@ -190,15 +190,16 @@
   .comment p { margin: 0.25rem 0 0; }
 
   .ad {
-    background: linear-gradient(135deg, rgba(245, 158, 11, 0.1) 0%, rgba(245, 158, 11, 0.05) 100%);
-    border: 2px dashed var(--accent);
+    background: transparent;
+    border: 1px solid var(--border);
     color: var(--text-muted);
     text-align: center;
-    padding: 2rem;
+    padding: 0.75rem;
     margin: 1.5rem 0;
     border-radius: 8px;
     font-size: 0.9em;
   }
+  .ad img { max-width: 100%; height: auto; }
   .ad-label {
     font-size: 0.8em;
     color: var(--accent);
@@ -360,6 +361,17 @@
 
 
 <div style="display: grid; gap: 1.5rem;">
+  
+  <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
+       onclick="this.querySelector('a').click()">
+    <div style="flex: 1;">
+      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+        <span class="cat">コラム</span>
+        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-06</time>
+      </div>
+      <a href="2026-08-06-22.html" style="font-size: 1.1em;">白いザリガニって存在するの？親子が捕まえて寄贈した話が想像の3倍ロマンだった</a>
+    </div>
+  </div>
   
   <div class="card index-item" data-cat="コラム" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
        onclick="this.querySelector('a').click()">
@@ -1447,17 +1459,6 @@
         <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
       </div>
       <a href="2026-08-02-17.html" style="font-size: 1.1em;">JAL系保険サイトが保険業法違反か 金融庁の指摘で波紋</a>
-    </div>
-  </div>
-  
-  <div class="card index-item" data-cat="IT" style="display: flex; gap: 1rem; cursor: pointer; transition: all 0.3s ease;"
-       onclick="this.querySelector('a').click()">
-    <div style="flex: 1;">
-      <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
-        <span class="cat">IT</span>
-        <time style="font-size: 0.9em; color: var(--text-muted);">2026-08-02</time>
-      </div>
-      <a href="2026-08-02-16.html" style="font-size: 1.1em;">Apple純利益27%増で過去最高更新！iPhone需要がヤバイ</a>
     </div>
   </div>
   

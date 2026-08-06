@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 126,
+ "count": 127,
  "articles": [
+  {
+   "slug": "2026-08-06-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-22.html",
+   "title": "白いザリガニって存在するの？親子が捕まえて寄贈した話が想像の3倍ロマンだった",
+   "title_en": "A White Crayfish? Parent and Child Found One and Donated It—More Heartwarming Than Expected",
+   "category": "コラム",
+   "published": "2026-08-06",
+   "summary": "親子がどこかで白いザリガニを捕まえて、施設に寄贈したというニュース。通常の赤褐色いザリガニと違う白い個体は珍しく、その来歴や生息地が話題になっている。素朴な親子の自然との関わり方がほのぼのとしていると、SNSでも反応を呼んでいる。"
+  },
   {
    "slug": "2026-08-06-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-21.html",
