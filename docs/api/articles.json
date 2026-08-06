@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 127,
+ "count": 148,
  "articles": [
+  {
+   "slug": "2026-08-06-43",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-43.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-43.html",
+   "title": "からあげクン50億食達成！お前らの人生の何割をこいつに捧げてんの？",
+   "title_en": "Karaage Kun Hits 5 Billion Units Sold: How Much of Your Life Have You Devoted to This Chicken?",
+   "category": "コラム",
+   "published": "2026-08-06",
+   "summary": "ローソンの看板商品「からあげクン」が累計販売50億食を突破した。1986年の発売から約40年で、日本人が愛してやまない国民食へと成長。この驚異的な数字の背景には、リーズナブルな価格と安定した美味しさがあるとみられる。コンビニ業界を代表する商品として、今後も愛され続ける見通し。"
+  },
+  {
+   "slug": "2026-08-06-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-42.html",
+   "title": "QRコード詐欺、なぜ急増？災害時の「善意」を悪用する手口の正体",
+   "title_en": "QR Code Scams Spike in Disaster Relief Zones—How to Spot the Fakes",
+   "category": "国内",
+   "published": "2026-08-06",
+   "summary": "災害時に募金やサポート情報の名目でQRコードを提示する詐欺が増加している。被災者の支援を装い、スマートフォンでスキャンさせることで個人情報を盗み出したり、不正送金に誘導したりする手口が報告されている。従来の振り込め詐欺と異なり、接触が最小限で足がつきにくく、被害者も『善意で協力した』という心理から報告が遅れる傾向がある。"
+  },
+  {
+   "slug": "2026-08-06-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-41.html",
+   "title": "パチンコ店の法人数が10年で半減、業界の危機深まる",
+   "title_en": "Japan's Pachinko Industry in Crisis: Number of Operators Halves in a Decade",
+   "category": "経済",
+   "published": "2026-08-06",
+   "summary": "パチンコ業界が深刻な衰退局面を迎えている。過去10年間でパチンコ関連の法人数がほぼ半分に減少したと報じられている。高齢化に伴う顧客離れ、規制強化、娯楽選択肢の多様化が主な要因とみられ、業界再編が急速に進んでいる。かつての一大産業として位置づけられていた業態の転換期を迎えている。"
+  },
+  {
+   "slug": "2026-08-06-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-40.html",
+   "title": "茨城県も「パスポート」発行へ、その狙いと他県との違いは？",
+   "title_en": "Ibaraki Prefecture Launches its Own 'Passport' Program—What Sets It Apart?",
+   "category": "国内",
+   "published": "2026-08-06",
+   "summary": "茨城県が独自の「パスポート」制度の発行を開始する方針を明かした。このパスポートは観光地や文化施設の周遊を促進し、地域活性化を狙ったもので、すでに同様の取り組みを実施している他県の事例を参考にしながら、茨城県ならではの特色を打ち出す予定。県内観光の振興と地域経済の活性化が主な目的と見られている。"
+  },
+  {
+   "slug": "2026-08-06-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-39.html",
+   "title": "週刊少年ジャンプ、ついに100万部割れ。黄金期から何が変わった？",
+   "title_en": "Weekly Shonen Jump Falls Below 1 Million Copies: What Changed From Its Golden Age?",
+   "category": "エンタメ",
+   "published": "2026-08-06",
+   "summary": "日本を代表する漫画雑誌『週刊少年ジャンプ』の平均発行部数が100万部を下回ったことが報じられた。かつては600万部を超える販売部数を誇った業界の象徴的存在も、デジタル化やエンタメの多様化による読者層の分散で大きな転換期を迎えている。出版業界全体の構造変化を示す指標として注目される。"
+  },
+  {
+   "slug": "2026-08-06-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-38.html",
+   "title": "高校野球にAI解析の波…球速10km/h以上アップした選手も現れ、野球界の練習方法が激変するのか",
+   "title_en": "AI Transforms High School Baseball: Some Players See 10+ km/h Velocity Gains, but At What Cost?",
+   "category": "スポーツ",
+   "published": "2026-08-06",
+   "summary": "高校野球の現場でAI技術を活用した動作解析が広がり始めている。投球フォームや走塁動作をAIで分析し、効率的な改善を図る取り組みが増加。実際に球速が大幅に向上した選手も出ており、従来の経験則に頼る指導方法が変わりつつある。ただし高額な導入コストの問題から、学校間の格差拡大への懸念も浮上している。"
+  },
+  {
+   "slug": "2026-08-06-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-37.html",
+   "title": "野菜売りの男性をドローンで追い回し爆発させる。ゼレンスキー氏が公開した映像に戦慄が走る",
+   "title_en": "\"Human Hunting\": Russian Drone Pursues Vegetable Vendor in Shocking Attack Footage Released by Zelenskyy",
+   "category": "国際",
+   "published": "2026-08-06",
+   "summary": "ウクライナのゼレンスキー大統領が、ロシア軍によるドローン攻撃の映像をソーシャルメディアで公開した。南部で民間人の男性がドローンに追い回され、爆発に巻き込まれる様子が映されており、ゼレンスキー氏は「人間狩り」と呼ばれる民間人を標的にした戦術の一例だと指摘している。"
+  },
+  {
+   "slug": "2026-08-06-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-36.html",
+   "title": "ナイジェリア、1日で300人超救出　治安部隊が過去最大規模の作戦成功",
+   "title_en": "Nigeria's Security Forces Rescue 300+ Abduction Victims in Historic Single-Day Operation",
+   "category": "国際",
+   "published": "2026-08-06",
+   "summary": "ナイジェリア大統領府は、国内で発生した複数の襲撃事件により拉致された300人以上の被害者を救出したと発表した。合同治安部隊による1日での救出人数としては過去最大規模の成果であり、テロ対策における大きな進展と評価されている。"
+  },
+  {
+   "slug": "2026-08-06-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-35.html",
+   "title": "批判浴びて方針転換、それでもインファンティーノFIFA会長は生き残り　なぜ降ろされなかった？",
+   "title_en": "FIFA Chief Admits 'Mistake,' Apologizes but Keeps His Job—Why Wasn't He Ousted?",
+   "category": "国際",
+   "published": "2026-08-06",
+   "summary": "FIFA会長のインファンティーノ氏が、サッカー大会の株式化計画を巡る批判を受けて謝罪した。強い反発から計画は撤回したものの、FIFA幹部の支持を背景に会長職は維持することが決定。誤りを認めながらも権力基盤を保つ決着となった。"
+  },
+  {
+   "slug": "2026-08-06-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-34.html",
+   "title": "ホルムズ海峡の新航路、イランとオマーンが合意　「最終段階」の先に何が？",
+   "title_en": "Iran and Oman Agree on New Strait of Hormuz Shipping Route—What Comes Next?",
+   "category": "国際",
+   "published": "2026-08-06",
+   "summary": "イランとオマーンがホルムズ海峡を通過する船舶の航路について合意に達した。イラン外務省は交渉が「最終段階」にあると発表したが、詳細は明かされていない。世界的なエネルギー供給に影響を与える可能性のある戦略的な合意に注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-06-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-33.html",
+   "title": "ミサイル足りず人命が失われる…ウクライナの絶望的な空の現実",
+   "title_en": "Ukraine's Sky Falls Silent: How Missile Shortages Cost Lives",
+   "category": "国際",
+   "published": "2026-08-06",
+   "summary": "ロシアによるキーウ攻撃でウクライナの防空能力の限界が露呈した。迎撃ミサイルの深刻な不足により、民間人を含む人命が失われている現状をゼレンスキー大統領が改めて指摘。支援国に対して防空システムの強化を急務として訴えている。"
+  },
+  {
+   "slug": "2026-08-06-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-32.html",
+   "title": "任天堂が被災者の修理代を全額負担。その判断の背景にあるものは？",
+   "title_en": "Nintendo Offers Free Repairs for Disaster Victims—What Does This Mean for Other Manufacturers?",
+   "category": "企業",
+   "published": "2026-08-06",
+   "summary": "任天堂は災害の被災者を対象に、Nintendo Switchなどの製品修理を無償で対応することを発表しました。通常は有償となる修理サービスを特例で無償化することで、被災地の復興支援と顧客サポート体制の充実を図るとしています。対象期間や具体的な申請方法については公式サイトで案内予定です。"
+  },
+  {
+   "slug": "2026-08-06-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-31.html",
+   "title": "創業100年超の老舗企業まで社名変更に踏み切る理由とは？相次ぐ大胆な決断の背景",
+   "title_en": "Why Are Established Japanese Companies Boldly Rebranding? The Strategic Shift Behind the Trend",
+   "category": "経済",
+   "published": "2026-08-06",
+   "summary": "長年愛用されてきた企業名を大きく変える老舗企業が増加している。デジタル化への対応やブランドの刷新、事業領域の拡大など、経営環境の急速な変化に適応するための戦略的な判断が背景にある。業界再編や新規事業展開を視野に入れた経営の転換点を迎えている。"
+  },
+  {
+   "slug": "2026-08-06-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-30.html",
+   "title": "消費減税で日本の社会保障は救われるのか、それとも崩壊するのか",
+   "title_en": "Can Japan Maintain Social Security While Cutting Consumption Tax?",
+   "category": "経済",
+   "published": "2026-08-06",
+   "summary": "消費税減税論が注目を集める中、日本の社会保障制度の持続可能性が問われている。現在、社会保障財源の多くを消費税に依存している構造について、減税で財源が減れば給付削減か負担増の選択肢しかないという指摘が出ている。政策決定の岐路を迎える中、どのような道を選ぶべきかの議論が活発化している。"
+  },
+  {
+   "slug": "2026-08-06-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-29.html",
+   "title": "猛暑でライオン3頭が1週間以内に相次ぎ死亡　多摩動物公園で何が起きたのか",
+   "title_en": "Three Female Lions Die Within a Week at Tokyo Zoo as Record Heat Sweeps Japan",
+   "category": "国内",
+   "published": "2026-08-06",
+   "summary": "記録的な猛暑が日本を襲うなか、東京の多摩動物公園で飼育されていた雌ライオン3頭が7日以内に相次いで死亡した。公園の調査では、暑さに関連した疾患が死因と考えられている。野生動物も人間と同様に極端な気温変化に対して脆弱であることが改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-06-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-28.html",
+   "title": "治療を受けずに運転した睡眠時無呼吸症候群のドライバー、70代女性に大けが。「診断後も放置」は許されるのか",
+   "title_en": "Untreated Sleep Apnea Driver Causes Collision with Elderly Cyclist. When Does Medical Diagnosis Become Criminal Responsibility?",
+   "category": "国内",
+   "published": "2026-08-06",
+   "summary": "今年1月、東京都練馬区で睡眠時無呼吸症候群の44歳会社役員が居眠り運転により自転車の70代女性と衝突し、大けがを負わせた事件が報道されました。警視庁は危険運転傷害の疑いで書類送検。役員は診断を受けながら治療を受けていなかったとみられ、医学的な疾患と運転の安全性をめぐる問題が浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-08-06-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-27.html",
+   "title": "大手企業の夏ボーナス過去最高を更新、経団連が発表―あなたの会社は大丈夫?",
+   "title_en": "Major Japanese Companies Hit Record Summer Bonuses—But Is Your Workplace Benefiting?",
+   "category": "経済",
+   "published": "2026-08-06",
+   "summary": "日本経団連が大手企業の夏ボーナス調査結果を発表し、過去最高水準に達したことが明らかになった。好調な企業業績と人手不足への対応として、賃上げ圧力が高まっている背景がある。ただし、この好況は大企業中心であり、中小企業や非正規労働者への波及効果はまだ限定的との指摘もある。"
+  },
+  {
+   "slug": "2026-08-06-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-26.html",
+   "title": "大谷25号&26号で史上最速ペース も、ド軍は6連敗…チームの勝利が追いつかない",
+   "title_en": "Ohtani's 25th & 26th Homers Keep Breaking Records, But Dodgers' Losing Streak Tells Different Story",
+   "category": "スポーツ",
+   "published": "2026-08-06",
+   "summary": "大リーグで活躍する大谷翔平選手が25号と26号ホームランを放ち、シーズン本塁打ペースを加速させている。しかし所属するロサンゼルス・ドジャースは連敗が止まらず、個人の活躍とチーム成績のギャップが浮き彫りになっている。大谷の打撃活動が今後チームをどう牽引するかが焦点となる。"
+  },
+  {
+   "slug": "2026-08-06-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-25.html",
+   "title": "地震直後の被災地で39度…「二重苦」の熊本、命の危険はどこまで高まるのか",
+   "title_en": "39 Degrees in Earthquake-Hit Kumamoto: How dangerous is the \"double crisis\" of disaster and extreme heat?",
+   "category": "国内",
+   "published": "2026-08-06",
+   "summary": "最大震度7で被害を受けた熊本県で、地震から間もない6日に八代市が観測開始以来最高気温の39度を記録しました。7日以降も同地域では猛烈な暑さが続く見通しで、台風の影響も懸念されています。被災者の体調管理や二次災害への警戒が急務となっています。"
+  },
+  {
+   "slug": "2026-08-06-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-24.html",
+   "title": "被爆した姉の遺体、弟が1人で火葬。広島で何が起きたのか",
+   "title_en": "A Brother's Final Act: What Happened When a Young Man Cremated His Bomb-Burned Sister Alone",
+   "category": "国内",
+   "published": "2026-08-06",
+   "summary": "広島の原爆投下後、被爆した姉の遺体を弟が1人で火葬したという歴史的証言。当時の混乱した状況下で、公的な埋葬・火葬の仕組みが機能していなかったことを示す事例として注目されている。被爆者の壮絶な体験と、戦後処理の課題を改めて問い直す記事。"
+  },
+  {
+   "slug": "2026-08-06-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-06-23.html",
+   "title": "81年経った今、なぜ核兵器はなくならないのか？広島の訴えが届かない現実",
+   "title_en": "81 Years After Hiroshima: Why Has the World Still Not Abolished Nuclear Weapons?",
+   "category": "国内",
+   "published": "2026-08-06",
+   "summary": "広島への原爆投下から81年目の8月6日を迎えた。被爆地では犠牲者への追悼式典が開かれ、核兵器廃絶への願いが改めて発せられた。一方で世界情勢は緊迫し、核抑止力の強化を求める動きが広がるなど、核廃絶と現実のギャップが浮き彫りになっている。"
+  },
   {
    "slug": "2026-08-06-22",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-22.html",
