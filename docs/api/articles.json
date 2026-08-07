@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 191,
+ "count": 212,
  "articles": [
+  {
+   "slug": "2026-08-08-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-20.html",
+   "title": "ウサギの楽園が地獄化？餌やりすぎで島が悲鳴を上げてる件",
+   "title_en": "Rabbit Island's Paradise Turned Dystopia: What Overfeeding Has Done",
+   "category": "コラム",
+   "published": "2026-08-08",
+   "summary": "かつて観光客の餌やりで人気を集めたウサギの島が、過剰な給餌による深刻な環境問題に直面している。ウサギの個体数増加に伴い、草地が食べ尽くされ、島全体の生態系バランスが崩れつつあるという。「かわいいから」の一心で始まった給餌が、実は動物たちを苦しめる結果になっていた。"
+  },
+  {
+   "slug": "2026-08-08-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-19.html",
+   "title": "元K-1王者・久保優太が再婚報告、格闘技界の重鎮たちの人生変化から見えるもの",
+   "title_en": "Former K-1 Champion Yuta Kubo Announces Remarriage: What Happened to the Glory Days of Japanese Fighting Sports?",
+   "category": "スポーツ",
+   "published": "2026-08-08",
+   "summary": "K-1で栄光を手にした久保優太が再婚を発表した。格闘技の最高峰で活躍した選手たちの現在地について、ファンの間では懐かしさと当時の思い出が蘇っている。現役時代から時間が経過し、第二の人生への門出を迎える著名選手の動向は、格闘技ファンダムの世代交代を象徴している。"
+  },
+  {
+   "slug": "2026-08-08-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-18.html",
+   "title": "西鉄の駅で突然の『不適切音声』流出、被害届検討へ。何が流れたのか",
+   "title_en": "Inappropriate Audio Broadcast at Nishi-Tetsu Station: What Was Aired and How Did It Happen?",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "福岡市の西日本鉄道の駅構内で、乗客に不快感を与える不適切な音声が放送される事案が発生した。駅側は事態を深刻に受け止めており、被害届の提出を検討している。インフラとしての公共放送システムの管理体制が問われることになりそうだ。"
+  },
+  {
+   "slug": "2026-08-08-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-17.html",
+   "title": "声優の声も著作権で保護へ　AIボイスクローン対策で新指針",
+   "title_en": "Voice Actors' Voices to Receive Copyright Protection Against AI Voice Cloning",
+   "category": "エンタメ",
+   "published": "2026-08-08",
+   "summary": "声優らの音声を知的財産として保護する新たな指針が策定されることが明らかになった。AI技術の発展に伴い、本人の許可なく声が複製・利用される事例が増加しており、声優業界からの要望に応える形での対応となる。音声の権利化によって、無断使用や声のディープフェイク化を法的に制限する環境が整備される見通し。"
+  },
+  {
+   "slug": "2026-08-08-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-16.html",
+   "title": "全東信が539億円超の焦げ付き抱える その背景にあった経営判断とは",
+   "title_en": "Major Credit Union Faces Over 5.39 Billion Yen in Bad Loan Crisis: What Went Wrong?",
+   "category": "経済",
+   "published": "2026-08-08",
+   "summary": "信用金庫大手の全東信が539億円を超える焦げ付き債権を抱えていることが明らかになった。同機関は地域経済の支柱とされながら、大型融資先の経営悪化や担保価値の下落により、深刻な不良債権問題に直面している。経営陣の対応と今後の経営再建が注視されている。"
+  },
+  {
+   "slug": "2026-08-08-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-15.html",
+   "title": "四国新幹線がついに国の調査対象に　実現までどのくらい？",
+   "title_en": "Shikoku Shinkansen Officially Enters Study Phase—How Long Until Opening?",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "国土交通省が四国新幹線を調査対象路線として正式に選定した。これまで構想段階だった四国新幹線が、具体的な事業化に向けた調査の対象となることで、実現に向けた一歩が踏み出されたことになる。ただし調査から実際の着工までには、ルート決定や採算性評価など多くの課題が残されている。"
+  },
+  {
+   "slug": "2026-08-08-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-14.html",
+   "title": "ウクライナがロシア「版アマゾン」を狙い続ける理由 モスクワ近郊で新たな攻撃",
+   "title_en": "Why Ukraine Keeps Targeting Russia's 'Amazon' – New Attack on Warehouses Near Moscow",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "ウクライナ軍がロシア最大手の通販企業ワイルドベリーズの倉庫施設を攻撃。3日夜から翌朝にかけて複数の施設が被害を受け、5人が死亡した。ウクライナは同社の施設を継続的に攻撃対象としており、戦術的な狙いが背景にあるとみられている。"
+  },
+  {
+   "slug": "2026-08-08-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-13.html",
+   "title": "ガザで112人の集団葬儀、2週間のがれき掘り起こしで遺体収容",
+   "title_en": "112 Palestinians Laid to Rest: Mass Funeral Held After Two-Week Search Through Gaza Rubble",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "パレスチナ・ガザ地区で、2023年末のイスラエル軍による空爆で殺害された112人の合同葬儀が執り行われた。犠牲者の大多数は女性と子どもで、二つの大家族に属する人々。長期間がれきの下に埋もれていた遺体が2週間の捜索活動を経て収容され、ようやく埋葬の運びとなった。"
+  },
+  {
+   "slug": "2026-08-08-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-12.html",
+   "title": "兵器不足の報道を全否定、トランプ氏が「漏えい者」追及を宣言　米イラン戦争6ヶ月目の混乱",
+   "title_en": "Trump Denies US Ammunition Shortage While Vowing to 'Hunt Down' Information Leakers as Iran War Enters 6th Month",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "米イラン戦争が長期化する中、複数メディアがアメリカの弾薬枯渇を報道している。これに対しトランプ大統領は6日、情報漏えいの事実そのものを否定した上で、報道の背景にある情報漏えい者に対して長期禁錮刑を科すよう求めると宣言した。情報管理と軍事機密の取り扱いをめぐる姿勢が問われている。"
+  },
+  {
+   "slug": "2026-08-08-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-11.html",
+   "title": "竹島周辺で韓国調査船が無断調査？日本政府が強く抗議",
+   "title_en": "South Korean Survey Ship Conducts Unauthorized Research in Japan's EEZ Near Takeshima",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "島根県の竹島西方に位置する日本の排他的経済水域内で、韓国の調査船が日本政府の同意を得ないまま海洋調査活動を行っていることが判明した。日本政府は外交ルートを通じて韓国側に対し強く抗議する方針を示している。領土問題と絡む敏感な海域での活動が問題視されている。"
+  },
+  {
+   "slug": "2026-08-08-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-10.html",
+   "title": "台湾軍が中国侵攻に備えた大規模演習を公開、実戦さながらの訓練内容とは",
+   "title_en": "Taiwan Conducts Major Military Drill Against Chinese Invasion Scenario",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "台湾で年に一度の大規模な軍事演習が行われ、中国からの侵攻に対する防衛態勢の確認が実施されました。兵士たちが実戦を想定した様々な対応訓練に取り組み、軍の即応体制が検証されています。地政学的な緊張が高まる中、台湾の防衛強化の姿勢が改めて示されました。"
+  },
+  {
+   "slug": "2026-08-08-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-9.html",
+   "title": "国家公務員の給料3.51%アップ決定…手取りはいくら増える?",
+   "title_en": "Japan's Civil Servants to See 3.51% Salary Boost—How Much Will Take-Home Pay Actually Increase?",
+   "category": "経済",
+   "published": "2026-08-08",
+   "summary": "人事院は国家公務員の月給を3.51%引き上げるよう勧告しました。これは民間企業の賃金動向を踏まえた判断で、数年ぶりの大幅な昇給となります。勧告が実施されれば、一般職員の平均月給は相応に増加することになります。"
+  },
+  {
+   "slug": "2026-08-08-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-8.html",
+   "title": "墓じまいが急増中、でも墓石はどこへ？処分方法が問題に",
+   "title_en": "Grave Abandonment Skyrockets in Japan—But Where Do the Tombstones Go?",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "少子高齢化と人口減少に伴い、跡継ぎがいなくなる家が増えています。このため「墓じまい」を選択する人が増加。一方で処分された墓石の扱いについては明確な法整備がなく、廃棄コストや環境への影響など新たな課題が浮上しています。寺院や石材業者も対応に追われている状況が報道されています。"
+  },
+  {
+   "slug": "2026-08-08-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-7.html",
+   "title": "大型で非常に強い台風13号、沖縄・奄美を暴風域に巻き込み進行中。いま警戒すべきポイントは？",
+   "title_en": "Typhoon No. 13 Intensifies: What You Need to Know About the Approaching Threat to Okinawa and Amami",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "現在、沖縄本島地方と奄美地方を暴風域に巻き込みながら進行中の台風13号が大きな懸念材料となっています。大型で非常に強い勢力を保ったまま西方向へ進んでおり、これらの地域では暴風による被害のリスクが高まっています。気象当局では今後の動きを注視し、厳重な警戒態勢を続けるよう呼びかけています。"
+  },
+  {
+   "slug": "2026-08-08-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-6.html",
+   "title": "生成AIが新型ウイルス設計に成功？米研究が示す危険性とは",
+   "title_en": "Can AI Design New Viruses? What a Shocking US Study Reveals About Our Future",
+   "category": "科学",
+   "published": "2026-08-08",
+   "summary": "米国の研究機関がAIを使用して新しいウイルスの設計が可能であることを実証したとのこと。生成AIの急速な発展に伴い、バイオセキュリティの脅威が高まっている。この研究結果は、AI技術の規制やセーフガード強化の必要性を改めて浮き彫りにしている。一方で学術的な知見獲得との両立をどう図るかが課題となっている。"
+  },
+  {
+   "slug": "2026-08-08-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-5.html",
+   "title": "人手不足で経営危機、従業員の退職が原因の倒産が過去最多ペースに",
+   "title_en": "Record-Breaking Wave: How Employee Resignations Are Driving Companies to Bankruptcy",
+   "category": "経済",
+   "published": "2026-08-08",
+   "summary": "従業員の退職が主因となって倒産する企業が増加し、過去最多のペースで推移していることが明らかになった。労働環境の悪化や給与・待遇面での課題、経営層との関係悪化など、人的資源の喪失が企業経営に直結する深刻な事態へと発展している。人口減少社会における人材確保の難しさと、企業の経営課題が顕在化している。"
+  },
+  {
+   "slug": "2026-08-08-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-4.html",
+   "title": "日銀が利上げしても円が弱くなる？経済学の常識が崩れ始めた",
+   "title_en": "Does BoJ Rate Hike Really Strengthen the Yen? Economic Theory Under Question",
+   "category": "経済",
+   "published": "2026-08-08",
+   "summary": "日銀の利上げは一般的に円高をもたらすとされてきたが、実際の市場では必ずしもそうなっていないという指摘が広がっている。金利差や国際的な経済情勢など複数の要因が絡み、従来の理論通りに動かない相場の現実が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-08-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-3.html",
+   "title": "レインボー池田が結婚、相手は佐藤佳奈アナ。意外な組み合わせに視聴者も反応",
+   "title_en": "Rainbow Ikeda Ties the Knot with TV Announcer Sato Kana in Unexpected Celebrity Wedding",
+   "category": "エンタメ",
+   "published": "2026-08-08",
+   "summary": "お笑いコンビ・レインボーの池田が、テレビ局のアナウンサーである佐藤佳奈と結婚したことが報道された。池田はコンビで活動する傍ら、番組出演などで知られており、今回の結婚は芸能界でも話題となっている。二人の馴れ初めや今後の活動についても注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-08-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-2.html",
+   "title": "16歳で久保建英の記録を塗り替え？ J1史上最年少ゴールの衝撃",
+   "title_en": "16-Year-Old Breaks Kubo's Record: Japan's Next Football Sensation?",
+   "category": "スポーツ",
+   "published": "2026-08-08",
+   "summary": "J1リーグで16歳の選手が年少でのゴール記録を達成し、これまでの記録保持者だった久保建英を上回った。若き才能の躍進が注目を集めており、日本サッカー界の将来を担う逸材として期待が高まっている。"
+  },
+  {
+   "slug": "2026-08-08-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-1.html",
+   "title": "国税庁で何が起きた？前例ない不祥事に職員も困惑",
+   "title_en": "What Went Wrong at Japan's National Tax Agency? Unprecedented Crisis Unfolds",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "国税庁で前例のない不祥事が発生し、組織全体に危機感が広がっている。税務行政の信頼性に関わる重大な事態として、国庫の適正な管理を担う機関としての責任が問われている状況。職員や関係者の間でも対応方針や再発防止策をめぐる議論が続いている。"
+  },
+  {
+   "slug": "2026-08-08-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-0.html",
+   "title": "手術で脳の一部を誤って摘出、患者が自発呼吸不能に…医療事故の実態",
+   "title_en": "Brain Tissue Accidentally Removed During Surgery, Patient Left Unable to Breathe Independently",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "医療機関での手術中に、患者の脳の一部が誤って摘出される医療事故が発生した。摘出部位が呼吸中枢に関連する領域だったため、患者は自発的に呼吸することができなくなり、現在も人工呼吸器に依存しているという状況。医療安全管理の重要性があらためて浮き彫りになった事案として注目されている。"
+  },
   {
    "slug": "2026-08-07-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-42.html",
