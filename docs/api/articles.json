@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 148,
+ "count": 169,
  "articles": [
+  {
+   "slug": "2026-08-07-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-20.html",
+   "title": "小栗旬と横浜流星が初共演で「最高」？ファン歓喜も心配の声も…まさかの組み合わせが実現した件",
+   "title_en": "Shun Oguri Teams Up with Ryusei Yokohama and Calls It 'Amazing' - But Wait, What Project Are We Even Talking About?",
+   "category": "コラム",
+   "published": "2026-08-07",
+   "summary": "俳優の小栗旬が、横浜流星との初共演を実現させ「最高」とコメント。二人の共演は業界でも注目を集めており、ファンからは期待と興奮の声が上がっている。詳細なプロジェクト内容については現在のところ明かされていないが、この組み合わせが話題を呼んでいる。"
+  },
+  {
+   "slug": "2026-08-07-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-19.html",
+   "title": "韓国警察がサッカー協会を家宅捜索、何が問題になったのか？",
+   "title_en": "What Led Korean Police to Raid Soccer Federation?",
+   "category": "スポーツ",
+   "published": "2026-08-07",
+   "summary": "韓国警察がサッカー協会の施設に家宅捜索を実施した。具体的な捜索理由は報道から明らかではないが、協会の運営体制や資金管理に関する疑惑が背景にあると見られている。韓国のスポーツ界では過去にも統治体制の不透明性が問題化してきただけに、今回の捜索は大きな注目を集めている。"
+  },
+  {
+   "slug": "2026-08-07-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-18.html",
+   "title": "長州小力、プロレスリング復帰へ　引退から何年ぶりのカムバック？",
+   "title_en": "Nagashu Chikara Returns to the Wrestling Ring: How Many Years Since His Retirement?",
+   "category": "エンタメ",
+   "published": "2026-08-07",
+   "summary": "お笑いタレントの長州小力がプロレスのリングに復帰することが明らかになった。かつてプロレスラーとして活動していた同氏だが、お笑い芸人としてのキャリアを積み重ねていた。今回の復帰により、エンタメとスポーツの両立という異色のチャレンジが注目を集めている。"
+  },
+  {
+   "slug": "2026-08-07-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-17.html",
+   "title": "VIVANTの太田は実は二重スパイ？ドラマの謎を考察する",
+   "title_en": "Is Ota Actually a Double Agent in VIVANT? Fans Speculate on the Mystery",
+   "category": "エンタメ",
+   "published": "2026-08-07",
+   "summary": "日本テレビのドラマ『VIVANT』において、主人公・乃木憲一の同僚である太田というキャラクターが実は二重スパイではないかという考察が視聴者の間で話題になっている。ドラマの進展に伴い、太田の行動パターンや発言に矛盾点が見られることから、複雑な人物設定を持つこのキャラの正体について、ファンが独自の推理を展開している。"
+  },
+  {
+   "slug": "2026-08-07-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-16.html",
+   "title": "ドラマのタイトル「Tシャツ」、実は企画段階では「Yシャツ」だった？衣装選定の意外な変更劇",
+   "title_en": "Behind the Scenes: How the Drama Title Changed from \"Y-Shirt\" to \"T-Shirt\" in Development",
+   "category": "エンタメ",
+   "published": "2026-08-07",
+   "summary": "あるドラマ作品のタイトルが「Tシャツ」に決まったが、実は制作初期段階では「Yシャツ」という案が存在していたことが明かされた。物語の主題や衣装デザインとの関連性など、タイトル決定までの背景にはドラマの核となるコンセプトの変更があったとみられる。細部へのこだわりが垣間見える制作秘話として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-07-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-15.html",
+   "title": "秋田にAIデータセンター建設、なぜ今地方が選ばれるのか？",
+   "title_en": "Why is Akita Prefecture Becoming Japan's Next AI Data Center Hub?",
+   "category": "IT",
+   "published": "2026-08-07",
+   "summary": "秋田県にAIデータセンターの建設計画が浮上している。大規模な計算資源を必要とするAI開発には莫大な電力が必要となるため、電源確保と冷却環境が立地条件の要となる。秋田県の豊富な水資源と相対的に低い地価が、東京などの過密地帯よりも有利に働く可能性がある。地方創生と産業集積の観点から、今後の展開に注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-07-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-14.html",
+   "title": "イランとウクライナ、二つの戦争が初めて直結　カスピ海での攻撃が示す国際紛争の複雑化",
+   "title_en": "Ukraine and Iran's War Directly Collide for the First Time: Caspian Sea Attack Shows Growing Complexity of Global Conflicts",
+   "category": "国際",
+   "published": "2026-08-07",
+   "summary": "ウクライナが25日、カスピ海でイランの貨物船を攻撃した。これまで別々の紛争とされていたイランでの動向とウクライナ戦争が初めて直接的に結びついた形。イランは報復を警告しているが、ウクライナはこれを拒否している。東欧とコーカサス地域の緊張がさらに高まる可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-07-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-13.html",
+   "title": "24日間の沈黙が破裂。イラン、米軍基地に弾道ミサイル攻撃か",
+   "title_en": "Four-Day Ceasefire Shattered: Iran Launches Ballistic Missile Strikes on US Military Bases",
+   "category": "国際",
+   "published": "2026-08-07",
+   "summary": "米軍は28日、中東の米軍基地がイランの革命防衛隊による複数の弾道ミサイルで攻撃されたと発表。その後、米軍とサウジアラビア軍がイラクのイラン支援勢力の拠点を報復攻撃した。両国は24日夜以降、相互攻撃を控えていたが、ここにきて緊張が再燃した形となっている。"
+  },
+  {
+   "slug": "2026-08-07-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-12.html",
+   "title": "21人死亡のロシア攻撃、ゼレンスキー氏が指摘した「あれば救えた」とは",
+   "title_en": "\"We Could Have Saved Them\": Zelenskyy Points to Critical Air Defense Gap After Deadly Russian Strike",
+   "category": "国際",
+   "published": "2026-08-07",
+   "summary": "ウクライナ各地がロシアの弾道ミサイルとドローン攻撃を受け、少なくとも21人が殺害された。ゼレンスキー大統領は迎撃ミサイルの不足を強調し、防空システムの充実があれば人命被害を減らせたと主張。西側からの軍事支援の重要性を改めて訴える形となった。"
+  },
+  {
+   "slug": "2026-08-07-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-11.html",
+   "title": "イランがオマーンと海峡運用で合意、中東の緊張緩和につながるのか？",
+   "title_en": "Will Iran-Oman Strait Agreement Ease Middle East Tensions?",
+   "category": "国際",
+   "published": "2026-08-07",
+   "summary": "イランがオマーンと、ホルムズ海峡周辺の海上運用に関して合意に達したと報じられている。この合意は中東地域の海運安全と地政学的な緊張緩和に向けた動きと見られ、両国の協力体制が強化される可能性がある。地域内の航行の自由確保と安全保障をめぐる議論が進む中での重要な合意となる。"
+  },
+  {
+   "slug": "2026-08-07-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-10.html",
+   "title": "北朝鮮のミサイル発射、韓国が短距離弾道ミサイルと断定 朝鮮半島の緊張高まる",
+   "title_en": "North Korea's Latest Missile Launch Identified as Short-Range Ballistic Missile by South Korea",
+   "category": "国際",
+   "published": "2026-08-07",
+   "summary": "北朝鮮が発射したミサイルについて、韓国の当局が短距離弾道ミサイルであると確認した。この発射は朝鮮半島における軍事的緊張の高まりを示しており、国際社会での懸念が広がっている。韓国は今回の動きを注視しながら、米国などとの連携を強化する見通しとなっている。"
+  },
+  {
+   "slug": "2026-08-07-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-9.html",
+   "title": "台風13号、きょう沖縄・奄美に接近。進路・影響は？",
+   "title_en": "Typhoon No. 13 Approaching Okinawa and Amami Today: What to Expect?",
+   "category": "国内",
+   "published": "2026-08-07",
+   "summary": "台風13号が本日、沖縄県と奄美地域に接近する見込みです。気象当局は暴風や大雨、高波などへの警戒を呼びかけており、交通機関の乱れや停電のリスクがあります。最新の進路予測と対策を確認し、安全確保の準備が必要な状況となっています。"
+  },
+  {
+   "slug": "2026-08-07-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-8.html",
+   "title": "張本美和、絶望的な状況から中国選手を逆転撃破で8強進出！その執念の戦いぶりとは",
+   "title_en": "Miwako Harimoto Stages Miraculous Comeback Against Chinese Rival to Advance to Quarterfinals",
+   "category": "スポーツ",
+   "published": "2026-08-07",
+   "summary": "卓球の張本美和選手が国際大会で中国選手との試合に臨み、劣勢の状況から見事な大逆転勝利を収め、8強進出を決めた。日本を代表する若き天才の粘り強いプレーと精神力が、格上の相手を上回る結果へと導いた。"
+  },
+  {
+   "slug": "2026-08-07-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-7.html",
+   "title": "巨人マルティネス、SNSで中傷被害か―プロ野球選手へのネット暴力の実態",
+   "title_en": "Giants' Martinez Faces Cyberbullying on Social Media―The Dark Side of Sports Fandom Online",
+   "category": "スポーツ",
+   "published": "2026-08-07",
+   "summary": "読売巨人軍のマルティネス選手がSNS上での中傷被害を受けたことが報道されました。プロ野球選手が試合成績や言動をめぐってネット上で批判・誹謗中傷されるケースは近年増加傾向にあり、スポーツ界全体で問題化しています。選手のメンタルヘルスや安全確保に関わる重要な課題として注目が集まっています。"
+  },
+  {
+   "slug": "2026-08-07-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-6.html",
+   "title": "レイバンが値下げ禁止？公取委が処分を下した理由とは",
+   "title_en": "Ray-Ban Price-Fixing Scandal: Why Japan's FTC Cracked Down",
+   "category": "経済",
+   "published": "2026-08-07",
+   "summary": "高級サングラスブランド・レイバンが、小売店に対して商品の値下げを禁止していた問題で、公正取引委員会が独占禁止法違反として処分を下した。メーカーが流通業者に価格設定を強制する行為は、消費者の利益を損なうとして規制されている。ブランドイメージ維持と価格競争の抑制のバランスが問われる事例となった。"
+  },
+  {
+   "slug": "2026-08-07-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-5.html",
+   "title": "顔加工アプリ「SNOW」に措置命令…消費者庁が指摘した問題とは",
+   "title_en": "Why Did the Popular Selfie App SNOW Face Administrative Action?",
+   "category": "IT",
+   "published": "2026-08-07",
+   "summary": "人気の顔加工アプリ「SNOW」に対し、消費者庁が措置命令を下した。アプリの機能や表示方法に関して景品表示法違反の疑いが認定されたもの。SNOWは国内でも多くのユーザーを抱えており、今回の行政処分は加工アプリ業界全体に影響を与える可能性がある。詳細な理由と今後の対応が注目される。"
+  },
+  {
+   "slug": "2026-08-07-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-4.html",
+   "title": "太陽表面、ついに過去最高の解像度で撮影される。見えてきた驚きの詳細とは",
+   "title_en": "Sun's Surface Photographed at Record Resolution: What Scientists Can Now See",
+   "category": "科学",
+   "published": "2026-08-07",
+   "summary": "太陽表面が過去最高の解像度で観測されました。より鮮明な画像により、太陽表面の詳細な構造や現象が従来よりも明確に捉えられるようになり、太陽の仕組みや地球への影響をより深く理解する手がかりが得られると期待されています。この観測成果は太陽物理学の重要な進展となりそうです。"
+  },
+  {
+   "slug": "2026-08-07-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-3.html",
+   "title": "都立病院が「生殖医療外来」開設へ　不妊治療の選択肢が広がる",
+   "title_en": "Tokyo Metropolitan Hospital Launches New Reproductive Medicine Clinic: Expanding Access to Fertility Treatment",
+   "category": "健康",
+   "published": "2026-08-07",
+   "summary": "東京都立病院が生殖医療に特化した外来診療を新たに開設する方針を発表しました。不妊治療の需要の高まりを受けた対応で、都民がより身近で質の高い生殖医療にアクセスできる環境が整備されることになります。公立病院による本格的な生殖医療サービスの拡充は、治療費負担の軽減や地域格差の解消にもつながると期待されています。"
+  },
+  {
+   "slug": "2026-08-07-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-2.html",
+   "title": "女性研究者の離職相次ぐ日本、政府が新支援制度導入へ。待遇改善で何が変わる?",
+   "title_en": "Japan Launches New Support Program for Female Researchers Amid Rising Attrition. What Will Really Change?",
+   "category": "科学",
+   "published": "2026-08-07",
+   "summary": "政府が女性研究者を支援する新制度の導入方針を打ち出した。育児や介護との両立困難で離職する女性研究者が多い現状を受けての施策。具体的な支援内容は今後詰められるが、研究環境の整備と処遇改善を軸に、女性の研究継続環境を整える狙い。科学技術立国を目指す日本にとって、人材流出防止が重要課題となっている。"
+  },
+  {
+   "slug": "2026-08-07-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-1.html",
+   "title": "月面に激突したロケット残骸、ついに画像公開される。何が見えた？",
+   "title_en": "Images of Lunar Rocket Debris Impact Finally Revealed—What Do They Show?",
+   "category": "科学",
+   "published": "2026-08-07",
+   "summary": "月面に衝突したロケット残骸の衝突跡の画像が公開されました。宇宙機関による観測で、月面上の衝突痕が鮮明に捉えられ、宇宙ゴミ問題の実態を可視化する貴重な資料として注目されています。月周回軌道の利用増加に伴い、こうした衝突事例の追跡と記録の重要性が認識されるようになりました。"
+  },
+  {
+   "slug": "2026-08-07-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-07-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-07-0.html",
+   "title": "6兆円超の円買い介入、政府・日銀が4/30に実行…その狙いと影響は？",
+   "title_en": "Government and BOJ Execute Over 6 Trillion Yen in Currency Intervention: What's the Real Impact?",
+   "category": "経済",
+   "published": "2026-08-07",
+   "summary": "4月30日、政府と日銀が6兆円を超える規模の円買い介入を実施した。急速な円安進行に対抗するための措置で、このような大規模介入は数年ぶり。円相場の安定化と市場への心理的効果を狙ったもので、金融市場や輸入物価に与える影響が注視されている。"
+  },
   {
    "slug": "2026-08-06-43",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-06-43.html",
