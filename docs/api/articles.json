@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 233,
+ "count": 254,
  "articles": [
+  {
+   "slug": "2026-08-09-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-20.html",
+   "title": "ペンギン4羽が相次いで死亡…園が明かした意外な死因とは？飼育員たちの葛藤",
+   "title_en": "Four Penguins Dead at Zoo: What Was the Surprising Cause?",
+   "category": "コラム",
+   "published": "2026-08-09",
+   "summary": "某動物園でペンギン4羽が相次いで死亡し、園が公式に死因を発表した。水族館やペンギン展示施設では珍しくない事態だが、今回の発表内容が話題に。飼育環境の改善や来園者への透明性確保をめぐり、議論が広がっている。"
+  },
+  {
+   "slug": "2026-08-09-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-19.html",
+   "title": "AI動画と本物の区別がつかない…中国で「偽災害動画」が大問題に、どうやって見分ける?",
+   "title_en": "Can You Tell Real from Fake? China's AI-Generated Disaster Videos Spark Trust Crisis",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "中国でAIが生成した災害動画が急速に拡散し、社会問題化している。気候変動の深刻化に伴い、異常気象や災害の映像がSNS上で溢れているが、その中に明らかなフェイクが混在。視聴者が真偽を判断できず、デマによるパニックや不安が現実に影響を与え始めているという状況が報告されている。"
+  },
+  {
+   "slug": "2026-08-09-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-18.html",
+   "title": "韓国サッカー協会が外国人審判に性的接待？国際スポーツの信頼が揺らぐ",
+   "title_en": "Korean Soccer Federation's Sexual Favors to Foreign Referees Shake Trust in International Sports",
+   "category": "スポーツ",
+   "published": "2026-08-09",
+   "summary": "韓国のサッカー協会が代表チームの国際試合で日本を含む外国人審判員に対して性的な接待を行っていたと複数のメディアが報道。この事実が明るみに出たことで、協会は組織運営の不透明性を含む一連の問題について謝罪に追い込まれた。スポーツ界のガバナンス問題として国際的な批判を招いている。"
+  },
+  {
+   "slug": "2026-08-09-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-17.html",
+   "title": "佐野航大がPSVへ完全移籍、日本人MFのオランダ挑戦はなぜ今なのか",
+   "title_en": "Why Did Sano Kodai Choose PSV Eindhoven? Japanese Midfielder's Bold European Move Explained",
+   "category": "スポーツ",
+   "published": "2026-08-09",
+   "summary": "日本代表のMF佐野航大が、オランダのPSVアイントホーフェンへ完全移籍することが決定した。欧州トップリーグへの挑戦は、日本人選手のキャリアパスとしても注目される決断。クラブでのポジション争いや年代別代表での経験が、この移籍を後押ししたとみられている。"
+  },
+  {
+   "slug": "2026-08-09-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-16.html",
+   "title": "Xの新収益プログラムで何が変わる？クリエイターの収入はどうなる",
+   "title_en": "What's Changing With X's New Revenue Program? Here's What Creators Need to Know",
+   "category": "IT",
+   "published": "2026-08-09",
+   "summary": "Xが新しい収益プログラムを導入し、プラットフォーム上での創作活動の報酬体系が見直されることになった。従来のアフィリエイトやスポンサーシップに加え、ユーザーエンゲージメントに基づく新たな分配メカニズムが検討されている。この変化がクリエイターやプラットフォーム利用者にもたらす影響について、業界関係者の間で議論が続いている。"
+  },
+  {
+   "slug": "2026-08-09-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-15.html",
+   "title": "日本郵便にシステム障害発生、どの地域・サービスが影響を受けた？",
+   "title_en": "Japan Post System Outage: Which Services and Regions Were Affected?",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "日本郵便で一時的なシステム障害が発生し、郵便物の引き受けや配送業務などのサービスに影響が生じました。障害の規模や復旧時間、影響を受けたユーザーの対応など、実務的な観点から問題が検証される事態となっています。"
+  },
+  {
+   "slug": "2026-08-09-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-14.html",
+   "title": "トランプの『和平計画』が早くも暗礁へ？イスラエルが厳しい追加条件を提示",
+   "title_en": "Trump's Gaza Peace Plan Already in Trouble as Israel Sets Tougher Terms",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "イスラエル政府高官が、米国のトランプ大統領が発表したガザ和平計画に対し、独自の条件を付け加えた。ハマスの『完全武装解除』だけでなく『真の武装解除』が達成されない限り、イスラエル軍はガザから撤退しないと明言。和平合意の実現に向けた課題が早期に浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-08-09-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-13.html",
+   "title": "月面に激突したスペースXのロケット残骸、韓国が撮影に成功。何が映っていたのか？",
+   "title_en": "South Korea Captures Images of SpaceX Rocket Debris Crashing on the Moon—What Was Revealed?",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "韓国航空宇宙庁（KASA）がスペースXのロケット残骸が月面に衝突した痕跡を捉えた画像を公開した。宇宙ゴミ問題が深刻化する中、月面への不用意な落下事象が国際社会で注目を集めている。今回の衝突地点や影響範囲などの詳細は調査中だという。"
+  },
+  {
+   "slug": "2026-08-09-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-12.html",
+   "title": "サウジ・トルコ・パキスタンが「集団防衛協定」締結　一国への攻撃は三国全体への宣戦布告に",
+   "title_en": "Saudi Arabia, Turkey, and Pakistan Form NATO-Style Defense Pact—What Does This Mean for Iran?",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "中東と南アジアの主要3国が共同防衛協定に署名した。協定では3カ国のいずれかが攻撃を受けた場合、他の2カ国も同時に攻撃されたものと見なす相互防衛義務が定められている。この動きはイランが強く反発しており、地域の勢力図に大きな変化をもたらす可能性がある。"
+  },
+  {
+   "slug": "2026-08-09-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-11.html",
+   "title": "中国船衝突で2人死亡、なぜ1年も隠蔽されたのか",
+   "title_en": "Why Did China Delay Reporting a Deadly Ship Collision for a Whole Year?",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "中国で船同士の衝突事故により2人が死亡する事件が発生していたが、当局による公表が1年遅れていたことが明らかになった。事故の詳細や隠蔽された理由については不透明な部分が多く、中国の情報公開体制に疑問の声が上がっている。"
+  },
+  {
+   "slug": "2026-08-09-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-10.html",
+   "title": "ウクライナ首都で露軍が攻撃、4人が犠牲に。戦況はどうなっている？",
+   "title_en": "Russian Forces Attack Kyiv and Surroundings, Four Deaths Reported—What's the Current Situation?",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "ロシア軍がウクライナの首都キーウおよび周辺地域に対する攻撃を実施し、複数の死傷者が発生しました。地元当局によると少なくとも4人が亡くなったとのこと。この地域への攻撃は継続的な軍事作戦の一環で、民間人への被害も報告されています。現地では警戒態勢が強化されており、避難体制の確保が急務となっています。"
+  },
+  {
+   "slug": "2026-08-09-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-9.html",
+   "title": "乗馬選手・今村聖奈が入場直後に落馬、両足負傷 現在の状況は？",
+   "title_en": "Equestrian Athlete Seina Imamura Sustains Bilateral Foot Injury After Fall During Entry",
+   "category": "スポーツ",
+   "published": "2026-08-09",
+   "summary": "乗馬競技の選手・今村聖奈が競技会で入場直後に落馬し、両足を負傷する事故が発生した。詳細な原因や負傷の程度については現在調査中。乗馬は高い危険性を伴うスポーツであり、安全対策の重要性が改めて問われている。"
+  },
+  {
+   "slug": "2026-08-09-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-8.html",
+   "title": "台風15号、11～12日に東北上陸か。進路予想は？準備できることは？",
+   "title_en": "Typhoon No. 15 Likely to Make Landfall in Tohoku Region on Sept 11-12. What Should We Know?",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "台風15号が11～12日にかけて東北地方への上陸が懸念されている。気象庁の予報では、今後の進路や勢力の変化が注視されている。地域によって被害の程度が異なる可能性もあり、早めの防災対策や気象情報の確認が呼びかけられている。"
+  },
+  {
+   "slug": "2026-08-09-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-7.html",
+   "title": "ボイメン、事務所と契約終了で改名へ　人気グループの決断にファン反応は？",
+   "title_en": "Boyz and Their Agency Part Ways: Popular Group to Rebrand—What's Next?",
+   "category": "エンタメ",
+   "published": "2026-08-09",
+   "summary": "人気ボーイズグループのボイメンが所属事務所との契約を終了し、改名することが明らかになった。グループの今後の活動方針や新しい名前については、公式発表を待つ状況。契約終了の背景にある経緯や、ファンへの影響について注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-09-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-6.html",
+   "title": "出産への不安が変わる？「家族留学」という選択肢、その効果とは",
+   "title_en": "How \"Family Homestays\" Are Changing Attitudes Toward Parenthood",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "出産や育児に対する不安を抱える人たちが、実際に子育てを体験する家族の下で過ごす「家族留学」プログラムに参加することで、心理的な変化が生まれているという取り組みが注目されている。実例を通じて、不安の軽減と決断の促進がもたらされているようだ。"
+  },
+  {
+   "slug": "2026-08-09-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-5.html",
+   "title": "81年経った今、なぜ『長崎を最後の被爆地に』という願いは叶わないのか",
+   "title_en": "Why Has 'Nagasaki as the Last Hibakusha City' Remained Unfulfilled After 81 Years?",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "長崎への原爆投下から81年となる9日、被爆地は全ての犠牲者に祈りを捧げた。高齢化により被爆者が減少する中、核兵器をめぐる国際情勢が悪化し、「長崎を最後の被爆地に」という願いの実現が危ぶまれている状況が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-09-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-4.html",
+   "title": "日本のマヨネーズが世界で爆売れ中…その理由、知ってた？",
+   "title_en": "Why Is Japanese Mayonnaise Suddenly Taking Over the World?",
+   "category": "経済",
+   "published": "2026-08-09",
+   "summary": "日本製マヨネーズが海外で急速に人気を集めている。高い品質基準と独特の製法が評価され、欧米やアジア各地での販売が急増しているという。日本の調味料文化が世界に広がる中、マヨネーズは食品産業の新たな輸出戦略となりつつある。"
+  },
+  {
+   "slug": "2026-08-09-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-3.html",
+   "title": "50代での再婚が増加中？芸能界で相次ぐ「パパ再婚」の背景にあるもの",
+   "title_en": "Why Are More Celebrities in Their 50s Remarrying? Japan's 'Second Act' Love Story Trend",
+   "category": "エンタメ",
+   "published": "2026-08-09",
+   "summary": "芸能界で50代の著名人による再婚のニュースが相次いでいる。ミッチーこと大仁田厚の再婚をきっかけに、同年代の芸能人たちの人生の転機が注目を集めている。人生100年時代の到来やライフスタイルの多様化により、中高年での再出発が珍しくなくなってきた背景について考察する。"
+  },
+  {
+   "slug": "2026-08-09-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-2.html",
+   "title": "息子を助けようとした父親が溺れ死亡―子どもを守ろうとした判断の分かれ道",
+   "title_en": "Father Dies Attempting to Rescue Drowning Son—When Good Intentions Turn Tragic",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "川で溺れた息子を助けようとした父親が、自身も水に流され溺れ死亡する事故が発生しました。子どもを救いたいという親心と、危機的状況下での判断という難しい問題を改めて浮き彫りにしています。類似事故を防ぐために、水辺での安全対策の重要性が指摘されています。"
+  },
+  {
+   "slug": "2026-08-09-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-1.html",
+   "title": "戦時中の輸血人体実験、複数大学で実施…何が行われていたのか",
+   "title_en": "Wartime Blood Transfusion Experiments at Multiple Universities: What Really Happened?",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "戦時中に複数の大学で輸血に関する人体実験が行われていたことが明らかになった。当時の医学研究の名目で、倫理的問題を伴う実験が実施されていた実態が調査で判明。戦後の医学倫理確立にも関わる重要な歴史的事実として注目されている。"
+  },
+  {
+   "slug": "2026-08-09-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-0.html",
+   "title": "35℃の練習中にラグビー選手が死亡、九電は何を見落としていたのか",
+   "title_en": "Kyushu Electric Power Rugby Player Dies During Training in 35°C Heat: What Went Wrong?",
+   "category": "スポーツ",
+   "published": "2026-08-09",
+   "summary": "九州電力のラグビー部に所属する選手が、気温35℃の中での練習中に倒れて死亡する事案が発生しました。熱中症の危険が極めて高い環境での運動継続が、今回の悲劇につながったとみられています。スポーツの現場での安全管理と、過度な練習体制の見直しが急務となっています。"
+  },
   {
    "slug": "2026-08-08-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-41.html",
