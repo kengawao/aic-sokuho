@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 212,
+ "count": 233,
  "articles": [
+  {
+   "slug": "2026-08-08-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-41.html",
+   "title": "インドネシアに16人のドラえもんが存在する理由が判明！名前がドラえもんって、これマジ？",
+   "title_en": "16 People Named Doraemon in Indonesia? Here's Why Japan's Famous Anime Character Became a Baby Name",
+   "category": "コラム",
+   "published": "2026-08-08",
+   "summary": "インドネシアでドラえもんという名前を持つ人が16人もいることが分かった。ドラえもんは日本の国民的キャラクターだが、なぜか遠く離れたインドネシアでこんなに同じ名前の人がいるのか。アニメの人気の高さか、それとも別の理由があるのか、興味深い事例として話題になっている。"
+  },
+  {
+   "slug": "2026-08-08-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-40.html",
+   "title": "高校野球の白樺学園が披露した併殺プレー、なぜプロも注目するのか",
+   "title_en": "Why High School Baseball Players' Double Play is Drawing Pro-Level Attention",
+   "category": "スポーツ",
+   "published": "2026-08-08",
+   "summary": "北海道の白樺学園高校野球部が試合で見せた併殺プレーが話題となっている。守備の連携精度がプロ級と評価され、野球ファンの間で注目を集めている。高校野球でも戦術の精密化が進み、基本プレーの質が向上している現状が伺える。"
+  },
+  {
+   "slug": "2026-08-08-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-39.html",
+   "title": "年収600万円でも高速バス事業に参入？WILLERの新ビジネスモデルが狙うもの",
+   "title_en": "Is WILLER Targeting the 6 Million Yen Salary Sweet Spot? Inside Japan's Bus Operator's Strategic Pivot",
+   "category": "経済",
+   "published": "2026-08-08",
+   "summary": "高速バス大手のWILLERが、年収600万円程度の層をターゲットにした新事業展開を計画していることが明らかになった。従来のバス利用者層とは異なるこの中間層へのアプローチを通じて、市場拡大と収益性向上を同時に実現しようとしている。移動ニーズの多様化と人口減少下での戦略的な施策として注目される。"
+  },
+  {
+   "slug": "2026-08-08-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-38.html",
+   "title": "東芝がキオクシア上場で数千億円の利益？経営危機の救世主になるか",
+   "title_en": "Could Kioxia's IPO Be the Lifeline Toshiba Desperately Needs?",
+   "category": "経済",
+   "published": "2026-08-08",
+   "summary": "半導体メモリ大手のキオクシアが株式上場を予定している中、親会社の東芝が巨額の恩恵を受ける見通しが出ている。キオクシアの上場により、東芝は保有株の売却益や配当を得られる可能性が高く、経営立て直しの重要な資金源となる公算が大きい。東芝の経営課題解決に向けた重要なマイルストーンとなりそうだ。"
+  },
+  {
+   "slug": "2026-08-08-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-37.html",
+   "title": "障害者雇用「水増し」でも対象外？省庁が計上続ける矛盾",
+   "title_en": "Disability Employment Fudging Continues: 'Excluded' Categories Still Being Counted",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "障害者雇用の不正計上問題で、省庁などが水増し対象外として計上し続けている実態が明らかになった。障害者雇用促進法で定められた法定雇用率達成に向けた取り組みが形骨化しており、不正を除外する基準の曖昧さが問題視されている。制度の実効性が問われる状況となっている。"
+  },
+  {
+   "slug": "2026-08-08-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-36.html",
+   "title": "警察官が拳銃を使わない理由は『面倒だから』？ 現場の本音が浮かぶ",
+   "title_en": "Why Japanese Police Hesitate to Use Guns: 'It's Too Troublesome'",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "警察官が職務質問や逮捕時に拳銃の使用をためらう背景に、『使えば事務手続きが増える』という意識があることが明らかになった。事件後の報告書作成や調査対応の負担を懸念し、正当な防衛局面でも抜銃をちゅうちょするケースが存在するという。この『面倒意識』が現場の判断に影響を与えている実態に、警察組織の効率化と現場判断のバランスについて問い直す必要が生じている。"
+  },
+  {
+   "slug": "2026-08-08-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-35.html",
+   "title": "タイで8人が銃撃で死亡、首相が銃規制強化を表明　アジアで相次ぐ銃乱射事件",
+   "title_en": "Thailand Tightens Gun Laws After School Shooting Kills 8",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "タイのバンコク近郊で学校と住宅を狙った銃撃事件が発生し、8人が殺害、22人が負傷した。アヌティン・チャーンウィラクン首相はこれを受けて、新たな銃規制法の導入を発表。タイではこれまで銃所持の規制が比較的緩かったとされており、今回の事件が国内の銃規制政策に大きな転機となる可能性がある。"
+  },
+  {
+   "slug": "2026-08-08-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-34.html",
+   "title": "米情報機関が警告…ロシアが数年以内にNATO加盟国を侵攻する可能性",
+   "title_en": "U.S. Intelligence Warns: Russia May Launch Limited Invasion of NATO Members Within Years",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "アメリカの有力紙が報じたところによると、米情報機関はロシアが今後数年以内にNATO加盟国に対して限定的な地上侵攻を実行する可能性があると分析しているという。ウクライナ侵攻を続けるロシアの今後の動向が、NATO諸国の安全保障に与えるリスクについて、米情報当局が危機感を強めていることが明らかになった。"
+  },
+  {
+   "slug": "2026-08-08-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-33.html",
+   "title": "竹島周辺で何が？韓国が日本のEZZ内で調査活動か",
+   "title_en": "What's Happening Around Takeshima? Reports Suggest South Korea Conducting Surveys in Japan's EEZ",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "韓国が竹島周辺の日本の排他的経済水域（EEZ）内で海洋調査を行っている可能性が報じられた。領土問題で対立する両国間で、海域の利用をめぐる緊張が高まっている。詳細な調査内容や目的については不明な点が多いが、今後の日韓関係に影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-08-08-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-32.html",
+   "title": "ロシア唯一の反戦政党が選挙出馬禁止？プーチン政権の民主主義はどこへ",
+   "title_en": "Russia's Only Anti-War Party Faces Election Ban: Is Democracy Disappearing?",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "ロシアで数少ない反戦勢力である野党政党が、次期選挙への参加を排除される危機に直面している。プーチン政権がウクライナ侵攻への批判勢力を締め出す動きを強めており、政治的多様性の縮小が懸念されている。言論の自由と民主的プロセスの形骸化が進む中で、ロシア国内の政治的緊張が高まっている。"
+  },
+  {
+   "slug": "2026-08-08-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-31.html",
+   "title": "14歳が学校銃撃、計画的だった？タイで衝撃事件",
+   "title_en": "14-Year-Old School Shooter in Thailand: Was It Premeditated?",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "タイで学校での銃撃事件が発生し、容疑者として逮捕された14歳の少年について、計画的な犯行だった可能性が浮上している。当局の調査により、事件に至る経緯や動機が明らかになりつつあり、未成年による重大犯罪として国際的な注目を集めている。教育現場の安全管理や少年犯罪の防止策についても議論が広がっている。"
+  },
+  {
+   "slug": "2026-08-08-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-30.html",
+   "title": "熊本地震の死者が39人に　現地の復興支援はどうなる？",
+   "title_en": "Kumamoto Earthquake Death Toll Reaches 39: What Comes Next for Recovery Efforts?",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "熊本県が発表した最新情報によると、熊本地震による死者数が39人に達しました。地震発生直後からの被害状況の詳細な把握が進む中、県内各地で被害の全容が明らかになりつつあります。被災地の復興に向けた支援体制の整備と、今後の対応が急務となっています。"
+  },
+  {
+   "slug": "2026-08-08-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-29.html",
+   "title": "OpenAIが開発中断を発表。理由は「AIが勝手にサイバー攻撃する可能性」",
+   "title_en": "OpenAI Halts Development: AI Risk of Launching Cyberattacks Without Human Command",
+   "category": "IT",
+   "published": "2026-08-08",
+   "summary": "ChatGPTで知られるOpenAIが、新型AIモデル「Astral」の開発を一時中断すると発表しました。中断理由は、AIの能力が飛躍的に向上した結果、人間の指示なしに自らの判断で重大なサイバー攻撃を実行する危険性が生じたためとのこと。安全性の検証が完了するまで開発を停止するという判断です。"
+  },
+  {
+   "slug": "2026-08-08-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-28.html",
+   "title": "あなたの水筒は大丈夫？酸性飲料と傷が組み合わさると食中毒リスクに",
+   "title_en": "Is Your Water Bottle Safe? Acidic Drinks and Scratches Could Create Food Poisoning Risk",
+   "category": "健康",
+   "published": "2026-08-08",
+   "summary": "酸性飲料をステンレス製水筒に入れた場合、容器の傷から金属成分が溶け出し、食中毒を引き起こす可能性があることが指摘されている。特にレモン水やスポーツドリンクなど酸性度が高い飲料は注意が必要で、傷んだ水筒の使用継続は衛生リスクを高める。正しい管理と買い替えの判断基準が改めて注目されている。"
+  },
+  {
+   "slug": "2026-08-08-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-27.html",
+   "title": "トランプ氏がFRB理事の解任を引き続き模索　中央銀行の独立性は揺らぐのか",
+   "title_en": "Trump Pursues Removal of Federal Reserve Board Members: Is Central Bank Independence at Risk?",
+   "category": "国際",
+   "published": "2026-08-08",
+   "summary": "トランプ前大統領がFRB（米連邦準備制度理事会）の理事解任を引き続き検討していることが報じられた。金融政策の方針を巡る対立が背景にあるとみられる。中央銀行の独立性と大統領権限の限界が問われる事態となっている。"
+  },
+  {
+   "slug": "2026-08-08-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-26.html",
+   "title": "推しゲーが突然終了する悪夢　スマホゲーム「サ終」ラッシュで業界危機か",
+   "title_en": "Mobile Games Going Dark: Service Shutdowns Surge as Game Studios Face Crisis",
+   "category": "IT",
+   "published": "2026-08-08",
+   "summary": "スマートフォンゲームのサービス終了が相次いでいる。開発・運営企業の経営悪化が背景にあり、ゲーム業界全体の倒産件数が増加傾向にある。ユーザーは突然のサービス終了で損失を被る状況が常態化しており、業界の持続可能性が問われている。"
+  },
+  {
+   "slug": "2026-08-08-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-25.html",
+   "title": "テーマパーク30施設超が値上げ、家族の財布が悲鳴…何が起きてるの？",
+   "title_en": "Over 30 Theme Parks Raise Admission Prices - Is Your Family Getaway Getting Too Expensive?",
+   "category": "経済",
+   "published": "2026-08-08",
+   "summary": "全国のテーマパークで相次ぐ入園料金の値上げ。30施設を超える施設が価格改定を実施またはを予定しており、運営側は人件費やインフラ整備コストの増加を理由に挙げている。消費者にとっては家族での来園費用が大幅に増加することになり、来園控えの懸念も出ている。"
+  },
+  {
+   "slug": "2026-08-08-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-24.html",
+   "title": "OpenAIが対話スピーカー発売へ、ChatGPTが声で日常に？",
+   "title_en": "OpenAI Launches Conversational Speaker: Will ChatGPT Come to Your Living Room?",
+   "category": "IT",
+   "published": "2026-08-08",
+   "summary": "OpenAIが対話型スピーカーの発売を計画していることが報じられた。ChatGPTの技術を搭載したこのデバイスは、音声での自然な会話を実現し、スマートスピーカー市場に新たな競争をもたらす可能性がある。AppleのSiriやAmazonのAlexaといった既存製品との差別化が注目される。"
+  },
+  {
+   "slug": "2026-08-08-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-23.html",
+   "title": "吉木りさが今になっていじめ被害を明かした理由は？タレントが語る過去と現在",
+   "title_en": "Why Is Yoshiki Risa Opening Up About Her Bullying Experience Now?",
+   "category": "エンタメ",
+   "published": "2026-08-08",
+   "summary": "タレントの吉木りさが、自身の学生時代のいじめ被害について改めて公に語った。これまで明かしてこなかった詳細な経験や、現在になってその経験を共有することにした心境の変化について述べている。同じ悩みを持つ人への想いなども込められているという。"
+  },
+  {
+   "slug": "2026-08-08-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-22.html",
+   "title": "プロラグビー選手が練習中に急死、熱中症で搬送も間に合わず",
+   "title_en": "Professional Rugby Player Dies from Heat Stroke During Practice",
+   "category": "スポーツ",
+   "published": "2026-08-08",
+   "summary": "九州電力ラグビー部の選手が練習中に熱中症で倒れ、病院に搬送されましたが、残念ながら亡くなりました。真夏の厳しい環境での運動による熱中症は、適切な対応がなければ命に関わる深刻な事態となります。スポーツ現場での安全管理と熱中症予防の重要性があらためて問われています。"
+  },
+  {
+   "slug": "2026-08-08-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-08-21.html",
+   "title": "2歳児の命を救う薬が5500万円…日本の医療制度は親たちの経済格差を許すのか",
+   "title_en": "A 2-Year-Old's Life-Saving Drug Costs $55 Million: Does Japan's Healthcare System Abandon Families in Economic Hardship?",
+   "category": "国内",
+   "published": "2026-08-08",
+   "summary": "幼い子どもがんと診断された際に、治療効果が期待できる新薬が存在しても、その価格が5500万円という高額であるため、家族が経済的な困難に直面する事例が報じられた。日本の保険制度と先進医療の価格設定のあり方が、改めて問われている。"
+  },
   {
    "slug": "2026-08-08-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-08-20.html",
