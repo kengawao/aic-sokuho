@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 254,
+ "count": 275,
  "articles": [
+  {
+   "slug": "2026-08-09-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-41.html",
+   "title": "15時間がれきの下で生き抜いたチワワ、救出劇に涙が止まらない",
+   "title_en": "Tiny Chihuahua Survives 15 Hours Under Rubble—A Miraculous Rescue Story",
+   "category": "コラム",
+   "published": "2026-08-09",
+   "summary": "建物の倒壊現場でがれきの下敷きになっていたチワワが、15時間後に無事救出された。体重わずか数キロの小さな体で、絶望的な状況を生き抜いた小さな命の奇跡。飼い主の必死の救助活動と、駆けつけた救急隊の連携プレーが感動を呼んでいる。"
+  },
+  {
+   "slug": "2026-08-09-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-40.html",
+   "title": "花巻東が2年連続初戦突破、東北勢の台頭が本物か？",
+   "title_en": "Hanamaki Higashi Advances Again: Is Northeastern Japan Baseball Rising?",
+   "category": "スポーツ",
+   "published": "2026-08-09",
+   "summary": "岩手県の花巻東高校が甲子園で2年連続となる初戦突破を果たした。東北地方の高校野球が全国レベルで存在感を示す中、同校の安定した戦績がどのような育成体制から生まれているのか、また東北勢全体の競争力向上の背景にある要因が注目されている。"
+  },
+  {
+   "slug": "2026-08-09-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-39.html",
+   "title": "ポケモン空港が地方創生の切り札に？地域活性化の実例から考える",
+   "title_en": "Can a Pokémon-themed Airport Become Japan's Regional Revival Game Changer?",
+   "category": "経済",
+   "published": "2026-08-09",
+   "summary": "ポケモンをテーマにした空港施設が、地方の観光振興と経済活性化の重要な役割を担い始めている。キャラクター資源を活かした地域ブランディングにより、これまで観光客が少なかった地域へのアクセス増加や、関連産業の波及効果が期待されている。官民連携による地方創生モデルとしての可能性が注目されている。"
+  },
+  {
+   "slug": "2026-08-09-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-38.html",
+   "title": "夜行新幹線は実現するのか？東海道新幹線での夜発朝着取材から見えた課題",
+   "title_en": "Will Overnight Shinkansen Service Ever Return? Insights from Test Operations on the Tokaido Line",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "JR東海が夜間に東海道新幹線を走行させる実験を実施し、メディアが同乗取材を行った。現在の東海道新幹線は深夜停止が原則だが、夜行列車の復活や運用効率化への関心が高まる中での注目の試み。実現に向けた技術的・運用的な課題が明らかになりつつある。"
+  },
+  {
+   "slug": "2026-08-09-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-37.html",
+   "title": "ソニーがタムロンを買収提案、光学機器メーカーの身売りに何が？",
+   "title_en": "Why Is Sony Making an Acquisition Offer for Tamron? The Optics Game Just Changed",
+   "category": "経済",
+   "published": "2026-08-09",
+   "summary": "ソニーがレンズやカメラ部品大手のタムロンに対して買収提案を行ったことが報じられた。タムロンはカメラレンズや光学部品で高いシェアを持つ企業。ソニーは映像機器事業の強化を目指しており、光学技術の獲得と垂直統合による競争力強化が狙いと見られる。業界再編の動きが活発化する中での戦略的な動きとなっている。"
+  },
+  {
+   "slug": "2026-08-09-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-36.html",
+   "title": "顔を隠すホラー作家・雨穴の執筆姿勢が話題に。なぜ匿名性にこだわるのか？",
+   "title_en": "Why Does Horror Writer Amakaze Keep His Identity Hidden? A Strategy That Challenges Modern Publishing Trends",
+   "category": "エンタメ",
+   "published": "2026-08-09",
+   "summary": "『本にのまれる』などで知られるホラー作家・雨穴さんが、覆面での活動を貫く理由と創作への向き合い方についてインタビューで語った。独特の世界観を生み出す背景には、読者との関係性をテキストのみに限定したいという意図があるという。ホラー文学の新世代作家として注目される存在だ。"
+  },
+  {
+   "slug": "2026-08-09-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-35.html",
+   "title": "ドローンに追われる民間人の映像が公開　ウクライナが明かすロシア「人間狩り」の実態",
+   "title_en": "Zelenskyy Exposes Russia's 'Manhunt' Drone Attacks on Ukrainian Civilians",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "ゼレンスキー大統領がSNS上で公開した映像には、ロシアの遠隔操作ドローンに追い回されるウクライナの民間男性の姿が映されていた。このような民間人を狙った無差別ドローン攻撃は「人間狩り」と呼ばれ、前線地域の住民に心理的な恐怖を与えるロシアの戦術の一部とみられている。"
+  },
+  {
+   "slug": "2026-08-09-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-34.html",
+   "title": "トランプ氏、また出生地主義制限へ　最高裁に違憲判決されたのに懲りず新令署名",
+   "title_en": "Trump Signs Birth Citizenship Restrictions Again—Despite Supreme Court Ruling It Unconstitutional",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "アメリカのトランプ大統領は6日、米国内で生まれた子どもに自動的に市民権を与える出生地主義を制限する新たな大統領令2件に署名した。この制限案は以前も大統領令で推し進められたが、連邦最高裁が6月に違憲判決を下していた。トランプ氏は司法判断を受けても同様の政策を再び試みる意向を示した。"
+  },
+  {
+   "slug": "2026-08-09-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-33.html",
+   "title": "スペインがイタリアに報復か？移民問題で欧州内の対立が激化、何が起きているのか",
+   "title_en": "Europe's Border Crisis: Why Spain Is Now Targeting Italy Over the Migration Surge",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "モロッコ側からスペインの飛び地セウタへ大量の移民が押し寄せた問題が引き金となり、スペインとイタリアの対立が深刻化している。スペインはイタリアからの航空機や船舶に対して入国審査を強化すると発表。EUの盟国同士の国境管理問題として注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-09-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-32.html",
+   "title": "米中間選挙でトランプ支持層の結束力が明らかに、政治分断はさらに深まるのか",
+   "title_en": "Trump's 'MAGA' Base Remains Strong in US Midterms—Is America's Political Divide Getting Worse?",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "米国の中間選挙で、トランプ前大統領を支持する「MAGA」運動の支持者層が引き続き強い投票力を持つことが明らかになった。共和党の候補者選びや地域政治において、この岩盤層の影響力は変わらず大きく、米国の政治分断が一層深刻化する可能性を指摘する声も上がっている。"
+  },
+  {
+   "slug": "2026-08-09-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-31.html",
+   "title": "イラン、ホルムズ海峡問題で米国に補償要求へ　緊迫する中東情勢",
+   "title_en": "Iran Demands Compensation from US Over Strait of Hormuz Dispute",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "イランが米国に対し、ホルムズ海峡をめぐる問題に関連して補償を要求する構えを見せている。同海峡は世界的に重要なエネルギー輸送路であり、この対立は国際経済にも大きな影響を与える可能性がある。両国の緊張関係が一層高まる中、この補償要求がどのような展開をもたらすかが注目されている。"
+  },
+  {
+   "slug": "2026-08-09-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-30.html",
+   "title": "なぜイギリス人はエアコンを嫌うのか？熱波が変える「冷房論争」",
+   "title_en": "Why Does Britain Reject Air Conditioning? A Heatwave Shifts the Debate",
+   "category": "国際",
+   "published": "2026-08-09",
+   "summary": "イギリスでは、高性能な断熱住宅と年々激化する熱波という新たな環境変化により、エアコン導入をめぐる議論が加速している。従来、エアコンを不要と考えていた国民感情が、気候変動の現実に直面して揺らぎ始めており、快適性とエネルギー効率、さらには文化的価値観までを含めた議論へと発展している。"
+  },
+  {
+   "slug": "2026-08-09-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-29.html",
+   "title": "何度洗っても納得できない…強迫性障害に苦しむ患者たちの日常",
+   "title_en": "The Endless Cycle: How OCD Compels Patients to Wash Until Satisfied",
+   "category": "健康",
+   "published": "2026-08-09",
+   "summary": "強迫性障害の一種である不潔恐怖症により、納得いくまで体を何度も洗い続ける患者が増加しているという。皮膚炎などの身体的障害だけでなく、日常生活に支障をきたし、患者の生活の質が著しく低下。適切な治療と社会的認知の向上が課題とされている。"
+  },
+  {
+   "slug": "2026-08-09-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-28.html",
+   "title": "メッシの父親ホルヘさん死去 レジェンドを支え続けた存在",
+   "title_en": "Messi's Father Jorge Passes Away: The Man Behind the Legend",
+   "category": "スポーツ",
+   "published": "2026-08-09",
+   "summary": "サッカーの世界的スター、リオネル・メッシの父親であるホルヘ・ホルヘ・メッシさんが亡くなった。ホルヘさんはメッシのキャリアを通じて重要な役割を果たし、彼をアルゼンチンからバルセロナに導き、その後のキャリア管理でも中心的な存在だった。メッシ本人や関係者からは悲しみの声が上がっている。"
+  },
+  {
+   "slug": "2026-08-09-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-27.html",
+   "title": "大谷が決勝適時打でド軍ピンチを救う！連敗ストップの立役者に",
+   "title_en": "Shohei Ohtani Delivers Clutch Go-Ahead Hit to End Dodgers' Losing Streak",
+   "category": "スポーツ",
+   "published": "2026-08-09",
+   "summary": "ロサンゼルス・ドジャースの大谷翔平選手が試合の重要な場面で決勝適時打を放ち、チームの連敗を止めた。この一打がドジャースの勝利を決定付ける活躍となり、大谷の高い勝負強さが改めて証明される結果となった。"
+  },
+  {
+   "slug": "2026-08-09-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-26.html",
+   "title": "66歳で司法試験合格、その理由は？ 人生100年時代の「挑戦」が話題に",
+   "title_en": "At 66, He Passed the Bar Exam: What Drives Late-Life Career Reinvention?",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "定年を迎えた66歳が司法試験に合格したというニュースが話題を呼んでいます。多くの人が諦める年代での難関試験突破。その背景にある動機や経験、そして人生設計の多様化が注目されています。高齢化社会における第二の人生の可能性を示す事例として受け止められています。"
+  },
+  {
+   "slug": "2026-08-09-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-25.html",
+   "title": "HIKAKINが2児の父に、YouTuber界隈に衝撃走る",
+   "title_en": "YouTube Star HIKAKIN Becomes Father of Two",
+   "category": "エンタメ",
+   "published": "2026-08-09",
+   "summary": "日本を代表するYouTuberのHIKAKINが、2児の父親になったことを明かした。すでに1人目の子どもがいた同氏だが、今回2人目の誕生を報告。ファンから祝福の声が相次ぐ一方で、YouTuber活動との両立や育児について関心が集まっている。"
+  },
+  {
+   "slug": "2026-08-09-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-24.html",
+   "title": "大飯原発3号機が自動停止、警報発信…何が起きたのか？",
+   "title_en": "Ohi Nuclear Plant Reactor No. 3 Automatically Shuts Down—What Triggered the Alert?",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "関西電力の大飯原発3号機が自動停止し、警報が発信されたことが明らかになった。安全装置が正常に機能し、異常を検知して自動的に原子炉が停止したもので、放射能漏れなどの外部への影響は報告されていない。原因の詳細な調査が進められている。"
+  },
+  {
+   "slug": "2026-08-09-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-23.html",
+   "title": "台風15号、11日午後に東北上陸か　今この瞬間どうなってる？",
+   "title_en": "Typhoon No. 15 Expected to Make Landfall in Tohoku Region on Afternoon of 11th—What's the Situation Now?",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "台風15号が11日午後に東北地方への上陸が懸念されている。気象庁の予報では進路が東日本を直撃する可能性が高く、暴風や豪雨による被害が予想される。各地で警戒態勢が敷かれており、自治体は住民に対して早めの避難を呼びかけている状況。"
+  },
+  {
+   "slug": "2026-08-09-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-22.html",
+   "title": "ジャニーズ同期コンビが同時発表 重岡大毅と濵田崇裕の結婚、ファン反応は？",
+   "title_en": "Two Johnny's Idols Announce Marriage Simultaneously: What's Next for Their Group?",
+   "category": "エンタメ",
+   "published": "2026-08-09",
+   "summary": "ジャニーズ事務所所属のアイドル・重岡大毅と濵田崇裕が相次いで結婚を発表した。同じグループに所属する同期メンバーの同時発表は珍しく、ファンやメディアから大きな反響を呼んでいる。二人のこれまでの活動と結婚に至る経緯について、関心が高まっている。"
+  },
+  {
+   "slug": "2026-08-09-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-09-21.html",
+   "title": "橋が流された390人が孤立、下山開始へ　想定外の豪雨災害に",
+   "title_en": "390 People Stranded After Bridge Collapses in Heavy Rainfall; Descent Begins",
+   "category": "国内",
+   "published": "2026-08-09",
+   "summary": "豪雨により橋が流失し、山中に取り残された約390人が孤立する事態が発生した。現在、関係機関による救助活動が進められており、孤立者の下山が始まったとのこと。気象条件や地形の課題から救助活動が難航している模様。"
+  },
   {
    "slug": "2026-08-09-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-20.html",
