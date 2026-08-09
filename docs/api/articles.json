@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 275,
+ "count": 296,
  "articles": [
+  {
+   "slug": "2026-08-10-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-20.html",
+   "title": "甲子園にフラガール世代が殺到？懐かしのあの映画キャストが高校野球に参戦した理由がアツい",
+   "title_en": "Hula Girls Cast Reunion at Koshien? Nostalgic Film Stars Show Up to Support High School Baseball in Unexpected Collaboration",
+   "category": "コラム",
+   "published": "2026-08-10",
+   "summary": "映画『フラガール』の出演者らが甲子園を訪れ、高校野球の応援に参加したことが話題になっている。懐かしの映画キャストが球場に集まるという、なんともほっこりする出来事。当時のファンや野球ファンから、予想外のコラボレーションとして注目を集めているようだ。"
+  },
+  {
+   "slug": "2026-08-10-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-19.html",
+   "title": "張本美和、前年覇者を撃破で初優勝。若き才能の躍進が止まらない",
+   "title_en": "Miwako Zhang Breaks Through with First Title, Stunning Previous Champion",
+   "category": "スポーツ",
+   "published": "2026-08-10",
+   "summary": "卓球の張本美和選手が大会で初優勝を果たし、前年度の覇者を破るという快挙を成し遂げた。若い世代の有望選手として注目を集める美和選手の成長が加速している。このニュースは、日本卓球界における世代交代と新興勢力の台頭を象徴する出来事として受け止められている。"
+  },
+  {
+   "slug": "2026-08-10-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-18.html",
+   "title": "Google幹部が次々と退社する理由 AIレースで出遅れた巨人の焦燥感",
+   "title_en": "Why Google Executives Keep Leaving: Inside the Tech Giant's AI Crisis",
+   "category": "IT",
+   "published": "2026-08-10",
+   "summary": "Googleの主要幹部が相次いで退社しており、AI技術競争での危機感が背景にあるとみられている。OpenAIのChatGPT登場以降、生成AI市場での競争が激化する中、社内の経営体制や意思決定の遅さに対する不満が高まっているとの指摘もある。同社の今後のAI戦略とリーダーシップ体制の構築が急務となっている。"
+  },
+  {
+   "slug": "2026-08-10-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-17.html",
+   "title": "元日解散から約1年で復活？天竺鼠がKOC参加、相方コンビの絆は今どうなってる",
+   "title_en": "One Year After New Year's Day Breakup: Is Tenjikuzumi Really Coming Back for King of Conte 2024?",
+   "category": "エンタメ",
+   "published": "2026-08-10",
+   "summary": "昨年元日に解散を発表したお笑いコンビ・天竺鼠が、キングオブコント2024への参加を発表した。瘦せ我慢と前置きながらも舞台復帰への動きが具体化。解散から約1年での再始動となり、コンビ再結成の可能性も注目されている。"
+  },
+  {
+   "slug": "2026-08-10-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-16.html",
+   "title": "給付金が返済義務に変わる？政府が検討する「所得連動給付」の仕組みと懸念点",
+   "title_en": "Japan's Government Considers 'Income-Linked Grants': What Changes When Aid Comes With Repayment Obligations?",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "政府が所得連動給付制度の法整備を検討している。これは給付金の返済義務を所得水準に応じて変動させる仕組みで、低所得世帯への負担軽減を目指すもの。ただし制度設計の複雑さや個人資産把握の手続きなど、実装に向けた課題が多く残されている状況だ。"
+  },
+  {
+   "slug": "2026-08-10-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-15.html",
+   "title": "自衛隊がAI指揮統制システム検討へ。国産化で何が変わる？",
+   "title_en": "Japan's Military Turns to Homegrown AI for Command Systems. What Could Go Wrong?",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "防衛省が自衛隊の指揮統制システムに国産AIの導入を検討していることが明らかになった。従来は米国製システムに依存していたが、有事の際の独立性確保と技術流出防止が狙い。複数の防衛関連企業と協議を進めており、早ければ数年内の実装を目指しているという。"
+  },
+  {
+   "slug": "2026-08-10-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-14.html",
+   "title": "子ども3人含む7人が死亡…ロシアのビーチとウクライナの民家、戦争は民間人を襲い続ける",
+   "title_en": "War Reaches Both Sides: Russian Beach, Ukrainian Homes—Civilian Deaths Mount as Conflict Intensifies",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "ウクライナとロシアの戦闘により、双方で民間人の被害が急増している。ロシアの観光地ビーチがウクライナのドローン攻撃を受け、子ども3人を含む7人が殺害された。一方、ウクライナではロシアの攻撃で市民の死傷者が増え続けており、小売店舗なども標的にされている。長期化する紛争により、戦争は一般市民の日常生活に直結した脅威となっている状況をBBC記者が報告した。"
+  },
+  {
+   "slug": "2026-08-10-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-13.html",
+   "title": "ネタニヤフ首相がアメリカの和平案を拒否へ ガザ紛争はいつまで続く?",
+   "title_en": "Netanyahu Rejects US Peace Plan for Gaza: Will the Conflict Ever End?",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "イスラエルのネタニヤフ首相は、アメリカが主導するガザ地区の和平計画を拒否する方針を表明しました。この計画ではハマスの武装解除などを段階的に進める内容でしたが、首相はこれを受け入れないと述べています。両者の対立が深まる中、中東地域の平和実現の見通しはいよいよ不透明な状況が続いています。"
+  },
+  {
+   "slug": "2026-08-10-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-12.html",
+   "title": "席順でまさかの対立？台湾が長崎式典で異例の抗議、背景にある国際政治の複雑さ",
+   "title_en": "Seating Arrangement Sparks Unexpected Diplomatic Row: Taiwan's Rare Protest at Nagasaki Ceremony",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "台湾が長崎で開催された式典の席配置をめぐり、異例の抗議を行ったことが明らかになった。国際的な外交儀礼に関わる問題として、台湾の政治的立場や中国との関係性が反映されたものと見られている。席順という一見些細に見える問題が、実は東アジアの複雑な外交関係を象徴する重要な案件となっている。"
+  },
+  {
+   "slug": "2026-08-10-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-11.html",
+   "title": "米軍が熊本に飲料水16トン支援　日本の水事情はどうなってる？",
+   "title_en": "U.S. Military Delivers 16 Tons of Drinking Water to Kumamoto: How's Japan's Water Security?",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "米軍が熊本県に対して約16トンの飲料水を支援したことが明らかになった。これは災害時や緊急時における日米の相互協力体制を示すもので、地域住民の生活を支援する重要な役割を果たしている。米軍の支援能力と地域ニーズのマッチングが、両国の実務的な連携を強化している。"
+  },
+  {
+   "slug": "2026-08-10-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-10.html",
+   "title": "ガザ和平工程をネタニヤフ氏が拒否　停戦交渉は膠着状態へ",
+   "title_en": "Netanyahu Rejects Gaza Peace Plan: What's Next for Ceasefire Talks?",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "イスラエルのネタニヤフ首相がガザ地区の和平工程案を拒否したことが報じられました。この決定により、ハマスとの停戦交渉は新たな局面を迎えることになります。国際社会からの仲介努力が続く中、対立の長期化が懸念されています。"
+  },
+  {
+   "slug": "2026-08-10-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-9.html",
+   "title": "投票率は過去最低なのに現職5連勝　長野県知事選が映す有権者の本音",
+   "title_en": "Incumbent Wins Fifth Term in Nagano Governor's Race Despite Record Low Voter Turnout",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "長野県知事選で現職の阿部守一氏（65）が5回目の当選を決めた。共産党推薦の新人候補を抑えての勝利となったが、投票率は過去最低を記録。低い投票率の中での当選という構図が、有権者の関心の低さと現職への信任の二面性を浮き彫りにしている。"
+  },
+  {
+   "slug": "2026-08-10-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-8.html",
+   "title": "台風15号、11日に東北・関東直撃か　最新情報を確認せよ",
+   "title_en": "Typhoon 15 Set to Strike Tohoku and Kanto on September 11: Stay Informed",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "台風15号が11日には東北および関東甲信地方にかなり近づく見込みとなっている。気象庁の予報では、この時期に強い雨風が予想され、荒れた天気になる可能性が高い。土砂災害や強風などの危険が増すため、気象庁は住民に対して最新の気象情報を常時確認し、適切な警戒態勢を整えるよう呼びかけている。"
+  },
+  {
+   "slug": "2026-08-10-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-7.html",
+   "title": "体調不良から見事に復帰！山本由伸の好投が示すものとは",
+   "title_en": "Yoshinobu Yamamoto's Triumphant Return: Recovery From Illness Leads to Brilliant Pitching Performance",
+   "category": "スポーツ",
+   "published": "2026-08-10",
+   "summary": "プロ野球の山本由伸選手が、体調不良から回復し、試合で好投を見せた。数日前の体調の悪化から一転、チームの期待を背負って登板した同選手は、安定したピッチングでマウンドを支配。復帰戦とは思えないパフォーマンスで、チーム関係者からも高い評価を受けている。"
+  },
+  {
+   "slug": "2026-08-10-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-6.html",
+   "title": "張本兄妹が同じ大会で優勝？兄妹同時Vの快挙に卓球界が沸騰",
+   "title_en": "Siblings Sweep Champions Tournament: Zhang Siblings Make History with Dual Victory",
+   "category": "スポーツ",
+   "published": "2026-08-10",
+   "summary": "卓球の張本智和選手と張本美和選手の兄妹が、チャンピオンズ大会で同時に優勝を果たした。世界的に注目される両選手の活躍により、日本卓球界の実力が国際舞台で証明される形となり、今後の更なる躍進が期待される結果となった。"
+  },
+  {
+   "slug": "2026-08-10-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-5.html",
+   "title": "西武・渡部選手が打球直撃で眼窩底骨折　プロ野球選手の顔面外傷、どう防ぐ？",
+   "title_en": "Seibu Player Watanabe Suffers Orbital Floor Fracture from Line Drive: How Can Baseball Address Player Safety?",
+   "category": "スポーツ",
+   "published": "2026-08-10",
+   "summary": "西武ライオンズの渡部選手が試合中に打球が顔面に直撃し、眼窩底骨折という重傷を負った。野球は球速が速く予測困難な打球が頻繁に発生するため、選手の安全対策が課題となっている。今後の治療経過と復帰時期が注目される。"
+  },
+  {
+   "slug": "2026-08-10-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-4.html",
+   "title": "重岡大毅が結婚＆「新しい命迎えた」　ジャニーズ関係者から祝福の声相次ぐ",
+   "title_en": "Johnny's Star Shigeo Shigeo Announces Marriage and 'Welcoming New Life'",
+   "category": "エンタメ",
+   "published": "2026-08-10",
+   "summary": "ジャニーズJr.の重岡大毅が結婚を発表し、同時に「新しい命を迎えた」とのコメントを公開した。これは彼が子どもの誕生を予定していることを示唆するもの。所属事務所を通じた正式な発表で、ファンの間では祝福の声が広がる一方、急速な展開に驚く声も上がっている。"
+  },
+  {
+   "slug": "2026-08-10-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-3.html",
+   "title": "78年目の長崎原爆の日、被爆者代表が語った『二度と』の言葉の重さ",
+   "title_en": "78 Years After Nagasaki: A Survivor's Vow for a Nuclear-Free Future",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "8月9日の長崎原爆の日を迎え、被爆者代表が式典で核兵器廃絶と平和への誓いを新たにした。高齢化する被爆者たちが、戦争と核の悲劇を後世に伝えることの重要性を改めて訴えた。"
+  },
+  {
+   "slug": "2026-08-10-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-2.html",
+   "title": "ゆずが楽曲配信で熊本支援、収益全額寄付へ　有名アーティストの社会貢献が相次ぐ",
+   "title_en": "Yuzu to Donate All Streaming Revenue to Kumamoto Recovery Efforts",
+   "category": "エンタメ",
+   "published": "2026-08-10",
+   "summary": "人気デュオ・ゆずが新たに配信する楽曲の収益全額を熊本への寄付に充てることを発表した。災害支援や地域復興を目的とした取り組みで、音楽を通じた社会貢献の形として注目される。アーティストによるチャリティー活動が増える中、ファンからも応援の声が上がっている。"
+  },
+  {
+   "slug": "2026-08-10-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-1.html",
+   "title": "なぜ高齢者による運転事故は後を絶たないのか？孫の運転する車にはねられ女性死亡",
+   "title_en": "Why Do Traffic Accidents Involving Older Drivers Continue? Woman Struck and Killed by Grandson's Vehicle",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "孫が運転する車にはねられて女性が死亡する事故が発生した。高齢化社会における運転免許保有者の増加に伴い、運転能力の低下や判断ミスに関連した事故が社会問題となっている。家族内での安全教育や危険認識の共有が課題として浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-10-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-0.html",
+   "title": "台風15号が列島を横断する可能性 進路と影響はどうなる？",
+   "title_en": "Typhoon No. 15 May Cross the Entire Japanese Archipelago: What's the Impact?",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "台風15号が日本列島を横断するおそれが出ている。気象庁の予報によると、今後の進路次第では複数の地域に大きな影響を及ぼす可能性があり、関係機関が警戒態勢を強化している。最新の気象情報と今後の動向について注視が必要となっている。"
+  },
   {
    "slug": "2026-08-09-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-09-41.html",
