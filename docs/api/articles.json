@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 318,
+ "count": 339,
  "articles": [
+  {
+   "slug": "2026-08-11-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-20.html",
+   "title": "Dフジオカの楽屋がまさかの『ちいかわ御殿』化！？推し活の沼はこんなに深いのか",
+   "title_en": "D Fujioka's Dressing Room Transforms into a 'Chiikawa Mansion' – How Deep Does Fan Culture Go?",
+   "category": "コラム",
+   "published": "2026-08-11",
+   "summary": "人気タレント・Dフジオカの楽屋が、推し活の影響で『ちいかわ』グッズで埋め尽くされているという情報が話題に。キャラクターグッズの装飾で楽屋全体が御殿のようになっているそうで、推し活文化の熱量とその現実的な影響について、ユーモアを交えて考えてみた。"
+  },
+  {
+   "slug": "2026-08-11-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-19.html",
+   "title": "21世紀枠で甲子園出場した元主将、球審として舞台へ復帰。知られざる『第二の野球人生』",
+   "title_en": "Former Captain from Century Frame High School Returns to Baseball as Umpire",
+   "category": "スポーツ",
+   "published": "2026-08-11",
+   "summary": "選抜高校野球の21世紀枠として甲子園に出場した経験を持つ元主将が、今度は球審として試合に登場することになった。選手としてではなく、試合を裁く立場での復帰は、多くの野球ファンの注目を集めている。地域の野球発展を担う新たな角色での活躍が期待される。"
+  },
+  {
+   "slug": "2026-08-11-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-18.html",
+   "title": "SNS映えの川で溺水事故、投稿者に法的責任は問えるのか",
+   "title_en": "Who's Responsible When an Instagram-Famous Waterfall Becomes a Death Trap?",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "SNSで紹介された川での事故をめぐり、投稿者の責任が問われる可能性が議論となっている。景観の美しさや面白さだけを発信し、危険性への警告がない投稿が増える中、情報発信者と事故被害者との間の法的責任の線引きが問題化している。観光地化する自然スポットと安全教育のバランスについて、法律家や自治体も対応に迫られている。"
+  },
+  {
+   "slug": "2026-08-11-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-17.html",
+   "title": "熊本・八代市民が自分たちで情報発信　WEBプラットフォームで地域情報を共有",
+   "title_en": "Citizens of Yatsushiro City Take Charge: How a Community Web Platform Is Reshaping Local Information Sharing",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "熊本県八代市の市民が中心となって、地域の情報をWEB上で共有するプラットフォームを立ち上げた。行政頼みではなく、住民自身が必要な情報を発信・交換する仕組みを構築。地元のイベント情報や暮らしに関する知識、防災情報など多岐にわたる内容が投稿されており、地域コミュニティの活性化と情報格差の解消につながる取り組みとして注目されている。"
+  },
+  {
+   "slug": "2026-08-11-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-16.html",
+   "title": "議員秘書から屋台バーへ転身した理由とは 政界を去った彼が選んだ新たな人生",
+   "title_en": "From Parliamentary Secretary to Street Bar Owner: What Drives This Career Shift?",
+   "category": "コラム",
+   "published": "2026-08-11",
+   "summary": "政治家の秘書として働いていた人物が、キャリアを転換して屋台バーの経営に踏み出したという事例が話題に。安定した政界でのキャリアパスを捨ててまで小規模飲食店経営へと舵を切った背景には、人生観の変化や働き方への問い直しがあるとみられる。政治の現場を知る立場から、異なる世界へ活路を見出す選択の意味が問われている。"
+  },
+  {
+   "slug": "2026-08-11-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-15.html",
+   "title": "馬淵監督が中学生スカウトに苦言、何が問題なのか？",
+   "title_en": "What's the Problem with Middle School Recruitment in Sports?",
+   "category": "スポーツ",
+   "published": "2026-08-11",
+   "summary": "著名な監督が中学生を対象とするスカウト活動に対して懸念を表明。過度な勧誘や選手の育成環境に関わる問題について言及し、業界内で議論を呼んでいる。適切な選手育成のあり方と商業的圧力のバランスについて、関係者からの反応が広がっている状況。"
+  },
+  {
+   "slug": "2026-08-11-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-14.html",
+   "title": "韓国サッカー界に衝撃 性接待疑惑で当局が本格捜査か",
+   "title_en": "Sexual Hospitality Scandal Rocks Korean Soccer, Authorities Weigh Investigation",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "韓国のサッカー界で性接待疑惑が浮上し、当局による捜査の検討が報じられている。スポーツ選手や関係者が関わっていた可能性が指摘されており、事実が認定された場合には国際的な問題にも発展する懸念がある。韓国当局の対応が注視されている状況。"
+  },
+  {
+   "slug": "2026-08-11-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-13.html",
+   "title": "トランプ大統領がイランに逆襲？「補償を求める」と宣言、米イラン関係がまた緊迫",
+   "title_en": "Trump Demands Reparations from Iran in Escalating Tensions; Tehran Makes Key Leadership Shake-Up",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "トランプ米大統領がSNSで、イランに対して武力行使による被害補償を求めると表明しました。これはイランが米国に補償請求していることへの対抗措置とみられています。同じ時期、イランでも重要な政治的ポスト交代が起きており、米イラン関係の緊張がさらに高まっている状況が浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-08-11-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-12.html",
+   "title": "バイデン氏がん転移で激痛？大国の指導者の健康問題、今後の政局にどう影響する",
+   "title_en": "Biden's Cancer Metastasis and Severe Pain: What Impact on Global Leadership?",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "米国のバイデン大統領がんの転移により激しい痛みを抱えているとの報道が出ました。現職大統領の健康状態は国内政治のみならず国際外交にも大きな影響を与える重要な問題です。医療チームの対応状況と今後の公務への影響が注視されています。"
+  },
+  {
+   "slug": "2026-08-11-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-11.html",
+   "title": "北朝鮮ハッカーがAIツール開発？サイバー脅威がまた一段階進化",
+   "title_en": "North Korean Hackers Developing AI Tools: Cybersecurity Threat Level Escalates",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "北朝鮮の支援を受けたハッカー集団がAIツールの開発に着手している可能性が報じられた。従来のサイバー攻撃に加えてAI技術を組み合わせることで、より巧妙で大規模な攻撃が可能になるとの懸念が広がっている。国際的なセキュリティ機関は警戒を強めており、企業や政府機関への脅威が増す可能性がある。"
+  },
+  {
+   "slug": "2026-08-11-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-10.html",
+   "title": "南米コロンビアを襲ったM7.4の地震、現地は今どうなっている?",
+   "title_en": "Colombia Hit by Magnitude 7.4 Earthquake: What's the Current Situation?",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "南米のコロンビアで大規模な地震が発生しました。マグニチュード7.4という強い地震で、広い範囲に揺れが及んだとみられています。現地では建物被害や人的被害の報告があり、当局が対応に当たっています。同国は地震多発地帯であり、防災体制の強化が課題となっています。"
+  },
+  {
+   "slug": "2026-08-11-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-9.html",
+   "title": "猛暑で塩入りキャンディが大ブーム？熱中症対策の新定番になるのか",
+   "title_en": "Is Salt Candy the New Summer Essential? The Market Boom Amid Record Heat Waves",
+   "category": "経済",
+   "published": "2026-08-11",
+   "summary": "記録的な猛暑の影響により、塩分補給ができるキャンディ市場が急速に拡大している。従来の熱中症対策飲料に代わり、携帯性と手軽さから消費者の注目を集めており、各メーカーも新商品開発に力を入れている。夏場の定番商品としての地位確立が期待される。"
+  },
+  {
+   "slug": "2026-08-11-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-8.html",
+   "title": "心肺蘇生の命中率が劇的に変わる「3つのPUSH」とは？知らないと後悔する救急知識",
+   "title_en": "The \"3 PUSH\" Method That Could Save a Life: Are You Ready for Cardiac Emergencies?",
+   "category": "健康",
+   "published": "2026-08-11",
+   "summary": "心肺蘇生の効果を高める「3つのPUSH」という救急救命の基本原則が注目されている。適切な胸部圧迫の深さ・速度・位置といった要素を正確に実行することで、突然の心停止患者の生存率が大幅に向上することが明らかになってきた。一般市民が正しい知識を持つことの重要性が強調されている。"
+  },
+  {
+   "slug": "2026-08-11-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-7.html",
+   "title": "日銀が利上げを示唆した途端、円は急騰。協調介入が功を奏した理由とは",
+   "title_en": "BOJ's Rate Hike Signal Turned the Tide: Why Coordinated Intervention Finally Worked",
+   "category": "経済",
+   "published": "2026-08-11",
+   "summary": "円相場の下落を抑えるため、日本銀行と財務省が協調介入を実施。その効果を決定付けたのが日銀による金利引き上げの示唆だった。市場参加者の円買い圧力が高まり、為替市場が反応。金融政策と為替対策の連携が相場に大きな影響を与える局面となった。"
+  },
+  {
+   "slug": "2026-08-11-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-6.html",
+   "title": "母は寝たきり、娘は不登校…なぜ家族の問題は深刻化するまで見えないのか",
+   "title_en": "Why Do Families Remain Invisible Until Crisis Hits? The Hidden Struggle of Caregiving Parents",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "介護と育児のダブルケアに直面し、孤立する女性の実態が浮き彫りになっている。寝たきりの親の世話をしながら子どもの不登校に対応する状況は、複数の課題が同時進行で悪化するスパイラルに陥りやすい。社会的支援の充実と早期発見体制の構築が急務とされている。"
+  },
+  {
+   "slug": "2026-08-11-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-5.html",
+   "title": "TWICE・ジョンヨン、JYP退所を報告 グループの今後はどうなる？",
+   "title_en": "TWICE's Jeongyeon Leaves JYP Entertainment: What's Next for the K-pop Group?",
+   "category": "エンタメ",
+   "published": "2026-08-11",
+   "summary": "韓国の人気アイドルグループTWICEのメンバー・ジョンヨンが所属事務所JYPエンターテインメントとの契約終了を報告した。デビューから約9年の活動を経ての決断となり、ファンや業界関係者から注目が集まっている。ジョンヨン本人のコメントや、グループ今後の体制変更について明かされる見通し。"
+  },
+  {
+   "slug": "2026-08-11-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-4.html",
+   "title": "日本のGPS精度が大幅向上へ！みちびき7号機の打ち上げ成功で何が変わる？",
+   "title_en": "Japan's GPS Revolution: What Changes When Michibiki 7 Goes Live?",
+   "category": "科学",
+   "published": "2026-08-11",
+   "summary": "日本版GPS衛星「みちびき」の7号機が11日、種子島宇宙センターからH3ロケット9号機で正常に打ち上げられた。スマートフォンなどの位置情報精度を飛躍的に高め、防災・自動運転・農業など多様な分野での活用が期待される。完全な日本独自の測位システム構築に向けた重要なマイルストーン。"
+  },
+  {
+   "slug": "2026-08-11-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-3.html",
+   "title": "3児の母がマラソンで失明、人生が急変した理由とは？",
+   "title_en": "Mother of Three Lost Her Sight After Running a Marathon: What Caused This Tragedy?",
+   "category": "スポーツ",
+   "published": "2026-08-11",
+   "summary": "3人の子どもを育てる母親がマラソンに参加したことで、予期しない健康上の変化に直面した。運動がもたらした思わぬ結果と、それが人生に与えた大きな影響について、本人の経験を通じて考察する。運動と健康の複雑な関係性が浮き彫りになる事例である。"
+  },
+  {
+   "slug": "2026-08-11-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-2.html",
+   "title": "毎日食べてるのに…腸内細菌が大腸がんを引き起こす仕組みが判明",
+   "title_en": "Scientists Discover How Gut Bacteria Toxins Trigger Colorectal Cancer—and What You Can Do",
+   "category": "健康",
+   "published": "2026-08-11",
+   "summary": "大腸がんの発症に、特定の毒素を産生する腸内細菌が関与していることが明らかになった。これまで大腸がんのリスク要因は食生活や遺伝など様々な要因が指摘されていたが、腸内マイクロバイオータの役割が医学的に実証されたことで、予防や治療法の開発へ新たな道が開かれる可能性がある。今後の研究動向に注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-11-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-1.html",
+   "title": "公園の遊具で何が起きたのか？中1と小3が相次ぎ溺水死",
+   "title_en": "Playground Equipment Swept by Wind: How Did This Tragedy Happen?",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "公園の遊具が強風であおられ、子どもたちが水中に落ちる事故が発生しました。中学1年生と小学3年生の2人が溺水し、残念ながら亡くなられました。遊具の安全性や防風対策、公園管理の在り方について改めて問われる深刻な事案です。"
+  },
+  {
+   "slug": "2026-08-11-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-0.html",
+   "title": "台風15号が今夜関東上陸へ　土砂災害警戒レベルは？事前準備で何をすべき",
+   "title_en": "Typhoon 15 Set to Hit Kanto Tonight—What You Need to Know About Disaster Preparedness",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "台風15号が11日夜にかけて関東地方への上陸が予想されています。東日本と東北地域では雨風の強化により悪天候が見込まれ、気象庁は土砂災害、低地の浸水、河川増水や氾濫、並びに暴風への警戒を呼びかけています。関東圏の住民は事前の防災対策が急務となっています。"
+  },
   {
    "slug": "2026-08-10-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-42.html",
