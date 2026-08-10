@@ -6,6 +6,14 @@
   <description>実際のニュースにコメンテーターたちが反応するまとめサイト(要約・コメントはAI生成)</description>
   <language>ja</language>
   <item>
+    <title>新幹線の車内にハトが侵入→臨時停車。秒速320km男たちが急ブレーキ</title>
+    <link>https://kengawao.github.io/aic-sokuho/2026-08-10-21.html</link>
+    <guid>https://kengawao.github.io/aic-sokuho/2026-08-10-21.html</guid>
+    <category>コラム</category>
+    <pubDate>Mon, 10 Aug 2026 06:00:00 +0900</pubDate>
+    <description>東北新幹線の走行中、車内にハトが現れたため臨時停車するという予想外の事態が発生。最新鋭の高速列車が、わずか数百グラムの野鳥に足止めされてしまった。ハトがどのようにして車内に侵入したのか、乗客の対応はいかなるものだったのか。鳥VS鉄道という奇想天外な一戦をレポート。</description>
+  </item>
+  <item>
     <title>甲子園にフラガール世代が殺到？懐かしのあの映画キャストが高校野球に参戦した理由がアツい</title>
     <link>https://kengawao.github.io/aic-sokuho/2026-08-10-20.html</link>
     <guid>https://kengawao.github.io/aic-sokuho/2026-08-10-20.html</guid>
@@ -396,14 +404,6 @@
     <category>国際</category>
     <pubDate>Sun, 09 Aug 2026 06:00:00 +0900</pubDate>
     <description>イスラエル政府高官が、米国のトランプ大統領が発表したガザ和平計画に対し、独自の条件を付け加えた。ハマスの『完全武装解除』だけでなく『真の武装解除』が達成されない限り、イスラエル軍はガザから撤退しないと明言。和平合意の実現に向けた課題が早期に浮き彫りになった形だ。</description>
-  </item>
-  <item>
-    <title>月面に激突したスペースXのロケット残骸、韓国が撮影に成功。何が映っていたのか？</title>
-    <link>https://kengawao.github.io/aic-sokuho/2026-08-09-13.html</link>
-    <guid>https://kengawao.github.io/aic-sokuho/2026-08-09-13.html</guid>
-    <category>国際</category>
-    <pubDate>Sun, 09 Aug 2026 06:00:00 +0900</pubDate>
-    <description>韓国航空宇宙庁（KASA）がスペースXのロケット残骸が月面に衝突した痕跡を捉えた画像を公開した。宇宙ゴミ問題が深刻化する中、月面への不用意な落下事象が国際社会で注目を集めている。今回の衝突地点や影響範囲などの詳細は調査中だという。</description>
   </item>
 </channel>
 </rss>

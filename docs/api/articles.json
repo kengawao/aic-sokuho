@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 296,
+ "count": 297,
  "articles": [
+  {
+   "slug": "2026-08-10-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-21.html",
+   "title": "新幹線の車内にハトが侵入→臨時停車。秒速320km男たちが急ブレーキ",
+   "title_en": "Shinkansen Grinds to Halt Over Uninvited Pigeon Passenger",
+   "category": "コラム",
+   "published": "2026-08-10",
+   "summary": "東北新幹線の走行中、車内にハトが現れたため臨時停車するという予想外の事態が発生。最新鋭の高速列車が、わずか数百グラムの野鳥に足止めされてしまった。ハトがどのようにして車内に侵入したのか、乗客の対応はいかなるものだったのか。鳥VS鉄道という奇想天外な一戦をレポート。"
+  },
   {
    "slug": "2026-08-10-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-20.html",
