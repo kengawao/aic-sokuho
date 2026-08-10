@@ -67,7 +67,7 @@ def parse_article(slug):
     """生成済みHTMLからタイトル・要約・ポイント・コメントを抽出する。"""
     html = (DOCS / f"{slug}.html").read_text(encoding="utf-8")
     title = re.search(r"<h1>(.*?)</h1>", html, re.S).group(1).strip()
-    summary = re.search(r'<section class="summary"><p>(.*?)</p></section>', html, re.S).group(1).strip()
+    summary = re.search(r'<section class="summary"[^>]*>\s*<p[^>]*>(.*?)</p>', html, re.S).group(1).strip()
     points = re.findall(
         r"<li>(.*?)</li>",
         re.search(r'<ul class="points">(.*?)</ul>', html, re.S).group(1), re.S)
