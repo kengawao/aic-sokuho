@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 297,
+ "count": 318,
  "articles": [
+  {
+   "slug": "2026-08-10-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-42.html",
+   "title": "バンクシー作品の維持費に年3200万円！？納税者が知らぬ間に「アート支援」させられてた件",
+   "title_en": "Banksy Art Maintenance Costs Taxpayers £150,000—You've Been Funding Street Art Without Knowing It",
+   "category": "コラム",
+   "published": "2026-08-10",
+   "summary": "世界的な覆面芸術家バンクシーの作品3点を守るために、イギリスの自治体が約15万ポンド（約3200万円）の公費を清掃・整備費用として投じてきたことが判明。BBCの情報開示請求で明かされたこの事実、今後さらに費用がかさむ見通しで、納税者からは困惑の声も上がっている。"
+  },
+  {
+   "slug": "2026-08-10-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-41.html",
+   "title": "ゆなすみが木下杯を辞退、長岡の骨折で団体戦に影響か",
+   "title_en": "Yunasum Withdraws from Kinoshita Cup as Partner Nagaoka Suffers Fracture",
+   "category": "スポーツ",
+   "published": "2026-08-10",
+   "summary": "人気ペアのゆなすみが、パートナーの長岡の骨折を理由に木下杯への出場を辞退することを表明した。長岡の怪我の程度と回復見通しは現在調査中とのこと。このペアの不在は団体戦の戦力構成に大きな影響を与える可能性が高い。"
+  },
+  {
+   "slug": "2026-08-10-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-40.html",
+   "title": "休暇中の会社電話、無視しても大丈夫？弁護士が解説する法的境界線",
+   "title_en": "Can You Legally Ignore Work Calls During Vacation in Japan? A Lawyer Breaks Down the Rules",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "有給休暇中に会社からの電話連絡に応答する義務があるのか、法的観点から解説する記事。労働基準法では休暇中の労働者は原則として仕事から解放されるべきだが、実務上のグレーゾーンと企業文化の問題が絡み合う。弁護士などの専門家が、何が合法的な対応か、どの程度なら拒否できるのかについて具体的にコメント。"
+  },
+  {
+   "slug": "2026-08-10-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-39.html",
+   "title": "高速道路のバイク事故、時間帯と区間で傾向が違う？安全対策の盲点が見える",
+   "title_en": "High-speed motorcycle accidents: Hidden patterns emerge when analyzed by time and route section",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "高速道路でのバイク事故について、発生時間帯と走行区間ごとの詳細な分析が行われている。これまで注目されてこなかった時間帯別・区間別の事故パターンから、従来の安全対策では補いきれていない危険要因が浮かび上がってきた。走行データと事故統計を組み合わせた分析により、より効果的な対策立案の可能性が広がっている。"
+  },
+  {
+   "slug": "2026-08-10-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-38.html",
+   "title": "バブル期の夢の跡　次々と廃虚化するリゾートマンション、なぜ今も放置されるのか",
+   "title_en": "The Ghost Towns of Greed: Why Bubble-Era Resort Condos Are Still Abandoned Decades Later",
+   "category": "経済",
+   "published": "2026-08-10",
+   "summary": "バブル期に乱立したリゾートマンション（リゾマン）が、現在廃虚状態で放置されている実態が明らかになった。当時の投機熱で大量に建設された施設の多くは、バブル崩壊後の需要減少により空き家化。管理費や修繕費の負担、相続問題、買い手の消失といった複合的な要因で、オーナーが手放すに手放せない状況に陥っており、地域資産の喪失と景観悪化が深刻化している。"
+  },
+  {
+   "slug": "2026-08-10-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-37.html",
+   "title": "合格者ゼロの年も…宮城のご当地検定、知名度の壁に直面",
+   "title_en": "Zero Passers Some Years: Miyagi's Regional Exam Struggles with Low Recognition",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "宮城県で実施されているご当地検定が、合格者がいない年も存在するなど、受検者数・合格者数の低迷に直面している。地域の魅力を発信し、観光振興につなげる目的で始まった取り組みだが、知名度不足や検定試験自体の難易度、運営の課題などにより、事業継続が難しくなっているという実態が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-10-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-36.html",
+   "title": "元閣僚も起訴、エクアドルの大統領候補暗殺事件はなぜここまで深刻化したのか",
+   "title_en": "Ecuador's Presidential Candidate Murder: Why Did a Former Cabinet Member Get Indicted?",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "エクアドルの検察当局が2023年の大統領選挙候補者射殺事件で、元内閣メンバーと麻薬カルテルの指導者を含む7名を起訴した。高い地位にある人物の関与が明らかになり、事件の背景に組織的な犯罪ネットワークが存在することが浮き彫りになった。南米における政治的暴力と薬物犯罪の結びつきが深刻な問題として国際的な注目を集めている。"
+  },
+  {
+   "slug": "2026-08-10-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-35.html",
+   "title": "自由の女神観光で転覆事故、2人死亡—米国の安全管理に疑問の声",
+   "title_en": "Statue of Liberty Tour Boat Capsizes, 2 Dead—Safety Concerns at Iconic US Landmark",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "ニューヨークの自由の女神周辺で観光船が転覆し、2人が死亡する事故が発生した。安全管理の不備や事故原因の詳細について、当局の調査が進められている。観光地での安全対策の重要性があらためて浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-08-10-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-34.html",
+   "title": "カナダ西部の山火事、わずか1日で規模が2倍に。数万人が避難する事態に",
+   "title_en": "Canada's Western Wildfires Doubling in Size: Thousands Evacuated as Emergency Declared",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "カナダ西部で発生した山火事が急速に拡大し、わずか1日で規模が2倍に増加している。数万人の住民が自宅を離れることを余儀なくされており、8日には地元当局が非常事態宣言を発令。消火活動が追いつかない状況の中、住民に最悪の事態への準備を呼びかけている。"
+  },
+  {
+   "slug": "2026-08-10-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-33.html",
+   "title": "米国の水道システムがハッキング被害？イランが関与した可能性、7州で機能低下",
+   "title_en": "U.S. Water Systems Hit by Cyber Attack: Iran Suspected in Seven States",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "米FBI（連邦捜査局）が7月下旬に警告したところによると、少なくとも7つのアメリカの州で水道事業を対象としたサイバー攻撃が報告されている。一部の攻撃により実際に水道システムの機能が低下したという。セキュリティ専門家の間では、この攻撃がイラン政府の指示による可能性が高いと指摘されているが、トランプ大統領からの公式なコメントはまだ出ていない。"
+  },
+  {
+   "slug": "2026-08-10-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-32.html",
+   "title": "トランプの和平案を一蹴したネタニヤフ　ハマス武装解除までは撤退しない宣言",
+   "title_en": "Netanyahu Rejects Trump's 15-Point Gaza Peace Plan, Demands Complete Hamas Disarmament Before Israeli Withdrawal",
+   "category": "国際",
+   "published": "2026-08-10",
+   "summary": "トランプ大統領が提示した15項目のガザ和平計画をイスラエルのネタニヤフ首相が拒否した。首相はハマスの「真の」武装解除がイスラエル軍撤退の条件だと明言。米国の仲介努力にもかかわらず、停戦交渉は難航している状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-10-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-31.html",
+   "title": "日銀委員が利上げペース加速を主張、今後の金融政策はどうなる？",
+   "title_en": "BOJ Officials Push for Faster Rate Hikes: What's Next for Japan's Monetary Policy?",
+   "category": "経済",
+   "published": "2026-08-10",
+   "summary": "日本銀行の政策委員会で、複数の委員が現在の利上げペースを加速させるべきという意見を表明した。金融緩和政策からの脱却を急ぐべきとの声が強まる中、今後の金利引き上げのタイミングと幅をめぐって議論が活発化している。市場や経済への影響が注視されている。"
+  },
+  {
+   "slug": "2026-08-10-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-30.html",
+   "title": "河村勇輝がNBAクリッパーズと契約決定！日本人選手の挑戦が始まる",
+   "title_en": "Japanese Guard Yuki Kawamura Signs with NBA's Los Angeles Clippers",
+   "category": "スポーツ",
+   "published": "2026-08-10",
+   "summary": "日本のバスケットボール選手である河村勇輝が、NBAのロサンゼルス・クリッパーズと契約を結ぶことが明らかになった。日本人選手がNBAの舞台で活躍するのは非常に稀であり、今後の活躍に期待が集まっている。世界最高峰のバスケットボールリーグへの挑戦は、日本のバスケット界全体への影響も大きいと考えられる。"
+  },
+  {
+   "slug": "2026-08-10-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-29.html",
+   "title": "猛暑で東西日本が危機的状況に？今からできる熱中症対策とは",
+   "title_en": "Record Heat Sweeps Japan: What You Need to Know About Heatstroke Prevention",
+   "category": "健康",
+   "published": "2026-08-10",
+   "summary": "10日の東日本と西日本では気温の上昇により猛烈な暑さが続くことが予想されています。この時期の急激な温度上昇は身体への負担が大きく、熱中症のリスクが高まります。専門家は予防策の徹底と、日中の外出を控えるなど、より一層の注意喚起を促しています。"
+  },
+  {
+   "slug": "2026-08-10-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-28.html",
+   "title": "ニチレイ個人情報流出か、ハッカーが公開？顧客データは大丈夫なのか",
+   "title_en": "Nichirei Personal Data Breach: What Hackers Leaked and Is Your Information at Risk?",
+   "category": "経済",
+   "published": "2026-08-10",
+   "summary": "冷凍食品大手のニチレイが個人情報の流出被害を受けた可能性が報じられた。ハッカーが入手した情報をネット上で公開したとされており、同社が被害状況の確認と対応を進めている。顧客や関係者に対する影響について懸念が広がっている。"
+  },
+  {
+   "slug": "2026-08-10-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-27.html",
+   "title": "みちびき7号機、いよいよ打ち上げ。日本のGPS精度がどう変わる?",
+   "title_en": "Japan's Michibiki 7 Satellite Set to Launch—What Changes for GPS Accuracy?",
+   "category": "科学",
+   "published": "2026-08-10",
+   "summary": "日本版GPS衛星「みちびき」の7号機が8月11日、H3ロケットで種子島宇宙センターから打ち上げられる予定だ。スマートフォンなどの位置情報精度向上に加え、防災やインフラ管理などの実用化が期待されている。最終準備が進行中で、打ち上げ成功への期待が高まっている。"
+  },
+  {
+   "slug": "2026-08-10-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-26.html",
+   "title": "年収1000万円のはずなのに…理想の家が買えない現実",
+   "title_en": "Making $100K USD Household Income But Still Can't Afford Your Dream Home? Japan's Middle Class Reality Check",
+   "category": "経済",
+   "published": "2026-08-10",
+   "summary": "世帯年収1000万円は高収入層とされていますが、実際には理想とする住宅購入が難しい状況に直面する家庭が増えています。物価上昇や住宅ローン金利の上昇、教育費などの急増により、かつての高収入の価値が相対的に低下。高い年収でも生活設計が思うようにいかない現代の経済格差が浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-08-10-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-25.html",
+   "title": "不同意性交の認知件数が増加傾向に。何が原因？",
+   "title_en": "Reports of Non-Consensual Sexual Acts on the Rise: What's Driving the Increase?",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "不同意性交に関する認知件数が増加傾向を示しているとのニュース。刑法改正による法的定義の変更や、被害者の告発意識の向上、SNSなどを通じた相談窓口の周知が広がったことが背景にあると考えられている。社会全体でコンセント（同意）に対する認識が深まる中での変化と見られている。"
+  },
+  {
+   "slug": "2026-08-10-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-24.html",
+   "title": "海水浴場での悲劇、中1姉と小3弟が溺水死亡 何が起きたのか",
+   "title_en": "Tragedy at Beach: Why Did Siblings Drown Together?",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "海水浴場で中学1年生の姉と小学3年生の弟が溺水し、亡くなるという痛ましい事故が発生しました。両児童は同じ時間帯に水難事故に遭遇したとみられています。詳しい状況は現在調査中ですが、海での安全管理や見守りの重要性があらためて注目されています。"
+  },
+  {
+   "slug": "2026-08-10-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-23.html",
+   "title": "台風上陸前にやっておくべきことは？専門家が勧める備えチェックリスト",
+   "title_en": "Typhoon Approaching: What Should You Prepare? Expert-Recommended Checklist",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "台風の上陸が予想される中、事前準備の重要性が改めて注目されている。飲料水や食料の備蓄、懐中電灯やバッテリーの確認、排水口の清掃など、自宅で実施できる対策をリストアップした。気象庁やNHKなどが公開している公式チェックリストも活用しながら、家族全員で準備を進めることが被害軽減のカギになるとされている。"
+  },
+  {
+   "slug": "2026-08-10-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-10-22.html",
+   "title": "熊本地震、39人死亡・6000人超が避難所に　災害関連死の懸念も",
+   "title_en": "Kumamoto Earthquake Death Toll Reaches 39; Over 6,000 Evacuees Sheltered",
+   "category": "国内",
+   "published": "2026-08-10",
+   "summary": "熊本県で発生した地震により、10日午前7時半時点で39人の死亡が確認されました。このうち災害関連死の疑いがある事例も含まれています。また、地震の影響で6165人が避難所に避難しており、今後の二次被害や避難生活の長期化が懸念されている状況です。"
+  },
   {
    "slug": "2026-08-10-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-10-21.html",
