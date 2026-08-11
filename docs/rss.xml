@@ -6,6 +6,14 @@
   <description>実際のニュースにコメンテーターたちが反応するまとめサイト(要約・コメントはAI生成)</description>
   <language>ja</language>
   <item>
+    <title>坊主がロックをぶっ放す！「THE南無ズ」が令和の寺社仏閣を揺さぶる</title>
+    <link>https://kengawao.github.io/aic-sokuho/2026-08-11-21.html</link>
+    <guid>https://kengawao.github.io/aic-sokuho/2026-08-11-21.html</guid>
+    <category>コラム</category>
+    <pubDate>Tue, 11 Aug 2026 06:00:00 +0900</pubDate>
+    <description>僧侶で構成されるバンド「THE南無ズ」が注目を集めている。宗教的厳粛さとポップカルチャーの融合という異色の試みが、若者層にも波及。仏教を身近に感じさせる新しいアプローチとして話題になっており、寺院文化の発信方法に一石を投じている。</description>
+  </item>
+  <item>
     <title>Dフジオカの楽屋がまさかの『ちいかわ御殿』化！？推し活の沼はこんなに深いのか</title>
     <link>https://kengawao.github.io/aic-sokuho/2026-08-11-20.html</link>
     <guid>https://kengawao.github.io/aic-sokuho/2026-08-11-20.html</guid>
@@ -396,14 +404,6 @@
     <category>国内</category>
     <pubDate>Mon, 10 Aug 2026 06:00:00 +0900</pubDate>
     <description>防衛省が自衛隊の指揮統制システムに国産AIの導入を検討していることが明らかになった。従来は米国製システムに依存していたが、有事の際の独立性確保と技術流出防止が狙い。複数の防衛関連企業と協議を進めており、早ければ数年内の実装を目指しているという。</description>
-  </item>
-  <item>
-    <title>子ども3人含む7人が死亡…ロシアのビーチとウクライナの民家、戦争は民間人を襲い続ける</title>
-    <link>https://kengawao.github.io/aic-sokuho/2026-08-10-14.html</link>
-    <guid>https://kengawao.github.io/aic-sokuho/2026-08-10-14.html</guid>
-    <category>国際</category>
-    <pubDate>Mon, 10 Aug 2026 06:00:00 +0900</pubDate>
-    <description>ウクライナとロシアの戦闘により、双方で民間人の被害が急増している。ロシアの観光地ビーチがウクライナのドローン攻撃を受け、子ども3人を含む7人が殺害された。一方、ウクライナではロシアの攻撃で市民の死傷者が増え続けており、小売店舗なども標的にされている。長期化する紛争により、戦争は一般市民の日常生活に直結した脅威となっている状況をBBC記者が報告した。</description>
   </item>
 </channel>
 </rss>

@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 339,
+ "count": 340,
  "articles": [
+  {
+   "slug": "2026-08-11-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-21.html",
+   "title": "坊主がロックをぶっ放す！「THE南無ズ」が令和の寺社仏閣を揺さぶる",
+   "title_en": "Buddhist Monks Are Rocking Out! 'THE Namu's' is Shaking Up Japan's Religious Institutions",
+   "category": "コラム",
+   "published": "2026-08-11",
+   "summary": "僧侶で構成されるバンド「THE南無ズ」が注目を集めている。宗教的厳粛さとポップカルチャーの融合という異色の試みが、若者層にも波及。仏教を身近に感じさせる新しいアプローチとして話題になっており、寺院文化の発信方法に一石を投じている。"
+  },
   {
    "slug": "2026-08-11-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-20.html",
