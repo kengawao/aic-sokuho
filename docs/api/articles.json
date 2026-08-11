@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 340,
+ "count": 361,
  "articles": [
+  {
+   "slug": "2026-08-11-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-42.html",
+   "title": "推し活の副作用？ビッグカツが大ブレイク、メーカー社長も予想外の快挙",
+   "title_en": "Oshi Activity Saves Snack Brand? Big Katsu's Unexpected Boom Surprises Even Its CEO",
+   "category": "コラム",
+   "published": "2026-08-11",
+   "summary": "アイドルやキャラクターへの応援活動「推し活」の一環として、ビッグカツが想定外の人気を獲得。メーカーの社長も驚くほどの販売増加が報告されている。推し活文化とお菓子市場の思わぬ交差点から見える、現代の消費行動の新しい形が注目を集めている。"
+  },
+  {
+   "slug": "2026-08-11-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-41.html",
+   "title": "富士山の遭難死、なぜか男性ばかり―性別で見える登山の危険性の違い",
+   "title_en": "Why Are Most Mount Fuji Climbing Deaths Male? Gender Differences in Mountain Risk",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "富士山での遭難死亡事故において、男性の占める割合が圧倒的に高いことが指摘されている。登山経験や年齢層の偏り、リスク判断の傾向など、性別によって異なる行動パターンが背景にあるとみられる。統計データから見える登山安全の課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-11-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-40.html",
+   "title": "甲子園初出場校が直面する現実 費用問題で地方校は二の足を踏む",
+   "title_en": "The Hidden Cost of First-Time Koshien Appearance: Financial Burden on Rural High Schools",
+   "category": "スポーツ",
+   "published": "2026-08-11",
+   "summary": "高校野球の甲子園大会に初出場する学校が、大会参加にかかる費用負担の大きさに直面している。移動費や宿泊費、ユニフォーム購入など、予想以上の経費がかかることで、地方の経済的に恵まれていない学校が出場の機会を活かしきれないジレンマが浮き彫りになっている。全国大会出場を目指す野球部を支える経営環境の格差が課題として指摘されている。"
+  },
+  {
+   "slug": "2026-08-11-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-39.html",
+   "title": "智弁和歌山、5年ぶりに夏初戦突破！甲子園常連校が復活の狼煙",
+   "title_en": "Chiben Wakayama Breaks 5-Year Losing Streak at Summer Tournament",
+   "category": "スポーツ",
+   "published": "2026-08-11",
+   "summary": "甲子園常連校の智弁和歌山が、夏の全国高校野球選手権大会で5年ぶりに初戦を突破した。同校は過去に甲子園出場を重ねる強豪校だが、近年は初戦敗退が続いていた。今回の突破は、チーム再建への道筋を示す成果となり、今後の成長が注目される。"
+  },
+  {
+   "slug": "2026-08-11-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-38.html",
+   "title": "ちいかわ映画化、なぜこんなに難しい？原作者が語った課題とは",
+   "title_en": "Why Is 'Chiikawa' Movie Adaptation So Difficult? Creator Reveals the Challenges",
+   "category": "エンタメ",
+   "published": "2026-08-11",
+   "summary": "SNSで大人気のキャラクター「ちいかわ」の映画化について、原作者が現在進行中の試行錯誤を明かした。独特の世界観や日常的でありながらシュールなギャップをどう映像化するか、実写とアニメーション、ストーリー構成など複数の課題に直面しているという。人気コンテンツの映画化が常に成功するとは限らない現状が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-11-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-37.html",
+   "title": "携帯キャリアが頭を抱える「ホッピング」とは？利用者の乗り換えが止まらない理由",
+   "title_en": "Why Telecom Carriers Are Struggling with Customer 'Hopping'",
+   "category": "経済",
+   "published": "2026-08-11",
+   "summary": "携帯電話キャリア業界で「ホッピング」と呼ばれる利用者の乗り換え現象が問題化している。これまで固定化していた顧客が、料金プランの多様化やMNP（携帯番号ポータビリティ）の普及により、キャリア間を頻繁に移動するようになった。各キャリアは顧客獲得に莫大な経営資源を投じているものの、定着率の低下により採算性が悪化する懸念が生まれている。"
+  },
+  {
+   "slug": "2026-08-11-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-36.html",
+   "title": "コロンビアで130人以上が犠牲に。近年最大級のM7.4地震、なぜ被害が大きくなった？",
+   "title_en": "Why Did a Major M7.4 Earthquake in Colombia Kill Over 130 People?",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "コロンビアで10日朝、マグニチュード7.4の強い地震が発生し、130人以上の死亡が確認された。同国近年で最大規模の地震となり、政府は非常事態宣言を発令。建物の倒壊や土砂崩れなどの被害が広がっており、今後被害者数がさらに増える可能性がある。地震の影響で多くの地域でインフラが損傷し、救助活動が続いている。"
+  },
+  {
+   "slug": "2026-08-11-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-35.html",
+   "title": "銃撃後、犯人がYouTubeに電話報告？タイで起きた衝撃の事件の全容",
+   "title_en": "Former Thai MP Shoots Provincial Governor, Then Calls YouTube Show to Confess",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "タイ中部ノンタブリー県で元下院議員の男性がノンタブリー県自治体のトップ・トンチャイ・イェンプラサート氏（71）を銃撃し、殺害した。犯人は逃走後にYouTube番組に電話をかけて犯行を説明し、その後逮捕。警察署での記者会見にも応じた。事件から3日前にはバンコク郊外で14歳の少年による銃撃事件が発生しており、タイ首相が銃規制強化を表明したばかりだった。"
+  },
+  {
+   "slug": "2026-08-11-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-34.html",
+   "title": "ウクライナのドローン攻撃、ロシア領内で過去最大級の被害　子どもを含む13人殺害",
+   "title_en": "Ukraine's Drone Strike in Russia Kills 13 in Deadliest Single Attack Since 2022 Invasion",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "ロシア西部タタールスタン共和国がウクライナ軍によるドローン攻撃を受け、13人が殺害、75人が負傷したと発表。2022年の侵攻開始以降、ウクライナによる単独攻撃としては死傷者数が最多級となった。ウクライナはロシアの軍事経済を支える施設への長距離攻撃を段階的に強化しており、戦闘の新たな段階を示している。"
+  },
+  {
+   "slug": "2026-08-11-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-33.html",
+   "title": "ロシア最高裁が反戦政党の選挙出馬を禁止 民主的な政治活動はどうなる?",
+   "title_en": "Russia's Top Court Bans Anti-War Party From Elections—What Does This Mean for Democracy?",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "ロシアの最高裁判所が反戦立場を掲げる政党の選挙への参加を認めない決定を下した。同国ではウクライナ侵攻以降、反戦活動に対する弾圧が強まっており、今回の司法判断は言論の自由や民主的プロセスに大きな影響を及ぼす可能性がある。国際社会からの批判が予想される。"
+  },
+  {
+   "slug": "2026-08-11-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-32.html",
+   "title": "米大統領がイランの賠償要求に真っ向対抗、米イラン対立は泥沼化か",
+   "title_en": "US President Confronts Iran's Reparation Claims Head-On Amid Rising Tensions",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "米国の大統領がイランからの賠償請求に対して強硬な姿勢を示した。イランは過去の米国の軍事行動などに関連した損害賠償を求めていたが、米国側はこれを拒否する構えを見せている。米イラン間の緊張関係がさらに深刻化する可能性が高まっている。"
+  },
+  {
+   "slug": "2026-08-11-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-31.html",
+   "title": "コロンビア地震で130人超死亡　南米で相次ぐ自然災害の現実",
+   "title_en": "Colombia Earthquake Kills Over 130: Another Disaster Hits Vulnerable Region",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "南米コロンビアで大規模な地震が発生し、130人を超える死者が出ている。被害地域では建物の倒壊や土砂災害が相次ぎ、救助活動が急ピッチで進められている。環太平洋火山帯に位置する同国は地震の多い地域であり、今後の余震への警戒が呼びかけられている。"
+  },
+  {
+   "slug": "2026-08-11-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-30.html",
+   "title": "フランス全土の7割で水道制限へ…過去最悪の干ばつ、EU随一の農業国に何が起きているのか",
+   "title_en": "France's Water Crisis: 70% of the Country Faces Usage Restrictions – What's Happening to Europe's Agricultural Powerhouse?",
+   "category": "国際",
+   "published": "2026-08-11",
+   "summary": "フランスで記録的な干ばつが深刻化し、全土の約70%の地域で水の使用制限が実施される見通しとなった。農業や工業用水の削減を余儀なくされており、欧州有数の農業国フランスの食糧生産やエネルギー供給に影響が出る可能性がある。気候変動による水不足は欧州全域の課題となりつつある。"
+  },
+  {
+   "slug": "2026-08-11-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-29.html",
+   "title": "小1で難病宣告された16歳、10年間の向き合い方とは？",
+   "title_en": "Diagnosed with Rare Disease at Age 6, Now 16: How One Teen Perseveres",
+   "category": "健康",
+   "published": "2026-08-11",
+   "summary": "小学1年生で難病と診断された現在16歳の少年の人生に密着したニュース。幼少期の診断から現在までの10年間、本人と家族がどのように病気と向き合い、生活を工夫してきたのかを追った記事。同じ境遇の患者や家族にとって、希望となるようなストーリーが描かれている。"
+  },
+  {
+   "slug": "2026-08-11-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-28.html",
+   "title": "高級ぶどう『シャインマスカット』の盗難が急増 なぜ狙われるのか？",
+   "title_en": "Why Are Thieves Targeting Japan's Premium 'Shine Muscat' Grapes?",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "高級ブドウの代名詞となったシャインマスカットの盗難被害が全国で相次いでいる。栽培農家の努力と高い市場価値が狙われやすくなっている背景がある。農家の防犯対策強化や警察による取り締まり強化が課題となっている。"
+  },
+  {
+   "slug": "2026-08-11-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-27.html",
+   "title": "災害で苦しむ被災者に追い打ち？AI加工画像の拡散に怒りの声",
+   "title_en": "Disaster Victim's AI-Generated Image Goes Viral: 'This is Unacceptable'",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "地震などの被災地で苦しむ男性の画像がAI技術で加工され、ネット上に無断で拡散される事態が発生。被災者は精神的な負担を強いられ、プライバシー侵害と人権侵害への強い憤りを表明している。AI画像の悪用による被害者救済の課題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-11-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-26.html",
+   "title": "山口一郎、4年のうつ病を経て新しい道へ――バンドの顔はどう変わった？",
+   "title_en": "Ichiro Yamaguchi Makes Comeback After 4 Years With Depression: What's Next for Spitz's Voice?",
+   "category": "エンタメ",
+   "published": "2026-08-11",
+   "summary": "スピッツのボーカル・山口一郎が、4年間のうつ病闘病を経て新たなステップに進んでいることが報道された。長期療養を経た現在、本人がどのような心境で活動を再開し、バンドや音楽活動にどのような変化が生じているのかが注目されている。"
+  },
+  {
+   "slug": "2026-08-11-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-25.html",
+   "title": "H3ロケット成功、種子島で歓喜の拍手が響き渡る。日本の宇宙開発は新たなステージへ",
+   "title_en": "Japan's H3 Rocket Succeeds: A New Era for Japanese Space Development Begins at Tanegashima",
+   "category": "科学",
+   "published": "2026-08-11",
+   "summary": "国内開発の主力ロケットH3が種子島宇宙センターで打ち上げられ、成功を収めた。現地では関係者が成功を確認した際に大きな拍手が上がり、日本の宇宙産業における重要な節目となった。このロケットの成功は今後の衛星打ち上げや宇宙利用の拡大に向けた期待を高めている。"
+  },
+  {
+   "slug": "2026-08-11-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-24.html",
+   "title": "避難後に再入館させていた　イオンモール熊本爆発、判断ミスが明らかに",
+   "title_en": "Critical Oversight: Aeon Mall Kumamoto Allowed Customers Back Inside After Evacuation",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "熊本県嘉島町のイオンモール熊本で発生した爆発事故で7人が死亡した事件について、イオンが従業員への聞き取り調査を実施。その結果、一度避難が完了した後、現場の判断で来館客の再入館を認めていたことが判明した。事故発生の経緯や安全管理体制に関わる重要な事実として注目されている。"
+  },
+  {
+   "slug": "2026-08-11-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-23.html",
+   "title": "家族との体験ダイビングで何が起きたのか？溺れによる死亡事故の背景",
+   "title_en": "What Went Wrong During Family Recreational Diving? Investigation Into Fatal Drowning Incident",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "家族と一緒に体験ダイビングに参加していた人物が、ダイビング中に溺れて亡くなるという痛ましい事故が発生しました。体験ダイビングは初心者向けの安全なアクティビティとして認識されていますが、今回の事案では予期しない事態が発生したと見られます。事故の詳細な原因については現在調査中です。"
+  },
+  {
+   "slug": "2026-08-11-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-11-22.html",
+   "title": "関東直撃の台風、いつ上陸？ 大雨警戒レベルは最高に",
+   "title_en": "Major Typhoon Set to Hit Kanto Region - When Will It Strike?",
+   "category": "国内",
+   "published": "2026-08-11",
+   "summary": "台風が関東地方への上陸を予想され、気象庁が大雨に対する厳重な警戒を呼びかけている。土砂災害や河川の氾濫リスクが高まっており、住民は事前の準備と最新の気象情報の確認が急務となっている状況だ。"
+  },
   {
    "slug": "2026-08-11-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-21.html",
