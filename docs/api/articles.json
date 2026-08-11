@@ -2,8 +2,158 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 361,
+ "count": 376,
  "articles": [
+  {
+   "slug": "2026-08-12-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-14.html",
+   "title": "モスク放火、催涙ガス立ち込める現場——ヨルダン川西岸の緊張がエスカレートしている",
+   "title_en": "West Bank Escalates: Mosque Arson and Tear Gas Cloud as Tensions Spiral Out of Control",
+   "category": "国際",
+   "published": "2026-08-12",
+   "summary": "イスラエル占領下のヨルダン川西岸地区で、イスラエル人入植者がパレスチナ人の村を襲撃し、モスク2棟や車、農地に放火する事件が発生。24日の銃撃事件で双方に計6人の死者が出たばかりで、同地区の緊張が急速に高まっている。BBCの中東特派員は現地取材で、催涙ガスが立ち込める現場の様子を伝えている。"
+  },
+  {
+   "slug": "2026-08-12-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-13.html",
+   "title": "わずか3日で6万人が押し寄せたセウタ。なぜモロッコ側からの越境ラッシュが発生したのか",
+   "title_en": "60,000 People Flooded into Spanish Ceuta in Days. What Triggered This Border Crisis?",
+   "category": "国際",
+   "published": "2026-08-12",
+   "summary": "アフリカ大陸北端のスペイン領セウタに7月30日、モロッコ側から約6万人が一斉に押し寄せた。多くは泳ぐか小型ボートで国境フェンスを突破してスペイン領内に侵入。当局の対応により1日までにほぼ全員が帰還したものの、越境時の事故で少なくとも72人が死亡したという。この大規模な越境事件の背景には何があるのか。"
+  },
+  {
+   "slug": "2026-08-12-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-12.html",
+   "title": "M7.4の大地震でコロンビア各地が壊滅状態、大聖堂の塔も倒壊…死者132人",
+   "title_en": "Colombia Earthquake Devastates Cities: M7.4 Quake Kills 132, Topples Historic Cathedral",
+   "category": "国際",
+   "published": "2026-08-12",
+   "summary": "コロンビアで10日朝、マグニチュード7.4の強い地震が発生し、少なくとも132人の死亡が確認された。マニサレスの大聖堂の塔が倒壊するなど、各地で建物の倒壊被害が相次いでいる。動画には、倒壊する建物の様子が次々と記録されており、被害の深刻さが伺える。現地での救助活動が急ピッチで進められている。"
+  },
+  {
+   "slug": "2026-08-12-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-11.html",
+   "title": "コロンビア地震で220人超が犠牲に。南米大陸の地震活動がなぜこんなに活発なのか",
+   "title_en": "Colombia Hit by Devastating Earthquake Killing Over 220 — Why Is South America Such an Earthquake Hotspot?",
+   "category": "国際",
+   "published": "2026-08-12",
+   "summary": "コロンビアで発生した地震により、220人を超える死亡が確認されました。被災地では建物の倒壊が相次ぎ、今もなお多くの人命救助活動が行われています。南米はプレート境界に位置し地震が多く発生する地域であり、今後の余震や二次災害への警戒が続いています。"
+  },
+  {
+   "slug": "2026-08-12-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-10.html",
+   "title": "シリア前大統領に死刑判決、11年の内戦後に裁判所が下した決断とは",
+   "title_en": "Syrian Court Sentences Former President to Death: What Does It Mean for the Region?",
+   "category": "国際",
+   "published": "2026-08-12",
+   "summary": "シリアの裁判所が同国の前大統領に対して死刑判決を言い渡した。11年にわたる内戦を経て、同国の司法制度が前指導者に対する判断を示した形となる。この判決は中東地域の政治的転換を象徴する出来事として注視されている。"
+  },
+  {
+   "slug": "2026-08-12-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-9.html",
+   "title": "お盆の帰省ラッシュが台風直撃でカオス状態に　帰宅予定者から悲鳴の声",
+   "title_en": "Typhoon Wreaks Chaos on Japan's Obon Holiday Travel Rush",
+   "category": "国内",
+   "published": "2026-08-12",
+   "summary": "お盆シーズンの帰省ラッシュが台風の影響を受け、交通機関の混乱が拡大している。高速道路の渋滞や公共交通機関の運行状況の悪化により、多くの帰省者が予定変更を余儀なくされている。気象庁の警報発令もあり、帰宅タイミングの判断に迫られる利用者が増加している状況が報告されている。"
+  },
+  {
+   "slug": "2026-08-12-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-8.html",
+   "title": "経団連会長を務めた奥田碩さんが死去 日本経済界の重鎮が生涯を閉じる",
+   "title_en": "Former Toyota Chairman and Keidanren Leader Okuda Hiroshi Passes Away",
+   "category": "国内",
+   "published": "2026-08-12",
+   "summary": "トヨタ自動車の元会長で、経団連会長も務めた奥田碩さんが亡くなられました。奥田さんは日本の産業界を代表する指導者として、経済界の重要な政策提言や国際交渉の第一線で活躍されてきました。長年にわたり日本経済の発展に貢献した経営者の訃報です。"
+  },
+  {
+   "slug": "2026-08-12-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-7.html",
+   "title": "観測史上最高気温を記録した海、今後どうなる？エルニーニョ現象とヨーロッパ山火事の連鎖",
+   "title_en": "Record-Breaking Ocean Temperatures: What's Happening and What Comes Next?",
+   "category": "国際",
+   "published": "2026-08-12",
+   "summary": "世界の海洋が観測史上最も暑い7月を記録したことが報告された。エルニーニョ現象の発生が主な要因とされており、同時に西ヨーロッパでは記録的な山火事が相次いでいる。気候変動と海水温上昇、そして極端な気象現象の増加が、地球規模での深刻な環境課題として浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-12-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-6.html",
+   "title": "台風15号で7660戸停電、茨城・栃木で4人けが　秋雨前線との組み合わせで被害拡大か",
+   "title_en": "Typhoon No. 15 Leaves 7,660 Homes Without Power, Injures 4 in Ibaraki and Tochigi",
+   "category": "国内",
+   "published": "2026-08-12",
+   "summary": "台風15号の影響により、関東地方で被害が相次いでいます。茨城県で3人、栃木県で1人の計4人がけがをし、茨城県を中心に7660戸が停電するなど、広い範囲で生活への支障が出ています。気象当局は今後の状況変化を注視しており、最新情報の確認が重要とされています。"
+  },
+  {
+   "slug": "2026-08-12-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-5.html",
+   "title": "H3ロケット9号機が打ち上げ成功、日本の宇宙開発は本当に軌道に乗ったのか？",
+   "title_en": "Japan's H3 Rocket 9th Mission Succeeds—Has Japan Really Cracked the Space Race?",
+   "category": "科学",
+   "published": "2026-08-12",
+   "summary": "JAXAが開発した次世代主力ロケット「H3」の9号機が打ち上げに成功した。H3は開発当初の課題を乗り越え、複数回の連続成功を重ねており、日本の商業宇宙利用の拡大に向けた重要なマイルストーンとなっている。今後の運用体制の確立と国際競争力の強化が注目される。"
+  },
+  {
+   "slug": "2026-08-12-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-4.html",
+   "title": "コンゴのエボラ感染、ついに死者2000人超えへ…現地の状況と世界的な懸念は？",
+   "title_en": "Congo Ebola Death Toll Surpasses 2,000: What's Preventing Control of the Outbreak?",
+   "category": "国際",
+   "published": "2026-08-12",
+   "summary": "アフリカのコンゴ民主共和国でエボラウイルスの感染が拡大し、死者数が2000人を突破した。保健当局の対応が進む一方で、紛争地域での医療施設の破壊やワクチン接種の困難さなど、複数の課題が感染抑止を阻んでいる状況が明らかになっている。"
+  },
+  {
+   "slug": "2026-08-12-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-3.html",
+   "title": "ソニーとTSMC、半導体で手を組む。日本の産業再生はここから始まる?",
+   "title_en": "Sony and TSMC Team Up: Can This Partnership Revive Japan's Semiconductor Industry?",
+   "category": "経済",
+   "published": "2026-08-12",
+   "summary": "ソニーとTSMC（台湾積体電路製造）が合弁会社の設立を発表。両社の経営資源を統合し、次世代の半導体製造技術開発に取り組む。日本の電機メーカーとアジア最大手の半導体受託製造企業による提携は、AI時代の産業競争力強化を狙ったものとみられている。"
+  },
+  {
+   "slug": "2026-08-12-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-2.html",
+   "title": "我が家・杉山、病気公表から復帰へ。ファンが待ち望んでいた日がついに来た",
+   "title_en": "Sugiyama from Wagaya Makes Long-Awaited Return to Entertainment After Health Battle",
+   "category": "エンタメ",
+   "published": "2026-08-12",
+   "summary": "お笑いコンビ・我が家の杉山が、公表していた病気から復帰することが明らかになった。療養期間を経て、芸能活動への本格的な再開を目指す。ファンの間でも応援の声が高まっており、復帰後の活動が注目を集めている。"
+  },
+  {
+   "slug": "2026-08-12-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-1.html",
+   "title": "完璧なママでなければダメなのか？社会的プレッシャーに追い詰められる女性たち",
+   "title_en": "Must Mothers Be Perfect? The Societal Pressure Crushing Japanese Women",
+   "category": "コラム",
+   "published": "2026-08-12",
+   "summary": "SNSの普及により、理想とされる「完璧なママ像」が可視化され、多くの女性がそのプレッシャーに苦しんでいる。仕事と育児の両立、完璧な食事管理、子どもの教育への過度な期待など、社会が女性に求める理想像のギャップが、メンタルヘルスの悪化につながっているという指摘が増えている。専門家は、多様な育児スタイルを認める社会への転換が必要だと提言している。"
+  },
+  {
+   "slug": "2026-08-12-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-12-0.html",
+   "title": "イオン爆発事故、遺族に補償へ。大手小売業の責任問題はどうなる?",
+   "title_en": "AEON Gas Explosion Compensation Plan: What Does This Mean for Retail Safety in Japan?",
+   "category": "国内",
+   "published": "2026-08-12",
+   "summary": "イオンで発生した爆発事故により、被害を受けた遺族に対して同社が補償を行う方針を表明しました。事故の原因究明と再発防止策の検討も進められており、大手小売企業の安全管理体制があらためて問われることになります。"
+  },
   {
    "slug": "2026-08-11-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-11-42.html",
