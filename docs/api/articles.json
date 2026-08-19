@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 419,
+ "count": 440,
  "articles": [
+  {
+   "slug": "2026-08-20-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-20.html",
+   "title": "3日連続で道に捨てられた食パン、犯人は一体何を考えているのか",
+   "title_en": "Mystery of the Daily Bread: Why Is Someone Dumping Loaves on the Road for 3 Days Straight?",
+   "category": "コラム",
+   "published": "2026-08-20",
+   "summary": "某地域の道沿いで食パンが大量に投棄される事案が3日連続で発生。廃棄ルートの問題なのか、それとも誰かの奇妙なメッセージなのか。パンという日常的な食材がゴミと化す異常な光景に、ネット民からは困惑と推測の声が相次いでいる。"
+  },
+  {
+   "slug": "2026-08-20-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-19.html",
+   "title": "月にまた新しいクレーター誕生、原因はロケット残骸だった",
+   "title_en": "Fresh Moon Crater Traced Back to Rocket Debris Impact",
+   "category": "科学",
+   "published": "2026-08-20",
+   "summary": "宇宙機関の観測により、月の表面に新たに形成されたクレーターがロケットの残骸衝突によるものと特定された。月面への衝突物体の追跡調査から、どの打ち上げミッションに由来するかが判明し、宇宙デブリ問題の深刻さがあらためて浮き彫りになった。天体観測の精度向上により、月面での衝突イベントをより詳細に検証できるようになってきた。"
+  },
+  {
+   "slug": "2026-08-20-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-18.html",
+   "title": "え、シロイルカも自分の顔が分かるの？鏡で自分を認識する能力が確認される",
+   "title_en": "Beluga Whales Can Recognize Themselves in Mirrors—What Does This Tell Us About Animal Intelligence?",
+   "category": "科学",
+   "published": "2026-08-20",
+   "summary": "シロイルカが鏡に映った自分の姿を自分自身として認識できることが研究で明らかになった。これまで動物の自己認識能力は限られた種でしか確認されていなかったが、高い知能を持つシロイルカもこの能力を備えていることが判明。動物の認知能力の解明につながる発見として注目されている。"
+  },
+  {
+   "slug": "2026-08-20-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-17.html",
+   "title": "ガチ中華の競争が激化、繁盛店では回転レーンも導入へ",
+   "title_en": "Authentic Chinese Restaurant Competition Heats Up: High-Demand Venues Adopt Rotating Belt Systems",
+   "category": "経済",
+   "published": "2026-08-20",
+   "summary": "中華料理市場で本格的な中華飲食店の競争が急速に高まっている。消費者の中華への関心拡大に伴い、新規参入や既存店の機能強化が相次いでおり、なかには回転式レーンシステムを導入して効率化を図る店舗も出現。市場成長の一方で、各店が差別化と生産性向上を迫られている現状が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-20-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-16.html",
+   "title": "電子書籍や動画は「購入」なのに「所有」できない？ユーザーが抱える違和感の正体",
+   "title_en": "You 'Bought' an E-Book, but Do You Really Own It? The Hidden Truth Behind Digital Purchases",
+   "category": "経済",
+   "published": "2026-08-20",
+   "summary": "電子書籍や動画配信サービスにおいて、ユーザーが「購入」したはずのコンテンツが、実は利用許諾にすぎず真の所有権を得ていない問題が顕在化している。サービス終了時の消失やアカウント削除時の喪失など、物理的な所有と異なる脆弱性が指摘されており、消費者保護とデジタル化時代の権利の定義をめぐる議論が活発化している。"
+  },
+  {
+   "slug": "2026-08-20-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-15.html",
+   "title": "火災報知器の誤作動で藤井王位が避難？対局が遅延した珍事件の真相",
+   "title_en": "What Happened When a Fire Alarm Interrupted Fujii's Shogi Match?",
+   "category": "スポーツ",
+   "published": "2026-08-20",
+   "summary": "将棋の藤井聡太王位が対局中に火災報知器が誤作動し、会場から一時避難する事態が発生した。報知器の鳴動により対局が中断され、再開に遅れが生じたもの。プロの重要な対局が予期しないトラブルで影響を受けるという異例の出来事として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-20-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-14.html",
+   "title": "北朝鮮製ミサイルがウクライナに？ロシアが国際ルール無視の新展開",
+   "title_en": "Russia Reportedly Using North Korean Missiles Against Ukraine—What's the Endgame?",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "ウクライナのゼレンスキー大統領は、ロシアがウクライナ南部ザポリッジャへの攻撃に北朝鮮製ミサイルを使用したと発表しました。この攻撃により7人が殺害され、24人以上が負傷。ロシアと北朝鮮の軍事協力の実態が浮き彫りになる一方で、国際社会への挑戦とも言える動きとして注視されています。"
+  },
+  {
+   "slug": "2026-08-20-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-13.html",
+   "title": "イギリス製ドローンがロシア領内を攻撃？ウクライナが西側兵器の運用を本格化させた意図とは",
+   "title_en": "UK-Made Drones Hit Russian Territory: What Does Ukraine's Escalation Mean for the War?",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "ウクライナ軍がイギリス製ドローンを用いてロシア領内への攻撃を開始したことが明らかになった。英メディアの報道を受け、情報筋がBBCに事実を認めた。西側諸国の兵器供与がエスカレートする中、この動きはウクライナの戦術の転換を示唆しており、紛争の深刻化と国際的な緊張の高まりが懸念される。"
+  },
+  {
+   "slug": "2026-08-20-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-12.html",
+   "title": "ゼレンスキー大統領が窮地に？国民から信頼される前国防相が選挙実施を要求",
+   "title_en": "Ukraine's Popular Ex-Defense Minister Challenges Zelenskyy: Is It Time for Presidential Elections?",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "ウクライナの前国防相フェドロフ氏が、事実上の解任後にビデオ演説を公開し、ロシアの軍事侵攻を理由に延期されている大統領選挙の実施を要求しました。国民から高い評価を受けるフェドロフ氏の発言は、現職のゼレンスキー大統領に対する圧力となっており、戦時下での民主的プロセスの在り方を巡る議論が激化しています。"
+  },
+  {
+   "slug": "2026-08-20-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-11.html",
+   "title": "米国がICC所長に制裁、国際司法機関と激突か",
+   "title_en": "US Imposes Sanctions on ICC Chief: International Justice System Under Pressure",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "米国がパレスチナ情勢に関連する国際刑事裁判所（ICC）の捜査に対抗する形で、赤根所長を含むICC職員に制裁を課した。これはイスラエル関連の捜査に対する米国の強い異議を示すもので、国際的な司法権と各国主権の対立構図が鮮明になっている。"
+  },
+  {
+   "slug": "2026-08-20-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-10.html",
+   "title": "米韓軍事演習が短縮へ、米国側からの要請で何が変わる？",
+   "title_en": "US Pushes for Smaller Korea Military Drills: What's Really Going On?",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "米国の要請により、米韓両国が実施する軍事演習の規模が短縮されることが明らかになった。これまで定期的に行われてきた大規模な合同演習の日程や参加規模が削減される方向で調整されている。この動きは朝鮮半島情勢の変化や米国の戦略的判断が背景にあるとみられる。"
+  },
+  {
+   "slug": "2026-08-20-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-9.html",
+   "title": "59歳のカズ、天皇杯で2得点。現役最年長選手の活躍になぜ日本中が沸騰？",
+   "title_en": "At 59, Kazuyoshi Miura Scores Twice in Emperor's Cup. Why Is Japan Captivated by Kazu's Remarkable Performance?",
+   "category": "スポーツ",
+   "published": "2026-08-20",
+   "summary": "福島ユナイテッドに所属する三浦知良選手が、59歳で天皇杯1回戦に先発出場。ペナルティーキックで2ゴールを挙げるなど活躍を見せた。現役年数が長く国民的人気を集める選手の躍動が改めて注目を集めている。"
+  },
+  {
+   "slug": "2026-08-20-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-8.html",
+   "title": "600年前の元寇、実は南宋の武器を転用していた？海底から発見された矢が示す意外な事実",
+   "title_en": "600-Year-Old Mystery: Were Mongol Invaders Using Captured Chinese Weapons During Japan's Historic Battle?",
+   "category": "国内",
+   "published": "2026-08-20",
+   "summary": "長崎県の海底遺跡から、鎌倉時代の元寇で沈んだ船の一部とともに矢が発見されました。この矢は元に滅ぼされた南宋のものと判明し、元がいかに敵国の武器や資源を活用していたかを示す重要な証拠となっています。奈良文化財研究所などの研究グループが調査を進めており、当時の軍事戦略の解明につながる可能性があります。"
+  },
+  {
+   "slug": "2026-08-20-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-7.html",
+   "title": "制汗剤の塗り直しがNGだって知ってた？医師が明かす意外な理由",
+   "title_en": "Did You Know? Reapplying Antiperspirant Could Be Harmful, Doctors Warn",
+   "category": "健康",
+   "published": "2026-08-20",
+   "summary": "多くの人が制汗剤を何度も塗り直しているが、医学的にはこの習慣が問題である可能性が指摘されている。医師によれば、制汗剤の過剰使用は肌への負担や汗腺機能への悪影響につながる恐れがあり、正しい使用方法や適切な塗り直しの頻度について専門家からのアドバイスが注目を集めている。"
+  },
+  {
+   "slug": "2026-08-20-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-6.html",
+   "title": "大谷6年連続30本達成、歴史的偉業の背景にあるものは？",
+   "title_en": "Ohtani's Historic 6-Year 30-Homer Streak: How Rare Is This Record?",
+   "category": "スポーツ",
+   "published": "2026-08-20",
+   "summary": "大リーグで活躍する大谷翔平選手が、6年連続で30本以上のホームランを達成した。この記録は野球史においても極めて稀有な成績であり、同じく複数年にわたってこの基準を達成した選手がどれほど限定的であるかが注目されている。大谷の安定した打撃成績と身体能力の継続性について、専門家からも称賛の声が上がっている。"
+  },
+  {
+   "slug": "2026-08-20-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-5.html",
+   "title": "万博で盛り上がる一方、工事トラブルが次々と発覚…何が起きている?",
+   "title_en": "Behind the Spectacle: Construction Mishaps Plague Osaka Expo",
+   "category": "国内",
+   "published": "2026-08-20",
+   "summary": "大阪の万博開催中、会場の建設工事に関わる不祥事が相次いで報告されている。安全管理の問題や契約違反など、盛況の陰で深刻な課題が浮き彫りになっている。これらは万博成功の足元を揺るがす要因として、関係者からの懸念が高まっている。"
+  },
+  {
+   "slug": "2026-08-20-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-4.html",
+   "title": "東証また下げ…中東の混乱が日本経済まで影響？市場は何を恐れているのか",
+   "title_en": "Tokyo Stock Market Falls Again: How Middle East Turmoil Threatens Japan's Economy",
+   "category": "経済",
+   "published": "2026-08-20",
+   "summary": "東京証券取引所が続落し、中東情勢の不安定化が景気減速につながるとの懸念が広がっている。地政学リスクによるエネルギー価格の上昇や供給鎖の混乱が、日本経済に与える影響を投資家が警戒している状況が明らかになった。"
+  },
+  {
+   "slug": "2026-08-20-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-3.html",
+   "title": "生成AIで標章偽造？書類送検される事態に、偽造の敷居がこんなに低くなったのかと戦慄が走る",
+   "title_en": "AI-Generated Trademark Counterfeiting: The Next Frontier of Forgery?",
+   "category": "IT",
+   "published": "2026-08-20",
+   "summary": "生成AIを使用して標章（商標やロゴなど）を偽造したとして、関係者が書類送検されました。このケースは生成AIが犯罪に悪用される具体的な事例として注目されており、偽造の手口の巧妙化と対策の急務を浮き彫りにしています。AI技術の進化が法執行機関の対応能力を上回るスピードで進んでいることへの懸念が高まっています。"
+  },
+  {
+   "slug": "2026-08-20-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-2.html",
+   "title": "豪雨で車が水没したら保険は下りる？知らずに後悔する前に",
+   "title_en": "Will Your Car Insurance Cover Flood Damage? What You Need to Know Before It's Too Late",
+   "category": "経済",
+   "published": "2026-08-20",
+   "summary": "近年の豪雨災害で浸水被害が増加する中、車両保険の重要性が改めて注目されている。一般的な自動車保険では水害による損害がカバーされない場合も多く、補償内容の確認不足による泣き寝入りが問題化。水害リスクが高い地域の住民を中心に、適切な保険選択の必要性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-20-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-1.html",
+   "title": "診察待つ列に車突っ込む、女性が死亡。なぜ車の暴走事故は続くのか",
+   "title_en": "Car Crashes Into Medical Clinic Waiting Line, Woman Dies—Why Do Runaway Vehicle Incidents Keep Happening?",
+   "category": "国内",
+   "published": "2026-08-20",
+   "summary": "医療施設の診察待機列に車が突っ込み、女性が亡くなるという痛ましい事故が発生しました。患者や付き添い者が並んでいる状況での予期せぬ惨事は、公共の場所での安全対策の課題を改めて浮き彫りにしています。警察は事故の原因について調査を進めています。"
+  },
+  {
+   "slug": "2026-08-20-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-0.html",
+   "title": "JR九州の被害額が2016年熊本地震を上回る恐れ…復興への道のりは",
+   "title_en": "JR Kyushu Faces Unprecedented Disaster Costs—Will Recovery Take Longer Than Expected?",
+   "category": "国内",
+   "published": "2026-08-20",
+   "summary": "JR九州が最近の地震災害による被害額が、2016年の熊本地震による被害を上回る可能性があると発表した。線路の損壊や駅施設の被害など、鉄道インフラへの甚大な影響が明らかになっている。復旧工事には多大な時間と費用がかかる見通しで、利用者への影響が長期化する懸念も出ている。"
+  },
   {
    "slug": "2026-08-19-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-42.html",
