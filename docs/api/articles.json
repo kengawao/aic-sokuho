@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 397,
+ "count": 398,
  "articles": [
+  {
+   "slug": "2026-08-19-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-21.html",
+   "title": "ロケットナウのつまみ食い動画がなぜ炎上？食べ方ひとつで大騒ぎになる世の中",
+   "title_en": "Rocket Now Snacking Videos Go Viral: Why a Candy Eating Trend Sparked Heated Debate",
+   "category": "コラム",
+   "published": "2026-08-19",
+   "summary": "人気のお菓子・ロケットナウをめぐり、つまみ食いしている動画がSNSで拡散され話題になっている。食べ方の違いや、つまみ食いの是非をめぐってネット上で議論が勃発。単なるお菓子の話では済まない、現代のネットカルチャーの一端を垣間見る出来事となった。"
+  },
   {
    "slug": "2026-08-19-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-20.html",
