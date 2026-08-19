@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 398,
+ "count": 419,
  "articles": [
+  {
+   "slug": "2026-08-19-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-42.html",
+   "title": "ココリコ、コンビ名の由来を語る→まさかの理由に一同驚愕「えっ、それなの？」",
+   "title_en": "Cocolico Reveals the Secret Behind Their Comedy Duo Name—And Fans Are Shocked",
+   "category": "コラム",
+   "published": "2026-08-19",
+   "summary": "お笑いコンビ・ココリコが、自分たちのコンビ名の由来について語った。意外と単純だったのか、深い意味があったのか、メンバーが改めて回顧することで、ファンの間でも「へえ、そんな理由だったんだ」という反応が広がっている。コンビ結成当初の思い出とともに、命名秘話を明かした。"
+  },
+  {
+   "slug": "2026-08-19-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-41.html",
+   "title": "大飯原発3号機がまた止まった　発電機の部品破損で運転再開時期未定に",
+   "title_en": "Ohi Nuclear Plant Unit 3 Shuts Down Again: Generator Equipment Damaged, Restart Timeline Uncertain",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "関西電力の大飯原子力発電所3号機で8月8日に発電機が停止したトラブルについて、発電設備の一部が破損していたことが判明しました。原子炉の運転も同時に停止しており、原因究明と修復が進められているものの、運転再開の時期は現在のところ未定となっています。"
+  },
+  {
+   "slug": "2026-08-19-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-40.html",
+   "title": "熊本地震の断層破壊、約38kmまで到達 何が分かった？",
+   "title_en": "Kumamoto Earthquake Fault Rupture Traced to 38km: What Does This Reveal?",
+   "category": "科学",
+   "published": "2026-08-19",
+   "summary": "熊本地震の調査により、断層破壊が約38キロメートルに及んでいたことが明らかになりました。この規模の破壊は地震のエネルギー解放メカニズムや、今後の地震予測に重要な知見をもたらすものです。調査結果は地質学的な理解を深め、防災対策の改善にも寄与する可能性があります。"
+  },
+  {
+   "slug": "2026-08-19-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-39.html",
+   "title": "元中日・石川翔が脊髄梗塞で退院 若き野球人を襲った「沈黙の病」とは",
+   "title_en": "Former Chunichi Dragons Player Shota Ishikawa Discharged After Spinal Cord Infarction Diagnosis",
+   "category": "スポーツ",
+   "published": "2026-08-19",
+   "summary": "中日ドラゴンズの元選手・石川翔が脊髄梗塞を患っていたことを公表し、このほど退院した。脊髄梗塞は脳卒中のように注目されることは少ないが、脊髄への血流が途絶える重篤な疾患であり、後遺症の可能性も高い。野球人としてのキャリアに影響を与える可能性があり、今後の状況が注視されている。"
+  },
+  {
+   "slug": "2026-08-19-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-38.html",
+   "title": "政府がAI事業者向けの知財保護案を提示へ　ジェネレーティブAIの学習データ問題にようやく動く",
+   "title_en": "Japan's Government Moves to Protect AI Companies' Intellectual Property Rights—Addressing Generative AI Training Data Concerns",
+   "category": "IT",
+   "published": "2026-08-19",
+   "summary": "政府がAI事業者を対象とした知的財産権の保護方針を打ち出す動きが明らかになった。生成AIの学習に用いられたデータに関する著作権侵害リスクや、生成物の知財帰属などの課題に対し、事業者側の法的確実性を高める施策を検討している。国内AI産業の競争力強化と権利者保護のバランスが焦点となる。"
+  },
+  {
+   "slug": "2026-08-19-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-37.html",
+   "title": "チケット・ゲーム機・推し活グッズ…転売botが爆買いする裏側、どうやって防ぐ？",
+   "title_en": "Scalpers' Automation Bots Buying Up Concert Tickets and Gaming Consoles: How Can We Stop Them?",
+   "category": "IT",
+   "published": "2026-08-19",
+   "summary": "転売目的で商品を大量購入する悪質な自動化プログラム（bot）の実態が問題化している。チケットやゲーム機、グッズなど人気商品が瞬時に買い占められ、定価での購入が困難になる状況が広がっている。販売事業者と利用者の間で対策強化が急務となっている。"
+  },
+  {
+   "slug": "2026-08-19-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-36.html",
+   "title": "3.1キロ、直径17センチ…スリランカで摘出された膀胱結石が医学史上最大級だった",
+   "title_en": "Sri Lanka Doctors Remove Record-Breaking 3.1kg Bladder Stone from Patient",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "スリランカの医療チームが、患者の膀胱から重さ3.1キロという巨大な結石を摘出した。直径約17センチのこの結石は、医学的に記録されている膀胱結石の中で最大級の大きさだと考えられている。通常、膀胱結石は尿路感染や排尿困難の原因となるが、ここまで巨大化するケースは極めて稀である。"
+  },
+  {
+   "slug": "2026-08-19-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-35.html",
+   "title": "イギリス製ドローンがロシア攻撃で使用　ロシアが「テロ共犯」と激怒、両国関係さらに悪化か",
+   "title_en": "British Drones Used in Russian Attacks: Moscow Brands UK 'Accomplice to Terrorism' as Tensions Escalate",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "ロシアはイギリスに対し、ウクライナ向けドローン供給によってウクライナ危機をエスカレートさせていると非難した。イギリス製ドローンがロシアへの攻撃に使われたことが判明し、ロシア側は強く抗議。両国の対立が一層深まる様相を呈している。"
+  },
+  {
+   "slug": "2026-08-19-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-34.html",
+   "title": "習近平体制が恐れた元首相の死　追悼コメント削除、SNS検閲の背景は",
+   "title_en": "China's Xi Regime Feared Former Premier's Legacy: Why Social Media Mourning Was Censored",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "改革開放の立役者として知られた中国の朱鎔基元首相の告別式が北京で執り行われた。中国政府は公式には朱氏を「忠実な党員」として評価する一方で、その改革路線への国民の追悼が現政権への暗黙の批判へ転化することを懸念し、SNSでの追悼コメント削除などの検閲を行っている。経済改革期への郷愁と現体制への不満が結びつく可能性を警戒する習政権の姿勢が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-19-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-33.html",
+   "title": "解任された前国防相が戦時中の大統領選を要求、ウクライナで民主主義めぐる議論勃発",
+   "title_en": "Dismissed Ukrainian Defense Chief Demands Presidential Election During Wartime",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "ウクライナのミハイロ・フェドロフ前国防相（35）が、戦時下での大統領選挙実施を公開動画で呼びかけた。7月に解任されたフェドロフ氏は、民主主義がロシアに「人質にされてはならない」と主張。ウクライナでは戦時中の選挙実施の是非をめぐる議論が再燃している。"
+  },
+  {
+   "slug": "2026-08-19-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-32.html",
+   "title": "米大統領娘婿がハマスと直接協議？背景に何がある",
+   "title_en": "Why Is the U.S. President's Son-in-Law Meeting With Hamas?",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "米国の有力政治家の娘婿がハマスとの協議に関わったとされるニュースが報じられました。中東和平交渉の複雑さを示す事例として注目されており、米国政府の公式な立場との関係や、交渉の実態について関心が集まっています。背景には地域の緊張緩和に向けた多角的な外交努力があるとみられます。"
+  },
+  {
+   "slug": "2026-08-19-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-31.html",
+   "title": "マグロの漁獲枠が拡大へ、回転寿司の「トロ安」は本当に来るのか",
+   "title_en": "Will Toro Get Cheaper? What Expanding Tuna Quotas Really Means for Your Sushi",
+   "category": "経済",
+   "published": "2026-08-19",
+   "summary": "国際的なマグロ漁業管理機関が漁獲枠の拡大を決定したもよう。これにより市場供給量の増加が予想され、消費者にとって価格低下につながる可能性がある。ただし実際の価格変動には、為替相場や流通コスト、需要変動など複数の要因が影響するため、単純な値下げが実現するかは不透明な部分もある。"
+  },
+  {
+   "slug": "2026-08-19-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-30.html",
+   "title": "豪雨で亡くなった男性、近所の人が明かした姿『地域のために働く人だった』",
+   "title_en": "Record Downpours Claim Life of Community-Minded Man: 'He Always Worked for Our Neighborhood'",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "千葉県市川市の記録的豪雨で、冠水した道路で倒れていた男性が発見され、その後死亡しました。男性を知る近所の住民は、彼が地域社会に貢献する人物だったと証言。豪雨による予期せぬ悲劇が、地域に大きな喪失感をもたらしています。"
+  },
+  {
+   "slug": "2026-08-19-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-29.html",
+   "title": "避難所の7割がエアコンなし、真夏の災害時に命の危機？専門家が警告",
+   "title_en": "70% of Shelters Lack Air Conditioning: Can We Survive Summer Disasters?",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "文部科学省の調査で、避難所に指定されている全国の公立小中学校の体育館など7割がエアコンを備えていないことが判明した。真夏の熊本地震を教訓に、専門家は猛暑下での避難所環境が熱中症などで生死に関わる問題だと指摘。災害対策の重要な課題として認識される必要がある。"
+  },
+  {
+   "slug": "2026-08-19-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-28.html",
+   "title": "夏風邪で子どもが寝込む前に知っておくべき「3大夏風邪」の正体と対策",
+   "title_en": "What Parents Need to Know: How to Protect Children from the \"Big 3\" Summer Colds",
+   "category": "健康",
+   "published": "2026-08-19",
+   "summary": "夏場に子どもが罹りやすい3種類の夏風邪の特徴と予防方法について解説した記事。高温多湿の環境で流行するウイルス感染症への対策として、手洗い・うがい・適切な水分補給など日常生活での実践的な予防策が紹介されている。夏風邪は冬の風邪と異なる特性を持つため、季節に応じた対応が重要とされている。"
+  },
+  {
+   "slug": "2026-08-19-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-27.html",
+   "title": "大腸がん宣告されたのに、なぜ彼はボディビルを続けるのか",
+   "title_en": "Why Does This Bodybuilder Keep Training After Colon Cancer Diagnosis?",
+   "category": "健康",
+   "published": "2026-08-19",
+   "summary": "大腸がんの診断を受けた男性がボディビルディングを続けている。医学的な制約がある中での運動継続について、本人の闘病姿勢と医療の現場での実例が注目を集めている。がん患者のQOL向上と運動療法の関係性が改めて問われている。"
+  },
+  {
+   "slug": "2026-08-19-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-26.html",
+   "title": "大谷、ついに30号達成！日本人選手として6年連続の大台到達、これって何がすごいの？",
+   "title_en": "Shohei Ohtani Reaches 30 Home Runs for 6 Consecutive Years: Why This Achievement Is Historic",
+   "category": "スポーツ",
+   "published": "2026-08-19",
+   "summary": "メジャーリーグで活躍する大谷翔平選手が、シーズン30号ホームランを達成した。これにより、彼は6年連続で30本以上のホームランを記録する快挙を成し遂げた。日本人選手としてこのような継続的な高い成績を維持することは極めて稀であり、大谷の卓越した打撃能力と安定性が評価される結果となっている。"
+  },
+  {
+   "slug": "2026-08-19-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-25.html",
+   "title": "昭和の大女優・岸恵子さん死去、その人生と作品が今改めて注目される理由",
+   "title_en": "Legendary Japanese Actress Kishi Keiko Passes Away: Revisiting Her Impact on Post-War Cinema",
+   "category": "エンタメ",
+   "published": "2026-08-19",
+   "summary": "日本映画史を代表する女優・岸恵子さんが亡くなられました。戦後の映画黄金期から現代まで、数々の名作に出演し、日本映画を世界に発信した大女優の訃報です。その功績と足跡を振り返ります。"
+  },
+  {
+   "slug": "2026-08-19-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-24.html",
+   "title": "熊本で38℃予想、全国で危険な暑さ　あなたの地域は大丈夫？",
+   "title_en": "Kumamoto braces for 38°C heat: Is your region prepared for extreme temperatures?",
+   "category": "健康",
+   "published": "2026-08-19",
+   "summary": "熊本県などで38℃前後の気温が予想される中、全国的に危険な暑さが続くとして気象機関が注意を呼びかけている。熱中症のリスクが急速に高まる時期であり、こまめな水分補給や室内での休息など、適切な対策が求められている。特に高齢者や子どもの様子に注意が必要とされている。"
+  },
+  {
+   "slug": "2026-08-19-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-23.html",
+   "title": "34人の児童被害、元教諭に実刑判決。学校現場の監視体制は本当に機能しているのか",
+   "title_en": "Former Teacher Sentenced for Abusing 34 Schoolgirls: Is Your Child's School Really Safe?",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "複数の女児に対してわいせつ行為を繰り返していた元教諭が、裁判で実刑判決を受けた。34人という多数の被害者が確認されたケースであり、長期間にわたって不適切な行為が継続していたと見られている。学校の安全管理体制や児童保護の課題があらためて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-19-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-22.html",
+   "title": "近所で子どもの悲鳴が続いていたのに…2歳児死亡事件、なぜ誰も気づかなかった？",
+   "title_en": "Neighbors Heard Child's Screams Repeatedly—How Did This Toddler's Death Happen Undetected?",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "2歳の幼い子どもが亡くなる事件で、事件発生前から近隣住民が繰り返し子どもの悲鳴を耳にしていたことが明らかになった。地域コミュニティが虐待の兆候にどう対応すべきか、また児童相談所などの機関との連携体制の課題が浮き彫りになっている。悲劇を防ぐために何が必要かが問われている。"
+  },
   {
    "slug": "2026-08-19-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-21.html",
