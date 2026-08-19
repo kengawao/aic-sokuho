@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 376,
+ "count": 397,
  "articles": [
+  {
+   "slug": "2026-08-19-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-20.html",
+   "title": "西川貴教が新幹線の品川-新大阪間でゆで卵8個完食？謎の食べ物チャレンジが話題",
+   "title_en": "T.M.Revolution's Takaaki Nishikawa Devours 8 Boiled Eggs on Shinkansen: What's the Mystery?",
+   "category": "コラム",
+   "published": "2026-08-19",
+   "summary": "T.M.Revolutionの西川貴教が新幹線での移動中に、品川駅から新大阪駅までの区間でゆで卵8個を食べきったことが話題に。この約2時間半の乗車時間での謎のチャレンジが、ネット上で「なぜゆで卵？」「体調大丈夫？」といった反応を呼んでいる。移動時間を有効活用した（？）ユニークな行動が注目を集めている。"
+  },
+  {
+   "slug": "2026-08-19-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-19.html",
+   "title": "千葉から全国へ？ニホンジカより厄介な「キョン」の繁殖力がヤバすぎる",
+   "title_en": "Watch Out: Mysterious Chinese Deer Exploding Across Japan with Breeding Speed That Leaves Sika Deer in the Dust",
+   "category": "科学",
+   "published": "2026-08-19",
+   "summary": "中国原産の小型シカ・キョンの分布が千葉県から急速に拡大する恐れが高まっている。元々は野生動物園からの逃げ出しで定着した個体群だが、近年個体数が増加し、農作物被害や生態系への悪影響が懸念される。専門家は防除対策の強化を警告している。"
+  },
+  {
+   "slug": "2026-08-19-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-18.html",
+   "title": "韓国発の漫画アプリ「comico」、来年1月でサービス終了へ。日本で人気だった作品の行方は？",
+   "title_en": "Comico, the Korean-backed manga app, to shut down in January 2025. What happens to popular series?",
+   "category": "エンタメ",
+   "published": "2026-08-19",
+   "summary": "縦スクロール漫画を配信していたcomico が2025年1月でサービスを終了することが発表された。韓国のNHN Entertainment傘下のサービスで、日本でも「神之塔」など多くの人気作品を輩出してきた。スマートフォン漫画市場の競争激化や、国内大手プラットフォームの台頭により、経営判断に至ったと考えられる。今後、掲載作品やユーザーのデータがどう扱われるかが課題となる。"
+  },
+  {
+   "slug": "2026-08-19-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-17.html",
+   "title": "アニメ制作市場がピークアウト？　成長神話の終焉、その先に何がある",
+   "title_en": "Is the Anime Production Market Reaching Peak? The End of the Growth Myth",
+   "category": "エンタメ",
+   "published": "2026-08-19",
+   "summary": "かつて右肩上がりの成長を続けてきた日本のアニメ制作市場が転機を迎えようとしている。制作本数の増加ペースが鈍化し、制作会社の経営難も顕在化する中、業界は質と効率のバランスを問い直されている。過度なクール数増加から適正規模への調整が進むと予想される。"
+  },
+  {
+   "slug": "2026-08-19-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-16.html",
+   "title": "OpenAIが注目する「FDE」職種とは？ AIの急速な成長を支える知られざる職業の実態",
+   "title_en": "What is FDE? The Elite Engineer Role That AI Giants Like OpenAI Are Desperately Competing For",
+   "category": "IT",
+   "published": "2026-08-19",
+   "summary": "OpenAIの幹部2人がAI業界で注目される職種「FDE（Foundation Model Developer Engineer）」について語った。この職種は、大規模言語モデルの基盤構築に必要な高度な技術と深い理解を要求される専門家で、単なるエンジニアではなく研究者としての素養も求められる。AI競争が激化する中、こうした人材の確保が企業の競争力を左右する要因となってきている。"
+  },
+  {
+   "slug": "2026-08-19-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-15.html",
+   "title": "便器の数、実は多すぎ？ 建築基準の「常識」が40年ぶりに見直される理由",
+   "title_en": "Are We Installing Too Many Toilets? Japan Overhauls Construction Standards After 40 Years",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "建物に必要なトイレ便器の数を算出する基準が見直されることになった。現在の基準は数十年前のデータに基づいており、働き方の多様化やテレワークの普及など、社会状況の変化を反映していないと指摘されている。実際の使用実態を調査した上で、より実用的で効率的な基準の策定が進められる見通しだ。"
+  },
+  {
+   "slug": "2026-08-19-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-14.html",
+   "title": "奴隷貿易で儲けた国々へ、アフリカから「補償しろ」の声が急増中。ガーナが主導する歴史的な要求とは？",
+   "title_en": "\"This is where crimes happened\": Ghana leads push for slave trade compensation from the world",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "大西洋奴隷貿易をめぐる国際的な議論が転換点を迎えている。奴隷制度から利益を得た先進国や機関に対し、公式な謝罪・債務免除・賠償金を求める動きが強まっており、かつての奴隷船の主要な出港地だったガーナがこの補償要求運動の先頭に立っている。過去の清算を求める声が、今年より一段と高まっている。"
+  },
+  {
+   "slug": "2026-08-19-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-13.html",
+   "title": "フィリピンのカトリック校で銃撃事件　生徒が同級生を射殺後に自殺",
+   "title_en": "School Shooting in Philippines Leaves One Student Dead, Gunman Dies by Suicide",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "フィリピン南部ミンダナオ島のサンボアンガにあるカトリック系学校で銃撃事件が発生しました。学校の生徒が別の生徒を銃で射殺した後、容疑者本人も自殺したとされています。事件の詳しい経緯や動機については現在調査中です。フィリピンでは銃器規制の課題が指摘されており、今回の事件は同国の学校安全問題を改めて浮き彫りにしています。"
+  },
+  {
+   "slug": "2026-08-19-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-12.html",
+   "title": "子どもを含む9人殺害。ロシア・ウクライナ戦争、激化の一途をたどる",
+   "title_en": "Nine Killed Including Child as Russia-Ukraine Conflict Intensifies",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "ロシア西部と南部へのウクライナによる攻撃で、子ども1人を含む9人が殺害され、23人が負傷した。同じ時間帯にはウクライナ北東部・東部へのロシアからの報復攻撃も発生し、4人が死亡。双方の激しい応酬は収束する兆しを見せず、民間人の被害が急速に増加している。"
+  },
+  {
+   "slug": "2026-08-19-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-11.html",
+   "title": "赤根ICC所長も制裁対象に　トランプ政権が国際刑事裁判所「解体」へ本格始動",
+   "title_en": "Trump Administration Sanctions ICC Chief Akane Aka: The 'Dismantling' of International Justice Begins",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "トランプ米政権のルビオ国務長官が、国際刑事裁判所（ICC）の赤根智子所長ら幹部を制裁対象にすると発表した。トランプ政権は一貫してICCに対抗姿勢を示しており、120カ国以上の加盟国から戦争犯罪捜査権を付与されている同裁判所の幹部を次々と制裁対象にしている。事実上、国際的な司法機関の機能を弱体化させる狙いが見られる。"
+  },
+  {
+   "slug": "2026-08-19-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-10.html",
+   "title": "イランが弾道ミサイル発射？中東の緊張が一気に高まった理由",
+   "title_en": "Iran's Ballistic Missile Launch: What's Driving Middle East Tensions Higher?",
+   "category": "国際",
+   "published": "2026-08-19",
+   "summary": "イランが弾道ミサイルを発射したと報じられ、中東地域の緊張が急速に高まっている。UAEが発表した情報によれば、この軍事行動は地域の安定性に大きな影響を与える可能性がある。国際社会からは懸念の声が上がっており、今後の展開に注目が集まっている状況だ。"
+  },
+  {
+   "slug": "2026-08-19-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-9.html",
+   "title": "なぜ今？大人向け自転車ヘルメット普及の動きが本格化",
+   "title_en": "Why Now? The Rise of Adult Bicycle Helmets in Japan",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "これまで子ども向けが中心だった自転車ヘルメット市場が、大人向け製品の拡充に向けた動きを加速させている。交通安全意識の高まりやeバイク普及による速度上昇への対応、さらには自治体による着用推奨の広がりなど、複数の要因が市場拡大を後押ししている。デザイン性や快適性の向上で、大人ユーザーの抵抗感も薄れつつある。"
+  },
+  {
+   "slug": "2026-08-19-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-8.html",
+   "title": "メタが子どもを『意図的に依存させた』？　米史上最大規模の訴訟がついに審理開始",
+   "title_en": "Meta Accused of 'Deliberately Addicting' Children: Landmark Trial Kicks Off",
+   "category": "IT",
+   "published": "2026-08-19",
+   "summary": "メタが運営するフェイスブックとインスタグラムをめぐり、米国の州当局がメタを相手取った過去最大規模の訴訟の審理が開始された。原告側は、メタが自社プラットフォームに子どもを意図的に依存させる仕組みを構築したと主張。SNSの依存性設計をめぐる問題が改めて焦点となる。"
+  },
+  {
+   "slug": "2026-08-19-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-7.html",
+   "title": "ディズニーとABCが米当局を提訴 放送規制をめぐる対立が激化",
+   "title_en": "Disney and ABC Sue U.S. Authorities Over Broadcast Regulations",
+   "category": "エンタメ",
+   "published": "2026-08-19",
+   "summary": "ウォルト・ディズニー・カンパニーと傘下のABCテレビが、米国の放送当局に対して法的措置を講じた。放送規制や番組編成に関する規定が企業の経営判断を不当に制限しているとして異議を唱えており、メディア大手による当局への異例の対抗措置として注目されている。業界規制と企業の自由度をめぐる議論が一層深まりそうだ。"
+  },
+  {
+   "slug": "2026-08-19-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-6.html",
+   "title": "万博現場責任者が逮捕…竹中工務店で何が起きたのか",
+   "title_en": "Takenaka Corporation Site Manager Arrested: What Happened at Osaka Expo Construction?",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "大阪万博の建設現場で、竹中工務店の現場責任者が逮捕される事態が発生した。具体的な逮捕容疑は報道から確認が必要だが、万博工事の安全管理や法令遵守に関わる重大な問題が発生したとみられる。国内最大級のプロジェクトに関わる大手ゼネコンの責任者逮捕は、工事の進捗や体制に大きな影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-08-19-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-5.html",
+   "title": "子どもが『自殺』と検索するだけでInstagramから通知が届く機能、賛否両論の理由とは",
+   "title_en": "Instagram Sends Support Notifications When Kids Search 'Suicide'—Is This Protection or Privacy Invasion?",
+   "category": "IT",
+   "published": "2026-08-19",
+   "summary": "Instagramが危機的な検索ワードを入力したユーザーに対して、自動的にサポート情報を通知する機能を導入したことが明らかになった。特に児童の検索行動を監視する仕組みについて、メンタルヘルス支援と個人情報保護のバランスをめぐって議論が生まれている。"
+  },
+  {
+   "slug": "2026-08-19-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-4.html",
+   "title": "AI使ったら作業は速くなったのに、なぜか疲れが取れない…その理由は？",
+   "title_en": "AI Made Work Faster, But Your Brain is Burned Out: Here's Why",
+   "category": "IT",
+   "published": "2026-08-19",
+   "summary": "AIツールの導入により業務時間は短縮できているにもかかわらず、ユーザーが心理的な疲労を感じるという現象が報告されている。効率化は実現しているものの、判断の複雑化やツール使いこなしのストレス、生まれた余剰時間への対応など、想定外の負荷が脳に かかっているとみられる。テクノロジー進化と人間の適応のギャップが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-19-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-3.html",
+   "title": "大谷翔平、なぜ6年連続30号達成？メジャーでも異次元の一貫性",
+   "title_en": "Shohei Ohtani Defies Odds: Six Consecutive 30-Homer Seasons—What Makes Him Different?",
+   "category": "スポーツ",
+   "published": "2026-08-19",
+   "summary": "ドジャースの大谷翔平選手が、ロッキーズ戦で今季30号ホームランを放ちました。この達成により、6年連続で30号以上のホームランを記録する快挙となります。2試合連続となるツーランで、チームの勝利に貢献するなど、メジャーリーグでも稀有な一貫した高パフォーマンスを見せています。"
+  },
+  {
+   "slug": "2026-08-19-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-2.html",
+   "title": "千葉豪雨で死者13人、浸水2300棟超 残された2500台の車両をきょう全て移動へ",
+   "title_en": "Chiba's Record Flooding: 13 Dead, 2,300+ Homes Flooded as 2,500 Abandoned Vehicles Face Removal Today",
+   "category": "国内",
+   "published": "2026-08-19",
+   "summary": "線状降水帯が相次いで発生した千葉県で記録的な豪雨となり、13人が死亡、床上・床下合わせて2300棟を超える住宅が浸水被害を受けました。千葉市内に放置されていた約2500台の車両については、本日中に全て移動が完了する予定とのことです。"
+  },
+  {
+   "slug": "2026-08-19-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-1.html",
+   "title": "昭和の大女優・岸惠子さん、93歳で逝去 『君の名は』から70年、日本映画史に残した足跡とは",
+   "title_en": "Legendary Actress Kishida Keiko Passes Away at 93 - 70 Years After 'Your Name', What Legacy Did She Leave to Japanese Cinema?",
+   "category": "エンタメ",
+   "published": "2026-08-19",
+   "summary": "1953年の大ヒット映画『君の名は』で一躍有名となった女優・岸惠子さんが、8月7日に横浜市の自宅で老衰のため93歳で亡くなった。映画女優としての活躍だけでなく、作家としても多くの作品を残し、戦後日本の文化を代表する人物の一人だった。"
+  },
+  {
+   "slug": "2026-08-19-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-19-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-19-0.html",
+   "title": "熊本で『危険な暑さ』警報レベルの猛暑が来るのに、あなたは準備できてますか？",
+   "title_en": "Dangerous Heat Alert for Kyushu's North: Are You Ready for the Extreme Temperatures?",
+   "category": "健康",
+   "published": "2026-08-19",
+   "summary": "19日、西日本を中心に気温が上昇し、熊本を含む九州北部では危険な水準の暑さが予想されている。気象庁は熱中症対策の徹底を呼びかけている。一方、北日本や東日本では湿った空気の影響により大気が不安定になり、激しい雨が降るおそれがあるという対照的な気象状況が発生している。"
+  },
   {
    "slug": "2026-08-12-14",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-12-14.html",
