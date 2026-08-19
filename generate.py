@@ -627,10 +627,12 @@ def main():
 
     seq = next_seq(con, today)
     generated = 0
+    api_errors = 0
     for news, fun, hint in plan:
         try:
             art = generate_article(news, hint, fun)
         except Exception as ex:
+            api_errors += 1
             print(f"skip: {news['title']} ({ex})", file=sys.stderr)
             continue
         slug = f"{today}-{seq}"
@@ -644,6 +646,12 @@ def main():
 
     render_site(con, env)
     print(f"完了: {generated}本生成 / index.html 更新")
+    if generated == 0 and api_errors > 0:
+        # クレジット切れ等でAPIが全滅している場合はワークフローを失敗させ、
+        # GitHubの通知で気づけるようにする
+        print("エラー: API呼び出しがすべて失敗しました(クレジット残高を確認してください)",
+              file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
