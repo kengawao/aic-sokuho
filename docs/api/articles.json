@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 440,
+ "count": 461,
  "articles": [
+  {
+   "slug": "2026-08-20-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-41.html",
+   "title": "57歳で初めてのパパに！オモロー山下、人生第二章突入wwww",
+   "title_en": "Comedy Legend Omoro Yamashita Becomes a Father at 57: Plot Twist Nobody Saw Coming!",
+   "category": "コラム",
+   "published": "2026-08-20",
+   "summary": "お笑い芸人のオモロー山下が57歳で第一子の誕生を迎えた。長年活躍してきた芸人が人生の新たなステージに進むニュースで、ネットでは驚きと祝福の声が相次いでいる。子育てと芸能活動の両立に注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-20-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-40.html",
+   "title": "ChatGPTが子ども向けに「より人間らしくない」に？OpenAIの安全策の狙いとは",
+   "title_en": "OpenAI Makes ChatGPT 'Less Human-Like' for Child Safety—Here's Why",
+   "category": "IT",
+   "published": "2026-08-20",
+   "summary": "OpenAIが18歳未満のユーザーを対象とした新しい安全機能をChatGPTに導入すると発表した。子どもたちがAIを生きた存在と信じるという問題への直接的な対応ではないと述べつつも、より「人間らしくない」仕様に変更することで、ユーザーの安全性を向上させる狙いがある。子どもの発達段階への配慮とAI利用環境の未来について、業界内で関心を集めている。"
+  },
+  {
+   "slug": "2026-08-20-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-39.html",
+   "title": "地震で『宙吊り状態』の煙突、来月撤去へ 日本製紙八代工場の復旧進む",
+   "title_en": "Nippon Paper's Yatsushiro Plant: Dangling Smokestack to Be Removed Next Month After Earthquake",
+   "category": "国内",
+   "published": "2026-08-20",
+   "summary": "先月の地震で被災した日本製紙熊本県八代市工場の煙突が、先端部分で骨組みに引っかかった異常な状態になっていることが明らかになった。会社は来月中旬までに撤去する予定。地震による産業施設の被害状況と復旧の進捗が課題となっている。"
+  },
+  {
+   "slug": "2026-08-20-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-38.html",
+   "title": "野球2軍戦、これからどう決まる？NPBが暑さ基準を初めて明確化",
+   "title_en": "How Will NPB Decide to Play Minor League Games in the Heat? The League Clarifies Standards for the First Time",
+   "category": "スポーツ",
+   "published": "2026-08-20",
+   "summary": "日本野球機構（NPB）が2軍戦の開催可否を判断する際の気温基準を明確に定めた。これまで曖昧だった基準を数値化することで、選手の熱中症リスクを低減させながら、試合計画の予測可能性を向上させる狙い。猛暑が常態化する中、プロ野球界の安全管理強化の一環として注目される。"
+  },
+  {
+   "slug": "2026-08-20-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-37.html",
+   "title": "決勝進出の健大高崎、5試合でわずか2失点。史上最高レベルの守備力が優勝を呼ぶ?",
+   "title_en": "Kensai Takasaki's Dominant Defense: Can 2 Runs in 5 Games Secure the Championship?",
+   "category": "スポーツ",
+   "published": "2026-08-20",
+   "summary": "高校野球の決勝に進出した健大高崎が、ここまでの5試合で2失点という驚異的な守備力を発揮している。1試合平均0.4失点という数字は、全国大会でも極めて稀な成績。強力な投手陣と堅い守備が一体となった戦いぶりが注目を集めており、優勝への道を大きく有利にしている。"
+  },
+  {
+   "slug": "2026-08-20-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-36.html",
+   "title": "ネコの尿が「においの名刺」？実は奥深い猫のコミュニケーション戦略",
+   "title_en": "Cat Urine: Nature's Business Card? The Hidden Science Behind Feline Communication",
+   "category": "科学",
+   "published": "2026-08-20",
+   "summary": "猫の尿に含まれる成分が、他の猫との情報交換に重要な役割を果たしているという研究が注目されている。単なる排泄物ではなく、猫が自分の存在や健康状態、縄張りなどを示す「におい名刺」として機能。猫のマーキング行動の科学的背景が明らかになりつつある。"
+  },
+  {
+   "slug": "2026-08-20-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-35.html",
+   "title": "ノーベル平和賞受賞ジャーナリストが断言「プーチンにウクライナでの勝利はない」",
+   "title_en": "Nobel Peace Prize Winner: \"Putin Cannot Win\" in Ukraine",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "ロシアの独立系新聞「ノーヴァヤ・ガゼータ」の編集長で、2021年にノーベル平和賞を受賞したドミトリー・ムラトフ氏がBBCのインタビューに応じた。同氏はウクライナ侵攻について、プーチン大統領にとって「勝利などあり得ない」と指摘。戦争の行方やロシアの言論統制の強化などについて、現地の状況を交えながら語った。"
+  },
+  {
+   "slug": "2026-08-20-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-34.html",
+   "title": "米大統領がイラン制裁を発動表明、中東情勢はどうなる？",
+   "title_en": "U.S. President Announces Iran Sanctions: What Happens Next to Middle East?",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "米国の大統領がイランに対する新たな制裁の発動を表明した。これにより米国とイランの対立が一層深刻化する見通しで、中東地域の緊張が高まる可能性がある。制裁の具体的な内容や発効時期については、今後の詳細発表が待たれている状況だ。"
+  },
+  {
+   "slug": "2026-08-20-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-33.html",
+   "title": "ノルド・ストリーム爆破事件、2年半後にウクライナ人容疑者がクロアチアで逮捕。動機と全容は？",
+   "title_en": "Ukrainian Suspect Arrested in Croatia Over Nord Stream Pipeline Sabotage — What Happens Next?",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "2022年9月にロシアとドイツを結ぶガスパイプライン「ノルド・ストリーム」が爆破された事件で、関与の疑いがあるウクライナ人男性がクロアチアで逮捕された。事件から約2年半経過してからの逮捕で、国際的な調査の進展を示すもの。ウクライナとロシア間の対立激化の中での重要な展開となる。"
+  },
+  {
+   "slug": "2026-08-20-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-32.html",
+   "title": "イスラエル軍がついに認めた5歳少女殺害　1年以上経ってから刑事捜査開始の波紋",
+   "title_en": "Israeli Military Finally Admits to Killing 5-Year-Old Palestinian Girl; Criminal Investigation Launched After Over a Year",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "イスラエル軍は2024年1月にガザ地区で発生した5歳のパレスチナ人少女ヒンド・ラジャブさんと親族6人の殺害について、自軍による発砲を初めて公式に認めた。同時に15人のパレスチナ人殺害についても刑事捜査を開始する方針を表明。事件から1年以上が経過しての対応が、国際社会での追及の高まりに対応した形となっている。"
+  },
+  {
+   "slug": "2026-08-20-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-31.html",
+   "title": "防空ミサイル不足で手も足も出ない？キーウ空爆で13人死亡、ウクライナの深刻な現実",
+   "title_en": "Kyiv's Defense Crisis: 13 Dead in Russian Strike as Ukraine Faces Critical Missile Shortage",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "ウクライナの首都キーウが20日未明にロシアの空爆を受け、13人以上が死亡、40人が負傷した。ウクライナ軍は継続的な防空ミサイル不足に直面しており、空からの攻撃に対する防御能力に限界が生じている状況が明らかになった。長期戦の深刻さが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-20-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-30.html",
+   "title": "くら寿司が最低価格を値下げ、いくらになる？",
+   "title_en": "Kura Sushi Cuts Prices on Budget Items—Here's How Much",
+   "category": "経済",
+   "published": "2026-08-20",
+   "summary": "くら寿司が経営戦略の見直しに伴い、最低価格帯の商品を値下げすることを発表した。消費者の購買力低下や競合他社との競争激化が背景にあり、低価格帯での顧客確保を狙う動き。同社の経営姿勢の変化と業界全体への波及効果が注目される。"
+  },
+  {
+   "slug": "2026-08-20-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-29.html",
+   "title": "発電機の使用で一酸化炭素中毒？知らないと危険な屋内使用の落とし穴",
+   "title_en": "Generator Safety: Why Carbon Monoxide Poisoning is a Hidden Winter Risk",
+   "category": "健康",
+   "published": "2026-08-20",
+   "summary": "災害時や停電時に活躍する発電機だが、密閉空間での使用は一酸化炭素中毒を引き起こす危険性がある。特に冬季の暖房目的や雨避けで屋内に置くケースで事故が増加している。正しい使用方法と注意点を改めて確認する重要性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-20-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-28.html",
+   "title": "健大高崎が天理を下して夏初の決勝進出！甲子園での激戦を制した勝因は何か",
+   "title_en": "Kenda Takasaki Defeats Tenri High to Reach First Summer Finals at Koshien",
+   "category": "スポーツ",
+   "published": "2026-08-20",
+   "summary": "全国高校野球選手権大会で、健大高崎が天理高校との試合に勝利し、夏の甲子園での初となる決勝進出を決めた。両校による激しい試合の末、健大高崎が相手を上回る力を見せ、頂点への道を切り開いた。甲子園の大舞台で、どのようなチーム力が発揮されたのかが注目される。"
+  },
+  {
+   "slug": "2026-08-20-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-27.html",
+   "title": "中国恒大創業者に無期懲役判決　一時は世界有数の不動産王の転落劇",
+   "title_en": "China Evergrande Founder Sentenced to Life in Prison: The Dramatic Fall of a Former Real Estate Tycoon",
+   "category": "国際",
+   "published": "2026-08-20",
+   "summary": "中国の不動産大手・恒大グループの創業者が裁判で無期懲役の判決を受けた。かつて中国の富豪ランキングに名を連ねていた人物が、どのような理由で極刑に至ったのか、その背景には中国の不動産市場の混乱と企業統治の問題があるとみられる。"
+  },
+  {
+   "slug": "2026-08-20-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-26.html",
+   "title": "東京23区の新築マンション、平均2.6億円超え　これってもう庶民には無理ゲーじゃね？",
+   "title_en": "Tokyo's New Condos Average ¥260M+: Has Home Ownership Become Impossible for the Average Person?",
+   "category": "経済",
+   "published": "2026-08-20",
+   "summary": "東京23区における新築マンションの平均価格が2億6000万円を超えたことが明らかになった。都心部への人口集中や建築費の上昇、地価高騰などが要因とされている。一般サラリーマン世帯の購入可能性がますます低下し、不動産市場における格差拡大が懸念されている。"
+  },
+  {
+   "slug": "2026-08-20-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-25.html",
+   "title": "西日本の気温がヤバい…熱中症対策を今すぐ始めないと危ない理由",
+   "title_en": "Why Western Japan's Extreme Heat Demands Immediate Action Against Heatstroke",
+   "category": "健康",
+   "published": "2026-08-20",
+   "summary": "西日本を中心に猛烈な暑さが襲来している。気象庁の警報も相次ぎ、熱中症のリスクが急速に高まっている状況。外出時の水分補給や室内での適切な冷房利用、こまめな休憩など、命に関わる対策が急務となっている。特に高齢者や子ども、屋外作業従事者への注意喚起が強化されている。"
+  },
+  {
+   "slug": "2026-08-20-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-24.html",
+   "title": "日本が独自AI開発に本気？政府が国産システムの実証を開始",
+   "title_en": "Japan's Homegrown AI Push: Can the Government Break Free from Foreign Dependence?",
+   "category": "IT",
+   "published": "2026-08-20",
+   "summary": "政府が国産AI（人工知能）システムの実証実験を本格的に始動させた。これまで海外製AIに依存していた状況から脱却し、日本独自の技術開発・実装を進める取り組み。政府が主導することで、セキュリティや産業競争力の強化を目指す動きが活発化している。"
+  },
+  {
+   "slug": "2026-08-20-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-23.html",
+   "title": "メラノーマの再発を大幅に抑制？メルク×モデルナのワクチンが臨床試験で成功",
+   "title_en": "Major Breakthrough: Merck and Moderna's Personalized Cancer Vaccine Significantly Reduces Melanoma Recurrence",
+   "category": "科学",
+   "published": "2026-08-20",
+   "summary": "メルクとモデルナが共同開発している個別化ワクチンが、既存のがん免疫治療薬と併用することで、再発リスクの高い皮膚がん（メラノーマ）の再発抑制に効果を示したと発表。患者の遺伝子情報に基づいた個人別設計のワクチンで、がん治療の新たな可能性が広がる可能性がある。"
+  },
+  {
+   "slug": "2026-08-20-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-22.html",
+   "title": "イオンの爆発事故、なぜ事故調査委を発足させるまでになった？背景と今後を解説",
+   "title_en": "Why Did AEON Launch a Formal Investigation Committee Over the Explosion Incident?",
+   "category": "経済",
+   "published": "2026-08-20",
+   "summary": "イオングループで発生した爆発事故を受けて、同社が事故調査委員会を正式に発足させたことが明らかになった。事故の原因究明と再発防止対策を目的とした第三者的視点での調査体制が整備される。事故発生の経緯や施設の安全管理体制が焦点となる見通し。"
+  },
+  {
+   "slug": "2026-08-20-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-20-21.html",
+   "title": "作業中の4人が特急と接触、全員死亡。なぜ安全対策が機能しなかったのか",
+   "title_en": "Four Workers Struck by Express Train While on Duty—Why Did Safety Measures Fail?",
+   "category": "国内",
+   "published": "2026-08-20",
+   "summary": "栃木県鹿沼市の東武日光線の駅で、線路の除草作業を行っていた作業員4人がホームに進入してきた特急列車と接触し、全員が死亡しました。事故は20日午前に発生。国の運輸安全委員会が調査官を派遣し、原因究明に乗り出しています。鉄道での労働災害としては重大な事案となっており、安全管理体制の問題が問われています。"
+  },
   {
    "slug": "2026-08-20-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-20.html",
