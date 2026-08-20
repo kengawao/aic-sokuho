@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 461,
+ "count": 481,
  "articles": [
+  {
+   "slug": "2026-08-21-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-19.html",
+   "title": "謎のパン大量投棄事件、39kg分のパンが道路に…犯人は何がしたいの？",
+   "title_en": "Mystery Bread Dumping Case: 39kg of Bread Found Along Road Daily—What's the Culprit's Goal?",
+   "category": "コラム",
+   "published": "2026-08-21",
+   "summary": "ある地域の道路沿いに連日のようにパンが投棄されている事件が発生。現在までに39kg分のパンが確認されており、地域住民は困惑している。意図的な投棄なのか、それとも別の理由があるのか、謎に包まれた「パン事件」が話題となっている。"
+  },
+  {
+   "slug": "2026-08-21-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-18.html",
+   "title": "板倉滉、なぜボルシアMGへ電撃復帰？日本代表DFの動向が注目される理由",
+   "title_en": "Itakura Kou Returns to Borussia Mönchengladbach: What Does It Mean for Japan's Defense Line?",
+   "category": "スポーツ",
+   "published": "2026-08-21",
+   "summary": "日本代表DF板倉滉選手がドイツ・ブンデスリーガのボルシアMGへ電撃復帰することが発表された。過去にプレー経験のあるクラブへの再加入となり、キャリアの転機となる可能性がある。国内リーグでのプレー検討から方針転換した背景や、日本代表での位置付けへの影響など、複数の観点から注視される動きとなっている。"
+  },
+  {
+   "slug": "2026-08-21-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-17.html",
+   "title": "丸亀製麺になぜ急ブレーキ？うどん戦国時代で何が起きているのか",
+   "title_en": "Why is Marugame Seimen Hitting the Brakes? What's Really Happening in the Udon Wars?",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "うどん業界で勢いを続けていた丸亀製麺の成長が鈍化している。競争激化による価格下落圧力、消費者の外食離れ、そして地域密着型の中小チェーン店との競合が複合的に影響。かつての圧倒的優位性が揺らぎ始め、業界全体の構図が大きく変わろうとしている。"
+  },
+  {
+   "slug": "2026-08-21-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-16.html",
+   "title": "クールジャパン機構が廃止へ 日本文化輸出の旗艦事業は何が失敗だったのか",
+   "title_en": "Japan's Cool Japan Initiative Faces Shutdown: What Went Wrong with Japan's Cultural Soft Power Strategy?",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "経済産業省がクールジャパン機構の廃止を決定した。アニメや食文化など日本文化の海外発信を支援してきた同機構だが、投資案件の採算性の課題や期待値とのギャップが問題視されてきた。日本の文化産業をグローバル展開させる施策の在り方が改めて問われている。"
+  },
+  {
+   "slug": "2026-08-21-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-15.html",
+   "title": "郵便配達、いつまで続く？日本郵便が縮小検討を開始",
+   "title_en": "How Long Will Mail Delivery Last? Japan Post Considers Service Cuts",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "日本郵便が郵便事業の縮小を視野に入れた検討を開始したことが報道された。デジタル化の進展に伴う利用減少と経営悪化が背景にある。過疎地域の配達維持やユニバーサルサービスの継続と経営効率化のバランスが課題となる。"
+  },
+  {
+   "slug": "2026-08-21-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-14.html",
+   "title": "東京都が地図情報サイト公開、何が変わる？ 自治体の地理データ戦略が本格化",
+   "title_en": "Tokyo Launches Public Map Database: A Game-Changer for Urban Development?",
+   "category": "IT",
+   "published": "2026-08-21",
+   "summary": "東京都が地図情報サイトを新たに公開した。このサイトは都内の地理情報をデジタル化し、住民や企業、開発者が自由にアクセス・活用できるプラットフォーム。防災対策や都市計画、民間アプリ開発など、様々な分野での活用が期待されており、自治体がオープンデータ戦略を強化する動きが加速している。"
+  },
+  {
+   "slug": "2026-08-21-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-13.html",
+   "title": "ウクライナ支援で激化する米英露の対立、ロシアが「報復」を警告した本当の理由",
+   "title_en": "Why Russia Threatens the UK: Inside the Escalating NATO-Russia Proxy Conflict",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "ロシアがイギリス製ドローンのウクライナへの供給に対し、報復措置を警告した。これはロシアの劣勢が深刻化する中での切迫した状況を示唆している。一方、イギリスのバーナム首相はウクライナへの全面的な支援継続を改めて表明し、欧米とロシアの対立は一層激化している。"
+  },
+  {
+   "slug": "2026-08-21-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-12.html",
+   "title": "中国恒大の創業者に無期懲役。数兆円規模の負債を生み出した男の末路",
+   "title_en": "From Billionaire to Life Sentence: The Fall of China Evergrande's Founder",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "経営危機に陥った中国の不動産大手・恒大集団の創業者が、深圳の裁判所から無期懲役と全財産没収の判決を受けた。中国の不動産市場全体に深刻な混乱をもたらしたとされており、同国の経済危機の象徴的事件として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-21-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-11.html",
+   "title": "なぜ今？北朝鮮が日本への批判を急速に強める背景に何があるのか",
+   "title_en": "Why Now? Understanding North Korea's Escalating Criticism of Japan",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "北朝鮮が日本に対する批判を激化させている。その背景には、米国との関係悪化に伴う国際的孤立の深まり、日本による対北朝鮮制裁への反発、さらには国内向けのプロパガンダとしての役割があるとみられている。専門家は、朝鮮半島情勢の変化と日米韓の連携強化が北朝鮮の不安感を招いていると指摘している。"
+  },
+  {
+   "slug": "2026-08-21-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-10.html",
+   "title": "北朝鮮が約10発のミサイル発射 韓国軍が確認",
+   "title_en": "North Korea Launches Approximately 10 Missiles, Confirmed by South Korean Military",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "韓国軍は北朝鮮が複数のミサイルを発射したと発表しました。確認された発射数は約10発で、朝鮮半島の緊張状況が再び高まっています。韓国軍は発射されたミサイルの種類や飛行距離などの詳細な分析を進めており、北朝鮮の軍事活動に対する警戒を強めています。"
+  },
+  {
+   "slug": "2026-08-21-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-9.html",
+   "title": "ハリー王子夫妻がイギリス帰国へ、子どもたちは現地校へ入学予定。王室公務復帰は見送り",
+   "title_en": "Prince Harry and Meghan Plan UK Return: Children to Attend British Schools in September",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "サセックス公ハリー王子とメガン妃がイギリスへの生活拠点移転を計画していることが明らかになった。長男アーチー王子（7歳）と長女リリベット王女（5歳）は9月からイギリスの学校に通う予定。ただし、夫妻が王室の公務に復帰する予定は現在のところないという。"
+  },
+  {
+   "slug": "2026-08-21-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-8.html",
+   "title": "米国が「選択を迫る」経済制裁、イランは猛反発。同盟国はどう動く?",
+   "title_en": "US Imposes 'Choose a Side' Sanctions on Iran Allies—How Will Nations Respond?",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "トランプ米大統領がイランの協力国に対する大規模経済制裁を検討していることが明らかになった。ベッセント財務長官は各国に対して「米国側につくか、対立するかの選択を迫る」とコメント。これに対しイランは「経済テロ」と激しく反発している。多くの国々が米国との経済関係と中東外交のバランスをどう取るかの難しい判断を迫られる見通し。"
+  },
+  {
+   "slug": "2026-08-21-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-7.html",
+   "title": "見張り役3人なのに情報共有なし？栃木列車事故、安全体制の甘さが露呈",
+   "title_en": "Train Accident in Tochigi: Safety System Fails Despite Three Spotters Deployed",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "栃木県鹿沼市の東武日光線で特急列車に作業員4人がはねられて死亡した事故。東武鉄道の会見で、現場には列車接近を知らせる「見張り役」3人が配置されていたにもかかわらず、情報が作業員に共有されていなかった可能性が明らかになった。安全管理体制の問題が浮上している。"
+  },
+  {
+   "slug": "2026-08-21-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-6.html",
+   "title": "布施博が代表の芸能プロが破産手続き…大手事務所で何が起きたのか",
+   "title_en": "Renowned Talent Agency Led by Actor Hiroshi Fuse Files for Bankruptcy",
+   "category": "エンタメ",
+   "published": "2026-08-21",
+   "summary": "俳優・布施博が代表を務めていた芸能プロダクションが破産手続きに入ったことが明らかになった。同社は複数の芸能人を所属させていた事務所で、経営難に陥った背景には新型コロナウイルスの影響による業界全体の不況や、イベント・舞台中止による収入減少が指摘されている。今後、所属していた芸能人の今後の活動がどうなるかが注目される。"
+  },
+  {
+   "slug": "2026-08-21-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-5.html",
+   "title": "伊原の疑惑、阪神が『おおむね認める』ってどういうこと？",
+   "title_en": "What Does It Mean When Hanshin 'Mostly Admits' to Ihara's Allegations?",
+   "category": "スポーツ",
+   "published": "2026-08-21",
+   "summary": "阪神タイガースの伊原監督をめぐる疑惑について、球団がおおむね認める姿勢を示した。詳細な内容は報道により異なるが、コンプライアンスや組織運営に関わる重要な問題とみられている。球団の今後の対応や処分の行方が注視される。"
+  },
+  {
+   "slug": "2026-08-21-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-4.html",
+   "title": "夏なのにインフル流行？首都圏で感染増加、なぜ今この季節に",
+   "title_en": "Flu in Summer? Tokyo Region Sees Rising Cases — Why Now?",
+   "category": "健康",
+   "published": "2026-08-21",
+   "summary": "通常は冬に流行するインフルエンザが、夏季にもかかわらず首都圏で増加傾向を見せている。季節外れの流行により、医療機関でも対応が必要になる事態が発生。気温が高い時期の感染拡大は例年と異なる傾向であり、専門家も注視しているという。夏場の感染対策の重要性が改めて問われることになりそうだ。"
+  },
+  {
+   "slug": "2026-08-21-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-3.html",
+   "title": "火星の謎を解く第一歩へ 日本の衛星探査機、10月20日に打ち上げ決定",
+   "title_en": "Japan's Mars Moon Probe Set for October 20 Liftoff: Uncovering Secrets of the Solar System",
+   "category": "科学",
+   "published": "2026-08-21",
+   "summary": "日本の火星衛星探査機が10月20日に打ち上げられることが決定した。この探査機は火星の衛星フォボスとダイモスの詳細な観測を目指すもので、太陽系形成の謎を解く重要なミッションとなる。国際的な協力のもと、日本の宇宙技術がさらに注目を集めることになる。"
+  },
+  {
+   "slug": "2026-08-21-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-2.html",
+   "title": "台風18号が来週直撃か？日本列島が警戒態勢に",
+   "title_en": "Typhoon No. 18 Could Strike Japan Next Week — Is Your Area Safe?",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "気象情報によると、台風18号が来週にかけて日本列島に影響を及ぼす可能性が高まっている。進路や強度については予測情報が更新されている段階だが、関係地域では暴風や大雨への警戒が呼びかけられている。気象庁では引き続き最新情報の確認を推奨しており、住民に対して早めの防災対策を促している。"
+  },
+  {
+   "slug": "2026-08-21-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-1.html",
+   "title": "26年産新米、なぜ大幅値下がり？農家の懐事情はどうなる",
+   "title_en": "2026 Rice Crop Faces Sharp Price Drop—What's Ahead for Farmers?",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "令和26年産の新米が大幅な値下がりを見せる見通しが出ている。主な要因としては作柄の良さや過去の備蓄在庫、世界的な穀物価格の動向などが挙げられる。消費者にとっては朗報となる可能性がある一方で、米農家の経営に与える影響が懸念される状況だ。"
+  },
+  {
+   "slug": "2026-08-21-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-0.html",
+   "title": "千葉豪雨の農業被害が約19億円に…被災農家の復旧見通しは？",
+   "title_en": "Chiba's Agricultural Losses Hit ¥1.9 Billion After Heavy Downpour—What's Next for Farmers?",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "千葉県で発生した豪雨により、農作物の倒伏や冠水、施設の損壊など農業部門を中心に約19億円の被害が報告された。稲作や野菜栽培など複数の農産物が影響を受けており、地域経済への波及も懸念される。県は被災農家への支援策の検討を進めている。"
+  },
   {
    "slug": "2026-08-20-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-20-41.html",
