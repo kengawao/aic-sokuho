@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 502,
+ "count": 523,
  "articles": [
+  {
+   "slug": "2026-08-22-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-20.html",
+   "title": "クーラーBOXで5日漂流ってマジ？メキシコの男性、究極のサバイバルをやらかす",
+   "title_en": "Man Survives 5-Day Ocean Drift in Cooler Box—The Ultimate Survival Story You Didn't See Coming",
+   "category": "コラム",
+   "published": "2026-08-22",
+   "summary": "メキシコで男性がクーラーボックスに入った状態で海に漂流し、5日間も生き延びたというニュース。極限の状況下での生存劇として話題になっています。クーラーボックスという日常的なアイテムが、まさかの救命具として機能したユニークな事例です。"
+  },
+  {
+   "slug": "2026-08-22-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-19.html",
+   "title": "なぜ日本の若者は台湾を選ぶのか？進学先として急増する背景",
+   "title_en": "Why Are More Japanese Students Choosing Taiwan for University?",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "台湾への日本人進学者が増加傾向にある。台湾の大学側が日本人向けの奨学金制度や入試優遇措置など誘致施策を積極化させていることが背景にある。学費の安さに加え、国際的な教育環境や就職機会の多様性が日本の学生にとって魅力となっており、従来のアメリカやオーストラリア進学の代替選択肢としても注目を集めている。"
+  },
+  {
+   "slug": "2026-08-22-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-18.html",
+   "title": "イベントで永久欠番ユニフォーム着用のゲスト、なぜ賛否両論に？",
+   "title_en": "Why Did A Retired Number Being Worn At An Event Spark Debate?",
+   "category": "スポーツ",
+   "published": "2026-08-22",
+   "summary": "あるイベントでゲストが球団の永久欠番ユニフォームを着用したことが話題となっている。球団の伝説的選手を讃える行為として肯定する声がある一方、永久欠番という特別な存在の扱い方を巡って議論が生じており、スポーツ文化における敬意の表現方法について考えさせられる事例となっている。"
+  },
+  {
+   "slug": "2026-08-22-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-17.html",
+   "title": "高校野球で『殺』の字が問題に　宮城高野連が提起した背景とは",
+   "title_en": "Why Does Miyagi High School Baseball Federation Question Use of the Word 'Kill'?",
+   "category": "スポーツ",
+   "published": "2026-08-22",
+   "summary": "宮城県高野連が高校野球における『殺』という表現の使用について問題提起している。野球用語として『打者を殺す』『チャンスを殺す』といった表現が慣習的に使われているが、言葉の持つ暴力性や現代的な問題意識との乖離についての議論が生じている。学生教育の現場での言葉遣いについて、再検討を求める動きが広がっている。"
+  },
+  {
+   "slug": "2026-08-22-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-16.html",
+   "title": "人口580人の村になぜセコマが出店？コンビニ業界の逆転現象",
+   "title_en": "Why Does Secomart Operate in a Village of 580 People? Japan's Reverse Convenience Store Paradox",
+   "category": "経済",
+   "published": "2026-08-22",
+   "summary": "北海道のセイコーマート（セコマ）が、人口わずか580人の小規模な村に店舗を出店している。大手コンビニチェーンが採算性を重視して撤退する中、セコマは採算性だけに頼らない経営戦略を展開。地域密着型の店舗展開により、過疎地での生活インフラを守りながら、独自の競争優位性を確立している。"
+  },
+  {
+   "slug": "2026-08-22-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-15.html",
+   "title": "ボット判定の精度が課題に 不正検知技術は本当に有効なのか",
+   "title_en": "How Accurate Is Bot Detection Really? Tech Giants Face Growing Challenge",
+   "category": "IT",
+   "published": "2026-08-22",
+   "summary": "SNSやオンラインサービスでの自動化されたボット不正行為が増加する中、これらを正確に検知することの難しさが改めて浮き彫りになっている。正規ユーザーとの判別精度向上や検知ロジックの透明性確保が業界全体の課題として指摘されており、プラットフォーム企業による対策強化が急務となっている状況が報じられている。"
+  },
+  {
+   "slug": "2026-08-22-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-14.html",
+   "title": "ノーベル平和賞受賞者が警告：ウクライナ戦争、核兵器使用まで「エスカレートし続ける可能性」",
+   "title_en": "Nobel Peace Prize Laureate Warns of Nuclear Escalation Risk in Ukraine War",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "ロシアの独立系新聞「ノーヴァヤ・ガゼータ」編集長で2021年ノーベル平和賞受賞者のドミトリー・ムラトフ氏が、BBC単独取材に応じた。氏はウクライナ戦争について、ロシアが征服できない状況下で破壊行為を続けるリスクを指摘。最悪の場合、核兵器の使用にまで事態がエスカレートする危険性があると厳しく警告した。"
+  },
+  {
+   "slug": "2026-08-22-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-13.html",
+   "title": "同盟国なのに爆撃予告？トランプ氏がオマーンに突きつけた強硬姿勢の背景",
+   "title_en": "Why Would Trump Threaten to Bomb a US Ally? The Oman Crisis Explained",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "トランプ米大統領がホルムズ海峡に関する米イラン協議にオマーンが「邪魔する」なら爆撃すると脅した。オマーンは中東地域で米国の同盟国であり、過去にイランとの仲介役を担ってきた。この強硬発言は同盟国への異例の圧力として注目されている。"
+  },
+  {
+   "slug": "2026-08-22-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-12.html",
+   "title": "米韓合同演習を6日間短縮、トランプが金正恩と年内会談へ―朝鮮半島の軍事バランスに変化か",
+   "title_en": "US-South Korea Joint Military Drills Cut by 6 Days as Trump Eyes Year-End Summit with Kim Jong Un",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "韓国国防省がアメリカとの毎年の合同軍事演習を6日間短縮することを発表した。アメリカ側の提案による調整で、演習の規模も縮小される。同日、トランプ大統領は北朝鮮の金正恩総書記と年内の会談実現を目指す意向を表明。朝鮮半島の緊張緩和と軍事態勢の転換を示す動きが相次いでいる。"
+  },
+  {
+   "slug": "2026-08-22-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-11.html",
+   "title": "オーストラリアが「憤慨」　ガザ空爆で殺害されたスタッフ、イスラエルが軍関係者の訴追を決定せず",
+   "title_en": "Australia Outraged as Israel Declines to Prosecute Military Officials Over Gaza Aid Worker's Death",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "2024年にガザ地区でイスラエル軍の空爆により、人道支援団体のオーストラリア人スタッフが殺害された事件で、イスラエル政府は19日に軍関係者を訴追しないと決定した。これに対しオーストラリアのウォン外相は20日、強い怒りを表明し「憤慨している」とコメント。国際社会での司法的責任をめぐる議論が再び浮上している。"
+  },
+  {
+   "slug": "2026-08-22-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-10.html",
+   "title": "数カ月ぶりの「意図的な」攻撃——ロシアがキーウの重要インフラを狙った理由とは",
+   "title_en": "Russia's Strategic Shift: Why Kyiv's Critical Infrastructure Is Being 'Deliberately' Targeted",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "ロシアによるウクライナ首都キーウへの空爆で、クリチコ市長が重要インフラが数カ月ぶりに意図的に攻撃されたと発表。従来の無差別攻撃から戦略的なターゲット選定への転換を示唆するもので、戦況の変化や軍事戦略の変更を反映している可能性がある。"
+  },
+  {
+   "slug": "2026-08-22-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-9.html",
+   "title": "千葉豪雨の死亡事故後、全国アンダーパス緊急点検で3か所の異常が判明――あなたの近所は大丈夫？",
+   "title_en": "Three Dangerous Flaws Found in Japan's Underground Passes After Fatal Chiba Flooding",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "千葉県での豪雨によるアンダーパス冠水事故で男性が死亡した問題を受け、国土交通省が全国の排水設備を緊急点検。その結果、複数地点で非常用電源が機能せず、排水ポンプが作動していないという重大な異常が判明した。安全対策の不備が浮き彫りになり、今後の改善が求められている。"
+  },
+  {
+   "slug": "2026-08-22-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-8.html",
+   "title": "バイオリニスト木嶋真優さんが出産 第一線で活躍する音楽家の新たな人生ステージ",
+   "title_en": "Violinist Masayuu Kijima Welcomes New Chapter: Balancing Motherhood with International Music Career",
+   "category": "エンタメ",
+   "published": "2026-08-22",
+   "summary": "国際的に活躍するバイオリニストの木嶋真優さんが出産したことが報じられた。ジュネーヴ国際音楽コンクール優勝者として知られる彼女は、演奏活動と育児の両立という新しい局面を迎える。音楽界での活躍を続けながら母親としての人生も始まる、多くの女性アーティストにとって関心の高いニュースとなっている。"
+  },
+  {
+   "slug": "2026-08-22-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-7.html",
+   "title": "1館から53館へ、自主映画の異例の大躍進。何が起きた？",
+   "title_en": "From 1 Theater to 53: The Unprecedented Rise of an Independent Film",
+   "category": "エンタメ",
+   "published": "2026-08-22",
+   "summary": "個人や小規模団体が製作した自主映画が、わずか1館の上映から53館への公開拡大を実現するという異例の事態が発生した。通常、自主映画は限定的な上映に留まることが多いが、この作品は観客の高い支持を受け、急速に公開館数を増やす運びとなった。映画業界の新たな可能性を示すケースとして注目を集めている。"
+  },
+  {
+   "slug": "2026-08-22-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-6.html",
+   "title": "日本女子バレー、香港を3-0で圧倒 東京五輪選手たちの実力はいかに",
+   "title_en": "Japan's Women's Volleyball Crushes Hong Kong 3-0: Can They Dominate on the World Stage?",
+   "category": "スポーツ",
+   "published": "2026-08-22",
+   "summary": "バレー日本女子代表が香港代表との試合で3-0の完勝を収めた。セットスコアは25-○、25-○、25-○で、日本の強力な攻撃力と安定した守備が光った。この試合は国際大会での重要な対戦で、日本女子バレーの層の厚さと実力を示す結果となっている。今後の国際試合に向けた課題と展望が注目される。"
+  },
+  {
+   "slug": "2026-08-22-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-5.html",
+   "title": "延長11回の劇的な瞬間。中村剛也が代打で放つ満塁ホームラン",
+   "title_en": "Drama in the 11th: Nakamura's Pinch-Hit Grand Slam Ends Epic Ballgame",
+   "category": "スポーツ",
+   "published": "2026-08-22",
+   "summary": "プロ野球の試合で延長11回という緊迫した場面において、中村剛也が代打として起用され、満塁の状況で本塁打を放った。試合の流れを一変させるこの一打が、チームに劇的な勝利をもたらした。大舞台での勝負強さを見せた一場面として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-22-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-4.html",
+   "title": "育児サービスに税優遇へ、保育料や家事代行が安くなる？",
+   "title_en": "Japan Plans Tax Incentives for Childcare Services—Will Families Actually Save Money?",
+   "category": "経済",
+   "published": "2026-08-22",
+   "summary": "政府が育児サービスの利用者を対象とした税優遇措置の導入を検討している。保育サービスや家事代行などの費用に対して、税制上の優遇を行うことで、子育て世帯の経済的負担を軽減する方針。少子化対策の一環として位置付けられており、具体的な制度設計が進められている。"
+  },
+  {
+   "slug": "2026-08-22-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-3.html",
+   "title": "寝て美しくなる？睡眠美容ブームに専門家が警鐘を鳴らす理由",
+   "title_en": "Beauty Sleep Trend Faces Scrutiny: Do Experts Say It Actually Works?",
+   "category": "健康",
+   "published": "2026-08-22",
+   "summary": "睡眠の質を高めることで肌や髪が美しくなるとされる「睡眠美容」が注目を集めている。しかし医学や皮膚科の専門家からは、科学的根拠が不十分なままブームが先行することへのリスク懸念が上がっている。過度な期待や不適切な睡眠習慣の強要による悪影響の可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-22-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-2.html",
+   "title": "運転士が急ブレーキをかけたのになぜ？栃木4人死亡事故、作業員待避指示の落とし穴",
+   "title_en": "Emergency Brake Applied but Too Late: What Went Wrong in Japan's Fatal Train Accident?",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "栃木県鹿沼市の駅で特急列車が線路上の作業員4人をはねて死亡させた事故について、運転士が東武鉄道の聞き取りで証言を明かした。作業員の待避完了という合図を受けてホームに進入したものの、直後に線路上に残存していた作業員に気づき急ブレーキを掛けたが、停止が間に合わなかったという。安全管理体制と作業指示の確実性が問われている。"
+  },
+  {
+   "slug": "2026-08-22-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-1.html",
+   "title": "5人殺害事件の遺族、死刑執行にどう向き合う？長年の葛藤の先にあるもの",
+   "title_en": "How Do Families of Murder Victims Face the Execution? The Long Journey Beyond Tragedy",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "複数人の命を奪った殺人事件の死刑執行を受け、被害者遺族がその心境を語った。事件から長年経過し、執行という司法の判断に直面した遺族たちは、悔しさ、納得、そして今後の人生への向き合い方について複雑な思いを抱えている。犯罪被害者の心情と司法制度のあり方が問い直される。"
+  },
+  {
+   "slug": "2026-08-22-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-0.html",
+   "title": "1年以上ぶりの死刑執行、何が変わった？パチンコ店放火殺人事件の背景",
+   "title_en": "First Execution in Over a Year: What Changed in Japan's Death Penalty System?",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "大阪市のパチンコ店放火事件で5人を殺害した高見素直死刑囚（58）の刑が21日に執行された。日本では1年以上死刑執行がなく、今回が久しぶりとなる。犯行の詳細や社会的影響について、関係者の間で議論が続いている。"
+  },
   {
    "slug": "2026-08-21-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-40.html",
