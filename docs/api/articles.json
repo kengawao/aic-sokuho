@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 481,
+ "count": 502,
  "articles": [
+  {
+   "slug": "2026-08-21-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-40.html",
+   "title": "冷しカプヌが1週間で完売？あの懐かしい味が令和に復活して大騒ぎ",
+   "title_en": "Chilled Cup Ramen Sells Out in One Week—The Nostalgic Snack That Conquered Gen Z",
+   "category": "コラム",
+   "published": "2026-08-21",
+   "summary": "懐かしのカップラーメン「冷しカプヌ」が期間限定で復活し、わずか1週間で供給分が完売してしまったというニュース。令和の今、昭和～平成の懐かしい食べ物がブームになっている現象を反映した出来事として話題になっている。"
+  },
+  {
+   "slug": "2026-08-21-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-39.html",
+   "title": "韓国SKハイニックスが宮城に工場進出か　日本の半導体産業に何をもたらす？",
+   "title_en": "SK Hynix Eyes Miyagi Factory: A Game-Changer for Japan's Semiconductor Industry?",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "韓国の大手半導体メーカーSKハイニックスが、宮城県への工場建設を検討しているという報道が出ている。具体的な立地や投資規模はまだ不明だが、実現すれば日本国内での半導体製造能力の強化につながる可能性がある。政府の産業政策とも関連し、国内産業再編の象徴となるかもしれない動きとして注目される。"
+  },
+  {
+   "slug": "2026-08-21-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-38.html",
+   "title": "botの自動クリックで広告費詐取　デジタル広告市場の新たな脅威に",
+   "title_en": "Bot Click Fraud Sweeps Digital Ads: How Fake Clicks Drain Billions",
+   "category": "IT",
+   "published": "2026-08-21",
+   "summary": "自動化されたbotプログラムが広告を大量クリックし、広告主から不正に広告費を騙し取る詐欺行為が摘発された。クリック数に基づいて課金されるPPC広告システムの脆弱性を突いた手口で、業界全体に波紋が広がっている。デジタル広告市場の信頼性と透明性の向上が急務となっている。"
+  },
+  {
+   "slug": "2026-08-21-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-37.html",
+   "title": "タイが500万人にAI無料提供へ。日本が出遅れる理由は?",
+   "title_en": "Thailand Offers Free AI to 5 Million Citizens. Is Japan Falling Behind?",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "タイ政府が500万人の国民を対象にAI技術を無料で提供する施策を発表した。デジタル格差の解消と国民のAIリテラシー向上を目指す取り組みで、開発途上国による先制的なAI民主化の試みとして注目される。アジア地域でのAI人材育成競争が加速する中、先進国との技術格差縮小に向けた戦略的投資となる。"
+  },
+  {
+   "slug": "2026-08-21-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-36.html",
+   "title": "防衛産業の再編に国が直接出資へ。経営統合を急ぐ狙いは何か",
+   "title_en": "Japan Plans Direct State Investment in Restructuring Defense Industry. What's the Real Goal?",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "政府が防衛事業の再編を進める企業に対して、国が直接出資する方針を固めた。防衛産業の経営統合や事業再構成を促進し、国際競争力強化と防衛体制の効率化を目指す施策。民間企業の経営判断を尊重しつつ、国家戦略として防衛産業基盤の再編を支援する新たなアプローチとなる。"
+  },
+  {
+   "slug": "2026-08-21-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-35.html",
+   "title": "難関私大11校が理系学生増へ動く、背景にある日本の産業構造の危機感",
+   "title_en": "Elite Japanese Universities Shift Towards Science Education Amid Talent Crisis",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "早稲田大学や慶應義塾大学など大規模11私大が、理系学生の定員を増やす方針を検討している。少子化による受験者数減少や、デジタル産業への対応など、国内産業界からの要請が背景にある。各大学が具体的な増員規模や実施時期について議論を進めている。"
+  },
+  {
+   "slug": "2026-08-21-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-34.html",
+   "title": "1200戸の入植地建設、欧米5ヶ国が一斉非難　イスラエルの強硬姿勢が加速",
+   "title_en": "Israel Accelerates West Bank Settlement Expansion: Five Western Nations Issue Joint Condemnation",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "イスラエルが占領下のヨルダン川西岸で約1200戸の入植者向け住宅建設を計画し、工事入札の開始を発表した。建設予定地は戦略的に重要な地域とされている。英国、フランス、ドイツ、イタリア、カナダなど西側主要国は相次いで非難声明を発表。国際社会との対立姿勢がより鮮明になった。"
+  },
+  {
+   "slug": "2026-08-21-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-33.html",
+   "title": "天安門追悼の香港活動家に有罪判決　国安法の『言論統制』はここまで来たのか",
+   "title_en": "Hong Kong Court Convicts Tiananmen Vigil Organizers Under National Security Law—Is Free Speech Next?",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "香港の裁判所が、天安門事件の追悼集会を開催していた活動家2人に対し、中国の国家安全維持法（国安法）違反で有罪判決を言い渡した。国権転覆扇動罪に問われた彼らの判決は、香港の言論の自由と民主的活動がどこまで制限されるかを示す象徴的な事件となっている。国安法施行以降、香港の人権状況に対する国際的な懸念がさらに高まる可能性が出てきた。"
+  },
+  {
+   "slug": "2026-08-21-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-32.html",
+   "title": "沖縄の領土問題、中国が公式に『疑義』を提起 日本への影響は？",
+   "title_en": "China Questions Okinawa's Status: What Does This Mean for Japan?",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "中国が沖縄の帰属について疑問を示す立場を表明しました。これまで公式には領土問題として掲げていなかった沖縄について、中国が疑義を唱える姿勢を明確にしたことで、日本政府の対応が注視されています。歴史的背景から現在の国際法まで、この問題の複雑性が改めて浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-08-21-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-31.html",
+   "title": "北朝鮮が米韓同盟を「主従関係」と批判、その狙いは？",
+   "title_en": "Why Does North Korea Call the US-Korea Alliance a 'Master-Subordinate Relationship'?",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "北朝鮮の金与正氏が米韓同盟を「主従関係」と表現し批判したニュース。背景には朝鮮半島の地政学的緊張と、北朝鮮による米国への対抗姿勢がある。同盟の不均衡性を指摘することで、韓国国内の世論分断を狙う宣伝戦術とも考えられている。米国の「核の傘」依存に対する不満層への訴求が目的か。"
+  },
+  {
+   "slug": "2026-08-21-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-30.html",
+   "title": "ロシア戦略会議に異変 『戦後』を意識し始めた?",
+   "title_en": "Is Russia Thinking About Life After the War? Signs of Shift in Strategic Discussions",
+   "category": "国際",
+   "published": "2026-08-21",
+   "summary": "ロシアの指導部が主催する戦略会議で、従来とは異なる議論が展開されている。ウクライナ情勢の長期化を背景に、戦闘終結後の政治体制や経済再建といった『戦後』を見据えた論議が増えており、戦況の転換を受けた政策シフトの可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-21-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-29.html",
+   "title": "コメ価格2週ぶり値下がり、5キロ3191円に 家計に朗報か、それとも農家は大丈夫？",
+   "title_en": "Rice Prices Fall for First Time in 2 Weeks—Is It Good News for Households or a Problem for Farmers?",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "農林水産省の調査によると、全国のスーパーで販売されるコメの平均価格が値下がりしました。5キロあたり3191円（税込み）となり、前週から29円低下。2週間ぶりの下降となります。需給や流通状況の改善を示唆する動きとして注目されています。"
+  },
+  {
+   "slug": "2026-08-21-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-28.html",
+   "title": "気象庁が2週間先の天気予報を発信へ　精度はどうなる？",
+   "title_en": "Japan Meteorological Agency Extends Weather Forecasts to Two Weeks Ahead: How Accurate Will They Be?",
+   "category": "科学",
+   "published": "2026-08-21",
+   "summary": "気象庁が天気予報の対象期間を現在の1週間から2週間先まで拡大することを発表した。気象衛星やスーパーコンピュータの性能向上に伴い、予報精度の改善が見込まれている。農業や行事の計画立案など、社会全体で長期的な気象情報の活用が可能になると期待されている。"
+  },
+  {
+   "slug": "2026-08-21-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-27.html",
+   "title": "岡本が球団新人最多タイ記録の26号　あと何本でベテラン選手と肩を並べる？",
+   "title_en": "New Player Sensation Okamoto Hits 26th Home Run — How Many More Until Baseball History?",
+   "category": "スポーツ",
+   "published": "2026-08-21",
+   "summary": "岡本選手が26号本塁打を放ち、所属球団における新人シーズンの最多記録を更新した。この快挙は球団の歴史における重要なマイルストーンであり、若き才能の成長を象徴するものとなっている。今シーズンの残り試合で、さらなる記録更新の可能性が注目されている。"
+  },
+  {
+   "slug": "2026-08-21-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-26.html",
+   "title": "芸能事務所が次々と倒産？業界に何が起きているのか",
+   "title_en": "Is Japan's Entertainment Industry in Crisis? Agencies Face Bankruptcy Wave",
+   "category": "エンタメ",
+   "published": "2026-08-21",
+   "summary": "芸能事務所の経営危機が深刻化し、倒産や事業縮小のニュースが相次いでいる。新型コロナの影響による公演中止やタレント育成費の増加、デジタルプラットフォームの台頭など、業界構造の変化が大きな要因として指摘されている。大手事務所との競争激化も経営を圧迫しているとみられる。"
+  },
+  {
+   "slug": "2026-08-21-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-25.html",
+   "title": "秋サケが激減、漁師たちが異例の転換を余儀なくされる。何が起きているのか？",
+   "title_en": "Autumn Salmon Harvest Plummets: Japanese Fisheries Face Unprecedented Crisis",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "北海道などの秋サケ漁で過去に例を見ない規模の不漁が発生している。資源量の急激な減少に対応するため、漁業関係者は従来の漁法や漁場の見直しを進めている。温暖化や海洋環境の変化が指摘される中、サケ資源の回復に向けた取り組みが急務となっている。"
+  },
+  {
+   "slug": "2026-08-21-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-24.html",
+   "title": "年収5千万円で婚活する人たち、なぜ増えてる？背景にある社会変化とは",
+   "title_en": "Why High Earners Are Turning to Dating Services: The Hidden Reality Behind Japan's Marriage Market Shift",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "高年収層による婚活が注目を集めている。かつては結婚相手選びで年収は補助的要素だったが、経済格差の拡大や晩婚化により、経済力を重視する傾向が強まった。同時に高年収者も相手選びに慎重になり、専門の婚活サービスを利用する動きが活発化している。社会構造の変化が婚活市場に反映されている実態が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-21-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-23.html",
+   "title": "2009年の連続放火殺人事件、死刑執行から15年近く。なぜこんなに時間がかかった?",
+   "title_en": "Why Did It Take Nearly 15 Years to Execute the Death Sentence for a 2009 Arson Murder Case That Killed 15?",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "2009年に15人を殺傷した大規模放火殺人事件の死刑囚に対し、死刑が執行された。本件は複数の放火事件を組み合わせた極めて悪質な事件で、法的手続きから執行まで長期間を要した。犯人の精神状態の検証や控訴審での審理など、複数の法的段階を経て最終的に刑が確定・執行された。"
+  },
+  {
+   "slug": "2026-08-21-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-22.html",
+   "title": "明日の九州、39℃到達か…熱中症で搬送される人続出の可能性",
+   "title_en": "Kyushu braces for potentially deadly 39°C heat wave tomorrow",
+   "category": "健康",
+   "published": "2026-08-21",
+   "summary": "九州地方が明日、気温39℃に達する可能性があるとして気象機関が警戒を呼びかけている。このレベルの高温は熱中症発症のリスクが極めて高く、特に高齢者や屋外労働者への注意が必要。適切な水分補給と室内への退避が推奨されている。"
+  },
+  {
+   "slug": "2026-08-21-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-21.html",
+   "title": "20代のNISA買い付け額が17倍に急増 10年前との比較で見える若年層の投資意識の変化",
+   "title_en": "Young Japanese Investors Embrace NISA: 17-Fold Increase in Purchases by People in Their 20s Since 2014",
+   "category": "経済",
+   "published": "2026-08-21",
+   "summary": "NISA制度の利用が若年層に急速に広がっている。2014年と比較して20代の買い付け額が17倍に増加したことが明らかになった。少子高齢化や年金問題への危機感が高まる中、自助努力による資産形成への関心が高まり、税制優遇制度を活用する若い世代が増えている背景が考えられる。"
+  },
+  {
+   "slug": "2026-08-21-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-21-20.html",
+   "title": "19歳ゴルフ研修生が自殺、両親が提訴　労働環境の何が問題だったのか",
+   "title_en": "19-Year-Old Golf Trainee's Suicide Prompts Parents' Legal Action: What Went Wrong?",
+   "category": "国内",
+   "published": "2026-08-21",
+   "summary": "ゴルフ場での研修中に自殺した19歳の若者について、両親が提訴した。劣悪な労働環境やハラスメントが背景にあったとみられている。本件は、若年労働者の労働環境改善と企業責任の在り方を問う事例として注目される。スポーツ業界における指導現場の実態が問われることになりそうだ。"
+  },
   {
    "slug": "2026-08-21-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-21-19.html",
