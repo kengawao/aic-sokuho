@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 545,
+ "count": 566,
  "articles": [
+  {
+   "slug": "2026-08-23-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-20.html",
+   "title": "笑い飯哲夫が花火を『肉眼』で楽しむ宣言→ネット民「それ普通では？」",
+   "title_en": "Comedian Suggests Watching Fireworks Without Your Phone—Internet Responds 'Isn't That Normal?'",
+   "category": "コラム",
+   "published": "2026-08-23",
+   "summary": "お笑いコンビ・笑い飯の哲夫が、花火大会で肉眼での観賞を推奨するコメントを発表。スマートフォンなどを通さず、生で花火を見ることの素晴らしさを語った。SNS時代に『ありのままを見る』ことの大切さが改めて話題になっている。"
+  },
+  {
+   "slug": "2026-08-23-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-19.html",
+   "title": "衆院比例区改革に「サンラグ式」が浮上、現行制度の何が問題？",
+   "title_en": "New 'Sainte-Laguë Method' Emerges as Proportional Representation Reform Proposal – Will It Work in Japan?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "衆議院の比例代表制度見直しに関連して、「サンラグ式」と呼ばれる新たな配分方式の導入案が検討され始めている。現在の比例代表制が抱える議席配分の不平等や死票の問題を改善する可能性があるとされており、選挙制度改革の議論で注目を集めている。各党の思惑や制度設計の詳細が焦点となっている。"
+  },
+  {
+   "slug": "2026-08-23-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-18.html",
+   "title": "韓国で「親日派スキャナー」が拡大？歴史認識問題がAIで自動判定される時代へ",
+   "title_en": "South Korea's 'Pro-Japanese Sentiment Scanner' Expands: When AI Becomes the Arbiter of Historical Judgment",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "韓国で親日的な言動や人物を特定するデジタルツール『親日派スキャナー』の利用が拡大している。歴史認識をめぐる社会的分断が深まる中、このようなアルゴリズムベースの検証システムが注目を集めている。民族的アイデンティティと言論の自由のバランスをめぐる議論が複雑化する可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-23-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-17.html",
+   "title": "「体罰禁止」で警察学校の教官が悲鳴　厳しい訓練とハラスメント対策の狭間で",
+   "title_en": "Police Training Schools Face Crisis: Can Harsh Discipline Coexist with Anti-Harassment Policies?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "パワハラ規制の強化に伴い、警察学校の教官たちが指導方針の転換に苦悩している。従来の厳しい訓練文化との決別が求められる一方、警察官に必要な心身の鍛錬をどう実現するかが課題に。現場からは「正しい指導の線引きが曖昧」との声も上がり、新しい教育モデルの構築が急務となっている。"
+  },
+  {
+   "slug": "2026-08-23-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-16.html",
+   "title": "駅やショッピングモールの行列がなくなる？「次世代トイレ」が続々登場、その仕組みとは",
+   "title_en": "Say Goodbye to Public Restroom Lines? Next-Generation Toilets Are Rolling Out Across Japan",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "駅やショッピングモール、イベント会場などで導入が進む次世代型トイレが注目を集めている。AI搭載のセンサーで利用状況をリアルタイム把握し、混雑情報をスマートフォンに通知するシステムや、自動清掃・消臭機能を備えた最新機器など、ユーザーの利便性と施設運営効率の両面で課題解決を実現。トイレの待ち時間短縮と衛生環境の向上が同時に達成される可能性として、業界から期待が寄せられている。"
+  },
+  {
+   "slug": "2026-08-23-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-15.html",
+   "title": "200m手前で警笛を鳴らしていた　東武動物公園駅事故、運転士の対応は適切だったのか",
+   "title_en": "Whistle Blown 200 Meters Before Impact: Was the Operator's Response Adequate in the Tobu Railway Accident?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "東武鉄道の駅での事故について、事故発生の約200m手前で運転士が警笛を鳴らしていたことが記録から判明した。これは運転士が危険を察知して警告を発していたことを示唆し、安全対応の検証において重要な証拠となる可能性がある。事故の原因究明と鉄道安全基準の見直しにおいて、この警笛記録がどのような意味を持つかが焦点となっている。"
+  },
+  {
+   "slug": "2026-08-23-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-14.html",
+   "title": "米移民当局が電気ショック手袋を導入へ、法執行の新兵器になるのか？",
+   "title_en": "US Immigration Agency to Deploy Electric Shock Gloves—Is This the Future of Law Enforcement?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "米国移民税関執行局（ICE）の職員が、法執行業務時に使用する新しい装備として電気ショック機能付きの手袋を間もなく導入することが明らかになった。この手袋により、職員は相手に電気ショックを与えることが可能になるという。人権団体からの懸念や効果についての議論が予想される。"
+  },
+  {
+   "slug": "2026-08-23-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-13.html",
+   "title": "30年ぶりの壮大な天文ショー、スペイン・アイスランドで皆既日食　観測者たちが語った感動とは",
+   "title_en": "Awe and Wonder Across Europe: The Most Dramatic Solar Eclipse in 30 Years Captivates Millions",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "12日、ヨーロッパでこの30年間で最も劇的な皆既日食が観測された。スペイン近郊のアルコス・デ・ラス・サリナスなど各地の観測地点には多くの人々が集まり、空を覆う月の影に驚きと歓声で応じた。現地で実際に目撃した科学担当編集委員は、この体験が人間らしさを改めて認識させてくれるものだと述べている。"
+  },
+  {
+   "slug": "2026-08-23-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-12.html",
+   "title": "反戦政治家に11年超の実刑判決、ロシアの「言論統制」がここまで来たのか",
+   "title_en": "Anti-war Politician Sentenced to 11+ Years in Russia: Has Suppression of Free Speech Gone Too Far?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "ロシア北西部プスコフの裁判所は、著名な反戦政治家レフ・シュロスベルグ氏（63）に対し、ロシア軍の信用失墜と虚偽情報流布の罪で11年1カ月の実刑判決を言い渡した。同氏の所属政党も選挙参加を禁止される見通し。ウクライナ情勢以降、ロシア国内の言論統制が急速に強まっていることを示す事例として注目される。"
+  },
+  {
+   "slug": "2026-08-23-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-11.html",
+   "title": "トランプ政権がハマスと直接交渉？イスラエルが和平案を拒否したのに、クシュナー氏が動く理由",
+   "title_en": "Trump Pursues Direct Talks with Hamas Despite Israel's Rejection of Gaza Peace Plan",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "トランプ米大統領の中東特使クシュナー氏がハマス指導者と会談を実現させた。トランプ政権は先月、ハマスの完全武装解除で合意に達したと発表していたが、イスラエルは先週その和平案を拒否。案にはイスラエル軍撤退やパレスチナ政府によるガザ再建が含まれており、中東和平の難しさが改めて浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-23-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-10.html",
+   "title": "米がカナダに50%追加関税を発動、北米経済に激震が走る",
+   "title_en": "US Slaps 50% Tariff on Canada—What Happens to North American Trade Now?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "アメリカがカナダに対して50%の追加関税を発動した。トランプ政権の保護主義政策の一環とみられ、両国間の貿易摩擦が一層深刻化している。カナダ経由での迂回輸入を防ぐ狙いもあるとされており、北米の経済統合体制が揺らぎ始めている。カナダ側は報復措置の検討を余儀なくされている。"
+  },
+  {
+   "slug": "2026-08-23-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-9.html",
+   "title": "親の心情はどこまで配慮すべき？闘病する子どもの様子が親につらさをもたらす現実",
+   "title_en": "How Much Should We Care for Parents? The Hidden Emotional Toll of a Child's Illness on Mothers",
+   "category": "コラム",
+   "published": "2026-08-23",
+   "summary": "病気と闘う娘の苦しむ姿を目の当たりにする母親の心的負担についての記事。子どもが治療過程で泣き叫ぶ様子は、親にとって精神的な苦痛となり、親自身も心理的サポートを必要とする状況がある。医療現場での親のメンタルケアの重要性と、家族全体への支援体制の課題を取り上げている。"
+  },
+  {
+   "slug": "2026-08-23-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-8.html",
+   "title": "70年以上前の原爆被害者の証言が今、公開される理由とは",
+   "title_en": "Why is the testimony of the 'Bandaged Girl' from 1945 being revealed now?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "広島への原爆投下時に全身火傷を負った少女の証言が新たに公開されることになった。包帯を巻いた姿が多くの人に目撃されたことから「包帯の少女」と呼ばれた被害者の記録。戦後数十年を経た今、なぜこのタイミングで証言公開が実現するのか、被爆者の高齢化と記録保存の課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-23-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-7.html",
+   "title": "爆発で休業中のイオン、従業員は今どうしてるの？給与や配置転換の不安が現実に",
+   "title_en": "Aeon Employees Face Uncertainty Over Pay After Store Explosion—What Happens Next?",
+   "category": "経済",
+   "published": "2026-08-23",
+   "summary": "爆発事故により休業中のイオン店舗で、従業員たちが給与や雇用の行く末について不安を抱えている。事故からの復旧見通しが不透明なまま、生活への影響を懸念する声が上がっている。企業側の対応と従業員保護について、改めて問われている状況だ。"
+  },
+  {
+   "slug": "2026-08-23-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-6.html",
+   "title": "TikTok、米国で636億円の罰金支払いへ。あの大手SNSが次々と規制の波に飲まれている",
+   "title_en": "TikTok Agrees to Pay $460 Million Settlement in the U.S. – Is Your Favorite Social Media App Next?",
+   "category": "IT",
+   "published": "2026-08-23",
+   "summary": "TikTokが米国との和解で636億円の支払いに応じることが明らかになった。ユーザーデータの取り扱いやプライバシー保護に関する問題が背景にあるとみられる。デジタルプラットフォームへの規制強化が世界的に進む中、大手SNS企業への執行が相次いでいる状況を反映している。"
+  },
+  {
+   "slug": "2026-08-23-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-5.html",
+   "title": "AIで架空の党員を大量作成？立憲民主党が苦言を呈した理由とは",
+   "title_en": "Political Party Under Fire: AI-Generated Fake Members Expose Digital Age Ethics Crisis",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "政治団体がAI技術を用いて実在しない党員データを作成していた問題が浮上。立憲民主党がこの行為に対して苦言を呈し、政治活動における倫理性と透明性の議論が高まっている。デジタル技術の悪用と民主主義的プロセスの関係について、改めて注視する必要があると指摘されている。"
+  },
+  {
+   "slug": "2026-08-23-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-4.html",
+   "title": "智弁和歌山が5年ぶりの優勝！高校野球の伝統校が再び頂点へ",
+   "title_en": "Chiben Wakayama Clinches Championship After 5-Year Drought—Fourth National Title Secured",
+   "category": "スポーツ",
+   "published": "2026-08-23",
+   "summary": "高校野球の強豪校・智弁和歌山が全国大会で優勝を果たした。同校にとっては5年ぶり、通算4度目の栄冠となる。野球王国和歌山を代表する名門校が、長年の支持者の期待に応え、再び日本一の座を勝ち取った快挙である。"
+  },
+  {
+   "slug": "2026-08-23-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-3.html",
+   "title": "介護職員が受けるカスハラ、なぜこんなに増えてるのか？事件で明らかになった実態",
+   "title_en": "Why Is Customer Harassment in Care Facilities Getting Worse? A Growing Crisis Revealed",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "介護現場でのカスタマーハラスメント（カスハラ）が社会問題として浮き彫りになっている。利用者や家族からの暴言・暴力・過度な要求など、介護職員が受ける様々なハラスメント行為が報告されており、人手不足が深刻化する中で職場環境の悪化が懸念されている。適切な対応ルールや支援体制の構築が急務となっている。"
+  },
+  {
+   "slug": "2026-08-23-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-2.html",
+   "title": "80代夫が90代妻を介護、心身ともに限界…「超・老老介護」の現実はどうなる？",
+   "title_en": "Elderly Man in His 80s Struggles to Care for Wife in Her 90s: How Will 'Super-Elderly Caregiving' Crisis Unfold?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "高齢化社会が進む中、80代以上の高齢者が同じく高齢の家族を介護する「超・老老介護」が深刻化している。体力の衰えた夫が妻の介護を一身に担い、精神的・身体的な疲労が蓄積。介護職員不足や経済的負担も加わり、家族介護の限界が露呈している状況が報告されている。"
+  },
+  {
+   "slug": "2026-08-23-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-1.html",
+   "title": "父からの性的虐待で妊娠、それでも母親には言えず…被害者が抱える深刻な現実",
+   "title_en": "Pregnant from Father's Sexual Abuse, Yet Mother Still Doesn't Know: The Hidden Reality of Family Violence",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "親からの性的虐待により妊娠した被害者が、現在も母親にその事実を知られていないという衝撃的なケースが報じられた。家庭内での深刻な虐待が長年隠蔽される背景には、被害者の恐怖心や心理的な支配、そして家族関係の複雑さがある。専門家は、このような被害者が適切な支援にアクセスできていない現状に警鐘を鳴らしている。"
+  },
+  {
+   "slug": "2026-08-23-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-0.html",
+   "title": "震度5弱が関東を襲った深夜の地震、気象庁が警告する『1週間の注意期間』とは",
+   "title_en": "Magnitude 5.9 Earthquake Shakes Tokyo, Saitama, and Chiba at Dawn—What Does the JMA's Week-Long Alert Mean?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "23日未明、茨城県南部を震源とするマグニチュード5.9の地震が発生し、関東の広い地域で震度5弱の揺れを観測しました。気象庁は今後1週間程度、同程度またはそれ以上の地震が発生する可能性があるとして、住民に対して警戒を呼びかけています。深夜の突然の揺れに多くの人が目を覚ましたとみられます。"
+  },
   {
    "slug": "2026-08-22-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-42.html",

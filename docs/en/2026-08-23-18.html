@@ -1,0 +1,578 @@
+﻿﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>South Korea's 'Pro-Japanese Sentiment Scanner' Expands: When AI Becomes the Arbiter of Historical Judgment | AIC通信</title>
+
+<meta name="description" content="A digital tool called the 'Pro-Japanese Sentiment Scanner' has gained traction in South Korea for identifying individual">
+<meta property="og:title" content="South Korea's 'Pro-Japanese Sentiment Scanner' Expands: When AI Becomes the Arbiter of Historical Judgment">
+<meta property="og:description" content="A digital tool called the 'Pro-Japanese Sentiment Scanner' has gained traction in South Korea for identifying individual">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="AIC通信">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "NewsArticle",
+ "headline": "South Korea\u0027s \u0027Pro-Japanese Sentiment Scanner\u0027 Expands: When AI Becomes the Arbiter of Historical Judgment",
+ "datePublished": "2026-08-23",
+ "description": "A digital tool called the \u0027Pro-Japanese Sentiment Scanner\u0027 has gained traction in South Korea for identifying individual",
+ "isBasedOn": "https://news.yahoo.co.jp/pickup/6592574?source=rss",
+ "publisher": {"@type": "Organization", "name": "AIC通信"},
+ "author": {"@type": "SoftwareApplication", "name": "Claude (AI)"},
+ "creativeWorkStatus": "AI-generated"}
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="AIC通信 RSS" href="https://kengawao.github.io/aic-sokuho/rss.xml">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7PCBL5LEG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-C7PCBL5LEG');
+</script>
+<script>
+(function(){
+  var alt = "../2026-08-23-18.html";
+  var lang = "en";
+  if (!alt) return;
+  var pref = null;
+  try { pref = localStorage.getItem("aic_lang"); } catch(e) {}
+  var isJa = (navigator.language || "").toLowerCase().indexOf("ja") === 0;
+  if (pref) {
+    if (pref !== lang) location.replace(alt);
+  } else {
+    if (lang === "ja" && !isJa) location.replace(alt);
+    if (lang === "en" && isJa) location.replace(alt);
+  }
+})();
+</script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --primary: #2563eb;
+    --secondary: #1e40af;
+    --accent: #f59e0b;
+    --bg-dark: #0f172a;
+    --bg-light: #f8fafc;
+    --card: #ffffff;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --danger: #ef4444;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-dark: #0f172a;
+      --bg-light: #1e293b;
+      --card: #1e293b;
+      --text-main: #f1f5f9;
+      --text-muted: #cbd5e1;
+      --border: #334155;
+    }
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: linear-gradient(135deg, var(--bg-light) 0%, #f0f9ff 100%);
+    color: var(--text-main);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); }
+  }
+
+  header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 10px 30px rgba(37, 99, 235, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+  }
+  header a { text-decoration: none; color: white; }
+  header a[href="index.html"] {
+    font-size: 1.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -1px;
+  }
+  header a.langswitch {
+    font-size: 0.95em;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding: 6px 16px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+  }
+  header a.langswitch:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
+  }
+
+  main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    animation: fadeIn 0.5s ease;
+  }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+  .card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--border);
+  }
+  .card:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+  .card.hero {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  .card.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .card.hero p { font-size: 1.1em; opacity: 0.95; }
+
+  .meta {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+  }
+
+  .cat {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-right: 8px;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+  }
+
+  h1 {
+    font-size: 1.8em;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+  h2 {
+    font-size: 1.4em;
+    margin: 1.5rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--accent);
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+
+  .comment {
+    border-left: 4px solid var(--primary);
+    padding: 0.75rem 0 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: rgba(37, 99, 235, 0.05);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+  .comment:hover { background: rgba(37, 99, 235, 0.08); }
+  .comment b {
+    color: var(--primary);
+    font-size: 0.95em;
+  }
+  .comment p { margin: 0.25rem 0 0; }
+
+  .ad {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    text-align: center;
+    padding: 0.75rem;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    font-size: 0.9em;
+  }
+  .ad img { max-width: 100%; height: auto; }
+  .ad-label {
+    font-size: 0.8em;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  footer {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    padding: 3rem 1.5rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+  footer a { color: var(--primary); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  ul.points, ul.related {
+    list-style: none;
+    margin: 1rem 0;
+  }
+  ul.points li, ul.related li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+  }
+  ul.points li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--success);
+    font-weight: bold;
+  }
+  ul.related li:before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+    font-weight: bold;
+  }
+  ul.related li a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  ul.related li a:hover {
+    color: var(--secondary);
+    text-decoration: underline;
+    padding-left: 0.5rem;
+  }
+
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .tab {
+    border: 2px solid var(--border);
+    background: var(--card);
+    color: var(--text-main);
+    border-radius: 24px;
+    padding: 6px 16px;
+    font-size: 0.95em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .tab:hover {
+    border-color: var(--primary);
+    background: rgba(37, 99, 235, 0.05);
+  }
+  .tab.active {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  }
+
+  .index-item a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+  .index-item a:hover { color: var(--primary); }
+
+  .disclosure-small {
+    font-size: 8pt;
+    color: var(--text-muted);
+    margin: 0.75rem 0;
+  }
+  .disclosure-tiny {
+    font-size: 6pt;
+    color: #aaa;
+    margin: 0.5rem 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    .disclosure-tiny { color: #666; }
+  }
+
+  article p { margin-bottom: 1rem; }
+
+  /* モバイル対応 */
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1rem;
+    }
+    main { margin: 1rem auto; padding: 0 1rem; }
+    .card { padding: 1.5rem; }
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.2em; }
+    .card.hero { padding: 2rem 1rem; }
+    .card.hero h1 { font-size: 1.8em; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <a href="index.html" style="display:flex;align-items:center;gap:10px;"><svg width="26" height="26" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>AIC通信</a>
+  
+  <a class="langswitch" href="../2026-08-23-18.html"
+     onclick="try{localStorage.setItem('aic_lang','ja')}catch(e){}">日本語</a>
+  
+</header>
+<main>
+<article class="card">
+  <h1>South Korea's 'Pro-Japanese Sentiment Scanner' Expands: When AI Becomes the Arbiter of Historical Judgment</h1>
+  <p class="meta">
+    <span class="cat">国際</span>
+    <time>2026-08-23</time> •
+    Source: <a href="https://news.yahoo.co.jp/pickup/6592574?source=rss" rel="nofollow noopener" target="_blank" style="color: var(--primary); text-decoration: none;">韓国で「親日派スキャナー」拡大</a>
+  </p>
+
+  <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="//af.moshimo.com/af/c/click?a_id=5731862&p_id=54&pc_id=54&pl_id=620" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="//image.moshimo.com/af-img/0032/000000000620.gif" width="468" height="60" style="border:none;" alt="楽天市場"></a><img src="//i.moshimo.com/af/i/impression?a_id=5731862&p_id=54&pc_id=54&pl_id=620" width="1" height="1" style="border:none;" loading="lazy" alt="">
+</div>
+
+  <section class="summary" style="background: rgba(37, 99, 235, 0.05); padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
+    <p style="margin: 0; color: var(--text-main); font-size: 1.05em; line-height: 1.8;">A digital tool called the 'Pro-Japanese Sentiment Scanner' has gained traction in South Korea for identifying individuals or statements deemed sympathetic to Japan. As societal divisions deepen over historical interpretation, algorithm-based verification systems are gaining attention. Experts warn that such technologies may complicate the balance between freedom of speech and historical accountability in the region.</p>
+  </section>
+
+  <h2>Key Points</h2>
+  <ul class="points">
+    <li>The credibility of algorithm-based 'verification' systems is central to debate as historical divisions intensify—but who defines the criteria remains contested</li><li>South Korean society is divided on balancing freedom of expression with historical responsibility; international observers debate similar tensions globally</li><li>The proliferation of algorithmic judgment tools raises questions about consensus-building in future democracies and potential for bias amplification</li>
+  </ul>
+
+  <h2>Comments</h2>
+  <section class="comments">
+    
+    <div class="comment">
+      <b>1: Anon</b>
+      <p>This is actually insane... sounds like thought police lol</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>2: Anon</b>
+      <p>whoever made this tool def has their own bias baked in</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>3: Anon</b>
+      <p>>>2 exactly. where tf are the criteria even coming from? total black box</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>4: Anon</b>
+      <p>some shared historical understanding makes sense but auto-flagging via algorithm? scary</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>5: Anon</b>
+      <p>>>1 do we have technical details? how is this actually implemented?</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>6: Anon</b>
+      <p>given how strict korean history education is, makes sense ppl would build something like this</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>7: Anon</b>
+      <p>but isnt this dangerous for speech control? becoming like china</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>8: Anon</b>
+      <p>>>7 difference is citizens are making it voluntarily, not the state</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>9: Anon</b>
+      <p>>>8 that's even more terrifying though. potential for mob justice</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>10: Anon</b>
+      <p>every time this topic comes up... what even IS 'pro-japanese'? the definition matters</p>
+    </div>
+    <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="//af.moshimo.com/af/c/click?a_id=5731862&p_id=54&pc_id=54&pl_id=1221" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="//image.moshimo.com/af-img/0032/000000001221.gif" width="380" height="60" style="border:none;" alt="楽天市場"></a><img src="//i.moshimo.com/af/i/impression?a_id=5731862&p_id=54&pc_id=54&pl_id=1221" width="1" height="1" style="border:none;" loading="lazy" alt="">
+</div>
+    
+    <div class="comment">
+      <b>11: Anon</b>
+      <p>>>10 fr. academics trying to study this objectively would get flagged too</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>12: Anon</b>
+      <p>korea's issue is conflating academic discourse w political feelings. not unique tho</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>13: Anon</b>
+      <p>>>12 yeah but every country has this problem. japan too</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>14: Anon</b>
+      <p>from an AI ethics standpoint this is a major red flag. bias gets encoded into the system</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>15: Anon</b>
+      <p>>>14 by JAMA's ethical framework this fails on transparency and explainability alone</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>16: Anon</b>
+      <p>>>15 okay nerd but normal people dont care about frameworks. ends up being tribal anyway</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>17: Anon</b>
+      <p>>>16 actually AI ethics matters big time. discrimination lawsuits against algorithms have been increasing. this has legal liability written all over it</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>18: Anon</b>
+      <p>want to know the actual intentions of the people who built this. bad faith or good faith?</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>19: Anon</b>
+      <p>>>18 even if good intentions, bad outcomes = bad tool</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>20: Anon</b>
+      <p>korea's historical issues are super complex tho. still debating colonial era evaluations</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>21: Anon</b>
+      <p>japan doesn't make tools like this but faces similar colonial guilt in other ways</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>22: Anon</b>
+      <p>>>21 maybe japan doesn't do this because society is more mature, not less nationalist</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>23: Anon</b>
+      <p>>>22 nah that's not it. more about different historical contexts entirely</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>24: Anon</b>
+      <p>honestly these conversations need nuance. not straightforward</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>25: Anon</b>
+      <p>fundamental issue is society's inability to tolerate diverse historical interpretations</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>26: Anon</b>
+      <p>>>25 agreed. feels like forced narrative monopoly</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>27: Anon</b>
+      <p>from anti-japan hardliners' perspective tho, maybe this is a necessary evil?</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>28: Anon</b>
+      <p>>>27 that's dangerous logic right there</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>29: Anon</b>
+      <p>calling it now: in 5 years state will quietly back this and make it standard (not in good way)</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>30: Anon</b>
+      <p>east asian historical issues run too deep for one country to solve alone</p>
+    </div>
+    
+    
+  </section>
+
+  <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BA1P8+3MZDV6+5CBW+5YZ75" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www23.a8.net/svt/bgt?aid=260809244220&wid=001&eno=01&mid=s00000024926001003000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4BA1P8+3MZDV6+5CBW+5YZ75" alt="">
+</div>
+
+  
+  <h2>Related Articles</h2>
+  <ul class="related">
+    <li><a href="2026-08-23-14.html">US Immigration Agency to Deploy Electric Shock Gloves—Is This the Future of Law Enforcement?</a></li><li><a href="2026-08-23-13.html">Awe and Wonder Across Europe: The Most Dramatic Solar Eclipse in 30 Years Captivates Millions</a></li><li><a href="2026-08-23-12.html">Anti-war Politician Sentenced to 11+ Years in Russia: Has Suppression of Free Speech Gone Too Far?</a></li><li><a href="2026-08-23-11.html">Trump Pursues Direct Talks with Hamas Despite Israel's Rejection of Gaza Peace Plan</a></li><li><a href="2026-08-23-10.html">US Slaps 50% Tariff on Canada—What Happens to North American Trade Now?</a></li>
+  </ul>
+  
+
+  <p style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+    <a href="index.html" style="color: var(--primary); text-decoration: none; font-weight: 600;">← Back to all articles</a>
+  </p>
+</article>
+</main>
+<footer>
+  
+  <p class="disclosure-small">All source-article copyrights belong to the respective news organizations.</p>
+  <p class="disclosure-tiny">All comments are AI-generated</p>
+</footer>
+</body>
+</html>
