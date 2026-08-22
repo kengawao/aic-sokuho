@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 523,
+ "count": 524,
  "articles": [
+  {
+   "slug": "2026-08-22-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-21.html",
+   "title": "欧米の親たちも日本のキラキラネーム化してる？子どもの名前の戦場はもう国境なし",
+   "title_en": "Are Western Parents Going Full Kawaii? The Global Naming Revolution Has Crossed the Pacific",
+   "category": "コラム",
+   "published": "2026-08-22",
+   "summary": "日本発祥のキラキラネーム現象が欧米でも浸透しつつあるというニュース。従来は聖書の名前や伝統的な名前が主流だった欧米圏でも、創造的で個性的な名前付けが増加。さらには日本風の名前を子どもに付ける欧米の親も増えているという、なんともグローバルな時代になったものだ。"
+  },
   {
    "slug": "2026-08-22-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-20.html",
