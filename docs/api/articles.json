@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 524,
+ "count": 545,
  "articles": [
+  {
+   "slug": "2026-08-22-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-42.html",
+   "title": "クーラーボックスで5日間漂流した漁師、なぜか無事救助される。その判断は正解だったのか？",
+   "title_en": "Two Fishermen Survived 5 Days Inside a Cooler—Was It Genius or Just Dumb Luck?",
+   "category": "コラム",
+   "published": "2026-08-22",
+   "summary": "メキシコ沖で行方不明になっていた漁師2人が、釣った魚を入れるためのクーラーボックスの中に身を隠して5日間漂流し、メキシコ海軍に救助された。彼らの機転と、運の良さが一つになった珍事件。果たしてこれは生き残り戦略の勝利なのか、それとも単なる幸運の産物なのか。"
+  },
+  {
+   "slug": "2026-08-22-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-41.html",
+   "title": "甲子園決勝で激論『これ振り逃げ？暴投？』ルール判定の微妙なボーダーライン",
+   "title_en": "Koshien Final Sparks Debate: Is It a Passed Ball or Wild Pitch? Understanding Baseball's Blurry Ruleline",
+   "category": "スポーツ",
+   "published": "2026-08-22",
+   "summary": "甲子園決勝で振り逃げと暴投の判定をめぐる議論が巻き起こった。一見似た場面でも、捕手が球を捕球した時点での走者の行動や投手の責任範囲によって判定が分かれる。ルール理解の深さが試合結果を左右する可能性があり、野球ファンの間でも判定基準に対する関心が高まっている。"
+  },
+  {
+   "slug": "2026-08-22-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-40.html",
+   "title": "ウルトラマンテオはなぜ戦いが苦手なのか？設定から読み解く弱さの本質",
+   "title_en": "Why Can't Ultraman Teo Fight? Understanding the Weakness Behind the Character Design",
+   "category": "エンタメ",
+   "published": "2026-08-22",
+   "summary": "ウルトラマンテオが他のウルトラマンと比べて戦闘能力に劣るとされる理由が、キャラクター設定の根底にあることが明らかになった。従来のウルトラマンシリーズとは異なるコンセプトのもとで設計されたテオの「弱さ」は、実は物語上の重要な役割を果たしている。ファンの間では、この設定が作品全体にどのような影響を与えるのかについて議論が続いている。"
+  },
+  {
+   "slug": "2026-08-22-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-39.html",
+   "title": "自販機が消える？飲料大手が「脱・自販機」に舵を切った理由",
+   "title_en": "Are Vending Machines Disappearing? Why Major Beverage Makers Are Shifting Strategy",
+   "category": "経済",
+   "published": "2026-08-22",
+   "summary": "炭酸飲料の消費減少や環境問題への対応圧力の中、飲料メーカーが自販機依存からの脱却を進めている。コンビニ競争の激化や消費者の購買行動の多様化により、自販機の役割が変わりつつあり、各社が配置場所の最適化やデジタル連携、新型機の導入などで対応を迫られている状況を取材した記事。"
+  },
+  {
+   "slug": "2026-08-22-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-38.html",
+   "title": "駅前のシャッター街化したモール、なぜ廃墟のままなのか？ 再開発が進まない理由を追う",
+   "title_en": "Why Are Shopping Malls Near Train Stations Turning Into Abandoned Buildings? The Real Obstacles to Redevelopment",
+   "category": "経済",
+   "published": "2026-08-22",
+   "summary": "かつて買い物の中心地だった駅前モールが、今や廃墟状態で放置されているケースが全国で増加している。テナント撤退、来客減少、所有権の複雑化など複数の要因が重なり、再開発が進まない現状が明らかに。地域経済への影響と、今後の活性化策が課題となっている。"
+  },
+  {
+   "slug": "2026-08-22-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-37.html",
+   "title": "新幹線の通路に椅子が置かれた理由は？JR東が説明する想定外の事態",
+   "title_en": "Chairs in the Shinkansen Aisle? JR East Explains the Unexpected Situation",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "新幹線の通路に椅子が置かれているのが発見され、話題となっている。JR東日本が当該事案について見解を示した。通常、乗客の安全や乗降の妨げになるため、通路への物品設置は避けるべきとされているが、どのような背景があったのか、鉄道事業者の対応と安全基準の観点から注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-22-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-36.html",
+   "title": "ロシア唯一の反戦政党が選挙から除外　最高裁が上訴を棄却、民主主義はどうなる？",
+   "title_en": "Russia's Only Anti-War Party Banned from Elections: What Does This Mean for Democracy?",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "ロシアの最高裁判所は、ウクライナ侵攻に反対していた唯一の登録政党「ヤブロコ」が9月の議会選挙への参加を禁止したことへの上訴を棄却した。2022年の全面侵攻開始以降、反戦姿勢を公に掲げた主要政党が選挙から排除される事態となり、国内の政治的多様性がさらに失われることになった。"
+  },
+  {
+   "slug": "2026-08-22-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-35.html",
+   "title": "大気汚染規制でまさかの効果…ロンドンの子どもの肺が数年で劇的回復",
+   "title_en": "London's Clean Air Zone Triggers Unexpected Recovery in Children's Lung Function",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "ロンドンで2019年に導入された超低排出ゾーン（ULEZ）により、規制対象地域に住む幼い子どもたちの肺機能が予想以上に早く改善・成長していることが判明した。大気汚染の削減が子どもの発育に与える影響を実証した研究成果として、医学界でも注目を集めている。"
+  },
+  {
+   "slug": "2026-08-22-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-34.html",
+   "title": "7人の援助活動家殺害なのに刑事捜査なし？ イスラエルの決定に英豪カナダが激怒",
+   "title_en": "Israel Won't Investigate Deaths of 7 Aid Workers—UK, Australia, Canada Furious",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "2024年4月にガザ中部でワールド・セントラル・キッチンのスタッフ7人が殺害された事件について、イスラエルは19日に刑事捜査を行わないと発表した。これに対してイギリス、カナダ、オーストラリアの3国政府は21日、この決定を「恥ずべきこと」として強く非難。国際的な批判が高まっている。"
+  },
+  {
+   "slug": "2026-08-22-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-33.html",
+   "title": "救助隊が到着した直後に再び爆撃　ロシアがウクライナのショッピングセンターに「ダブルタップ攻撃」で16人殺害",
+   "title_en": "Russia's 'Double-Tap' Drone Attack on Ukrainian Shopping Center Kills 16 as Rescue Teams Arrive",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "ウクライナ中部クリヴィー・リフで市内最大のショッピングセンターがロシア軍ドローンによる二重攻撃を受けた。初回爆撃の後、救助活動開始に合わせて再度攻撃する戦術が用いられ、少なくとも16人が殺害、子ども23人を含む130人が負傷。がれきの下に閉じ込められた人も複数いる。民間人への意図的な被害拡大を狙った攻撃と考えられている。"
+  },
+  {
+   "slug": "2026-08-22-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-32.html",
+   "title": "米関税発効、カナダが即座に報復宣言　両国の貿易戦争が現実化",
+   "title_en": "Trade War Escalates: US Tariffs Take Effect as Canada Strikes Back with Matching Retaliation",
+   "category": "国際",
+   "published": "2026-08-22",
+   "summary": "アメリカがカナダ製品への新たな関税措置を発効させたことを受け、カナダのマーク・カーニー首相は同額の報復関税でアメリカ製品に対抗する方針を表明した。22日未明の発効直前まで続いていた貿易交渉は土壇場で決裂し、両国間の緊張が一気に高まっている。"
+  },
+  {
+   "slug": "2026-08-22-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-31.html",
+   "title": "凍結受精卵を産む、産まない…母たちの葛藤、その後どうなった?",
+   "title_en": "Frozen Embryos: What Happens After the Decision to Give Birth—or Not?",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "不妊治療で作られた凍結受精卵について、妊娠・出産を選択した女性たちのその後の人生が焦点となっている。医学的選択肢が広がる一方で、経済的負担や心理的葛藤、家族関係への影響など、決断後も続く課題に直面する親たちの現実が浮かび上がってきた。社会的サポート体制の整備の必要性が問われている。"
+  },
+  {
+   "slug": "2026-08-22-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-30.html",
+   "title": "地震で職失った被災者の現実 失業と避難が同時進行の地獄",
+   "title_en": "When Earthquake Strikes: Losing Both Home and Job Simultaneously",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "大規模地震の被災地では、建物や生活基盤が失われるだけでなく、勤務先の被災や営業停止により突然職を失う人たちが相次いでいる。住む場所と仕事の両方を一度に失った被災者たちは、避難生活を送りながら失業保険の申請や転職活動を余儀なくされるという深刻な状況に直面している。経済的困窮に加え、精神的な負担も大きく、復興への道のりは険しい。"
+  },
+  {
+   "slug": "2026-08-22-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-29.html",
+   "title": "本木雅弘の長男が俳優デビュー、親の七光りではどう違う？",
+   "title_en": "Masahiro Motoki's Son Makes Acting Debut: Will He Live Up to His Father's Legacy?",
+   "category": "エンタメ",
+   "published": "2026-08-22",
+   "summary": "俳優・本木雅弘が、長男の俳優デビューについて言及した。著名な親を持つ子どもが芸能界入りするケースは珍しくないが、本木雅弘の長男がどのような作品で、どのような形でデビューするのか注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-22-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-28.html",
+   "title": "処方箋いらずで爆売れ？訪日客が眼鏡を爆買いする理由とは",
+   "title_en": "Why Japanese Eyeglasses Have Become the Unexpected Souvenir Hit with International Visitors",
+   "category": "経済",
+   "published": "2026-08-22",
+   "summary": "訪日外国人観光客の間で眼鏡の購入が人気となっている。処方箋が不要で手軽に購入できることや、日本の眼鏡製品の高い品質と豊富なデザインが魅力となっているようだ。免税制度の活用も相まって、お土産や自分用として多くの観光客が眼鏡店を訪れるようになっているという。"
+  },
+  {
+   "slug": "2026-08-22-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-27.html",
+   "title": "100均業界2トップの快進撃、その理由は何か？消費者の支持を集める戦略に迫る",
+   "title_en": "What Drives Japan's Top 100-Yen Stores' Remarkable Growth?",
+   "category": "経済",
+   "published": "2026-08-22",
+   "summary": "ダイソーとセリアを中心とした100均業界の2トップが好調な業績を続けている。消費者の節約志向の高まりや、商品の質向上、店舗拡大戦略など複数の要因が相乗効果を生み出している。デフレ時代から続く価値志向の消費行動と、各社の創意工夫が両業界の成長を支えている。"
+  },
+  {
+   "slug": "2026-08-22-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-26.html",
+   "title": "味の素がAI広報を導入したら炎上→その本当の理由、企業の危機対応の何が問題だったのか",
+   "title_en": "Ajinomoto's AI Chatbot Backfires: What Companies Really Miss About Customer Communication",
+   "category": "経済",
+   "published": "2026-08-22",
+   "summary": "味の素がX（旧Twitter）での広報対応にAIを活用したことが話題になっている。自動応答や判断にAIを用いることで、企業と消費者のコミュニケーションに問題が生じた。AIの導入自体より、機械的で冷淡な対応が炎上に繋がった側面と、企業の危機管理体制の課題が指摘されている。顧客との信頼構築にはAIだけでは限界がある実例として注目されている。"
+  },
+  {
+   "slug": "2026-08-22-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-25.html",
+   "title": "智弁和歌山が5年ぶり優勝、終盤の逆転劇で健大高崎を撃破！甲子園の歴史に刻まれた一戦",
+   "title_en": "Chiben Wakayama Clinches Fifth National Title in Five Years with Dramatic Late-Inning Comeback Victory",
+   "category": "スポーツ",
+   "published": "2026-08-22",
+   "summary": "夏の全国高校野球選手権の決勝戦が22日に開催され、智弁和歌山高校が群馬の健大高崎高校との激戦を4対3で制し、5年ぶり4度目の優勝を成し遂げた。終盤の逆転劇により、甲子園の舞台で歴史的な勝利を手にした智弁和歌山は、名門校としての底力を見せつけた。"
+  },
+  {
+   "slug": "2026-08-22-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-24.html",
+   "title": "欧州でウエストナイル熱が市中感染…蚊が媒介する感染症、日本での流行リスクは？",
+   "title_en": "West Nile Virus Spreads in Europe—Is Japan at Risk? What You Need to Know About This Mosquito-Borne Threat",
+   "category": "健康",
+   "published": "2026-08-22",
+   "summary": "ウエストナイル熱がヨーロッパで市中感染の報告が相次いでいます。蚊を媒介とするこのウイルス感染症は、アフリカや中東が主流でしたが、温暖化に伴い感染地域が拡大。高齢者や免疫不全者では重症化リスクがあり、ワクチンや根本的治療法がない点が懸念されています。日本への上陸可能性と対策について、専門家の警戒が高まっています。"
+  },
+  {
+   "slug": "2026-08-22-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-23.html",
+   "title": "若年層のうつ病患者が急増中…スマホやSNSが影響？その真犯人は",
+   "title_en": "Depression Surging Among Young Adults in Japan: Is Social Media to Blame?",
+   "category": "健康",
+   "published": "2026-08-22",
+   "summary": "かつて中高年層に多いとされていたうつ病が、若年層でも顕在化してきている。SNSの浸透や社会的な環境変化、進学・就職時の急激なストレスなど、複合的な要因が指摘されている。精神科医の間でも診断体制の充実が求められており、早期発見・治療の重要性が高まっている。"
+  },
+  {
+   "slug": "2026-08-22-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-22-22.html",
+   "title": "関東南部が「記録的短時間大雨」に見舞われる 東京・埼玉で何が起きているのか",
+   "title_en": "Record-Breaking Heavy Rains Batter Kanto Region - What You Need to Know",
+   "category": "国内",
+   "published": "2026-08-22",
+   "summary": "前線と湿った空気の影響により、関東南部で猛烈な雨が降り続いている。東京都と埼玉県では気象庁が「記録的短時間大雨」の気象防災速報を相次いで発表。低地の浸水や河川の氾濫のリスクが高まっており、気象庁は厳重な警戒を呼びかけている。道路冠水など交通への影響も懸念されている。"
+  },
   {
    "slug": "2026-08-22-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-22-21.html",
