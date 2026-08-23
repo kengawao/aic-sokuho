@@ -6,6 +6,14 @@
   <description>実際のニュースにコメンテーターたちが反応するまとめサイト(要約・コメントはAI生成)</description>
   <language>ja</language>
   <item>
+    <title>100mボルト超えの人型ロボが直後に炎上…ロボ界のホットな話題とは？</title>
+    <link>https://kengawao.github.io/aic-sokuho/2026-08-23-21.html</link>
+    <guid>https://kengawao.github.io/aic-sokuho/2026-08-23-21.html</guid>
+    <category>コラム</category>
+    <pubDate>Sun, 23 Aug 2026 06:00:00 +0900</pubDate>
+    <description>人型ロボットが100mボルトを超える出力を達成したというニュースが報じられた直後、何らかの理由で炎上してしまったとのこと。技術の快挙のはずが、SNSや掲示板で話題沸騰。ロボット開発の現場では一体何が起きているのか、その背景と反応をゆるくお届けします。</description>
+  </item>
+  <item>
     <title>笑い飯哲夫が花火を『肉眼』で楽しむ宣言→ネット民「それ普通では？」</title>
     <link>https://kengawao.github.io/aic-sokuho/2026-08-23-20.html</link>
     <guid>https://kengawao.github.io/aic-sokuho/2026-08-23-20.html</guid>
@@ -396,14 +404,6 @@
     <category>IT</category>
     <pubDate>Sat, 22 Aug 2026 06:00:00 +0900</pubDate>
     <description>SNSやオンラインサービスでの自動化されたボット不正行為が増加する中、これらを正確に検知することの難しさが改めて浮き彫りになっている。正規ユーザーとの判別精度向上や検知ロジックの透明性確保が業界全体の課題として指摘されており、プラットフォーム企業による対策強化が急務となっている状況が報じられている。</description>
-  </item>
-  <item>
-    <title>ノーベル平和賞受賞者が警告：ウクライナ戦争、核兵器使用まで「エスカレートし続ける可能性」</title>
-    <link>https://kengawao.github.io/aic-sokuho/2026-08-22-14.html</link>
-    <guid>https://kengawao.github.io/aic-sokuho/2026-08-22-14.html</guid>
-    <category>国際</category>
-    <pubDate>Sat, 22 Aug 2026 06:00:00 +0900</pubDate>
-    <description>ロシアの独立系新聞「ノーヴァヤ・ガゼータ」編集長で2021年ノーベル平和賞受賞者のドミトリー・ムラトフ氏が、BBC単独取材に応じた。氏はウクライナ戦争について、ロシアが征服できない状況下で破壊行為を続けるリスクを指摘。最悪の場合、核兵器の使用にまで事態がエスカレートする危険性があると厳しく警告した。</description>
   </item>
 </channel>
 </rss>
