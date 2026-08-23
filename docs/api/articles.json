@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 567,
+ "count": 588,
  "articles": [
+  {
+   "slug": "2026-08-23-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-42.html",
+   "title": "わんこそば755杯って何杯だ？大食い新星の記録に大食い界隈も困惑www",
+   "title_en": "755 Bowls of Wanko Soba: Can You Even Comprehend That Number?",
+   "category": "コラム",
+   "published": "2026-08-23",
+   "summary": "大食い界に新しいスターが誕生した。わんこそばの新記録は755杯。そりゃもう凄いんだけど、正直なところ755杯ってどのくらい食ってるのか皆目見当つかないよね。ラーメン何杯分？ご飯何杯分？そういう疑問を抱きながら、この猛者の活躍を目撃することになった大食い界の面々。記録は更新されるために存在する、ということをこの人が証明してくれました。"
+  },
+  {
+   "slug": "2026-08-23-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-41.html",
+   "title": "盗用告発した学者が停職に？ケンブリッジ大教授死亡後の「逆転劇」に学界が揺れる",
+   "title_en": "Whistleblower Suspended After Exposing Cambridge Professor's Plagiarism Scandal—What Happens to Academic Truth Now?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "論文盗用疑惑でケンブリッジ大学の元教授ジェイソン・アーデイ氏（41）を告発していた学者が、同教授の遺体発見後、所属するベルギーの大学から停職処分を受けた。告発者の行動がどのような理由で懲罰対象となったのか、学界内での告発と責任追及のバランスについて議論が広がっている。"
+  },
+  {
+   "slug": "2026-08-23-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-40.html",
+   "title": "実は臭くないのに『自分は臭い』と思い込む人の心理とは？",
+   "title_en": "Why Do People Think They Smell Bad When They Actually Don't? The Psychology Behind the Misconception",
+   "category": "健康",
+   "published": "2026-08-23",
+   "summary": "自分の体臭に過度に不安を感じ、実際には臭くないにもかかわらず「自分は臭い」と思い込む心理状態が注目されている。この現象は心理的な要因が大きく関わっており、不安障害や強迫観念に近い傾向が見られるという。専門家はこのような思い込みが日常生活に支障をきたす可能性があると指摘している。"
+  },
+  {
+   "slug": "2026-08-23-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-39.html",
+   "title": "智弁和歌山の寮母、インスタで何がバズった？高校野球界の意外な一面",
+   "title_en": "Chiben Wakayama's Dormitory Matron Goes Viral on Instagram: What's Changed in High School Baseball?",
+   "category": "スポーツ",
+   "published": "2026-08-23",
+   "summary": "全国屈指の野球強豪校・智弁和歌山の寮母がInstagramで投稿した内容が大きな話題を呼んでいる。選手たちの日常生活や食事風景など、寮生活の裏側を発信することで、野球ファンや教育関係者から注目を集めている。従来の「厳しさのみ」という高校野球のイメージを転換させる発信として議論を呼んでいる。"
+  },
+  {
+   "slug": "2026-08-23-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-38.html",
+   "title": "就活生の76%が障害を隠す理由 企業の受け入れ態勢は本当に整ってるのか",
+   "title_en": "76% of Job Seekers Hide Disabilities: Is Corporate Japan Ready to Truly Include?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "就職活動中に障害があることを企業に伝えていない学生が76%に上ることが調査で明らかになった。障害者雇用促進法により企業には障害者雇用が義務付けられているが、実際には学生が不利益を被ることを懸念し、情報を隠すケースが大多数を占めている。障害の有無が採用判断に影響する現状と、真の共生社会実現に向けた課題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-23-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-37.html",
+   "title": "ドラマ『VIVANT』の舞台となった県が観光客急増中 ロケ地効果はどこまで続く?",
+   "title_en": "Drama 'VIVANT' Filming Location Prefecture Sees Tourism Surge—Will the Effect Last?",
+   "category": "エンタメ",
+   "published": "2026-08-23",
+   "summary": "日本テレビの人気ドラマ『VIVANT』のロケ地となった県が観光振興に力を入れている。放送をきっかけに聖地巡礼の観光客が増加し、地域経済への波及効果が期待されている。地元自治体はこの機会を活かし、関連イベントやPR活動を積極的に展開しており、ドラマをきっかけにした観光地域振興の事例として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-23-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-36.html",
+   "title": "ハリー王子とエルトン・ジョンが75億円の支払い命じられた理由 プライバシー訴訟で敗訴した著名人7人の意外な結末",
+   "title_en": "Prince Harry and Elton John Ordered to Pay $75 Million: Why Did Privacy Lawsuit Backfire?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "イギリスのハリー王子やエルトン・ジョンら著名人7人が、英大手紙デイリー・メール傘下の発行元を相手にプライバシー侵害で訴えた訴訟で敗訴。高等法院は訴えられた出版社の訴訟費用として最大3450万ポンド（約75億円）の支払いを命じた。著名人たちの裁判戦略が大きな代償となった格好だ。"
+  },
+  {
+   "slug": "2026-08-23-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-35.html",
+   "title": "販売員のはずが王族？ベルギーで身元判明した男性の正体とは",
+   "title_en": "From Sales Clerk to Royalty: Belgium's Shocking DNA Discovery",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "ベルギーで長年販売員として働いていた男性が、DNA鑑定を通じて王室の血筋を持つ人物であることが判明した。本人も周囲も予想していなかった衝撃の事実が明かされ、ベルギー王室や関係者に波紋が広がっている。身分変動に伴う法的・社会的な対応が注視されている。"
+  },
+  {
+   "slug": "2026-08-23-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-34.html",
+   "title": "イタリア首相がトランプ氏との対立を公開？欧州とアメリカの関係に亀裂が入る可能性",
+   "title_en": "Italian PM Exposes Rift with Trump: Is Europe-US Relations Fracturing?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "イタリアの首相がトランプ氏との間に生じた確執について言及した。米国の政策転換が欧州各国との外交関係に影響を与える中、NATO加盟国を含む欧州の指導者たちが直面する複雑な立場が浮き彫りになった形だ。トランプ氏の対外政策とそれに対する欧州側の対応が、今後の米欧関係の構図を左右する可能性がある。"
+  },
+  {
+   "slug": "2026-08-23-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-33.html",
+   "title": "カナダ首相が米国に報復関税を発動へ。トランプ政権との対立が激化するのか？",
+   "title_en": "Canada Strikes Back: Will Retaliatory Tariffs Escalate Into Full Trade War With the US?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "カナダのトルドー首相が、米国による関税措置に対抗する報復関税の実施を発表した。両国間の貿易摩擦が深刻化する中、カナダは主要な米国製品に対して追加関税を課す方針を示している。この動きはトランプ政権との関係悪化を招く可能性があり、北米の経済情勢が不安定化する懸念も出ている。"
+  },
+  {
+   "slug": "2026-08-23-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-32.html",
+   "title": "トランプ政権の移民ビザ停止、米裁判所が待ったをかける　法的根拠は十分だったのか？",
+   "title_en": "US Court Blocks Trump's Immigration Visa Ban: Was the Legal Basis Strong Enough?",
+   "category": "国際",
+   "published": "2026-08-23",
+   "summary": "米国の地方裁判所がトランプ政権による移民ビザ発給停止措置を無効と判断しました。この決定は、行政権の濫用にあたるかどうかが争点となっており、移民政策と法の支配のバランスをめぐる重要な判例となる可能性があります。今後の上級裁判所での判断も注目されます。"
+  },
+  {
+   "slug": "2026-08-23-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-31.html",
+   "title": "埼玉・神奈川で地震被害、複数のけが人が発生ーあなたの地域は大丈夫？",
+   "title_en": "Multiple Injuries Reported in Saitama and Kanagawa Following Earthquake - Is Your Area Safe?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "埼玉県や神奈川県などの地域で地震が発生し、複数のけが人が報告されています。建物や道路への被害状況も含め、各地の被害情報が続々と判明しています。行政機関と報道各社が被害状況の把握に当たっており、今後さらに情報が更新される見込みです。"
+  },
+  {
+   "slug": "2026-08-23-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-30.html",
+   "title": "豪雨で浸水した家の片づけ、何に気をつけるべき？NPOが緊急説明会",
+   "title_en": "What Should Flood-Damaged Homes Focus On? NPO Holds Emergency Clean-Up Guidance Session",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "千葉県の記録的豪雨により多くの住宅が浸水被害を受けた大網白里市で、被災者支援を行うNPO団体が住宅片づけに関する説明会を開催しました。被災者向けに、安全で効率的に家屋を復旧させるための具体的なポイントや注意点が伝えられた。被災地の復興支援が本格化しています。"
+  },
+  {
+   "slug": "2026-08-23-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-29.html",
+   "title": "39度超えの危険な暑さ、熊本の被災地でも 熱中症対策を徹底しないとヤバい",
+   "title_en": "Heat Alert: Over 39°C Temps Spread Through Western Japan; Don't Neglect Heatstroke Prevention",
+   "category": "健康",
+   "published": "2026-08-23",
+   "summary": "西日本や東海地方で記録的な高気温が続いており、広島県と大分県では最高気温が39度を超える危険な暑さを観測。特に熊本県の被災地においても危険な暑さが発生しており、熱中症のリスクが急速に高まっている。気象庁は国民に対して熱中症対策の徹底を呼びかけている。"
+  },
+  {
+   "slug": "2026-08-23-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-28.html",
+   "title": "フィギュアスケート界に朗報！りくりゅう木原さん&三浦さんが婚約発表",
+   "title_en": "Figure Skating Celebrates: Rikuryuu Kihara and Miura Announce Engagement",
+   "category": "スポーツ",
+   "published": "2026-08-23",
+   "summary": "フィギュアスケートの著名選手である木原さんと三浦さんが婚約を発表した。二人の関係が明らかになることで、フィギュアスケート界のファンから祝福の声が上がっている。スポーツ選手としてのキャリアと私生活の両立について、今後の活動が注目されている。"
+  },
+  {
+   "slug": "2026-08-23-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-27.html",
+   "title": "モバイルバッテリーの発火相次ぐ…規制強化で何が変わる？",
+   "title_en": "Mobile Battery Fire Incidents Surge: What Will Stricter Regulations Mean?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "モバイルバッテリー（モバ充）の発火事故が相次いでいることを受け、政府が規制強化に乗り出す。品質管理基準の厳格化や販売時の安全基準チェックの徹底が検討されており、消費者への周知も進められる見通し。海外製の粗悪品流通が主な原因とみられている。"
+  },
+  {
+   "slug": "2026-08-23-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-26.html",
+   "title": "スマホ乗っ取り詐欺がBot化？自動化される詐欺の手口、あなたのスマホは大丈夫？",
+   "title_en": "Smartphone Takeover Scams Going Automated: Is Your Phone Vulnerable to Bot-Driven Fraud?",
+   "category": "IT",
+   "published": "2026-08-23",
+   "summary": "詐欺グループがSMS経由のスマホ乗っ取り詐欺を自動化・Bot化させているという新たな脅威が報告されている。従来は手作業で行われていた詐欺が大規模自動化され、より多くのユーザーが狙われる可能性が高まっている。被害の急増と対策の重要性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-23-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-25.html",
+   "title": "文科省が科研費を倍増要求へ　日本の研究開発競争力は強化されるのか",
+   "title_en": "Japan's Education Ministry Seeks to Double Research Funding: Will It Strengthen R&D Competitiveness?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "文部科学省が来年度の予算編成に向けて、科学研究費助成事業（科研費）の予算を大幅に倍増させることを要求する方針を固めた。グローバルな研究競争の激化や人材育成の観点から、日本の研究開発力強化が急務と判断されたもの。実現すれば研究現場に大きな影響をもたらす可能性がある。"
+  },
+  {
+   "slug": "2026-08-23-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-24.html",
+   "title": "関東で震度5弱、40人超がけが 首都圏を襲った地震の被害状況は？",
+   "title_en": "Magnitude 5 Earthquake Strikes Kanto Region, Over 40 Injuries Reported",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "関東地方で震度5弱の地震が発生し、複数の県で40人を超える人的被害が報告されています。建物の損傷や交通への影響など、広範囲に及ぶ被害が確認されており、今後の余震警戒と被災地の支援体制が注視されています。"
+  },
+  {
+   "slug": "2026-08-23-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-23.html",
+   "title": "関東で震度5弱、なぜこんなに地震が多い？「地震の巣」の正体とは",
+   "title_en": "Magnitude 5.0 Quake Hits Kanto: Is This \"Earthquake Nest\" Set to Be More Active?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "関東地方で震度5弱の地震が発生。専門家は同地域が複数のプレートが交差する「地震の巣」であり、今後も地震活動が活発になる可能性があると指摘している。関東地域の地震メカニズムと今後の注意点について、識者の見解をまとめた。"
+  },
+  {
+   "slug": "2026-08-23-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-23-22.html",
+   "title": "特急事故で安全管理書類が押収される　何が問題だったのか？",
+   "title_en": "Express Train Accident Prompts Safety Document Investigation: What Went Wrong?",
+   "category": "国内",
+   "published": "2026-08-23",
+   "summary": "特急列車の事故に関連して、警察が鉄道事業者の安全管理に関する書類を押収した。事故の原因究明と安全管理体制の検証が進められている。業界全体の安全基準の徹底が改めて問われる形となっており、他の鉄道事業者にも波及する可能性が指摘されている。"
+  },
   {
    "slug": "2026-08-23-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-23-21.html",
