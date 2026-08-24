@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 609,
+ "count": 629,
  "articles": [
+  {
+   "slug": "2026-08-24-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-40.html",
+   "title": "4億円でミャクミャク像を建立へ…万博の寄付金の使い途がシュール過ぎるんだが",
+   "title_en": "Japan's Expo 2025 Gets Bizarre: ¥400 Million in Donations Turns Into a Massive Muckbuck Statue",
+   "category": "コラム",
+   "published": "2026-08-24",
+   "summary": "大阪・関西万博に寄せられた寄付金4億円が、万博マスコット『ミャクミャク』の像製作に充てられることが話題に。善意の寄付がキャラクター像に変身する事態に、ネット上では笑いと困惑が交錯している。万博の思い出を永遠に刻む試みなのか、それとも迷走なのか。"
+  },
+  {
+   "slug": "2026-08-24-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-39.html",
+   "title": "CSファイナルが7試合制に？特定条件下での異例の変更、何が起こるのか",
+   "title_en": "Is Japan's CS Final Heading to Seven Games? What's Behind This Historic Change?",
+   "category": "スポーツ",
+   "published": "2026-08-24",
+   "summary": "プロ野球のCSファイナルステージが特定の条件下において、従来の6試合制から7試合制に変更される。この措置は、セ・パ両リーグの優勝チームの組み合わせや日程上の制約など、限られた状況でのみ適用される見通し。野球界の長年の慣例を揺るがす変更として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-24-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-38.html",
+   "title": "新築戸建て買って団地に住む人増加中？不動産市場に異変",
+   "title_en": "Why Are Japanese Home Buyers Purchasing Houses But Living in Apartments?",
+   "category": "経済",
+   "published": "2026-08-24",
+   "summary": "従来とは異なる住宅購入トレンドが注目されている。新築の戸建て住宅を購入しながらも、実際には団地での生活を選択する層が増えているという。背景には、資産価値の維持、コミュニティ機能、維持管理の負担軽減など、従来の「戸建て=理想」という固定観念を覆す実利的なニーズがあるとみられる。人口減少社会における住宅選択の多様化が進んでいる。"
+  },
+  {
+   "slug": "2026-08-24-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-37.html",
+   "title": "サンマが『庶民の魚』でなくなる日？ 不漁と資源枯渇の悪循環、どう抜け出す",
+   "title_en": "Is Saury Becoming a Luxury Fish? The Unsustainable Cycle of Overfishing and Climate Change",
+   "category": "経済",
+   "published": "2026-08-24",
+   "summary": "サンマの高騰が続く背景には、太平洋での資源減少と漁獲量の低迷がある。温暖化による海流変化や国際的な漁獲圧の増加が指摘される中、日本の漁業関係者からは資源管理の強化と消費啓発を求める声が上がっている。秋の味覚の価格上昇は、単なる食卓の問題ではなく、海洋資源の持続可能性に関わる課題として浮上している。"
+  },
+  {
+   "slug": "2026-08-24-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-36.html",
+   "title": "ファミマがレジ端末刷新検討、何が変わる？導入で店員の負担は減るのか",
+   "title_en": "FamilyMart Eyes Register Overhaul: What's Changing and Will Cashiers Really Get a Break?",
+   "category": "経済",
+   "published": "2026-08-24",
+   "summary": "ファミリーマートがレジ端末システムの刷新を検討している。現在使用されている端末の老朽化や、セルフレジ化、キャッシュレス決済の急速な普及に対応する必要があるため。導入により店舗運営の効率化を目指す方針で、今後の詳細な計画が注目されている。"
+  },
+  {
+   "slug": "2026-08-24-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-35.html",
+   "title": "訪日客が払う出国税、クマ対策に使われるってマジ？",
+   "title_en": "Is Japan Actually Using Departure Tax Money for Bear Management?",
+   "category": "国内",
+   "published": "2026-08-24",
+   "summary": "政府が検討している出国税（国際観光旅客税）の使途拡大に関する方針が明らかになった。従来の観光インフラ整備に加え、野生動物対策、特にクマによる人身被害の防止事業に充てることが提案されている。訪日客から徴収した税金を地域の安全確保に活用する構想で、観光振興と地方課題の同時解決を狙ったものだ。"
+  },
+  {
+   "slug": "2026-08-24-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-34.html",
+   "title": "トランプ氏、カナダを猛批判「州の恩恵だけ欲しい」　貿易交渉決裂で何が起きているのか",
+   "title_en": "Trump Slams Canada for Wanting 'State Benefits Without Being a State' After Trade Talks Collapse",
+   "category": "国際",
+   "published": "2026-08-24",
+   "summary": "トランプ米大統領は、カナダとの貿易交渉が決裂した翌日、自身のソーシャルメディアでカナダを非難。「アメリカの州になることなく、州としての恩恵だけを求めている」とコメントした。両国間の経済関係が急速に冷え込み、対立が深まっている状況を示す発言となっている。"
+  },
+  {
+   "slug": "2026-08-24-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-33.html",
+   "title": "新首相、就任初外訪でウクライナへ。イギリスとEUが相次いで追加支援を発表",
+   "title_en": "UK's New PM Visits Kyiv on Maiden Foreign Trip as Britain and EU Announce Fresh Support",
+   "category": "国際",
+   "published": "2026-08-24",
+   "summary": "イギリスの新首相アンディ・バーナム氏が就任後初の外国訪問先にウクライナを選び、24日にキーウに到着した。列車で到着したバーナム首相はシビハ外相の出迎えを受け、ウクライナへの支援継続を改めて表明する方針。同日、欧州委員会もウクライナへの支援拡大を発表。ゼレンスキー大統領は独立記念日に際し、平和を望みながらも降伏しない姿勢を強調した。"
+  },
+  {
+   "slug": "2026-08-24-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-32.html",
+   "title": "イランが『攻撃重視』へ転換？中東情勢はどこへ向かう",
+   "title_en": "Is Iran Shifting to an Offensive Military Strategy? What It Means for the Middle East",
+   "category": "国際",
+   "published": "2026-08-24",
+   "summary": "イランが防御的な姿勢から攻撃的な対外政策へシフトしている兆候が見られています。地域内での軍事的影響力拡大や、周辺国との緊張関係の高まりなど、従来の戦略から大きな転換を示しており、中東の地政学的バランスに重要な変化をもたらす可能性があります。"
+  },
+  {
+   "slug": "2026-08-24-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-31.html",
+   "title": "ウクライナ首相が日本に期待する「迎撃弾」とは？防衛支援の新局面か",
+   "title_en": "What Does Ukraine's Request for Japanese Air Defense Missiles Really Mean?",
+   "category": "国際",
+   "published": "2026-08-24",
+   "summary": "ウクライナのシュミハリ首相が日本政府に対し、ロシアの攻撃から防御するための迎撃弾（防空ミサイル）の供与を期待する意向を示した。ウクライナはNATO諸国からの軍事支援を受けているが、日本の防衛装備品の供与に関心を寄せており、今後の国際支援の枠組みが拡大する可能性がある。"
+  },
+  {
+   "slug": "2026-08-24-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-30.html",
+   "title": "ロシアのウクライナ侵攻から4年半、戦禍はどこまで広がるのか",
+   "title_en": "Four and a Half Years into Russia's Ukraine Invasion: How Far Will the Conflict Spread?",
+   "category": "国際",
+   "published": "2026-08-24",
+   "summary": "ロシアによるウクライナ侵攻開始から4年半が経過し、戦闘は激化・拡大を続けている。両国の軍事的消耗は深刻化し、民間人の被害や難民問題も深刻化。国際社会では長期化への懸念が高まる一方で、終結の道筋は依然として見えない状況が続いている。"
+  },
+  {
+   "slug": "2026-08-24-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-29.html",
+   "title": "3歳娘を床に落として骨折させた20代母親を逮捕。なぜ親による虐待事件は後を絶たないのか",
+   "title_en": "Mother Arrested for Fracturing 3-Year-Old Daughter: Why Does Child Abuse by Parents Continue?",
+   "category": "国内",
+   "published": "2026-08-24",
+   "summary": "東京都内で今年3月、3歳の長女を床に落とす暴力を振るい足の骨を折る重傷を負わせたとして、20代の母親が警視庁に逮捕された。調べによると、子どもへの虐待と判断された。児童虐待は継続的に報告されており、深刻な社会課題となっている。"
+  },
+  {
+   "slug": "2026-08-24-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-28.html",
+   "title": "牛の培養肉、日本でついに試験生産開始へ　食の未来は変わるのか？",
+   "title_en": "Japan Launches Lab-Grown Beef Production: Will It Transform Our Food Future?",
+   "category": "経済",
+   "published": "2026-08-24",
+   "summary": "日本国内で牛の培養肉の試験生産がいよいよ始まることが明らかになった。動物細胞から肉を育成する技術で、従来の畜産と異なり飼育期間を大幅に短縮できるのが特徴。食糧問題や環境負荷の軽減が期待される一方、コスト削減や消費者の受け入れなど課題も多い。数年内の実用化を目指し、プロセス改善や規制整備が進められる見通し。"
+  },
+  {
+   "slug": "2026-08-24-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-27.html",
+   "title": "スズキ、ついに軽EVに参入！「eスカイ」が変える軽自動車市場",
+   "title_en": "Suzuki Finally Enters the Kei-EV Game with 'e-Sky': Will It Shake Up the Market?",
+   "category": "経済",
+   "published": "2026-08-24",
+   "summary": "スズキが初めての軽乗用電気自動車「eスカイ」を公開した。軽自動車市場で圧倒的なシェアを持つスズキが、EV化の波に乗り遅れまいと本格参入する。航続距離や価格帯などの詳細が注目される中、軽EVの普及がどこまで加速するかが業界全体の焦点となりそうだ。"
+  },
+  {
+   "slug": "2026-08-24-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-26.html",
+   "title": "瀬戸朝香が腰椎骨折で休養へ、女優の活動休止で何が変わる?",
+   "title_en": "Actress Asoka Seto Takes Break Due to Lumbar Fracture: What's Next?",
+   "category": "エンタメ",
+   "published": "2026-08-24",
+   "summary": "女優の瀬戸朝香が腰椎骨折のため活動休養を発表した。怪我の詳細な経緯は明らかにされていないが、医師の指示により当面の仕事を見合わせることになった。ファンからは回復を望む声が上がっており、業界内でも影響が注視されている状況。"
+  },
+  {
+   "slug": "2026-08-24-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-25.html",
+   "title": "売春防止法が大きく変わる？買う側も処罰対象になるかもしれない",
+   "title_en": "Japan May Change Prostitution Law: Clients Could Face Criminal Penalties",
+   "category": "国内",
+   "published": "2026-08-24",
+   "summary": "売春防止法の改正が検討されており、これまで処罰の対象外だった買う側（利用客）の勧誘行為も罰する方針が示されている。現行法では売春する側と仲介する側が処罰されてきたが、需要側への規制強化で違法な性サービス産業全体の抑止を狙うもの。実現すれば数十年ぶりの大きな法改正となる見通し。"
+  },
+  {
+   "slug": "2026-08-24-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-24.html",
+   "title": "西日本で危険な暑さが続出…猛暑日の連続で何が起きているのか？",
+   "title_en": "Dangerous Heat Wave Sweeps Western Japan—What's Behind This Extreme Temperature Surge?",
+   "category": "健康",
+   "published": "2026-08-24",
+   "summary": "西日本を中心に猛暑日が相次いでいる状況が報告されている。気象庁のデータによると、この時期としては異例の高気温が観測され、熱中症のリスクが急速に高まっている。地域によっては気温が40℃を超える地点も出ており、高齢者や屋外労働者への注意喚起が強化されている。水分補給と適切な休息の重要性が改めて強調されている。"
+  },
+  {
+   "slug": "2026-08-24-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-23.html",
+   "title": "クマとの衝突事故で運転手死亡 野生動物と交通事故の危険性が改めて浮き彫りに",
+   "title_en": "Fatal collision between bear and vehicle raises concerns about human-wildlife conflict in Japan",
+   "category": "国内",
+   "published": "2026-08-24",
+   "summary": "クマと乗用車が衝突する交通事故が発生し、運転手の男性が亡くなった。野生動物による交通事故は全国で増加傾向にあり、特に夜間や山間部での危険性が指摘されている。今回の事故を受けて、クマの生息域拡大と人間生活圏の接近という課題が再度注目を集めている。"
+  },
+  {
+   "slug": "2026-08-24-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-22.html",
+   "title": "居眠り運転の自動検知が義務化へ。あなたの車はどう変わる？",
+   "title_en": "Drowsy Driving Detection Going Mandatory: What Changes for Your Car?",
+   "category": "国内",
+   "published": "2026-08-24",
+   "summary": "政府が居眠り運転やわき見運転などの危険な運転状態を検知するシステムの搭載を自動車メーカーに義務づける方針を示した。交通事故の約70%が前方不注意が原因とされており、新型車から段階的に導入される見通し。ドライバーの疲労や注意散漫を検出し、警告を発することで重大事故の削減を目指す。"
+  },
+  {
+   "slug": "2026-08-24-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-24-21.html",
+   "title": "台風18号が沖縄直撃へ、影響いつまで続く？気象庁が警戒呼びかけ",
+   "title_en": "Typhoon 18 Heading to Okinawa: When Will Its Impact End? JMA Issues Severe Weather Alert",
+   "category": "国内",
+   "published": "2026-08-24",
+   "summary": "台風18号が沖縄地域に接近し、大きな影響をもたらす見込みとなっています。気象庁によると、暴風や大雨などの警戒が必要で、影響が長引く可能性があり、住民の安全確保と警戒が呼びかけられています。今後の進路や強度の変化に注視が必要な状況です。"
+  },
   {
    "slug": "2026-08-24-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-20.html",
