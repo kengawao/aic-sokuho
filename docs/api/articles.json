@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 629,
+ "count": 650,
  "articles": [
+  {
+   "slug": "2026-08-25-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-20.html",
+   "title": "ハーランド選手、長髪からの大変身！新シーズンは「イケメン短髪枠」へシフトか",
+   "title_en": "Haaland's Major Makeover: From Long Blonde Locks to Short Hair—What Does It Mean for Next Season?",
+   "category": "コラム",
+   "published": "2026-08-25",
+   "summary": "ノルウェー代表のスター選手ハーランド選手が、トレードマークだった長い金髪をばっさり短くしてしまった。これまで彼のシンボルだった長髪は多くのファンに認識されていただけに、この劇的なイメチェンは大きな話題に。新シーズンへの気合の表れなのか、それとも単なる気分転換なのか。選手のヘアスタイル変更ひとつで、これほどまでに注目が集まる現代スポーツの在り方を考えさせられます。"
+  },
+  {
+   "slug": "2026-08-25-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-19.html",
+   "title": "代表FW小川航基が町田に完全移籍、日本代表選手のJ2降格はなぜ起きた？",
+   "title_en": "Why Did Japan National Team Striker Choose J2? The Surprising Transfer of Kouki Ogawa to Machida",
+   "category": "スポーツ",
+   "published": "2026-08-25",
+   "summary": "日本代表経験を持つFW小川航基が、町田ゼルビアへの完全移籍が決定した。代表レベルの選手がJ2クラブへの移籍を選択することは珍しく、キャリア形成の判断、クラブの経営状況、本人の意志など複数の要因が絡む背景に注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-25-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-18.html",
+   "title": "ドローン報道のBERG、楽天店から撤退へ。ニッチメディアの生き残り戦略は？",
+   "title_en": "BERG Exits Rakuten Marketplace: Can Niche Drone Media Survive Platform Dependency?",
+   "category": "経済",
+   "published": "2026-08-25",
+   "summary": "ドローン関連のニッチ報道メディア「BERG」が、楽天市場での店舗運営を終了することが明らかになった。オンラインプラットフォーム依存からの脱却か、それとも経営難の兆候か。特定分野に特化したメディアビジネスの課題と今後の展開が注目される。"
+  },
+  {
+   "slug": "2026-08-25-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-17.html",
+   "title": "ロックバンド・SCANDALが23年の活動に幕、ギネス記録も達成していた",
+   "title_en": "Japanese Rock Band SCANDAL Concludes 23-Year Run with Guinness Record Achievement",
+   "category": "エンタメ",
+   "published": "2026-08-25",
+   "summary": "日本の女性ロックバンド・SCANDALが活動を終了した。バンドは2000年代から2020年代初頭にかけて音楽シーンで活躍し、その長期活動の実績がギネス記録として認定されていたことが明らかになった。23年という歩みの中で培われた音楽的遺産と、邦楽ロック史における彼女たちの位置付けが改めて注目されている。"
+  },
+  {
+   "slug": "2026-08-25-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-16.html",
+   "title": "金密輸の手口、なぜ次々と巧妙化？政府が審査強化に動く理由",
+   "title_en": "Gold Smuggling Gets Smarter—Can Japan's Customs Keep Up?",
+   "category": "国内",
+   "published": "2026-08-25",
+   "summary": "金の密輸事件が後を絶たない中、当局が摘発する手口がますます高度化している。金地金を細かく分散させたり、正規品に偽装したりするなど工夫を凝らした密輸が急増。これに対し政府は通関検査の強化や新たな追跡システムの導入を検討するなど、対策を強化する方針を示している。金の国際価格上昇に伴い、密輸の利益幅も拡大していることが背景にある。"
+  },
+  {
+   "slug": "2026-08-25-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-15.html",
+   "title": "智弁和歌山の新チームが初戦で敗れる　春季大会での課題が明らかに",
+   "title_en": "Chiben Wakayama's New Squad Stumbles in Spring Tournament Opener",
+   "category": "スポーツ",
+   "published": "2026-08-25",
+   "summary": "強豪校・智弁和歌山の新チームが春季大会の初戦で敗戦を喫した。新シーズンに向けて編成された新体制での初実戦となる今回の試合では、攻撃面と守備面での課題が浮き彫りになった。昨夏の大会メンバーからの世代交代による影響や、新エースの育成状況など、夏の選手権大会に向けた調整が急務となっている。"
+  },
+  {
+   "slug": "2026-08-25-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-14.html",
+   "title": "イラン系ハッカーがイギリスの発電所を襲撃、重要インフラ狙った『本気の攻撃』か",
+   "title_en": "Iran-Linked Hackers Strike UK Power Plant: Is Critical Infrastructure Now a Cyber Battlefield?",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "イギリスの小規模発電所が7月にサイバー攻撃を受け、一時的に操業を停止していたことが判明した。イランと関係があるハッカー集団の関与が指摘されている。イギリス政府の国家サイバーセキュリティーセンターは詳細を明かしていないが、基幹サービスへの大規模な影響はなかったとしている。重要インフラへの国家レベルのサイバー脅威が現実化した形だ。"
+  },
+  {
+   "slug": "2026-08-25-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-13.html",
+   "title": "ゼレンスキー大統領は汚職を知っていたのか？解任された前国防相がBBCで告発",
+   "title_en": "Did Zelenskyy Know About Corruption? Fired Defense Minister Breaks Silence to BBC",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "7月に解任されたウクライナのフェドロフ前国防相が、英BBCのインタビューでゼレンスキー大統領が政権内の汚職について質問されるべきだと主張した。前国防相は、戦時中であっても大統領選を実施すべきと訴えており、ウクライナの政治的混乱が深まっている実態が浮かび上がっている。"
+  },
+  {
+   "slug": "2026-08-25-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-12.html",
+   "title": "タイ南部で50件以上の爆発・放火が一気多発、軍が「組織的な騒乱」と発表",
+   "title_en": "Thailand's Military Reports 50+ Coordinated Bombings and Arson Attacks in Volatile Southern Region",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "タイ軍が23日に発表したところによると、反体制活動が活発な南部地域で組織的な放火や爆発事件が50件以上相次いでいるという。当局は社会不安を引き起こすことを目的とした計画的な行為だと指摘している。タイ南部は政情不安の地域として知られており、今回の多発事件は緊張の高まりを示している。"
+  },
+  {
+   "slug": "2026-08-25-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-11.html",
+   "title": "またイスラエルがシリア攻撃　3週間で2度目、民間車両も巻き込まれる",
+   "title_en": "Israel Strikes Syria Again in 3 Weeks, Civilian Vehicle Hit Near Damascus",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "イスラエル軍がシリアの首都ダマスカス南西部にあるベイト・ジン村を攻撃し、民間車両が直撃を受けて複数の負傷者が出た。シリア当局はこの攻撃を主権と国際法の侵害として非難。イスラエルは18日にもシリアの空軍基地を攻撃しており、短期間での相次ぐ軍事行動が緊張を高めている。"
+  },
+  {
+   "slug": "2026-08-25-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-10.html",
+   "title": "なぜ今？中国外相の韓国訪問、米国牽制の思惑か",
+   "title_en": "Why Now? China's Foreign Minister Visits South Korea Amid US Containment Concerns",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "中国の外相が韓国を訪問した背景には、米国を中心とした対中包囲網への危機感があるとみられている。米韓関係の強化やTHAAD配備など、中国にとって脅威となる動きに対抗する狙いがあり、外交的な揺さぶりをかけているものと分析される。"
+  },
+  {
+   "slug": "2026-08-25-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-9.html",
+   "title": "あなたのスマホが誘導している？ダークパターン規制が本格化へ",
+   "title_en": "Is Your Smartphone Manipulating You? Dark Patterns Face New Regulation in Japan",
+   "category": "IT",
+   "published": "2026-08-25",
+   "summary": "消費者を意図的に誘導する悪質な画面設計「ダークパターン」に対し、政府が規制強化の方針を打ち出した。アプリやウェブサイトで解約を困難にしたり、不要な購入を促したりする手法が問題視されており、消費者保護の観点から法整備が進められる見通しだ。"
+  },
+  {
+   "slug": "2026-08-25-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-8.html",
+   "title": "2027年5月に「うるう時間」導入？秒単位の時間調整が日常生活に影響する可能性",
+   "title_en": "What Is 'Leap Hour'? How Earth's Slowdown Will Change Timekeeping in 2027",
+   "category": "科学",
+   "published": "2026-08-25",
+   "summary": "現在の「うるう秒」に代わり、2027年5月から「うるう時間」の導入が国際的に議論されている。地球の自転周期のズレを調整するため、1時間まるごと足す仕組みになる予定で、GPS・金融システム・通信インフラなど現代社会の基盤に大きな影響を与える可能性がある。導入方法や各国への対応について検討が進められている。"
+  },
+  {
+   "slug": "2026-08-25-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-7.html",
+   "title": "台風18号、25日沖縄直撃へ 住宅倒壊級の猛烈な風のおそれ。あなたの地域は大丈夫？",
+   "title_en": "Typhoon 18 to hit Okinawa on the 25th: Risk of house-destroying winds. Is your area safe?",
+   "category": "国内",
+   "published": "2026-08-25",
+   "summary": "非常に強い台風18号が25日朝に沖縄県大東島地方に接近し、その後沖縄本島と奄美地方へと近づく予想です。26日にかけて、一部の住宅が倒壊するほどの猛烈な風が吹く恐れがあり、気象庁は事前の備えを呼びかけています。沖縄・奄美地方の住民に対して厳重な警戒が必要とされています。"
+  },
+  {
+   "slug": "2026-08-25-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-6.html",
+   "title": "フランスの猛暑で溺死300人超…なぜ水難事故が急増？",
+   "title_en": "France's Record Heat Wave Claims Over 300 Lives by Drowning — What's Going Wrong?",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "フランスを襲った記録的な猛暑により、溺死者が300人を超える事態となっている。急激な気温上昇で市民が水に入る機会が増える一方、体温調節機能の低下や予期しない事故が多発。特に高齢者や子どもの被害が懸念されており、各地の自治体が注意喚起と安全対策を強化している。欧州全体での熱波対策の重要性が改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-25-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-5.html",
+   "title": "黒後愛が涙の決断『海外挑戦します』バレー界の期待の星はなぜ今、海を渡るのか",
+   "title_en": "Volleyball Star Kurogoshita Ai Heads Overseas: What's Behind Her Tearful Decision to Leave Japan?",
+   "category": "スポーツ",
+   "published": "2026-08-25",
+   "summary": "バレーボール女子日本代表の黒後愛選手が海外挑戦を発表した。会見では感情をこらえきれず涙を流す場面も。国内での実績と経験を積んだ彼女が、新たなステージを目指す決断について、本人の想いと日本バレー界への影響が注目されている。"
+  },
+  {
+   "slug": "2026-08-25-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-4.html",
+   "title": "中国産白菜から発がん性物質？日本の食卓は大丈夫なのか",
+   "title_en": "Carcinogenic Substances Detected in Chinese Cabbage: What Does This Mean for Your Dinner Table?",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "中国で栽培された白菜から発がん性物質が検出された可能性があるとして調査が進められている。白菜は日常的な野菜として多くの家庭で消費されており、今後の調査結果が注視されている。日本への輸入品への影響や安全性確認の進捗が関心を集めている。"
+  },
+  {
+   "slug": "2026-08-25-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-3.html",
+   "title": "満島ひかり第1子出産「おめでとうございます」の声相次ぐ",
+   "title_en": "Actress Hikari Mitsushima Celebrates Birth of First Child",
+   "category": "エンタメ",
+   "published": "2026-08-25",
+   "summary": "俳優の満島ひかりが第1子を出産したことを発表した。所属事務所を通じての公式発表で、母子ともに健康という。満島は近年、映画やテレビドラマでの活躍が目立っており、ファンからは喜びの声が上がっている。"
+  },
+  {
+   "slug": "2026-08-25-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-2.html",
+   "title": "40℃超の酷暑日、熊本など九州地方で予想される　水分補給だけで大丈夫？",
+   "title_en": "Extreme Heat Alert: Will Over 40°C Days in Kumamoto Be Safe with Just Water?",
+   "category": "健康",
+   "published": "2026-08-25",
+   "summary": "25日、熊本県などで気温が40℃を超える酷暑日が予想されている。猛烈な熱波が日本列島を襲う見通しで、熱中症リスクが急速に高まる。外出時の対策強化や室内での冷房利用が強く推奨されており、特に高齢者や子どもへの注意喚起が続いている。"
+  },
+  {
+   "slug": "2026-08-25-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-1.html",
+   "title": "損保ジャパン5%値上げ決定、あなたの車保険はどうなる？",
+   "title_en": "Sompo Japan Raises Auto Insurance Premiums by 5%—What Does This Mean for You?",
+   "category": "経済",
+   "published": "2026-08-25",
+   "summary": "損保ジャパンが自動車保険の保険料を5%引き上げることを発表した。近年の自動車事故の増加傾向や修理費用の上昇、医療費インフレなどが値上げの主な理由とされている。この決定により、多くのドライバーの家計に影響が出ることが予想される。"
+  },
+  {
+   "slug": "2026-08-25-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-0.html",
+   "title": "カナダ車関税、米大統領が2倍引き上げ表明…日本車メーカーへの波及懸念も",
+   "title_en": "US to Double Tariffs on Canadian Vehicles: What Does It Mean for the Auto Industry?",
+   "category": "経済",
+   "published": "2026-08-25",
+   "summary": "米国の大統領がカナダからの自動車輸入に対する関税を現在の水準から2倍に引き上げることを表明した。これによりカナダの自動車産業に大きな打撃が予想される。日本を含む他国の自動車メーカーについても、北米での事業戦略の見直しを迫られる可能性がある。保護主義的な通商政策の強化が懸念される。"
+  },
   {
    "slug": "2026-08-24-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-24-40.html",
