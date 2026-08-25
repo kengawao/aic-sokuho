@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 651,
+ "count": 672,
  "articles": [
+  {
+   "slug": "2026-08-25-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-42.html",
+   "title": "なぜスイカジュースが日本で大流行？夏の必需品から飲料へ進化した理由",
+   "title_en": "Why Is Watermelon Juice Taking Over Japan? From Summer Snack to Trendy Beverage",
+   "category": "コラム",
+   "published": "2026-08-25",
+   "summary": "従来は夏の風物詩として食べるものだったスイカが、ジュースという新しい形態で日本市場で人気を集めている。健康志向の高まりや利便性、新しい消費スタイルの変化が背景にあるとみられている。コンビニやカフェでも取り扱いが増え、若い世代を中心に注目を集めているという動き。"
+  },
+  {
+   "slug": "2026-08-25-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-41.html",
+   "title": "アジア大会の急な日程変更、選手たちは何に困っているのか",
+   "title_en": "Why Are Asian Games Athletes Scrambling After Sudden Schedule Changes?",
+   "category": "スポーツ",
+   "published": "2026-08-25",
+   "summary": "アジア大会の日程が変更され、出場予定の選手たちが戸惑いを見せている。急な変更により、調整期間の短縮や遠征計画の組み直し、コンディション調整のやり直しなど、競技準備に支障が生じる懸念が指摘されている。組織委員会と選手団の間で情報共有のあり方が問題となっている。"
+  },
+  {
+   "slug": "2026-08-25-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-40.html",
+   "title": "26年版警察白書が冤罪事件に言及、大川原さんの件から何が見える？",
+   "title_en": "Japan's 2026 Police White Paper Addresses Wrongful Conviction: What Does It Reveal?",
+   "category": "国内",
+   "published": "2026-08-25",
+   "summary": "2026年版の警察白書が、過去の冤罪事件である大川原化工機事件に言及したことが明らかになった。警察組織が自らの過誤を公式文書で取り上げることは珍しく、冤罪防止への取り組み強化と捜査の透明性向上を示す動きと見られる。司法制度の改革機運が高まる中での重要な一歩となっている。"
+  },
+  {
+   "slug": "2026-08-25-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-39.html",
+   "title": "クマ撃退スプレー12製品を消費者庁が実測テスト…性能に「最大何倍の差」があったのか",
+   "title_en": "Bear Spray Showdown: Japanese Regulators Test 12 Products and Reveal Shocking Performance Gaps",
+   "category": "国内",
+   "published": "2026-08-25",
+   "summary": "消費者庁・環境省・国民生活センターが市販されているクマ撃退スプレー12製品の性能を共同調査し、噴射距離や継続時間に大きなばらつきがあることが判明した。同じ「クマ撃退スプレー」として販売されていても、実際の効果に製品間で顕著な差があることが、実験動画によって可視化された。登山やキャンプ利用者にとって、製品選びの重要性が浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-08-25-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-38.html",
+   "title": "成果を出す社員はAIをこう使ってた 実態調査で判明した活用法の違い",
+   "title_en": "High Performers Use AI Differently: What the Data Reveals About Success",
+   "category": "経済",
+   "published": "2026-08-25",
+   "summary": "企業内で実際に成果を上げている社員とそうでない社員のAI活用方法に違いがあることが分析で明らかになった。単なるツール導入ではなく、業務プロセスの設計段階からAIを組み込む思考や、既存業務との組み合わせ方が成功の鍵となっているという。経営層だけでなく現場レベルでのAI活用の工夫が競争力を左右する実態が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-25-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-37.html",
+   "title": "20年で4119万件の日程調整、「調整さん」がひっそり支えていた日本のスケジュール地獄",
+   "title_en": "Japan's Unsung Hero: How 'Chouseisan' Quietly Managed 41 Million Scheduling Tasks Over 20 Years",
+   "category": "IT",
+   "published": "2026-08-25",
+   "summary": "無料の日程調整ツール「調整さん」が、サービス開始から20年間で4119万件の日程調整を記録した。シンプルな機能で、会議やイベント、飲み会など様々な場面での利用が積み重なり、気づかぬうちに日本人の時間管理の一部となっていたことが明らかになった。"
+  },
+  {
+   "slug": "2026-08-25-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-36.html",
+   "title": "16歳未満のSNS禁止、ニュージーランドが法案提出へ。他国の対応は？",
+   "title_en": "New Zealand Bans Social Media for Under-16s: Will Other Nations Follow?",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "ニュージーランド政府が、16歳未満のソーシャルメディア利用を禁止する法案を議会に提出した。若年層のSNS利用による心理的悪影響やネット依存が懸念される中での大胆な規制政策。同国では青少年の福祉改善を目指す施策として推進されている。"
+  },
+  {
+   "slug": "2026-08-25-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-35.html",
+   "title": "海面水温が観測史上最高の21.1度に　エルニーニョ現象が加速、地球はどうなる？",
+   "title_en": "Global Sea Surface Temperature Hits Record High of 21.1°C Amid Strengthening El Niño",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "EUの気象情報機関が、世界の海面水温が22日に観測史上最高の21.1度に達したと発表しました。人間の活動による気候変動とともに、太平洋赤道域で発達するエルニーニョ現象が海水温上昇を加速させています。この異常な水温上昇が今後の気候や生態系に与える影響が懸念されています。"
+  },
+  {
+   "slug": "2026-08-25-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-34.html",
+   "title": "フランスにドラゴンボールのテーマパーク構想、なぜ欧州で日本アニメ施設が相次ぐ?",
+   "title_en": "Why Is France Building a Dragon Ball Theme Park? The Boom in Anime Attractions Across Europe",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "フランスでドラゴンボールをテーマにしたテーマパークの構想が進められていることが明らかになった。日本の人気漫画作品の世界観を実体験できる施設として計画されており、欧州での日本アニメ・漫画コンテンツの人気の高さを背景としている。近年、海外でのアニメ関連施設開発が加速している。"
+  },
+  {
+   "slug": "2026-08-25-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-33.html",
+   "title": "ウクライナ侵略4年半、欧州が結束を改めてアピール～分断の危機を乗り越えられるのか",
+   "title_en": "4.5 Years into Ukraine Invasion: Can Europe Maintain Its Unity Against Growing Pressures?",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "ロシアによるウクライナ侵略から4年半が経過する中、欧州諸国が一致団結する姿勢を示している。米国の政策変化やエネルギー問題など、欧州の結束を揺さぶる要因がある中での結束表明は、NATO各国やEU加盟国の危機感の表れとも言える。長期化する紛争への対応と欧州の統一戦線維持が課題となっている。"
+  },
+  {
+   "slug": "2026-08-25-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-32.html",
+   "title": "米がイランへの「経済的総攻撃」を発表、何が起きるのか？",
+   "title_en": "US Launches \"Economic Total Attack\" on Iran—What Does It Mean?",
+   "category": "国際",
+   "published": "2026-08-25",
+   "summary": "アメリカがイランに対して経済的な総攻撃を発表した。これは既存の経済制裁をさらに強化する措置とみられ、イランの金融システムやエネルギー産業など複数の経済部門が標的となる可能性がある。地域の情勢悪化と国際的な経済への影響が懸念されている。"
+  },
+  {
+   "slug": "2026-08-25-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-31.html",
+   "title": "学校の「サングラス禁止」ルール、なぜ今変わり始めたのか？",
+   "title_en": "Why Are Japanese Schools Finally Allowing Sunglasses? The Shift from 'Forbidden' to 'Recommended'",
+   "category": "国内",
+   "published": "2026-08-25",
+   "summary": "従来、学校の部活動や登校時にサングラスを禁止としてきた学校が、ルールを緩和する動きが広がっている。紫外線対策や眼病予防の観点から、医学的な必要性が認識されるようになったことが背景にある。ファッションと健康管理のバランスをどう取るかが、教育現場での新たな課題になっている。"
+  },
+  {
+   "slug": "2026-08-25-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-30.html",
+   "title": "外食市場の二極化が加速？高級志向と低価格競争、飲食業界はどこへ向かう",
+   "title_en": "Is Japan's Restaurant Industry Bifurcating? The Premium vs. Budget Divide Intensifies",
+   "category": "経済",
+   "published": "2026-08-25",
+   "summary": "外食産業において、高級化と大衆化の二つの流れが同時に進行している。コロナ禍からの回復局面で、消費者の選好が分化し、プレミアム路線を強化する企業がある一方で、コスト削減で低価格を追求する事業者も増加。市場全体の構造変化が起きており、業界関係者からは中間層の外食市場が厳しくなるとの声も聞かれている。"
+  },
+  {
+   "slug": "2026-08-25-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-29.html",
+   "title": "宅配業者への暴言・カスハラが急増、配送スタッフの悲鳴が止まらない",
+   "title_en": "Delivery Workers Under Siege: Rising Customer Harassment Threatens the Future of Logistics",
+   "category": "国内",
+   "published": "2026-08-25",
+   "summary": "宅配業者への暴言やカスタマーハラスメント（カスハラ）が深刻化している。配送遅延やトラブル時に利用者から過度な言動を受けるケースが増加しており、現場スタッフの労働環境が悪化。業界全体で対応の強化が急務となっている。"
+  },
+  {
+   "slug": "2026-08-25-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-28.html",
+   "title": "アニメ産業への政府支援、現場のクリエイターに届かない構図とは",
+   "title_en": "Why Government Anime Support Fails to Reach Creative Professionals",
+   "category": "エンタメ",
+   "published": "2026-08-25",
+   "summary": "政府がアニメ産業の振興に向けて支援策を打ち出しているにもかかわらず、実際のアニメ制作現場には支援の効果が十分に行き届いていない実態が明らかになった。予算配分の仕組みや申請手続きの複雑さなど、支援金がクリエイターまで到達しない構造的な問題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-25-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-27.html",
+   "title": "日航機墜落から50年、修理ミスの真実を国が初公表へ",
+   "title_en": "Japan Airlines Flight 123: Government to Disclose Details of Maintenance Error After 50 Years",
+   "category": "国内",
+   "published": "2026-08-25",
+   "summary": "1985年の日本航空123便墜落事故をめぐり、政府が事故につながった修理ミスの詳細を公表する方針を固めた。同事故は520人以上の死者を出した日本最大級の航空事故。長年謎とされていた修理不備の実態解明が進む見通し。遺族らからの情報公開要求の高まりを受けた対応となる。"
+  },
+  {
+   "slug": "2026-08-25-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-26.html",
+   "title": "政府の備蓄米放出が逆効果？米価暴落の意外な理由とは",
+   "title_en": "Government's Rice Stockpile Release Backfires: Why Prices Are Collapsing",
+   "category": "経済",
+   "published": "2026-08-25",
+   "summary": "米価高騰対策として政府が備蓄米を市場に放出したものの、期待に反して米価が暴落している。供給増加による単純な需給バランスの悪化に加え、市場心理の冷え込みや流通側の在庫調整が同時に進行。政策目標との乖離が指摘され、今後の農業政策のあり方が問われている。"
+  },
+  {
+   "slug": "2026-08-25-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-25.html",
+   "title": "競泳・本多灯被告に懲役1年求刑　五輪選手の転落、何があったのか",
+   "title_en": "Olympic Swimmer Akari Honda Faces One-Year Prison Sentence: What Led to This Fall from Grace?",
+   "category": "スポーツ",
+   "published": "2026-08-25",
+   "summary": "競泳の本多灯被告に対し、検察が懲役1年の求刑を行った。東京五輪に出場した著名な選手の刑事事件として注目を集めている。事件の詳細や背景について、社会的影響を含めた議論が広がっている。"
+  },
+  {
+   "slug": "2026-08-25-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-24.html",
+   "title": "木元ゆうこがS状結腸がん公表、なぜ若い世代の大腸がんが増えている?",
+   "title_en": "Japanese Actress Announces S-Shaped Colon Cancer: Why Are Younger Generations at Risk?",
+   "category": "エンタメ",
+   "published": "2026-08-25",
+   "summary": "俳優の木元ゆうこがS状結腸がんであることを公表した。診断を受けた経緯や現在の治療状況について言及している。大腸がんは従来は高齢層に多い疾患とされてきたが、近年は若い世代での発症事例が報告されており、医学界でも注目されている話題となっている。"
+  },
+  {
+   "slug": "2026-08-25-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-23.html",
+   "title": "猛暑で救急車が足りない？熱中症患者の急増が医療現場を圧迫",
+   "title_en": "Heat Exhaustion Crisis: Japanese Emergency Medical Services Strain Under Patient Surge",
+   "category": "健康",
+   "published": "2026-08-25",
+   "summary": "全国で熱中症患者が相次ぎ、救急医療体制が逼迫している状況が報じられた。気温上昇に伴い搬送件数が急増し、一部の医療機関では対応能力の限界に達しているとみられる。熱中症は予防が重要だが、すでに患者数が増加している段階での医療現場の負担増加が深刻化しているという課題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-25-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-25-22.html",
+   "title": "8月22日、海面水温が観測史上最高を更新…このままだとどうなる？",
+   "title_en": "World Ocean Surface Temperature Hits Record High on August 22 — What Happens Next?",
+   "category": "科学",
+   "published": "2026-08-25",
+   "summary": "8月22日に世界の海面水温が観測史上最高を記録した。地球規模での海水温上昇が加速しており、海洋生態系や気象パターンへの影響が懸念されている。この異常な高温は海流の変化や生物の大量死につながる可能性もあり、専門家は継続的な監視と対策の重要性を指摘している。"
+  },
   {
    "slug": "2026-08-25-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-21.html",
