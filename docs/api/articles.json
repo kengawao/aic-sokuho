@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 672,
+ "count": 692,
  "articles": [
+  {
+   "slug": "2026-08-26-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-19.html",
+   "title": "古田敦也氏が明かした中学時代のいじめ、プロ野球の名将は何を乗り越えたのか",
+   "title_en": "From Bullying Survivor to Baseball Legend: What Shaped Tsutomu Furuta's Philosophy?",
+   "category": "スポーツ",
+   "published": "2026-08-26",
+   "summary": "元ヤクルトスワローズ監督で現在野球解説者の古田敦也氏が、中学時代にいじめを受けていたことを明かし、その結果転校を余儀なくされたと述べた。プロ野球界を代表する指導者の過去の葛藤が明かされることで、スポーツ選手のメンタルヘルスや成長過程への関心が高まっている。"
+  },
+  {
+   "slug": "2026-08-26-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-18.html",
+   "title": "要介護の親と「最後の晩酌」を叶える店 介護と人生の選択肢を問い直す",
+   "title_en": "Bars for the Frail Elderly: Redefining Care and Quality of Life",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "介護が必要になった高齢者でも安心して飲食できる配慮を備えた飲食店が注目を集めている。要介護状態でも社会との繋がりや人生の楽しみを諦めないための取り組みとして、店員による見守り、車椅子対応、排泄サポートなど細やかなケアを実施。介護と自由、制限と自律のバランスについて問い直す事例として捉えられている。"
+  },
+  {
+   "slug": "2026-08-26-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-17.html",
+   "title": "10万匹に1匹の青いアマガエル、水族館で展示開始　色素異常の珍しい個体とは",
+   "title_en": "One in 100,000 Blue Poison Dart Frogs Now on Display—What Causes This Rare Color Mutation?",
+   "category": "科学",
+   "published": "2026-08-26",
+   "summary": "通常は緑色のアマガエルの中で、極めて稀な青い個体が水族館で公開されました。この青い色は色素異常によるもので、野生では生存率が低いとされています。専門家によると、このような色彩変異は遺伝的な要因や環境因子が関連しており、両生類の研究においても貴重な展示例となっています。"
+  },
+  {
+   "slug": "2026-08-26-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-16.html",
+   "title": "なぜ即席麺は3分なのか？意外と深い「3分」の秘密",
+   "title_en": "Why Instant Noodles Take 3 Minutes: The Hidden Science Behind a Global Standard",
+   "category": "経済",
+   "published": "2026-08-26",
+   "summary": "即席麺の調理時間が3分に統一されている理由が注目を集めている。メーカーの製品開発において、3分という時間は単なる偶然ではなく、麺の食感、スープの味わい、消費者の使いやすさなど複数の要因が最適化されたバランスポイントであることが明らかになりつつある。業界標準として定着した背景には、競争と消費者ニーズの進化がある。"
+  },
+  {
+   "slug": "2026-08-26-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-15.html",
+   "title": "明治の俳人・正岡子規に新出句2句 なぜ今になって発見されたのか",
+   "title_en": "Two Newly Discovered Poems by Masaoka Shiki: Why Are They Being Found Now?",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "明治時代の著名な俳人・正岡子規の新たな句が2句発見されたことが報じられました。子規の句は既に多くが研究され尽くされていると考えられていただけに、今回の発見は文学研究の世界でも注目を集めています。どのような経緯で新出句が見つかったのか、また子規の文学的価値にどのような影響を与えるのかが関心事となっています。"
+  },
+  {
+   "slug": "2026-08-26-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-14.html",
+   "title": "トランプvsカナダ、自動車関税戦争が本格化　報復の応酬で両国経済に悪影響か",
+   "title_en": "Trump vs. Canada: Auto Tariff War Escalates with Retaliation Threats",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "トランプ米大統領がカナダ製自動車への関税引き上げを表明し、米加貿易摩擦が急速に激化している。カナダのカーニー氏は報復措置を誓い、対立姿勢を鮮明にした。両国間の経済関係が悪化すれば、北米の産業サプライチェーンに深刻な影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-08-26-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-13.html",
+   "title": "高級デパート「ハロッズ」オーナーの性的暴行疑惑、20人以上の元従業員が証言　BBCの調査報道で明かされた闇",
+   "title_en": "Harrods Owner's Sexual Assault Allegations: Over 20 Former Employees Testify to Decades of Abuse Uncovered by BBC Investigation",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "ロンドンの高級デパート「ハロッズ」の故モハメド・アル・ファイド元オーナーによる性的暴行事件で、ロンドン警視庁が80代男性容疑者の書類を検察に送致した。BBCが2024年9月に放映したドキュメンタリーとポッドキャストで、元従業員の女性20人以上が同氏からのレイプや暴力被害を証言。長年の企業内での権力乱用の実態が浮かび上がった。"
+  },
+  {
+   "slug": "2026-08-26-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-12.html",
+   "title": "米国がイランに「史上最大の経済制裁」発動、イランは「準備万全」と反発",
+   "title_en": "US Imposes 'Largest Ever' Financial Sanctions on Iran; Tehran Insists It's Fully Prepared",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "アメリカのベセント財務長官は新たな経済制裁パッケージを発表し、これまでにない規模の金融攻勢をイランに対して開始することを明言した。同時に、イランを支援する国々への圧力も強化する構え。これに対しイラン側は、すでに拡大制裁に対抗するための2カ年計画を策定済みだと強調し、制裁への耐性があることをアピールしている。"
+  },
+  {
+   "slug": "2026-08-26-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-11.html",
+   "title": "イギリスがウクライナに巡航ミサイル製造技術を提供、戦況は本当に変わるのか",
+   "title_en": "Britain Gives Ukraine Cruise Missile Manufacturing Technology—Will It Really Change the War?",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "イギリス政府は、同国の巡航ミサイル「ストームシャドウ」とそのフランス版「スカルプ」に搭載されるイギリス製部品の設計図をウクライナに提供することを決定した。これにより、ウクライナは自国での製造が可能になる見通し。戦局への影響を巡り、専門家の間でも評価が分かれている。"
+  },
+  {
+   "slug": "2026-08-26-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-10.html",
+   "title": "ロシアの脅迫に屈しない？バーナム英首相がウクライナで見せた強気の姿勢、その真意は",
+   "title_en": "Why Did the UK PM Choose Ukraine as His First Official Visit? Inside Sunak's Bold Strategy",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "イギリスのバーナム首相が就任後初めてウクライナを公式訪問し、ロシアからの脅迫に屈しない方針を明言した。イギリスは今後もロシアへの圧力継続を誓い、ウクライナ支援の継続を約束。ロシアの威圧的な外交姿勢に対して毅然とした態度を示した形だ。"
+  },
+  {
+   "slug": "2026-08-26-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-9.html",
+   "title": "政府がAI企業に知財保護の指針を決定、今後のAI開発はどう変わる？",
+   "title_en": "Japan's Government Sets Guidelines for AI Firms' IP Protection—What Changes Ahead?",
+   "category": "IT",
+   "published": "2026-08-26",
+   "summary": "政府はAI事業者を対象とした知的財産権保護に関する指針を決定した。AIの急速な発展に伴い、学習データの著作権や開発企業の権利保護をめぐる課題が顕在化している。この指針により、AIモデルの開発・利用における知財トラブルの削減と、産業の健全な発展を促進することを目指しているとみられる。"
+  },
+  {
+   "slug": "2026-08-26-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-8.html",
+   "title": "台風18号が沖縄・奄美を直撃へ　レベル4危険警報が出ている地域も暴風の危機",
+   "title_en": "Typhoon No. 18 Barrels Toward Okinawa and Amami with Danger Level 4 Alerts Already Active",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "強い台風18号が鹿児島県の奄美地方と沖縄本島地方を暴風域に巻き込みながら西へ進行中。両地域では昼前にかけて暴風が予想されており、すでにレベル4の危険警報が発令されている地域も含まれている。今後の動きと被害拡大への懸念が高まっている。"
+  },
+  {
+   "slug": "2026-08-26-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-7.html",
+   "title": "バレー女子、決勝T進出決定！3連勝の勢いそのままで頂点目指す",
+   "title_en": "Japan Women's Volleyball Secures Final Tournament Spot with Third Consecutive Victory",
+   "category": "スポーツ",
+   "published": "2026-08-26",
+   "summary": "バレーボール女子代表が3連勝を達成し、決勝トーナメント進出を確定させた。好調な攻撃と安定した守備で相手を圧倒する試合ぶり。このまま勢いを保つことができれば、優勝への道も現実味を帯びてきた。チーム全体の結束力が高まっている中での大きな前進だ。"
+  },
+  {
+   "slug": "2026-08-26-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-6.html",
+   "title": "ABC小西アナ&大石アナが結婚報告　局内恋愛の行方は？",
+   "title_en": "ABC Announcers Konishi and Oishi Announce Marriage: What's Next for the Couple?",
+   "category": "エンタメ",
+   "published": "2026-08-26",
+   "summary": "朝日放送テレビのアナウンサーである小西と大石が結婚したことを報告した。同じ局で働く二人の恋愛は、業界関係者の間でも注目されていたという。今後の放送活動への影響や局内での人事配置について、視聴者からは様々な反応が寄せられている。"
+  },
+  {
+   "slug": "2026-08-26-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-5.html",
+   "title": "13年ぶり復活『救命病棟24時』懐かしドラマの令和版は視聴者を満足させられるのか",
+   "title_en": "Can 'Emergency Room 24 Hours' Win Over New Audiences in Its Return After 13 Years?",
+   "category": "エンタメ",
+   "published": "2026-08-26",
+   "summary": "人気医療ドラマ『救命病棟24時』が13年ぶりに復活することが明らかになった。2011年の最終放送から時を経て、現代版として新たに制作される見込み。当時を知る視聴者の期待と、新世代への訴求力がカギになると見られている。"
+  },
+  {
+   "slug": "2026-08-26-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-4.html",
+   "title": "コメ価格が急落、政府の備蓄米放出が裏目に？農家の悲鳴が聞こえる",
+   "title_en": "Rice Prices Plummet: Is Government's Stockpile Release Backfiring on Farmers?",
+   "category": "経済",
+   "published": "2026-08-26",
+   "summary": "コメ価格が大幅に下落している背景に、政府が進める備蓄米の市場放出が影響している可能性が指摘されている。供給過剰による価格下押しで、農家経営の圧迫が懸念される状況。市場安定化を狙った政策が、予期しない形で価格下降を招いている実態が明らかになった。"
+  },
+  {
+   "slug": "2026-08-26-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-3.html",
+   "title": "3児を失った悲劇から20年、母親が4児と歩み続ける理由とは",
+   "title_en": "20 Years After Losing Three Children in Accident, Mother Continues Forward with Four",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "交通事故により3人のお子さんを亡くされた母親が、20年経った今も4人のお子さんとともに生活を続けています。深刻な悲劇を経験しながらも、前に進もうとする姿勢と、残された家族との絆について報じられています。"
+  },
+  {
+   "slug": "2026-08-26-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-2.html",
+   "title": "新学期前に親が見落としやすい子どものSOS。どんなサインに気づくべき？",
+   "title_en": "Before the New School Term: What SOS Signs Should Parents Watch For?",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "新学期を控えた時期は、進学や環境変化によるストレスで、子どもが心身の不調を訴えることが増える。専門家は、登校渋りや睡眠障害、食欲低下などの行動変化を見逃さないよう警告。親が早期に気づくことが、いじめや不登校の予防につながるとされている。"
+  },
+  {
+   "slug": "2026-08-26-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-1.html",
+   "title": "患者が増える2か月前に下水で発見できる？百日せき流行を事前察知する新手法が話題に",
+   "title_en": "Can Sewage Testing Predict Whooping Cough Outbreaks 2 Months Early? Osaka University's Groundbreaking Discovery",
+   "category": "科学",
+   "published": "2026-08-26",
+   "summary": "大阪大学などの研究グループが、去年流行した百日せきについて下水に含まれる菌の遺伝子を継続調査したところ、実際の患者数増加の2か月以上前に流行の兆候が検出されることを発見しました。この手法は感染症の早期警戒システムとして活用される可能性が注目されています。"
+  },
+  {
+   "slug": "2026-08-26-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-0.html",
+   "title": "妊娠中期は『安定期』のはずが…暑さで早産リスク急増？東京科学大学の研究が警告",
+   "title_en": "Pregnancy in Summer Heat: Scientists Warn 'Stable Period' Isn't Risk-Free After Heat Exposure Linked to Early Labor",
+   "category": "健康",
+   "published": "2026-08-26",
+   "summary": "東京科学大学の研究グループが、妊娠中期に高温環境で過ごすと早産のリスクが高まることを明らかにしました。一般的に妊娠中期は『安定期』と呼ばれ、比較的安心な時期とされていますが、妊婦の体調管理には無理は禁物という指摘です。夏場の妊婦管理に新たな注意が必要になりそうです。"
+  },
   {
    "slug": "2026-08-25-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-25-42.html",
