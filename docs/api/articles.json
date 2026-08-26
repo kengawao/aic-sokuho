@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 693,
+ "count": 714,
  "articles": [
+  {
+   "slug": "2026-08-26-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-41.html",
+   "title": "長州小力が解雇に感謝？芸人の逆転発想に業界騒然",
+   "title_en": "Why Is This Japanese Comedian Thanking the Agency That Fired Him?",
+   "category": "コラム",
+   "published": "2026-08-26",
+   "summary": "お笑い芸人・長州小力が過去に所属事務所から解雇されたことについて、ポジティブなコメントを発表。失業危機をチャンスに変えた逆転劇として話題に。芸人人生における転機をどう捉えるか、前向きな姿勢が注目されている。"
+  },
+  {
+   "slug": "2026-08-26-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-40.html",
+   "title": "女子トイレに行列、男子は空いたまま　学校の「設備不足」は設計段階の課題か",
+   "title_en": "Long Lines at Girls' School Toilets While Boys' Rooms Stand Empty—A Design Standards Problem?",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "学校のトイレ使用に関し、女子トイレに行列ができる一方で男子トイレが余っている現象が報告されている。背景には便器数の設定基準が古い時代の設計に基づいていること、また生理用品交換など女性特有のニーズによる滞在時間の差が考えられる。建築基準法の設備基準見直しを求める声も出ており、学校施設の近代化が課題として浮上している。"
+  },
+  {
+   "slug": "2026-08-26-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-39.html",
+   "title": "マドンナのAIカバーが2位獲得→チャート除外へ　音楽業界に激震、「人間の創作とは何か」の問い",
+   "title_en": "AI-Made Madonna Cover Hits #2, Then Gets Banned From Charts: What Counts as Real Music?",
+   "category": "エンタメ",
+   "published": "2026-08-26",
+   "summary": "オーストラリアレコード産業協会が、AI制作楽曲をチャートから除外する方針を発表した。きっかけは、DJジョシュ・ファワズがAIで制作したマドンナ「ライク・ア・プレイヤー」のカバーが、ダンス・シングル・チャート1位、総合チャート2位に入ったこと。この決定は、音楽チャートにおける人間の創作活動の価値をどう定義するかという根本的な問題を浮き彫りにしている。"
+  },
+  {
+   "slug": "2026-08-26-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-38.html",
+   "title": "約100社が集結、「フィジカルAI」が次の産業革命？ ロボットが自律判断する時代がついに来た",
+   "title_en": "About 100 Companies Show Off 'Physical AI' – Are Self-Judging Robots the Next Industrial Revolution?",
+   "category": "IT",
+   "published": "2026-08-26",
+   "summary": "東京で開催されたAI関連の展示会に約100社が出展し、AIが自律的に判断してロボットや機械を制御する「フィジカルAI」が大きな注目を集めている。従来のAIが画像認識やデータ処理に留まっていたのに対し、フィジカルAIは物理世界での判断と行動を実現する技術として期待されており、製造業や物流、医療などでの応用が検討されている。"
+  },
+  {
+   "slug": "2026-08-26-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-37.html",
+   "title": "なぜ今、キッチンだけの店が急増？「ゴーストレストラン」の経営メリットとは",
+   "title_en": "Why 'Ghost Restaurants' Are Booming: The Economics Behind Invisible Dining",
+   "category": "経済",
+   "published": "2026-08-26",
+   "summary": "客席を持たずデリバリーやテイクアウトに特化した「ゴーストレストラン」が急速に増加している。従来の飲食店と異なり、店舗賃料や客席維持費を大幅削減できるビジネスモデルが、フードデリバリーサービスの普及により現実的になった。特に都市部で複数ブランドを同一キッチンで運営する事業者も登場し、外食産業の構造変化が進行中だ。"
+  },
+  {
+   "slug": "2026-08-26-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-36.html",
+   "title": "軽自動車の異端児ジムニー、なぜライバル車が生まれないのか？",
+   "title_en": "Why Does No One Make a Suzuki Jimny Competitor? The Economics Behind the Kei-Car Paradox",
+   "category": "経済",
+   "published": "2026-08-26",
+   "summary": "スズキのジムニーは軽自動車の枠を超えた悪路走破性で独自の地位を確立している。しかし他メーカーが同様の対抗車を開発しない背景には、採算性の課題と市場規模の限定性がある。ニッチながら熱狂的ファンを持つジムニーの成功が、なぜ競争を生まないのかを考察する。"
+  },
+  {
+   "slug": "2026-08-26-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-35.html",
+   "title": "中国産白菜の問題が韓国にも波及？アジア野菜市場で何が起きている",
+   "title_en": "What's Behind the Chinese Cabbage Controversy Now Affecting South Korea?",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "中国産白菜をめぐる問題が韓国にも影響を与えている。品質管理や流通過程での懸念事項が両国間で議論となっており、アジア地域の農産物貿易に波紋が広がっている。消費者の食品安全への関心が高まる中、各国の対応が注視されている。"
+  },
+  {
+   "slug": "2026-08-26-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-34.html",
+   "title": "カナダが米国に「同額返し」報復関税50%、トランプの関税戦争が激化",
+   "title_en": "Canada Fires Back With Up to 50% Retaliatory Tariffs on US Goods in Escalating Trade War",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "トランプ米大統領がカナダ製品に課した関税に対し、カナダが報復措置を発表した。アメリカが制裁対象としたカナダ製品と同一の品目に対して、最大50%の対抗関税を実施する予定。「同額返し」の原則に基づいた対抗策で、米加間の貿易摩擦がさらに深刻化する見通し。"
+  },
+  {
+   "slug": "2026-08-26-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-33.html",
+   "title": "米CIA長官がモスクワへ極秘訪問、予告なしで何を話し合った？",
+   "title_en": "CIA Chief Makes Surprise Moscow Visit: What Was Really Discussed?",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "米国中央情報局（CIA）のラトクリフ長官が25日、事前通知なしでロシアの首都モスクワを訪問し、秘密裏の会談を行ったと米メディアが報道した。詳細な会談内容は明かされていないが、米露関係が緊迫する中での異例の訪問として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-26-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-32.html",
+   "title": "CIA長官がモスクワへ？ロシアとの極秘接触が意味するものは",
+   "title_en": "Did CIA Chief Visit Moscow? What Secret Talks With Russia Could Mean",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "アメリカのCIA長官がモスクワを訪問したとの報道が浮上。訪問の詳細な目的は公開されていませんが、ロシアによるNATO加盟国への限定的な軍事攻撃の可能性についての警告や交渉の意図がある見方が出ています。米露間の水面下での重要な接触の可能性があります。"
+  },
+  {
+   "slug": "2026-08-26-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-31.html",
+   "title": "米CIA長官がモスクワ訪問、ウクライナ情勢の打開策を探る動き",
+   "title_en": "CIA Director's Moscow Visit: Behind-the-Scenes Push to Resolve Ukraine Crisis",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "米国のCIA長官がロシアを訪問し、ウクライナをめぐる情勢について協議したとみられている。米露間の直接対話は数年ぶりの可能性もあり、軍事紛争の長期化を背景に、何らかの交渉チャネルを模索する動きとして注目される。ただし詳細は明らかになっていない。"
+  },
+  {
+   "slug": "2026-08-26-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-30.html",
+   "title": "なぜ夏休み明けに？ひかりんちょが不登校、背景に何が",
+   "title_en": "Why Now? Popular YouTuber Hikarincho Stops Going to School After Summer Break",
+   "category": "エンタメ",
+   "published": "2026-08-26",
+   "summary": "人気YouTuberのひかりんちょが夏休み明けから不登校になっていることが明らかになった。活動再開のタイミングや理由については詳細が不明だが、SNS上では応援の声や心配する視聴者からの反応が相次いでいる。学業と配信活動の両立について、改めて議論が起きている。"
+  },
+  {
+   "slug": "2026-08-26-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-29.html",
+   "title": "AI カウンセラーは心の病を治せるのか？開発者が自ら警告する理由",
+   "title_en": "Can AI Counselors Really Heal? Why Developers Are Sounding the Alarm",
+   "category": "IT",
+   "published": "2026-08-26",
+   "summary": "メンタルヘルスケアの分野でAI活用が急速に進む中、その開発者たちが利用者に対して慎重な使用を呼びかけている。AIが提供するサポートには限界があり、深刻な心理状態には専門家による対面診療が不可欠だという指摘。技術の有用性と危険性のバランスをめぐる議論が活発化している。"
+  },
+  {
+   "slug": "2026-08-26-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-28.html",
+   "title": "ふるさと納税で赤字に転落した自治体が19も？制度設計の綻びが露呈",
+   "title_en": "Hometown Tax Return Program Pushes 19 Prefectures into Deficit—Systemic Cracks Widening",
+   "category": "経済",
+   "published": "2026-08-26",
+   "summary": "ふるさと納税制度により、19の都府県が税収減で赤字状態に陥っていることが明らかになった。寄付金の流出による税収減と返礼品コストの増加が自治体財政を圧迫している。高い返礼率の競争激化と、都市部から地方への資金移動の不均衡が問題化しており、制度の持続可能性が問われている。"
+  },
+  {
+   "slug": "2026-08-26-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-27.html",
+   "title": "保守層からの評価が急変？小泉防衛相、政界の評価軸が揺らぐ",
+   "title_en": "Koizumi as Defense Minister: Why Conservative Support Is Shifting",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "小泉防衛相に対する保守層からの評価が変わってきているという動きが注目されている。従来のポジションから異なる方針や発言が注視されており、保守派支持層の間でも意見が分かれ始めているとみられる。政治的立場の枠を超えた評価の多様化が起きている可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-26-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-26.html",
+   "title": "左右の足を間違えて手術、患者と和解成立…医療現場で何が起きているのか",
+   "title_en": "Wrong Leg Surgery: What Went Wrong in Japan's Healthcare System?",
+   "category": "国内",
+   "published": "2026-08-26",
+   "summary": "医療機関が患者の左右の足を取り違えて手術を実施するという重大な医療過誤が発生し、患者側との和解が成立した。このような明らかなミスがなぜ防げなかったのか、医療現場の安全管理体制や確認プロセスの問題が改めて問われている。患者の身体的・精神的負担は計り知れず、医療機関側の再発防止策が注視される。"
+  },
+  {
+   "slug": "2026-08-26-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-25.html",
+   "title": "ChatGPTが親露プロパガンダに悪用か？AIの『不正利用』問題が深刻化",
+   "title_en": "ChatGPT Weaponized: How AI-Generated Content Is Fueling Pro-Russia Disinformation",
+   "category": "IT",
+   "published": "2026-08-26",
+   "summary": "ChatGPTなどの生成AI技術が、ロシア寄りの世論操作に悪用されていることが明らかになった。AIを使って大量の説得力のある文章やコンテンツを自動生成し、SNSなどで組織的に拡散させるという新たな情報戦の脅威が指摘されている。AIの民主化と悪用のリスクが同時進行する中、対策の急務が焦点となっている。"
+  },
+  {
+   "slug": "2026-08-26-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-24.html",
+   "title": "10年不妊治療を続けた末に…「やめる」という決断がこんなに難しいとは",
+   "title_en": "After 10 Years of Infertility Treatment: Why Knowing When to Stop Is So Difficult",
+   "category": "健康",
+   "published": "2026-08-26",
+   "summary": "10年間の不妊治療を経験した人たちが直面する「やめどき」の問題が注目されている。身体的・経済的・心理的な負担が大きい中、いつ治療を終えるかの判断は極めて困難。医学的な根拠だけでなく、人生設計や家族関係など複雑な要因が絡み合い、夫婦間でも意見が分かれることが多いという実態が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-26-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-23.html",
+   "title": "TBS『VIVANT』がなぜ視聴率トップを独走？制作陣の戦略と視聴者ニーズの合致が鍵",
+   "title_en": "Why is 'VIVANT' Dominating Japan's TV Ratings? The Perfect Storm of Quality and Strategy",
+   "category": "エンタメ",
+   "published": "2026-08-26",
+   "summary": "TBS日曜劇場『VIVANT』が放送開始以来、視聴率でダントツの強さを見せている。国際的なストーリー展開、豪華キャスト、緻密な脚本が視聴者の心をつかみ、SNSでも話題を集め続けている。同枠の過去作品と比較しても異例の人気ぶりとなっており、テレビドラマの再評価につながる事例として注目されている。"
+  },
+  {
+   "slug": "2026-08-26-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-22.html",
+   "title": "イラン国営メディアがトランプ大統領の息子に対する脅迫映像を放送？米国の対応は",
+   "title_en": "Does Iran's State Media Threat to Trump's Son Signal Escalating US-Iran Tensions?",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "イランの国営メディアがアメリカのトランプ大統領の息子バロンさんの命を脅かすような映像を放送したと複数の米メディアが報道しました。大統領警護を担当するシークレットサービスは既にこの映像を把握しており、深刻な国家間の緊張が高まっている状況です。"
+  },
+  {
+   "slug": "2026-08-26-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-21.html",
+   "title": "イラン、トランプ氏の息子殺害を示唆か？ 中東情勢が緊迫化",
+   "title_en": "Iran Allegedly Hints at Killing Trump's Son Amid Escalating Tensions",
+   "category": "国際",
+   "published": "2026-08-26",
+   "summary": "イランの指導部がトランプ氏の息子に対する殺害を示唆する発言をしたとされている。これは米国とイランの関係が極度に悪化している背景を反映したもので、中東地域の緊張がさらに高まる可能性がある。国際社会からも懸念の声が上がっている。"
+  },
   {
    "slug": "2026-08-26-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-20.html",
