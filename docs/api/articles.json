@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 692,
+ "count": 693,
  "articles": [
+  {
+   "slug": "2026-08-26-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-26-20.html",
+   "title": "39kgのパンが点々と投棄される謎の事件、環境相も激怒「これは何ですか？」",
+   "title_en": "Mystery of 39kg of Bread Scattered Across Japan: Environmental Minister Denounces 'Outrageous' Waste",
+   "category": "コラム",
+   "published": "2026-08-26",
+   "summary": "全国各地でパン39kgが点々と投棄される事態が発生。環境相が強く非難するなど、社会問題として浮上している。食品ロスの象徴的事例として注目を集め、廃棄食品の処理方法や企業の責任について議論が高まっている。犯人の動機や背景は未だ謎に包まれたままだ。"
+  },
   {
    "slug": "2026-08-26-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-19.html",
