@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 714,
+ "count": 735,
  "articles": [
+  {
+   "slug": "2026-08-27-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-20.html",
+   "title": "ペンギン入りSuica、在庫限りで終了へ…推しペンギンを逃すな！",
+   "title_en": "Penguin Suica Ends: Don't Miss Your Favorite Before Stocks Run Out!",
+   "category": "コラム",
+   "published": "2026-08-27",
+   "summary": "JR東日本が販売していた「ペンギン入りSuica」が在庫限りで終了することが発表された。このかわいらしいデザインのSuicaは、ペンギン好きや交通系ICカード愛好家の間で人気を集めていたが、いよいよお別れの時が来た模様。推し活勢には衝撃のニュースとなりそうだ。"
+  },
+  {
+   "slug": "2026-08-27-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-19.html",
+   "title": "今年の台風は例年より多い？9-10月も油断禁止、気象庁の警告を読み解く",
+   "title_en": "Is 2024 Really a Typhoon-Heavy Year? What to Know About September and October Warnings",
+   "category": "国内",
+   "published": "2026-08-27",
+   "summary": "気象庁の予報によれば、2024年は台風の発生数が平年を上回る可能性が高いとされている。特に秋雨前線と台風の同時活動による大雨や暴風のリスクが指摘されており、9月から10月にかけて警戒が必要な時期が続く見通し。地域による被害パターンの違いや事前準備の重要性が改めて注目されている。"
+  },
+  {
+   "slug": "2026-08-27-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-18.html",
+   "title": "龍谷大硬式野球部が活動停止、何が起きた？関西の名門校に何が",
+   "title_en": "Ryukoku University Baseball Club Suspended: What Happened to This Kansai Powerhouse?",
+   "category": "スポーツ",
+   "published": "2026-08-27",
+   "summary": "龍谷大学の硬式野球部が活動を停止している。詳細な理由は報道では明確になっていないが、大学スポーツにおける不祥事や運営上の課題が背景にある可能性がある。関西の有力大学野球部の活動停止は、大学野球界全体に波紋を呼ぶ状況となっている。"
+  },
+  {
+   "slug": "2026-08-27-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-17.html",
+   "title": "浜岡原発で不適切手続きか――規制委の審査体制に問題はないのか",
+   "title_en": "Improper Procedures in Hamaoka Nuclear Plant Review: Is the Nuclear Regulation Authority's Oversight System Adequate?",
+   "category": "国内",
+   "published": "2026-08-27",
+   "summary": "中部電力の浜岡原発をめぐり、原子力規制委員会の審査過程で手続き上の不備が指摘されている。詳細は明らかになっていないが、適切な確認手順が踏まれていなかった可能性がある。原発の安全性審査は極めて重要なプロセスであり、今回の事態は規制委の体制や透明性についての懸念材料となっている。"
+  },
+  {
+   "slug": "2026-08-27-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-16.html",
+   "title": "GTA6流出動画はなぜ止められなかった？ロックスター・ゲームスが謝罪、セキュリティ体制に疑問の声",
+   "title_en": "How Did GTA6 Leak Happen? Rockstar Games Apologizes as Security Concerns Spread Across Industry",
+   "category": "IT",
+   "published": "2026-08-27",
+   "summary": "大型ゲームタイトル『グランド・セフト・オート6』の未公開ゲームプレイ動画がネット上に流出した事件で、開発元のロックスター・ゲームスが公式声明で謝罪。同社は流出経緯の調査を進める一方、ファンからはセキュリティ対策の不備を指摘する声が上がっている。業界内でも開発資料の管理体制が議論の焦点となっている。"
+  },
+  {
+   "slug": "2026-08-27-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-15.html",
+   "title": "折りたたみiPhone、2025年にも実現か？Appleが本気を出す理由",
+   "title_en": "Foldable iPhone Coming in 2025? Here's Why Apple Is Finally Making Its Move",
+   "category": "IT",
+   "published": "2026-08-27",
+   "summary": "Appleが折りたたみ式iPhoneの開発を進めており、iPhone 9または9 Plusとして発表される可能性が報じられている。サムスンのGalaxy Zシリーズなど競合他社の成功を受け、Appleもこのカテゴリーへの本格参入を検討。折りたたみディスプレイ技術の成熟化とコスト低下が、実現時期を近づけているとみられる。"
+  },
+  {
+   "slug": "2026-08-27-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-14.html",
+   "title": "ロシア2位の通販大手オゾン、ウクライナの大規模ドローン攻撃で倉庫被害—戦争が経済戦に？",
+   "title_en": "Ukraine Targets Russia's E-Commerce Giant Ozon With Drone Strikes—When Retail Becomes Warfare",
+   "category": "国際",
+   "published": "2026-08-27",
+   "summary": "ロシアの大手オンライン小売企業オゾンが、ウクライナによるドローン攻撃で複数の倉庫施設に被害を受けたと発表しました。ロシア国内のeコマース市場で2位の規模を持つオゾンへの攻撃は、ウクライナがロシアの経済インフラを標的とする戦術をエスカレートさせていることを示しています。物資の流通機能に直結する施設の破壊は、民間経済に深刻な影響を与える可能性があります。"
+  },
+  {
+   "slug": "2026-08-27-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-13.html",
+   "title": "パリにドラゴンボールテーマパーク建設へ、総事業費1兆1100億円の大型プロジェクト始動",
+   "title_en": "Dragon Ball Z Theme Park Coming to Paris: France and Saudi Arabia Announce $11.1 Billion Investment",
+   "category": "国際",
+   "published": "2026-08-27",
+   "summary": "フランスとサウジアラビアが共同で、パリ近郊に三つの大規模テーマパーク建設することで合意した。総事業費は60億ユーロ（約1兆1100億円）に上る。このプロジェクトには、日本の人気漫画「ドラゴンボール」を原作としたテレビアニメ「ドラゴンボールZ」をテーマにしたパークが含まれており、日本のポップカルチャーがヨーロッパで高い商業的価値を持つことを示している。"
+  },
+  {
+   "slug": "2026-08-27-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-12.html",
+   "title": "カントリー音楽の女王ドリー・パートン死去、80歳。トランプ大統領が全米で半旗掲揚を宣言",
+   "title_en": "Dolly Parton, Queen of Country Music, Passes Away at 80; Trump Orders Week-Long Flag Tribute",
+   "category": "国際",
+   "published": "2026-08-27",
+   "summary": "米カントリー歌手ドリー・パートンが8月25日に80歳で逝去した。「ジョリーン」「オールウェイズ・ラブ・ユー」などの代表曲で知られ、70年のキャリアでグラミー賞10度受賞、世界で1億枚以上のレコード販売、3000曲以上の作曲を成し遂げた音楽界の伝説。トランプ米大統領は追悼の意を示し、全米の国旗を8月25日夕から1週間にわたり半旗にすることを発表した。"
+  },
+  {
+   "slug": "2026-08-27-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-11.html",
+   "title": "パキスタンの病院で火災、新生児14人が犠牲に——医療施設の安全体制に問題か",
+   "title_en": "Hospital Fire in Pakistan Kills 14 Newborns — Is Healthcare Safety at Risk in South Asia?",
+   "category": "国際",
+   "published": "2026-08-27",
+   "summary": "パキスタンで新生児病棟の火災事故が発生し、14人の新生児が死亡した。火災の原因や施設の安全対策の詳細についての調査が進められている。南アジア地域では医療施設の火災事故が繰り返される傾向にあり、建物の構造や消防設備の整備が課題として指摘されている。"
+  },
+  {
+   "slug": "2026-08-27-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-10.html",
+   "title": "TikTok、ブラジルで47億円の罰金—なぜ世界中で規制が厳しくなるのか",
+   "title_en": "TikTok Faces $470 Million Fine in Brazil—What's Behind the Global Crackdown?",
+   "category": "国際",
+   "published": "2026-08-27",
+   "summary": "ショートビデオアプリのTikTokがブラジル当局から約47億円の罰金を命じられた。同国の規制当局がデータ保護やプラットフォーム運営に関する法令違反を指摘した形で、米国をはじめ各国でTikTokへの規制圧力が高まる中での処置となる。"
+  },
+  {
+   "slug": "2026-08-27-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-9.html",
+   "title": "女性と診断されても体に精巣がある？性分化疾患とは何か",
+   "title_en": "What is Differences in Sexual Development? The Case of Women Living with Testicular Tissue",
+   "category": "健康",
+   "published": "2026-08-27",
+   "summary": "性分化疾患により、女性として生活する患者が体内に精巣を持つケースがあることが報じられた。染色体や生殖器の発達が典型的なパターンと異なる疾患で、本人や周囲の予期しない検査結果によって発覚することも多い。医学的・心理社会的サポートの重要性が指摘されている。"
+  },
+  {
+   "slug": "2026-08-27-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-8.html",
+   "title": "ファミマの制服がTシャツに？業界初の挑戦、その狙いと反応は",
+   "title_en": "FamilyMart Takes the Plunge: Japan's First Convenience Store Chain Switches to T-Shirt Uniforms",
+   "category": "経済",
+   "published": "2026-08-27",
+   "summary": "ファミリーマートが制服を業界で初めてTシャツに変更することを発表しました。従来のポロシャツやシャツから、より動きやすく通気性に優れたTシャツへの切り替えにより、店員の作業効率化と快適性向上を目指しています。夏場の労働環境改善やSDGsへの対応も視野に入れた施策として注目されています。"
+  },
+  {
+   "slug": "2026-08-27-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-7.html",
+   "title": "セブン×ヤマト新サービス始動、荷物の受け取り方が変わる？",
+   "title_en": "Seven-Eleven and Yamaha Launch Self-Service Shipping: What's Changing?",
+   "category": "経済",
+   "published": "2026-08-27",
+   "summary": "セブン-イレブンとヤマト運輸が共同でセルフ発送機を発表した。この機械を使うことで、利用者は店員に頼らず自分で荷物の発送手続きを完結できるようになる見込み。利便性向上と業務効率化の両立を狙った取り組みとして注目されている。"
+  },
+  {
+   "slug": "2026-08-27-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-6.html",
+   "title": "NVIDIAが四半期最高益を更新、5-7月期の決算から見える次世代AIバブルの実態",
+   "title_en": "NVIDIA Smashes Quarterly Profit Record: AI Boom's Real Winner Revealed",
+   "category": "IT",
+   "published": "2026-08-27",
+   "summary": "AI関連企業の筆頭であるNVIDIAが5月から7月の四半期決算で過去最高の利益を更新した。生成AIの急速な普及に伴うGPU需要の高まりが同社の好業績を支えている。この決算結果は、AI産業全体の成長トレンドと市場の期待感を示す重要な指標となっている。"
+  },
+  {
+   "slug": "2026-08-27-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-5.html",
+   "title": "備蓄米の買い戻し、農水省が最終調整へ…余った米はどうなる?",
+   "title_en": "Japan's Government Rice Stockpile Buy-Back Plan: What Happens to Surplus Rice?",
+   "category": "経済",
+   "published": "2026-08-27",
+   "summary": "農林水産省が備蓄米の買い戻しに向けて最終調整を進めている。近年の米価変動への対応として、備蓄状況の最適化を図る施策とみられる。政府備蓄米の運用見直しにより、市場への影響や農家経営への波及効果が注目される。"
+  },
+  {
+   "slug": "2026-08-27-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-4.html",
+   "title": "マイナアプリが新版に？実は何が変わったのか",
+   "title_en": "New My Number App Rolled Out: What Actually Changed?",
+   "category": "IT",
+   "published": "2026-08-27",
+   "summary": "政府が新しいマイナンバーアプリの提供を開始しました。既存アプリの問題点を踏まえた改善版で、利便性やセキュリティ面での強化が図られています。今後、デジタル行政サービスの利用拡大に向けた重要なアップデートとなる見込みです。"
+  },
+  {
+   "slug": "2026-08-27-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-3.html",
+   "title": "9月1日から生活道路が時速30km制限に。あなたの通勤ルートはどう変わる?",
+   "title_en": "Speed Limit in Residential Areas Cut to 30 km/h Starting September 1: How Will Your Commute Change?",
+   "category": "国内",
+   "published": "2026-08-27",
+   "summary": "2024年9月1日より、生活道路における法定速度が時速30kmに引き下げられることが決定した。これまで時速40km地帯だった住宅街や商店街などが対象となる。歩行者や自転車利用者の安全性向上が狙いで、事故防止と交通死傷者の削減を目指す施策となっている。"
+  },
+  {
+   "slug": "2026-08-27-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-2.html",
+   "title": "学校でのカスハラ対策、国が初めて指針を策定へ 教員への暴言・クレーム急増で",
+   "title_en": "Japan Introduces First-Ever Anti-Harassment Guidelines for Schools Amid Surge in Parental Complaints Against Teachers",
+   "category": "国内",
+   "published": "2026-08-27",
+   "summary": "教員への迷惑行為や過度なクレームが問題化する中、政府が学校現場向けのカスハラ対策指針の策定に乗り出す。保護者からの不当な要求への対応方法や、教員を守るための仕組みを盛り込む予定。教育現場の働き方改革と児童生徒の学習環境確保の両立を目指す動きが加速している。"
+  },
+  {
+   "slug": "2026-08-27-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-1.html",
+   "title": "大雨のとき、あなたのその行動が命取りに。気象庁が警告するNG行動とは",
+   "title_en": "Heavy Rain Deaths Preventable: Understand the Dangerous Mistakes People Keep Making",
+   "category": "健康",
+   "published": "2026-08-27",
+   "summary": "台風やゲリラ豪雨などの大雨時には、パニックから無理な行動を取ってしまいがちです。気象庁や防災機関が注意を呼びかけているのが、危険性を軽視した行動パターン。冠水した道路の横断や、増水した河川への接近など、毎年多くの人が被害に遭っています。専門家は「少しの判断ミスが致命的になる」と指摘。正しい避難知識と冷静な判断が、自身と周囲の生命を守る鍵となります。"
+  },
+  {
+   "slug": "2026-08-27-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-27-0.html",
+   "title": "石川・富山に大雨特別警報、どうなる？地域住民の不安増す",
+   "title_en": "Heavy Rain Special Warning Issued for Ishikawa and Toyama - What Happens Next?",
+   "category": "国内",
+   "published": "2026-08-27",
+   "summary": "石川県と富山県に大雨に関する特別警報が発表された。この警報レベルは最高段階であり、深刻な災害が発生する可能性が高い状況を示している。住民への避難勧告や警戒が強化されており、今後の気象情報の確認が急務となっている。"
+  },
   {
    "slug": "2026-08-26-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-26-41.html",
