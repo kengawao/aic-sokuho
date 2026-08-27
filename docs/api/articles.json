@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 735,
+ "count": 736,
  "articles": [
+  {
+   "slug": "2026-08-28-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-28-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-28-0.html",
+   "title": "便器が真っ赤に…柏原収史の予想外の展開にネット騒然「何があった？」",
+   "title_en": "Actor Shushi Kashihara's Regret: When the Toilet Turned Bright Red",
+   "category": "コラム",
+   "published": "2026-08-28",
+   "summary": "俳優・柏原収史が某番組企画で体験した予想外のハプニング。便器が真っ赤に変色するという想定外の事態に直面し、本人も大後悔したという。詳細は明かされていないが、ネット上では「何が起きたんだ」「やばすぎる」と話題沸騰。日常の小さなトラブルが大事件に発展するという、誰もが経験しそうなのに恥ずかしすぎる出来事として注目を集めている。"
+  },
   {
    "slug": "2026-08-27-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-27-20.html",
