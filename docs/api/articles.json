@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 779,
+ "count": 800,
  "articles": [
+  {
+   "slug": "2026-08-29-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-21.html",
+   "title": "貧乏でも夢は止められない？市岡元気の「家庭苦しい」からの逆転劇がアツすぎる",
+   "title_en": "Can You Chase Dreams When Your Wallet Is Empty? Ichiaoka Genki's Inspiring Comeback Story",
+   "category": "コラム",
+   "published": "2026-08-29",
+   "summary": "経済的に恵まれない環境の中でも、夢を追い続ける市岡元気の姿勢が注目を集めている。家庭の事情で困難に直面しながらも、諦めずに前に進む様子は、多くの人に勇気を与えるストーリーとなっている。貧困と夢の葛藤の中での奮闘について取り上げる。"
+  },
+  {
+   "slug": "2026-08-29-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-20.html",
+   "title": "パラリンピック金メダリスト竹内智香さん、なぜ今エイブルの社外取締役に？",
+   "title_en": "Why Is Paralympic Gold Medalist Takehana Becoming an Outside Director at a Major Disability Employment Firm?",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "パラリンピックアルペンスキーで複数のメダルを獲得した竹内智香さんが、大手障害者雇用支援企業エイブルの社外取締役に就任することが発表された。アスリートから経営側へのキャリア転換により、障害者雇用や社会貢献の現場にどのような変化をもたらすかが注目される。"
+  },
+  {
+   "slug": "2026-08-29-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-19.html",
+   "title": "柔道元代表・増山、なぜモンゴル国籍に？日本代表としてのキャリアから転身の背景を読み解く",
+   "title_en": "Why Did Japanese Judo Champion Masuyama Switch to Mongolia? Exploring the Career Shift Beyond National Borders",
+   "category": "スポーツ",
+   "published": "2026-08-29",
+   "summary": "柔道の日本代表経験者である増山選手がモンゴル国籍を取得したことが明かされた。国籍変更の具体的な時期や理由については報道では詳らかにされていないが、柔道選手のキャリア形成において国籍取得は珍しくない事例。国際競技連盟の規則に基づき、選手は一定の条件下で異なる国を代表する道が開かれている。"
+  },
+  {
+   "slug": "2026-08-29-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-18.html",
+   "title": "NISAで資産を減らす人たちの共通点は？「非課税枠を埋めるため」の落とし穴",
+   "title_en": "Why Are Some NISA Investors Getting Poorer? The Pitfall of 'Maximizing Tax-Free Limits'",
+   "category": "経済",
+   "published": "2026-08-29",
+   "summary": "NISA制度を利用していながら資産を減らす投資家が増加しているという実態が報道されている。非課税というメリットに目がくらみ、十分な知識がないまま投資を始めたり、無理に非課税枠を埋めようとしたりすることが損失につながっているケースが多い。投資初心者がNISAの仕組みを誤解したまま運用している危険性が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-29-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-17.html",
+   "title": "Anthropic が AI機器の統一規格に動く、なぜいま業界標準化が急務なのか",
+   "title_en": "Anthropic Pushes for Unified AI Hardware Standards—Why Now?",
+   "category": "IT",
+   "published": "2026-08-29",
+   "summary": "AI開発企業の Anthropic が、AI システムと機器を接続するための標準規格の開発に乗り出すことが報じられた。異なるメーカー間での相互運用性を確保し、AI 導入の障壁を下げることが狙い。業界内での互換性問題が深刻化する中、標準化への取り組みが活発化している。"
+  },
+  {
+   "slug": "2026-08-29-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-16.html",
+   "title": "中国のヒト型ロボが本当に怖い理由、兵器化ではなく〇〇にあった",
+   "title_en": "Why Chinese Humanoid Robots Are a Real Threat—And It's Not What You Think",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "中国が急速に開発を進めるヒト型ロボットについて、軍事転用よりも深刻な脅威が存在するという指摘がある。製造業の空洞化、雇用喪失、産業構造の急激な転換など、経済・社会面での影響が各国にもたらされる可能性がある。特に発展途上国や先進国の製造業労働者への打撃は計り知れず、国家間の技術格差がそのまま経済格差に直結する危険性が論じられている。"
+  },
+  {
+   "slug": "2026-08-29-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-15.html",
+   "title": "トランプ大統領がオンタリオ湖を「アメリカ湖」に改称？カナダとの領土問題に発展する可能性",
+   "title_en": "Trump Orders Lake Ontario Renamed to 'America Lake'—Could This Spark a Border Dispute with Canada?",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "トランプ米大統領が27日、カナダとの国境に位置するオンタリオ湖の名称を「アメリカ湖」へ変更するよう指示する大統領令に署名した。オンタリオ湖はカナダとアメリカの両国にまたがる五大湖の一つで、この決定はカナダ側から強い反発が予想される。地名変更の正当性や国際法上の扱いについても議論が生じそうだ。"
+  },
+  {
+   "slug": "2026-08-29-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-14.html",
+   "title": "ボスニア虐殺の責任者ムラディッチ受刑者が獄中で死亡、30年近く続いた国際法廷での闘いに幕",
+   "title_en": "Ratko Mladic, Bosnian War Crimes Commander, Dies in Prison After Three Decades of International Justice",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "ボスニア・ヘルツェゴビナ内戦（1992～95年）でのジェノサイド罪に問われたセルビア人司令官ラトコ・ムラディッチ受刑者が、オランダ・ハーグの国連管理下の施設で死亡した。84歳。終身刑を受けており、旧ユーゴスラビア領土内の大量虐殺事件として国際社会で重大視されてきた。"
+  },
+  {
+   "slug": "2026-08-29-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-13.html",
+   "title": "東京発の航空機から遺体発見、なぜ車輪格納部に？マレーシア警察が調査開始",
+   "title_en": "Why Was a Body Found in Aircraft Landing Gear? Tokyo Flight Mystery Deepens",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "マレーシアの空港で、東京発の航空機の着陸装置格納部から男性の遺体が発見された。密航や事故など様々な可能性が考えられ、地元警察が死因や身元の特定を進めている。航空機の離着陸時に減圧・低温にさらされる極めて危険な環境での移動であり、極度の絶望的状況が推測される。"
+  },
+  {
+   "slug": "2026-08-29-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-12.html",
+   "title": "イラン攻撃から半年、泥沼化する中東情勢…終わりの見えない応酬の構図",
+   "title_en": "Six Months of Iran Tensions: Why Middle East Conflict Shows No Signs of Resolution",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "イランによる攻撃から半年が経過した現在も、中東地域の緊張は緩和される兆しが見えていない。報復と逆報復の悪循環が繰り返され、紛争の終結に向けた外交的な道筋が立たない状況が続いている。地域の安定化には国際社会の調停が急務となっている。"
+  },
+  {
+   "slug": "2026-08-29-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-11.html",
+   "title": "ノルウェー国王ハラルド5世が逝去、北欧王室に何をもたらすのか",
+   "title_en": "King Harald V of Norway Passes: What Comes Next for Nordic Royalty?",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "ノルウェーの国王ハラルド5世が亡くなられました。同国の王室は新しい時代へ向かうことになります。ハラルド5世は長年にわたりノルウェーを統治し、国民に慕われてきた君主でした。今後、王位継承に伴う様々な変化が予想されます。"
+  },
+  {
+   "slug": "2026-08-29-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-10.html",
+   "title": "熊本地震から1ヶ月、5万棟超の住宅被害 なぜ災害関連死が多発するのか",
+   "title_en": "One Month After Kumamoto Earthquake: Over 50,000 Homes Damaged - Can We Prevent Disaster-Related Deaths?",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "熊本県で発生した最大震度7の地震から1ヶ月。住宅被害は5万棟を超え、現在も約2400人が避難所生活を余儀なくされている。さらに車中泊や損傷家屋での生活を続ける被災者も多く、疲労とストレスによる災害関連死の懸念が高まっている。生活再建と健康管理が急務となっている。"
+  },
+  {
+   "slug": "2026-08-29-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-9.html",
+   "title": "福田沙紀が結婚発表、相手は誰？ファンから驚きの声",
+   "title_en": "Actress Saki Fukuda Announces Marriage – Who's the Lucky Guy?",
+   "category": "エンタメ",
+   "published": "2026-08-29",
+   "summary": "人気俳優の福田沙紀が結婚を発表した。詳細な相手情報や結婚時期については現在確認中だが、SNSを中心にファンから多くの反応が上がっている。福田沙紀は数々のドラマや映画で活躍してきた実力派俳優であり、この発表は芸能界でも注目を集めている。"
+  },
+  {
+   "slug": "2026-08-29-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-8.html",
+   "title": "1カ月で15兆円超の為替介入、円相場を守るための最終手段か",
+   "title_en": "Japan's 15 Trillion Yen Forex Intervention in One Month: Last Stand Against the Yen's Collapse?",
+   "category": "経済",
+   "published": "2026-08-29",
+   "summary": "財務省が1カ月間に15兆円を超える為替介入を実施したことが明らかになりました。急速に進む円安への対抗措置として、日本政府が過去に例を見ない規模での市場介入に踏み切った形。円の過度な下落を防ぎ、輸入物価の上昇による国民生活への影響を抑える狙いがあるとみられます。"
+  },
+  {
+   "slug": "2026-08-29-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-7.html",
+   "title": "横浜市長がパワハラで辞職…10月までに選挙、各党の思惑は？",
+   "title_en": "Yokohama Mayor's Resignation Over Harassment: What Happens Next in October's Election?",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "横浜市の山中竹春市長がパワハラ行為を認定されたことを受け、28日に辞職届を提出しました。これにより、ことし10月までに次の市長選挙が実施されることになります。前回の選挙で山中市長を支援した各政党は、急速に次期市長選に向けた選挙準備を加速させています。職員への不適切な対応が辞職という形で決着を迎えることになった形です。"
+  },
+  {
+   "slug": "2026-08-29-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-6.html",
+   "title": "イエローハット180万人分の個人情報漏えい判明、あなたも被害者かもしれない",
+   "title_en": "Yellow Hat's Major Data Breach: 1.8 Million Customer Records Exposed",
+   "category": "経済",
+   "published": "2026-08-29",
+   "summary": "カー用品大手のイエローハットで、顧客180万人分の個人情報漏えいが判明した。顧客の氏名、住所、電話番号などが外部に流出した可能性があるという。同社は原因究明を進めるとともに、影響を受けた顧客への通知と対応を進めている。"
+  },
+  {
+   "slug": "2026-08-29-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-5.html",
+   "title": "飲酒運転で2児を失った親たちの後悔 『その泣き声が忘れられない』",
+   "title_en": "The Unbearable Loss: How Drunk Driving Destroys Families",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "飲酒運転による悲劇的な交通事故で、2人のお子さんを失ったご遺族の声をまとめたニュース。被害者家族が抱える深刻な心理的創傷や、事故の代償の大きさを伝える報道。飲酒運転撲滅への強いメッセージが込められている。"
+  },
+  {
+   "slug": "2026-08-29-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-4.html",
+   "title": "インフル全国流行入り、厚労省が警戒宣言 この冬の感染対策は何が必要？",
+   "title_en": "Flu Season Declared Nationwide in Japan—What Precautions Do You Need This Winter?",
+   "category": "健康",
+   "published": "2026-08-29",
+   "summary": "厚生労働省がインフルエンザの全国流行入りを宣言した。例年より早い流行開始となっており、医療機関への負担増が懸念されている。ワクチン接種やマスク着用、手洗いなどの基本的な予防対策の徹底が呼びかけられている。今後の感染動向に注視が必要な状況だ。"
+  },
+  {
+   "slug": "2026-08-29-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-3.html",
+   "title": "出生数11年ぶり増加、少子化は本当に止まるのか？",
+   "title_en": "Japan's Birth Rate Rises for First Time in 11 Years—Can It Reverse the Decline?",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "今年の上半期における出生数が11年ぶりに増加したことが明らかになった。長年続く少子化トレンドに対し、初めてのプラスの転機となる可能性が注目されている。政策効果や社会環境の変化が要因として考えられており、今後の人口動態がどう推移するかが焦点となっている。"
+  },
+  {
+   "slug": "2026-08-29-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-2.html",
+   "title": "サンドウィッチマン伊達みきおが脳梗塞で休養へ。お笑い界に衝撃走る",
+   "title_en": "Sandwich Man's Date Mikio Takes Leave Due to Stroke Diagnosis",
+   "category": "エンタメ",
+   "published": "2026-08-29",
+   "summary": "人気お笑いコンビ「サンドウィッチマン」の伊達みきおさんが脳梗塞と診断され、当面の間休養することが所属事務所から発表されました。伊達さんは同コンビの主なボケ担当として活躍していたため、テレビ出演やライブなど今後の活動に影響が出る可能性があります。"
+  },
+  {
+   "slug": "2026-08-29-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-1.html",
+   "title": "ネパール側で1900人以上が行方不明、日本人5人も連絡取れず…ネパール・中国国境の土石流で586人死亡",
+   "title_en": "Over 1,900 Missing in Nepal After Devastating Landslide; 5 Japanese Nationals Among Those Unaccounted For",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "ネパールと中国の国境地帯で今月26日に発生した大規模な土石流により、両国合わせて586人の死亡が確認された。特にネパール側での被害が深刻で、1900人以上が行方不明となっている。邦人5人も含まれており、現地での捜索活動が急ピッチで進められている状況。土石流の原因や正確な被害規模の把握にはなお時間がかかる見込み。"
+  },
   {
    "slug": "2026-08-29-0",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-0.html",
