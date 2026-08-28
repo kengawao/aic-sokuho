@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 778,
+ "count": 779,
  "articles": [
+  {
+   "slug": "2026-08-29-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-0.html",
+   "title": "63年間、氷河に眠っていたバックパック。持ち主に返った時、中身はどうなってた？",
+   "title_en": "Lost Backpack Reunites with Owner After 63 Years in Glacier: But What About the Contents?",
+   "category": "コラム",
+   "published": "2026-08-29",
+   "summary": "氷河に埋もれていたバックパックが63年ぶりに発見され、持ち主に返却されるという感動的なニュース。長年の時を経て氷河が融解し、失われたと思われていた荷物が姿を現した。持ち主の再会の様子や、中身の状態など、氷河とロマンが詰まったストーリーが話題になっている。"
+  },
   {
    "slug": "2026-08-28-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-28-42.html",
