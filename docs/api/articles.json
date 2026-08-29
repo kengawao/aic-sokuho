@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 822,
+ "count": 842,
  "articles": [
+  {
+   "slug": "2026-08-29-63",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-63.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-63.html",
+   "title": "牛が線路に迷い込んで列車が80分停止？まさかの「駅弁ならぬ線路牛」事件",
+   "title_en": "A Cow on the Tracks Halted a Train for 80 Minutes—When Nature Meets the Railway",
+   "category": "コラム",
+   "published": "2026-08-29",
+   "summary": "線路に迷い込んだ牛のために、列車の運行が80分間も停止するというほのぼの事件が発生。駅員や関係者が牛を安全に誘導するまでの間、乗客はもちろん牛本人も大変な思いをしたと考えられます。日本の交通機関の安全性の高さと、予期せぬアクシデントの多様性が同時に伝わる一件です。"
+  },
+  {
+   "slug": "2026-08-29-62",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-62.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-62.html",
+   "title": "元プロ野球選手がボディビルで第二の人生？引退後の進路選択の実態",
+   "title_en": "Ex-Baseball Players Find New Glory in Bodybuilding: Inside Their Second Act",
+   "category": "スポーツ",
+   "published": "2026-08-29",
+   "summary": "プロ野球からの引退後、ボディビルディングという異なる競技分野へ転身する選手たちの動向が注目されている。野球で培われた身体管理能力や競争心、そして年齢とともに衰える活動の場を求める心理が、この転身を促している。栄養管理や筋肉構築の専門知識を要するボディビルは、野球とは全く異なるフィジカルアプローチが必要となる。引退選手たちの新たなチャレンジの実態と、その先にある課題が浮かび上がってくる。"
+  },
+  {
+   "slug": "2026-08-29-61",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-61.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-61.html",
+   "title": "プロテイン市場が沸騰中、なぜ今値上げしても売れ続けるのか？",
+   "title_en": "Why Does the Protein Market Keep Growing Despite Price Hikes?",
+   "category": "経済",
+   "published": "2026-08-29",
+   "summary": "フィットネスブームの拡大に伴い、プロテイン製品への需要が急増している。供給が追いつかない状況下で、各メーカーは相次いで価格を引き上げている。消費者の健康志向の高まりやSNSでの情報拡散により、従来のアスリート層だけでなく一般ユーザーまで購買層が広がっており、値上げ後も販売が好調を続けているという。"
+  },
+  {
+   "slug": "2026-08-29-60",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-60.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-60.html",
+   "title": "松浦勝人がAI活用のnoteで高評価を得ている理由 音楽業界人が注目する背景とは",
+   "title_en": "Why Is Avex Chairman Matsuuras AI-Powered Note Gaining Industry Attention?",
+   "category": "エンタメ",
+   "published": "2026-08-29",
+   "summary": "エイベックス会長の松浦勝人氏がnoteで発信するコンテンツが、AI活用という先進的なアプローチで業界内外から評価を集めている。音楽業界のトップランナーがAIを自らの発信手段に組み込むことで、デジタル時代の経営哲学や業界展望が明確に伝わると指摘される。従来のメディア発表とは異なる、より個人的で創造的な情報発信スタイルが支持されている。"
+  },
+  {
+   "slug": "2026-08-29-59",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-59.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-59.html",
+   "title": "徳川慶喜の子孫が決断した「家じまい」とは？400年続いた名門家の終焉",
+   "title_en": "Why Is the Tokugawa Yoshinobu Family Ending 400 Years of History?",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "江戸幕府最後の将軍・徳川慶喜の家系である徳川慶喜家の5代目当主が、家系の継続ではなく「家じまい」を選択する意向を示した。歴史ある名門家の後継者問題と現代における家族継承のあり方が改めて問われる事例として注目されている。"
+  },
+  {
+   "slug": "2026-08-29-58",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-58.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-58.html",
+   "title": "伝説の怪優ティム・カリーさん死去、80歳　「ロッキー・ホラー・ショー」の衝撃的な演技は今も色褪せず",
+   "title_en": "Legend Tim Curry Passes Away at 80—His Unforgettable \"Rocky Horror\" Performance Lives On",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "ミュージカル映画「ロッキー・ホラー・ショー」でフランク・N・フルター博士を演じたイギリスの俳優ティム・カリーさんが25日に亡くなった。80歳だった。彼はこの作品をはじめ、ホラー映画「IT」など多くの作品で個性的で奇抜なキャラクターを演じ、世界中に熱心なファンを持つ伝説的な演技者として知られていた。その独特の存在感は映画史に大きな足跡を残している。"
+  },
+  {
+   "slug": "2026-08-29-57",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-57.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-57.html",
+   "title": "なぜスペインの飛び地セウタは「火薬庫」化したのか？1ヶ月で急増する暴力事件",
+   "title_en": "Why Has Spain's Ceuta Enclave Become a Powder Keg? Violence Surges One Month Into Migration Crisis",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "北アフリカに位置するスペインの飛び地セウタに数万人の移民が流入してから約1ヶ月。地元住民と移民の間で深刻な緊張が高まり、暴力事件が相次いでいる。反移民デモも増加する中、スペイン政府は危機管理の不備を野党から厳しく指摘されている。住民からは身の危険への不安と公共サービス負担の増加に対する懸念が上がっている。"
+  },
+  {
+   "slug": "2026-08-29-56",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-56.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-56.html",
+   "title": "ノルウェー新国王ホーコン8世が即位、愛された前国王ハーラル5世の遺志を受け継ぐ",
+   "title_en": "Norway's New King Harald VIII Ascends Throne, Inheriting Late King Harald V's Legacy",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "ノルウェー国王ハーラル5世が28日に崩御し、長男のホーコン8世が新国王として即位した。53歳の新国王は同日、政府閣僚との会議を開催。王室の伝統的モットーである「すべてはノルウェーのために」を新体制でも引き継ぐ方針を表明した。国民から厚い信頼を寄せられていたハーラル5世の逝去に対し、ノルウェー全土で服喪の日々が続いている。"
+  },
+  {
+   "slug": "2026-08-29-55",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-55.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-55.html",
+   "title": "ウクライナ、ロシアに1日1000機の無人機を投入へ　ドローン戦争はどこまでエスカレートする？",
+   "title_en": "Ukraine to Deploy 1,000 Drones Daily Against Russia: How Far Will Drone Warfare Escalate?",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "ウクライナがロシアに対して1日あたり1000機規模の無人機を投入する計画を明かした。ドローン技術の急速な進化により、従来の戦闘方法が大きく変わりつつある。この大規模な無人機作戦は、現代戦争の形態を象徴するものとなっており、国際社会での技術競争と軍事戦略の転換を示している。"
+  },
+  {
+   "slug": "2026-08-29-54",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-54.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-54.html",
+   "title": "ドイツ右派AfDの新公約がナチス連想させる？欧州で警戒強まる",
+   "title_en": "German far-right AfD's new proposals spark Nazi-era concerns across Europe",
+   "category": "国際",
+   "published": "2026-08-29",
+   "summary": "ドイツの右派政党AfD（ドイツのための選択肢）が発表した公約内容がナチス時代を想起させるとして、国内外で批判が高まっている。移民政策や歴史認識に関する提案が物議を醸しており、欧州各国からも懸念の声が上がっている状況だ。"
+  },
+  {
+   "slug": "2026-08-29-53",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-53.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-53.html",
+   "title": "日本女子バレーが準決勝で敗退、ロス五輪出場権逃す　タイに1-3で完敗",
+   "title_en": "Japan's Women's Volleyball Team Eliminated: Loses to Thailand, Misses LA Olympics Qualification",
+   "category": "スポーツ",
+   "published": "2026-08-29",
+   "summary": "バレーボール日本女子がアジア選手権の準決勝でタイに敗れ、ロサンゼルスオリンピック出場権の獲得に失敗しました。セットカウント1対3での敗戦となり、この大会での五輪出場権獲得はならず。日本代表は別の枠での五輪出場を目指すことになります。"
+  },
+  {
+   "slug": "2026-08-29-52",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-52.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-52.html",
+   "title": "6秒で2億円盗む　高級時計窃盗犯の驚異的な手口とは",
+   "title_en": "From Heist to Arrest: How Thieves Stole 200 Million Yen in Just 6 Seconds",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "東京・中野区の時計店から高級腕時計4本（計約2億円相当）を盗んだとして、チリ国籍の容疑者2人が逮捭された事件で、警視庁が防犯カメラ映像を詳しく解析した結果、わずか6秒間という短時間で盗難を実行していたことが判明した。組織的で極めて効率的な犯行の全貌が徐々に明らかになっている。"
+  },
+  {
+   "slug": "2026-08-29-51",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-51.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-51.html",
+   "title": "病気と気づかず我慢している人が大勢？社交不安症の見落とされた症状とは",
+   "title_en": "More People Than You Think Suffer From Social Anxiety Disorder Without Realizing It",
+   "category": "健康",
+   "published": "2026-08-29",
+   "summary": "人前で話すときの緊張は誰もが経験するものだが、社交不安症はそれを大きく超える精神疾患である。患者本人が病気だと認識していないケースが多く、単なる性格の問題や気の弱さと勘違いされやすい。適切な診断と治療を受けることで症状は改善可能だが、多くの患者が悩みを抱え続けているのが現状だ。"
+  },
+  {
+   "slug": "2026-08-29-50",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-50.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-50.html",
+   "title": "錦織圭を下した20歳・坂本怜の正体は？ 日本テニス界の新星",
+   "title_en": "Who is Satoshi Sakamoto? The 20-Year-Old Rising Star Who Defeated Kei Nishikori",
+   "category": "スポーツ",
+   "published": "2026-08-29",
+   "summary": "テニスの元世界4位・錦織圭を破った20歳の若き才能・坂本怜が注目を集めている。同世代の有力選手たちとの比較や、今後の成長可能性、日本テニス界における彼のポジションなど、この新星の実力と背景について解説する記事。"
+  },
+  {
+   "slug": "2026-08-29-49",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-49.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-49.html",
+   "title": "竹中工務店の社員逮捕、副社長が謝罪　大手ゼネコンに何が起きた？",
+   "title_en": "Takenaka Komuten Employee Arrested: What Went Wrong at Japan's Major Construction Giant?",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "竹中工務店の社員が逮捕される事態が発生し、副社長が謝罪コメントを発表した。大手建設会社の不祥事として注目を集めており、逮捕の具体的な理由や企業への影響が焦点となっている。業界内での信頼低下への懸念も広がっている。"
+  },
+  {
+   "slug": "2026-08-29-48",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-48.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-48.html",
+   "title": "ゲイツ氏のAI提言、本当に実現できるのか？識者から疑問の声",
+   "title_en": "Bill Gates' AI Proposals: Can They Actually Work?",
+   "category": "IT",
+   "published": "2026-08-29",
+   "summary": "ビル・ゲイツ氏がAI規制や活用に関する提言を発表したが、実現可能性を疑問視する声が上がっている。グローバルな課題へのアプローチの難しさや、政策立案との乖離が指摘されており、提言の実効性が問われている状況だ。"
+  },
+  {
+   "slug": "2026-08-29-47",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-47.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-47.html",
+   "title": "ビッグダディ、結婚54日で離婚へ。何があったのか？",
+   "title_en": "BigDaddy Divorces After Just 54 Days of Marriage—What Went Wrong?",
+   "category": "エンタメ",
+   "published": "2026-08-29",
+   "summary": "テレビ番組で知られるビッグダディが、結婚からわずか54日で離婚することが明らかになった。短期間での離婚という異例の事態に、視聴者や関係者から驚きの声が上がっている。詳細な理由については現在のところ公開されていないが、今後の発表が注目されている。"
+  },
+  {
+   "slug": "2026-08-29-46",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-46.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-46.html",
+   "title": "睡眠導入剤の乱用で青い舌に…少女の身体に何が起きているのか",
+   "title_en": "Blue Tongue Syndrome: Unraveling the Dangers of Sleep Aid Abuse in Teenagers",
+   "category": "健康",
+   "published": "2026-08-29",
+   "summary": "睡眠導入剤を乱用していた少女が、舌が青くなるという異常な症状を呈した事例が報告された。医学的には稀な症状であり、医薬品の不正使用がもたらす深刻な健康被害の実例として注目されている。薬物乱用が若年層に広がる懸念も指摘されている。"
+  },
+  {
+   "slug": "2026-08-29-45",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-45.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-45.html",
+   "title": "北陸の雨、まだ終わらない？29〜31日も警戒が必要な理由",
+   "title_en": "Why the Heavy Rain in the Hokuriku Region Won't Stop Until Month-End",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "北陸地方は29日から31日にかけて再び大雨が予想されており、気象庁が厳重な警戒を呼びかけている。この時期の大雨は土砂災害や河川の氾濫リスクを高める。地域住民は最新の気象情報を確認し、早めの避難準備が求められている。"
+  },
+  {
+   "slug": "2026-08-29-44",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-44.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-44.html",
+   "title": "娘が殺された理由すら分からぬまま20年…未解決事件の悲劇",
+   "title_en": "Two Decades Later: Family Still Seeks Answers in Unsolved Murder",
+   "category": "国内",
+   "published": "2026-08-29",
+   "summary": "長年未解決のままとなっている娘の殺人事件について、遺族が今なお真犯人と動機の究明を望んでいる。20年経った今でも事件の全容が明かされず、遺族は答えのない喪失感を抱え続けている。捜査の進展が見られない中、事件解決に向けた新たな動きや、未解決事件における課題が改めて注目されている。"
+  },
   {
    "slug": "2026-08-29-43",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-43.html",
