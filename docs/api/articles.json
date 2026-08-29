@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 842,
+ "count": 863,
  "articles": [
+  {
+   "slug": "2026-08-30-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-20.html",
+   "title": "懐かしすぎワロタ！ブラックビスケッツが24時間TV出演、まさか令和でこの組み合わせが見れるとは",
+   "title_en": "Nostalgic Throwback! Black Biscuits to Appear on 24-Hour TV—Who Would've Thought We'd See This in 2024?",
+   "category": "コラム",
+   "published": "2026-08-30",
+   "summary": "24時間テレビにブラックビスケッツが出演することが発表された。90年代の懐かしいアーティストの登場に、ネット上では驚きと懐かしさが交錯。あの時代が再び光を当てられる瞬間が来たようだ。昭和〜平成の思い出がよみがえる視聴者も多いだろう。"
+  },
+  {
+   "slug": "2026-08-30-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-19.html",
+   "title": "Twitterの新サービス「Twitter. now」提供開始、でも結局何ができるサービスなの？",
+   "title_en": "Twitter Launches 'Twitter. now' – But What Actually Is It?",
+   "category": "IT",
+   "published": "2026-08-30",
+   "summary": "Twitterが新サービス「Twitter. now」の提供を開始した。このサービスの詳細な機能や特徴、既存機能との違いについては公開情報が限定的だが、プラットフォームの新展開として注目されている。ユーザーの間では、このサービスがどのような価値を提供するのか、既存ユーザーにどのような影響をもたらすのかについて関心が集まっている。"
+  },
+  {
+   "slug": "2026-08-30-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-18.html",
+   "title": "自責点ゼロなのに敗北 SB大津監督が選手に謝罪した理由とは",
+   "title_en": "Perfect Pitching, Crushing Loss: Why Softbank Manager Apologized After Zero ERA Defeat",
+   "category": "スポーツ",
+   "published": "2026-08-30",
+   "summary": "ソフトバンクホークスの大津投手が先発登板した試合で、自責点を許さない完璧なピッチングを展開したにもかかわらず、チーム全体の守備や打撃の不調により敗戦を喫した。監督は試合後、自分たちの失策で大津の好投を活かせなかったことに対して選手に謝罪した。プロ野球では投手個人の成績と試合結果が一致しないケースが発生することの課題が改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-30-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-17.html",
+   "title": "絶滅したはずが…四国でツキノワグマの繁殖を確認、何が起きてるのか",
+   "title_en": "Asiatic Black Bears Thriving in Shikoku? How Japan's 'Extinct' Wildlife is Making a Comeback",
+   "category": "科学",
+   "published": "2026-08-30",
+   "summary": "四国地域でツキノワグマの繁殖が確認されたというニュース。同地域では1950年代に絶滅したと考えられていたが、近年の目撃情報や痕跡調査により、個体群が復活・定着している可能性が高まっている。生態系の変化や人間との関係性の再構築が課題となる。"
+  },
+  {
+   "slug": "2026-08-30-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-16.html",
+   "title": "長崎の道路に突然現れた『緑色の丸』の正体は？ 地元民も首をかしげる謎の標識",
+   "title_en": "Mystery of Nagasaki's Green Circle: What Does This Cryptic Road Sign Mean?",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "長崎県内の道路に設置されている緑色の丸い標識が話題になっている。その用途や意味について、地元住民の間でも議論が分かれており、正体が不明のままになっている。標識の設置者や目的についての情報が限定的であることから、ネット上では様々な推測が飛び交っている状況だ。"
+  },
+  {
+   "slug": "2026-08-30-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-15.html",
+   "title": "福井・龍ヶ鼻ダムが緊急放流の危機へ。大雨時の下流域への影響は？",
+   "title_en": "What If Emergency Spillway at Ryuga-hana Dam in Fukui Is Triggered? Downstream Communities on Alert",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "福井県の龍ヶ鼻ダムが豪雨の影響で貯水量が危険水準に達し、緊急放流の可能性が高まっている。ダムの構造上、放流時には下流域に急激な水位上昇が生じるため、沿岸地域の住民や自治体が警戒態勢を強化している。気象予報によると、今後の降雨状況次第で実施される可能性がある。"
+  },
+  {
+   "slug": "2026-08-30-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-14.html",
+   "title": "ネパール・チベット国境で大規模土石流、橋が一瞬で崩壊する映像が衝撃",
+   "title_en": "Major Landslide on Nepal-Tibet Border: Dramatic Video Shows Bridge Collapse in Seconds",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "ネパールと中国チベット自治区の国境付近で26日に発生した大規模な土石流により、多くの人命が失われた。現地で撮影された動画には、土砂の流れから必死に逃げる人々の姿や、橋が一瞬にして流失する様子が映っており、災害の猛威を物語っている。死者・行方不明者の数は増加する可能性がある。"
+  },
+  {
+   "slug": "2026-08-30-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-13.html",
+   "title": "ホルムズ海峡の機雷、全て除去完了？トランプ氏が投稿も信ぴょう性に疑問",
+   "title_en": "All Mines Cleared in Strait of Hormuz? Trump's Announcement Raises Questions About Credibility",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "トランプ米大統領は25日、米海軍がホルムズ海峡の全機雷を除去・爆破したとSNSで発表。中東紛争の激化に伴い、イランが事実上封鎖していたこの海峡は世界の海運に極めて重要。ただ、発表の詳細や根拠についての情報は限定的で、実際の状況評価に国際社会からも注目が集まっている。"
+  },
+  {
+   "slug": "2026-08-30-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-12.html",
+   "title": "スペインの飛び地で移民危機が深刻化　背景にある地政学的な課題とは",
+   "title_en": "Spain's Enclaves Grapple with Ongoing Migration Crisis: What's Really at Stake?",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "スペイン領の北アフリカ飛び地であるセウタやメリリャで、移民・難民の流入が続いており、深刻な人道的課題となっている。地中海を経由した移民ルートとは異なり、陸路での流入が増加。両領土の受け入れ態勢の限界と国際的な対応の必要性が問われている。"
+  },
+  {
+   "slug": "2026-08-30-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-11.html",
+   "title": "中国で大規模土石流の映像が検索できない？情報統制の実態に注目",
+   "title_en": "Why Are Videos of China's Massive Mudslide Nowhere to Be Found Online?",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "中国で発生した大規模土石流の映像が、国内のインターネットで流通していないことが明らかになった。災害の規模や被害状況に関する情報が制限されている可能性があり、当局の情報管理の在り方が改めて注目を集めている。自然災害をめぐる報道の自由性や透明性について、国際的な議論が高まっている。"
+  },
+  {
+   "slug": "2026-08-30-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-10.html",
+   "title": "ネパール土石流で婚約者が行方不明に――自然災害の前では誰もが無力",
+   "title_en": "Nepal Mudslide: Missing Fiancée Leaves Hearts Broken as Disaster Strikes",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "ネパールで発生した土石流により、多くの被害者が出ている中、婚約者を失った人物が涙ながらに現地の状況を語っている。自然災害の猛威にさらされた被災地では、家族や大切な人との突然の別離に直面した人々の悲しみが深刻化している。当局は捜索活動を継続している。"
+  },
+  {
+   "slug": "2026-08-30-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-9.html",
+   "title": "伊達みきお休養、芸能界から相次ぐエール　サンドウィッチマンの相方は今",
+   "title_en": "Sandwiches' Date Mikio Takes Break; Entertainment Industry Rallies Around Him",
+   "category": "エンタメ",
+   "published": "2026-08-30",
+   "summary": "お笑いコンビ・サンドウィッチマンの伊達みきおが休養を発表。疲労による体調不良が理由とされている。発表を受けて、業界内から励ましの声が続々と上がっており、共演者やファンからは早期の回復を願う反応が広がっている。相方の富澤たけしや所属事務所の対応も注視されている。"
+  },
+  {
+   "slug": "2026-08-30-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-8.html",
+   "title": "映画ちいかわ『X直送型』がヒット、なぜ異例の配信方式が成功したのか",
+   "title_en": "Why Did Chiikawa Movie's X Direct Distribution Strategy Succeed?",
+   "category": "エンタメ",
+   "published": "2026-08-30",
+   "summary": "アニメ『ちいかわ』の映画化作品が、X（旧Twitter）での直送型配信という異例の方式を採用してヒットを記録した。従来の劇場公開やサブスクリプションサービスではなく、SNS上での展開という新しい試みが、特に若年層を中心に大きな反響を呼んでいる。デジタルネイティブ世代への新しいコンテンツ配信の可能性が示された形となっている。"
+  },
+  {
+   "slug": "2026-08-30-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-7.html",
+   "title": "円安対策の介入、4週間で効果消失？　黒田日銀の手腕が問われる局面に",
+   "title_en": "Japan's Currency Intervention Shows Diminishing Returns After Just 4 Weeks—Is the BOJ Losing Control?",
+   "category": "経済",
+   "published": "2026-08-30",
+   "summary": "日本銀行が実施した円買い介入の効果が4週間で減少し始めたことが判明した。当初は円相場を押し上げたものの、市場の圧力に抗しきれず再び下落傾向に。為替介入の限界と、根本的な経済格差解決の必要性が改めて浮き彫りになっている状況だ。"
+  },
+  {
+   "slug": "2026-08-30-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-6.html",
+   "title": "プロ入り直後に脊髄損傷、数日後に結婚式を挙行…その時何が起きていたのか",
+   "title_en": "Professional Athlete Suffers Spinal Injury Days Before Wedding: A Life-Changing Sequence of Events",
+   "category": "スポーツ",
+   "published": "2026-08-30",
+   "summary": "プロ選手としてキャリアをスタートさせた直後、重大な脊髄損傷を負った選手が、わずか数日のうちに結婚式を挙行したというニュース。人生の大きな転機が短期間に重なるという劇的な展開が注目を集めている。選手の回復への道のりや、支えとなった家族の存在が改めて問われている。"
+  },
+  {
+   "slug": "2026-08-30-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-5.html",
+   "title": "甲子園で何が起きた？複数件の乱闘騒ぎが発生、野球観戦の安全は大丈夫か",
+   "title_en": "Multiple Fan Brawls Erupt at Koshien Stadium - Is Baseball Safe to Watch?",
+   "category": "スポーツ",
+   "published": "2026-08-30",
+   "summary": "甲子園での試合中に両軍ファン同士の乱闘騒ぎが複数件発生したことが報じられた。応援の過熱や応援席での接触が原因とみられる。野球観戦における観客マナーの問題が改めて浮き彫りになり、今後の対策が求められる状況となっている。"
+  },
+  {
+   "slug": "2026-08-30-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-4.html",
+   "title": "24時間マラソン、走る理由が変わった？背景にある社会の変化とは",
+   "title_en": "Why Runners in 24-Hour Marathon Changed: What Shift in Society Reveals",
+   "category": "エンタメ",
+   "published": "2026-08-30",
+   "summary": "長年チャリティ番組の定番だった24時間マラソンで、出演者が走る理由や番組の意義に変化が見られるようになった。視聴者の価値観の多様化や社会的課題への関心の高まりを背景に、従来の単純な「がんばり」の美学から、より複雑で個人的な動機へシフトしている傾向が指摘されている。"
+  },
+  {
+   "slug": "2026-08-30-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-3.html",
+   "title": "大谷の投手復帰が白紙に…監督が明かした理由とは",
+   "title_en": "Shohei Ohtani's Pitching Return Plans Shelved: Manager Explains Why",
+   "category": "スポーツ",
+   "published": "2026-08-30",
+   "summary": "大リーグで活躍する大谷翔平選手の投手復帰計画が白紙となることが明らかになった。所属球団の監督が今後の見通しについて説明を行い、復帰時期や具体的な進展が不透明な状況になっているという。怪我の状態や調整の難しさなど、複数の要因が絡んでいるとみられている。"
+  },
+  {
+   "slug": "2026-08-30-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-2.html",
+   "title": "精神科医の娘が不登校に…専門家だからこそ見えた「教育現場の課題」とは",
+   "title_en": "When a Psychiatrist's Daughter Won't Go to School: What Schools Are Missing",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "精神科医である親が、自らの娘が不登校になった経験を通じて、教育現場の問題について公に訴えている。専門知識を持つ親だからこそ気づいた、学校のメンタルヘルス対応やいじめ対策、進学圧力など複数の課題が浮き彫りになっている。医療と教育の連携不足も指摘されている。"
+  },
+  {
+   "slug": "2026-08-30-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-1.html",
+   "title": "海での事故、中高生3人が死亡—家族の悲しみと海水浴の安全について",
+   "title_en": "Three Junior and High School Students Die in Ocean Tragedy—Questions Over Coastal Safety",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "海での水難事故により、中高生3人が亡くなるという痛ましい出来事が発生しました。事故の詳細はまだ明らかになっていませんが、現場には家族や関係者が駆けつけ、深い悲しみに包まれています。夏季の海水浴シーズンにおける安全管理と事故防止の重要性が改めて浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-08-30-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-0.html",
+   "title": "福井県に大雨特別警報が発令…最大級警戒とは何が起きているのか",
+   "title_en": "What Does a Special Heavy Rain Warning in Fukui Prefecture Mean? Maximum Alert Issued",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "福井県に気象庁から大雨特別警報が発令され、最大級の警戒が呼びかけられている。特別警報は通常の警報よりも危険度が極めて高く、重大な災害が迫っている状況を示している。住民に対しては緊急の避難措置や安全確保が強く推奨されており、土砂災害や河川の氾濫などに対する警戒が必要とされている。"
+  },
   {
    "slug": "2026-08-29-63",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-63.html",
