@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 821,
+ "count": 822,
  "articles": [
+  {
+   "slug": "2026-08-29-43",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-43.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-29-43.html",
+   "title": "52歳の看護師がアイドルに転身→人生こんなターンあり？",
+   "title_en": "52-Year-Old Nurse Becomes Idol: Can You Really Reinvent Your Life This Late?",
+   "category": "コラム",
+   "published": "2026-08-29",
+   "summary": "医療現場で働いていた52歳の看護師がアイドルへの転身を決意。これまでのキャリアを手放し、全く新しい道を歩み始めたという。年齢や職業のイメージを覆すこの挑戦は、多くの人に驚きと感動を与えている。人生100年時代、何歳からでも夢に向かえるというメッセージが話題を呼んでいる。"
+  },
   {
    "slug": "2026-08-29-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-29-42.html",
