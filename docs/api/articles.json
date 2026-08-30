@@ -2,8 +2,198 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 864,
+ "count": 883,
  "articles": [
+  {
+   "slug": "2026-08-30-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-40.html",
+   "title": "経産省が小売り業界に税優遇を要望へ　流通業界の経営危機が深刻化？",
+   "title_en": "METI Pushes for Tax Breaks for Retail Sector—Is the Industry in a Deeper Crisis Than We Thought?",
+   "category": "経済",
+   "published": "2026-08-30",
+   "summary": "経済産業省が小売り事業に対する税制上の優遇措置を要望する方針を固めた。人口減少や消費低迷、物価上昇による経営圧迫など、小売業が直面する経営課題への対応として、税負担軽減を通じた事業継続支援を検討している。政策実現には財務省との調整が課題となる見通し。"
+  },
+  {
+   "slug": "2026-08-30-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-39.html",
+   "title": "真夏の営業所は半ズボン解禁へ？ビジネスウェアに異変、大手メーカーが続々参入",
+   "title_en": "Shorts Coming to the Office? Major Apparel Makers Push Business Half-Pants as Summer Dress Code Evolves",
+   "category": "経済",
+   "published": "2026-08-30",
+   "summary": "気温上昇への対応として、大手アパレルメーカーがビジネス用のハーフパンツの開発・販売に力を入れている。従来のドレスコード概念を覆すこの動きは、働き方改革と環境配慮の両面から注目を集めており、オフィスカジュアル化の加速を象徴する動向として業界内で存在感を増している。"
+  },
+  {
+   "slug": "2026-08-30-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-38.html",
+   "title": "南極海でアザラシ大量死の危機？気候変動が海の食物連鎖を揺さぶる",
+   "title_en": "Antarctic Seals Face Mass Death Risk as Climate Change Reshapes Ocean Food Webs",
+   "category": "科学",
+   "published": "2026-08-30",
+   "summary": "南極海においてアザラシの大量死が懸念される事態が報告されている。気候変動に伴う海氷減少やオキアミなどの主食となる生物の減少が原因と考えられており、南極の生態系全体に影響を及ぼす可能性が指摘されている。専門家からは海洋環境の変化を注視する必要性が強調されている。"
+  },
+  {
+   "slug": "2026-08-30-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-37.html",
+   "title": "南アルプスの山肌が茶色に染まる…シカの食害がここまで深刻化した理由は",
+   "title_en": "Alpine Slopes Turn Brown: Why Has Sika Deer Overpopulation in the Southern Japanese Alps Become So Severe?",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "南アルプスでニホンジカの個体数が急増し、山肌を埋め尽くすほどの食害が発生している。シカが植生を過剰に採食することで、山の斜面の土がむき出しになり、植物の再生が追いつかない状況が深刻化。生態系のバランスの崩壊と土砂流出のリスクも懸念される中、捕獲と個体数管理の必要性が急務となっている。"
+  },
+  {
+   "slug": "2026-08-30-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-36.html",
+   "title": "月に独立した時間帯を導入へ 地球時間から切り離す動きが加速",
+   "title_en": "Moon to Get Its Own Time Zone, Independent From Earth",
+   "category": "科学",
+   "published": "2026-08-30",
+   "summary": "国際宇宙機関や各国の宇宙開発機関が、月面での活動を円滑にするため、地球の標準時間から独立した「月時間」の構築を検討している。月は地球と自転周期が異なり、通信遅延も大きいため、月面基地での運用には独自の時間体系が必要という判断。将来の月面探査ミッションの効率化を目指した動きが活発化している。"
+  },
+  {
+   "slug": "2026-08-30-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-35.html",
+   "title": "トランプ大統領の「タイピング秘書官」って何だ？右腕ハープ氏の謎めいた職務が話題に",
+   "title_en": "Trump's 'Typing Secretary': Who Is Natalie Harp and Why Does She Matter?",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "ドナルド・トランプ米大統領の側近であるナタリー・ハープ大統領特別秘書官が注目を集めている。彼女は政策立案などの重要業務に加え、トランプ氏が所有するソーシャルメディア「トゥルース・ソーシャル」への投稿時にタイピングを担当しているという。大統領の信頼が厚く、多岐にわたる職務を担う秘書官の実像が明かされた。"
+  },
+  {
+   "slug": "2026-08-30-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-34.html",
+   "title": "トランプ政権が「経済的Dデー」と大々的に制裁開始→イラン指導部「そうはならん」と反発",
+   "title_en": "Trump's 'Economic D-Day' Sanctions on Iran Begin—Tehran Leadership Responds: 'That Won't Work'",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "アメリカのトランプ政権がイランの金融ネットワークに対する大規模な経済制裁を開始した。ベッセント財務長官がこれを「経済的Dデー」と称し、体制転換への圧力を狙ったものと見られている。しかしイランの指導部は過去の制裁経験を踏まえ、今回の措置によっても体制が揺らがないと強気の姿勢を示している。米国とイランの経済戦争がどのような展開を見せるか注視される。"
+  },
+  {
+   "slug": "2026-08-30-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-33.html",
+   "title": "ネパール・チベット国境の土石流、衛星画像で追跡した被害の全貌",
+   "title_en": "Catastrophic Nepal-Tibet Landslide: Satellite Imagery Reveals Full Scale of Disaster",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "ネパールと中国・チベットの国境地域で発生した大規模な土石流により、複数の町が壊滅的な被害を受けた。BBCの検証チームが検証済み映像と衛星画像を用いて、土石流の経路を追跡。橋や車、多くの人命が流された災害の全容を明らかにした。"
+  },
+  {
+   "slug": "2026-08-30-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-32.html",
+   "title": "壊滅的な土石流なのに映像が見られない…チベットで何が起きている？",
+   "title_en": "Tibet Landslide Footage Missing in China – What's Really Happening?",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "チベットで発生した大規模な土石流による被害が深刻だが、その最も衝撃的な映像は中国国内ではほとんど放映されていない。BBC中国特派員が指摘するように、被災者に関する詳細な情報も極めて限定的であり、情報統制の実態が浮かぶ。災害報道の透明性について国際的な懸念が高まっている。"
+  },
+  {
+   "slug": "2026-08-30-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-31.html",
+   "title": "高校無償化で逆転現象？私立高が人気急上昇、公立高はなぜ苦しくなった",
+   "title_en": "Tuition-Free Policy Backfire? Private High Schools Surge While Public Schools Struggle",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "高校無償化政策の導入により、私立高校の志願者が増加し、経営状況が改善する学校が増えている一方で、公立高校は入学者数の減少や経営難に直面している。無償化により経済的負担が軽減された家庭が、私立の教育環境や特色あるカリキュラムを選択するようになったことが背景にあるとみられる。公立高校の今後の運営方針の転換が課題となっている。"
+  },
+  {
+   "slug": "2026-08-30-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-30.html",
+   "title": "サンマから発見された「赤い糸」の正体は？専門家が解説",
+   "title_en": "What's the Mystery Red Thread Found in Saury Fish? Experts Explain",
+   "category": "健康",
+   "published": "2026-08-30",
+   "summary": "サンマの内部に見つかる赤い糸状の物体について、識者が見解を示しました。この現象は珍しくなく、サンマの体内構造に関連した自然なものであることが多いとされています。食べても問題がない場合がほとんどですが、購入時や調理時の注意点についても専門家からアドバイスが提供されています。"
+  },
+  {
+   "slug": "2026-08-30-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-29.html",
+   "title": "Jアラートは本当に安全？専門家が指摘する意外な脆弱性",
+   "title_en": "Is Japan's Emergency Alert System Really Safe? Experts Raise Concerns About Hidden Vulnerabilities",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "緊急時に国民に迅速に情報を伝えるJアラート（全国瞬時警報システム）について、識者が偽の警報を流すことが技術的に可能である可能性を指摘した。システムの信頼性と安全性に関わる重要な指摘として、今後の対策強化の必要性が論議されている。"
+  },
+  {
+   "slug": "2026-08-30-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-28.html",
+   "title": "Airbnbが違法民泊を一掃できる理由　規制強化で何が変わる？",
+   "title_en": "Can Airbnb Really Eliminate Illegal Short-Term Rentals in Japan?",
+   "category": "経済",
+   "published": "2026-08-30",
+   "summary": "Airbnbが日本国内のヤミ民泊（無許可営業）の排除に本格的に乗り出す見通しが報じられている。民泊新法施行やホテル業界からの規制要求を背景に、プラットフォーム側が違法物件の掲載排除を加速させることで、適正に許可を得た事業者との競争環境を整備する動きが進んでいる。業界の健全化と消費者保護の両面で転機となる可能性がある。"
+  },
+  {
+   "slug": "2026-08-30-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-27.html",
+   "title": "なぜ外国人は日本のクリニックに殺到するのか？密着取材で見えた実態",
+   "title_en": "Why Are Foreign Visitors Flocking to Japanese Clinics? An Inside Look at the Surge",
+   "category": "国内",
+   "published": "2026-08-30",
+   "summary": "日本を訪れる外国人患者が急増し、クリニックが対応に追われている。言語の壁や医療費の安さ、質の高さなどが理由として挙げられる。地域によっては受け入れ態勢の整備が急務となっており、通訳の確保や診療体制の工夫が進められている状況が報告されている。"
+  },
+  {
+   "slug": "2026-08-30-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-26.html",
+   "title": "90歳でボディビル競技に出場、「筋トレが私の人生」と語る高齢者の挑戦",
+   "title_en": "At 90 Years Old, Bodybuilding Becomes His Life: The Remarkable Story of an Elderly Competitor",
+   "category": "健康",
+   "published": "2026-08-30",
+   "summary": "90歳の高齢者がボディビル競技に挑戦し、筋トレを人生の中心に据えているというニュース。加齢に伴う筋力低下は避けられないとされてきたが、継続的なトレーニングにより高齢者でも筋肉を維持・構築できる可能性を示している。健康寿命延伸の観点からも注目される事例として報道されている。"
+  },
+  {
+   "slug": "2026-08-30-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-25.html",
+   "title": "48歳・金子恵美が明かす不妊治療との向き合い方「年齢との葛藤」",
+   "title_en": "48-Year-Old Kaneko Emi Opens Up About the Emotional Struggle of Fertility Treatment",
+   "category": "エンタメ",
+   "published": "2026-08-30",
+   "summary": "タレント・金子恵美氏（48歳）が、不妊治療における心情の揺らぎについて語った。加齢による身体の変化と治療継続の判断に直面する中、多くの女性が経験する葛藤と向き合う様子が明かされている。同世代の女性たちへのメッセージとしても注目を集めている。"
+  },
+  {
+   "slug": "2026-08-30-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-24.html",
+   "title": "バレー女子、銅メダルでW杯出場権を掴む！パリ五輪への道が見えた",
+   "title_en": "Japan's Women's Volleyball Secures Paris Olympics Berth with Bronze Medal at World Cup",
+   "category": "スポーツ",
+   "published": "2026-08-30",
+   "summary": "バレーボール女子代表がW杯で銅メダルを獲得し、パリオリンピックの出場権を確保した。この結果により、日本女子バレーは次のオリンピック本大会への参加が確定。チームの成長と今後の国際大会での活躍が期待される中、継続的な強化が課題となる。"
+  },
+  {
+   "slug": "2026-08-30-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-23.html",
+   "title": "ネパール土石流の真犯人は氷河崩落だった？気候変動と自然災害の意外な因果関係",
+   "title_en": "Glacier Collapse: The Hidden Cause Behind Nepal's Devastating Mudslide Disaster",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "ネパールで発生した大規模な土石流災害の原因が、氷河の崩落にあることが判明した。地球温暖化に伴う氷河の融解が加速し、山岳地域の地盤を不安定にしていることが指摘されている。気候変動による自然災害のメカニズムが改めて注目されている。"
+  },
+  {
+   "slug": "2026-08-30-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-22.html",
+   "title": "ネパール土石流で768人死亡、3000人以上不明。絶望的な捜索の中、6歳女児の救出が希望の光に",
+   "title_en": "768 Dead, 3,000+ Missing in Nepal Landslide: A 6-Year-Old Girl's Rescue Offers Hope in Despair",
+   "category": "国際",
+   "published": "2026-08-30",
+   "summary": "ネパールと中国の国境地帯で発生した大規模な土石流により、両国合わせて768人が死亡し、3000人以上が行方不明となっています。道路の寸断により捜索活動は困難な状況が続いていますが、その中で6歳の女児が無事救出されるなど、わずかな希望も生まれています。国際的な救援体制の構築が急務となっています。"
+  },
   {
    "slug": "2026-08-30-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-21.html",
