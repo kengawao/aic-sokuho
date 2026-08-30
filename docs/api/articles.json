@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 883,
+ "count": 903,
  "articles": [
+  {
+   "slug": "2026-08-31-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-19.html",
+   "title": "ネパール北部の土石流、なぜこんなに被害が大きいのか？地理的リスクと救助の課題",
+   "title_en": "Why Is Nepal's Mudslide Disaster So Severe? Exploring Geographic Risk and Rescue Challenges",
+   "category": "国際",
+   "published": "2026-08-31",
+   "summary": "ネパールと中国・チベット国境沿いで26日に大規模な土石流が発生し、現地では泥に埋まった人々の救助活動が続いている。ヒマラヤ山脈の急峻な地形と季節的な降雨パターンが重なり、この地域では土石流が周期的に発生する傾向にある。救助隊は悪天候と地形の困難さに直面しながら、生存者を探し出す作業を進めている。"
+  },
+  {
+   "slug": "2026-08-31-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-18.html",
+   "title": "カイロス3号機の打ち上げ失敗、原因は「静電気」？ロケット開発における意外な落とし穴",
+   "title_en": "Kairos 3 Launch Failure Traced to Static Electricity—An Unexpected Vulnerability in Modern Rocket Technology",
+   "category": "科学",
+   "published": "2026-08-31",
+   "summary": "日本の民間ロケット企業による小型ロケット「カイロス3号機」の打ち上げが失敗に終わった。調査の結果、静電気が一因として浮上している。精密機器の集合体であるロケットシステムにおいて、静電気のような単純な現象が致命的な障害を引き起こす可能性が改めて認識された。今後の品質管理と設計段階での対策が課題となる。"
+  },
+  {
+   "slug": "2026-08-31-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-17.html",
+   "title": "ネパールの山奥に突然現れた「謎の巨大湖」　衛星画像が捉えた地殻変動の痕跡",
+   "title_en": "Mystery Lake Emerges in Nepal's Mountains: Satellite Imagery Reveals Earth's Shifting Crust",
+   "category": "科学",
+   "published": "2026-08-31",
+   "summary": "ネパール地域で衛星観測により、地震や地殻変動によって形成されたせき止め湖が確認された。山岳地帯の地形変化を宇宙からの画像で可視化することで、地質学的な変動プロセスの解明や防災対策に役立つ可能性がある。このような自然現象の監視は、今後の地震予測研究にも重要な知見をもたらす。"
+  },
+  {
+   "slug": "2026-08-31-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-16.html",
+   "title": "ボート峰竜太が金塊3億円獲得、その後どうなった？",
+   "title_en": "Boat Racer Minetake Wins 30 Million Yen in Gold Bullion - What's Next?",
+   "category": "エンタメ",
+   "published": "2026-08-31",
+   "summary": "ボートレーサーの峰竜太選手が、企画や番組出演を通じて3億円相当の金塊を獲得したというニュース。ボートレース界の有名選手が、本業以外の活動で大きな収益を得た形となり、アスリートの多角的な収入源確保の実例として注目を集めている。"
+  },
+  {
+   "slug": "2026-08-31-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-15.html",
+   "title": "かつての繁華街が無人化…全国に点在する「廃墟モール」、なぜ生まれ続けるのか",
+   "title_en": "The Ghost Malls Taking Over Japan: What Went Wrong?",
+   "category": "経済",
+   "published": "2026-08-31",
+   "summary": "バブル期やその後の好況時に建設された大型商業施設が、郊外型大規模店舗の台頭やネット通販の普及、人口減少などにより廃墟化している。各地に存在する廃墟モールの実態から、日本の商業施設産業の構造的問題と地域経済への影響を追究する内容と考えられる。"
+  },
+  {
+   "slug": "2026-08-31-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-14.html",
+   "title": "トランプ氏が北朝鮮との「良好な関係」を理由に、米韓合同演習を縮小へ。同盟国・韓国はどう受け止める？",
+   "title_en": "Trump Scales Back US-South Korea Joint Drills, Citing 'Very Good' Relations with North Korea. What Does This Mean for the Alliance?",
+   "category": "国際",
+   "published": "2026-08-31",
+   "summary": "トランプ米大統領は、北朝鮮の金正恩総書記との関係が「非常に良好」であることを根拠に、米韓間の合同軍事演習の規模を縮小する方針を表明した。北朝鮮への外交的配慮と米韓同盟の維持のバランスをめぐり、政策の実行方針が注視される。"
+  },
+  {
+   "slug": "2026-08-31-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-13.html",
+   "title": "女性記者への『黙れ』連発…トランプ氏が記者会見で激怒する質問の傾向は?",
+   "title_en": "When Trump Tells Reporters to 'Shut Up': Gender Bias in Press Conferences Revealed",
+   "category": "国際",
+   "published": "2026-08-31",
+   "summary": "トランプ米大統領は記者からの質問に対し、特に答えたくない内容を聞かれた時に激しく反論する傾向がある。BBCの分析によると、こうした激怒のターゲットは女性記者に偏ることが多く、公開の場での侮辱行為が問題化している。大統領が忌避する質問パターンについて詳しく検証している。"
+  },
+  {
+   "slug": "2026-08-31-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-12.html",
+   "title": "白菜問題で3人が刑事拘留？中国で一体何が起きているのか",
+   "title_en": "Three Detained Over Chinese Cabbage Scandal: What's Really Going On?",
+   "category": "国際",
+   "published": "2026-08-31",
+   "summary": "中国で白菜をめぐる問題に関連して、3人が刑事拘留される事態が発生した。詳細な背景や原因については報道されているが、食品安全や流通に関わる疑いが指摘されている。中国の食品管理体制や市場問題の一端を示す事例として注目されている。"
+  },
+  {
+   "slug": "2026-08-31-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-11.html",
+   "title": "ネパール土石流で死者800人超え　モンスーン時期の豪雨が引き金に",
+   "title_en": "Nepal Landslide Death Toll Exceeds 800 as Monsoon Triggers Disaster",
+   "category": "国際",
+   "published": "2026-08-31",
+   "summary": "ネパールで発生した大規模な土石流により、死者数が800人を超えました。モンスーン時期の集中豪雨が原因とみられ、山岳地帯の脆弱なインフラと相まって被害が拡大。現地では救助活動が続く一方、医療施設の不足や交通網の寸断により、救援活動は困難を極めています。"
+  },
+  {
+   "slug": "2026-08-31-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-10.html",
+   "title": "米軍がイラン南部の発射施設を攻撃　中東情勢さらに緊迫へ",
+   "title_en": "U.S. Military Strikes Iranian Launch Facility in the South",
+   "category": "国際",
+   "published": "2026-08-31",
+   "summary": "米軍がイラン南部にある発射施設を攻撃したと報じられている。この軍事行動は中東地域の緊張をさらに高めるもので、米国とイランの対立がエスカレートしている現状を示唆している。国際社会への影響や今後の展開が注視されている。"
+  },
+  {
+   "slug": "2026-08-31-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-9.html",
+   "title": "池田豊人氏が香川県知事選で再選 2期目突入、県政はどう変わる?",
+   "title_en": "Incumbent Kagawa Governor Ikeda Toyohito Wins Re-election – What's Next for Prefectural Government?",
+   "category": "国内",
+   "published": "2026-08-31",
+   "summary": "8月30日に投票された香川県知事選挙で、現職の池田豊人氏（65）が2回目の当選を果たしました。県内の有権者から信任を得た形となり、今後4年間の県政運営を担うことになります。複数の課題を抱える香川県の今後の展開に注目が集まります。"
+  },
+  {
+   "slug": "2026-08-31-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-8.html",
+   "title": "大雨被害の福井も38度の猛暑？ 復旧作業中の被災者が危ない",
+   "title_en": "Heat Wave Strikes Disaster-Hit Fukui: Survivors Face 38°C While Rebuilding",
+   "category": "国内",
+   "published": "2026-08-31",
+   "summary": "31日は西日本から東日本にかけて気温が大きく上昇し、複数地域で最高気温38度に達する危険な暑さが予想されている。記録的な大雨で被害を受けた北陸地方でも猛暑日が見込まれており、片付けや復旧作業を行う被災者が熱中症に陥るリスクが懸念されている。気象関係者は外出や作業時の水分補給と休息の重要性を呼びかけている。"
+  },
+  {
+   "slug": "2026-08-31-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-7.html",
+   "title": "ついに決断か？常陸大宮市が「核のごみ」最終処分地の調査受け入れへ",
+   "title_en": "Japan Takes Historic Step: Ibaraki City May Host Nation's Nuclear Waste Repository",
+   "category": "国内",
+   "published": "2026-08-31",
+   "summary": "経済産業省が茨城県常陸大宮市に対し、高レベル放射性廃棄物の最終処分地選定に向けた第1段階の「文献調査」実施を近く申し入れる方針であることが明らかになった。全国的に難航していた処分地選定が、具体的に進展する可能性が高まっている。"
+  },
+  {
+   "slug": "2026-08-31-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-6.html",
+   "title": "顔の腫瘍で周囲に驚かれる三男、父が抱く切実な願いとは",
+   "title_en": "Father's Heartfelt Wish for Son Facing Facial Tumor Challenges",
+   "category": "国内",
+   "published": "2026-08-31",
+   "summary": "顔に腫瘍を持つ三男の子どもが日常生活で周囲の視線にさらされる中、父親が子どもの将来を想い切実な願いを抱いているというストーリー。医学的な課題と家族の心情、そして社会的な理解の必要性について考えさせられるニュース。"
+  },
+  {
+   "slug": "2026-08-31-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-5.html",
+   "title": "銅メダルなのになぜ涙？バレー女子主将が語った本当の悔しさ",
+   "title_en": "Why Tears for a Bronze Medal? Japan's Volleyball Captain Reveals the Real Frustration",
+   "category": "スポーツ",
+   "published": "2026-08-31",
+   "summary": "バレーボール女子代表が国際大会で銅メダルを獲得したものの、主将が悔し涙を流した。メダル獲得という成果の一方で、金メダルを目指していたチームの想いや、試合内容に対する悔恨が表れた涙となった。選手たちの高い目標設定と、その過程での心理的葛藤が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-08-31-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-4.html",
+   "title": "栗山巧の最終打席が涙を呼んだ理由 ファンが感動した瞬間とは",
+   "title_en": "Kuriyama's Final At-Bat Ends in a Hit: Fans Left in Tears",
+   "category": "スポーツ",
+   "published": "2026-08-31",
+   "summary": "ベテラン選手・栗山巧が最終打席で安打を放ち、スタジアムが感動に包まれた。長年の活躍を見守ってきたファンからは涙の声が上がり、選手人生の区切りとなる瞬間として記憶に残る試合となった。現役生活を通じた功績と、その終わり方が多くの人々の心を打っている。"
+  },
+  {
+   "slug": "2026-08-31-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-3.html",
+   "title": "子どものSNS年齢制限、64%が「法律で規制すべき」と回答。親たちの本音とは？",
+   "title_en": "Should Social Media Have Age Restrictions? 64% of Japanese Say Yes",
+   "category": "国内",
+   "published": "2026-08-31",
+   "summary": "子どもによるSNS利用に関する世論調査で、約3分の2にあたる64%が法律による年齢制限の導入が必要だと考えていることが明らかになった。デジタル化が進む中、スマートフォンの普及により低年齢層のSNS利用が急速に増えており、児童への悪影響やリスク管理を懸念する保護者や国民の声が高まっていることが浮き彫りになった。"
+  },
+  {
+   "slug": "2026-08-31-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-2.html",
+   "title": "星野真里、難病の娘のためにゴール決定…母の想いが詰まった瞬間",
+   "title_en": "Actress Mari Hoshino Scores for Her Daughter Fighting Rare Disease: A Mother's Heartfelt Moment",
+   "category": "エンタメ",
+   "published": "2026-08-31",
+   "summary": "女優の星野真里が難病と闘う娘さんのために何らかの目標達成やイベント出場を実現させたとのこと。母親として我が子の応援を全力で行う姿勢が報じられており、困難な状況の中での親子の絆が注目を集めている。難病との向き合い方や家族の支援の重要性について改めて考えさせられるニュース。"
+  },
+  {
+   "slug": "2026-08-31-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-1.html",
+   "title": "大谷の異変が深刻に？足元グラつくスイング、これは何が起きている",
+   "title_en": "Ohtani's Swing Trouble: Is Foot Instability a Sign of a Bigger Problem?",
+   "category": "スポーツ",
+   "published": "2026-08-31",
+   "summary": "大リーグで活躍する大谷翔平選手のスイングに異変が生じているとの指摘が出ている。足元が不安定になっているという技術的な問題で、打撃フォームに影響が出ている模様。専門家からは、怪我の影響や調整段階についての見方も示されている。"
+  },
+  {
+   "slug": "2026-08-31-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-31-0.html",
+   "title": "消費減税に「賛成」が55%で過半数を占める。国民の本音は？",
+   "title_en": "Over Half of Japanese Support Consumption Tax Cut in Latest Poll",
+   "category": "経済",
+   "published": "2026-08-31",
+   "summary": "朝日新聞の世論調査で、消費税の引き下げに対して55%が賛成と答え、過半数を超えた。物価上昇が続く中で、家計の負担軽減を求める声が高まっていることが明らかになった。政府の税制政策を巡る議論がさらに活発化する見込みだ。"
+  },
   {
    "slug": "2026-08-30-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-40.html",
