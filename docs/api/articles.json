@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 863,
+ "count": 864,
  "articles": [
+  {
+   "slug": "2026-08-30-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-08-30-21.html",
+   "title": "レゴランドで子どもが閉じ込め！扉破壊して救助って…楽しいはずのテーマパークで何があった？",
+   "title_en": "Child Locked Inside LEGOLAND Japan, Staff Breaks Door for Rescue—What Really Happened?",
+   "category": "コラム",
+   "published": "2026-08-30",
+   "summary": "愛知県のレゴランド・ジャパンで、利用者が施設内の部屋に閉じ込められるというトラブルが発生。スタッフが扉を破壊して救助したという事態が明らかになった。テーマパークでのこうしたインシデントは、安全管理の課題を改めて浮き彫りにしている。"
+  },
   {
    "slug": "2026-08-30-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-30-20.html",
