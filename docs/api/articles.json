@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 903,
+ "count": 924,
  "articles": [
+  {
+   "slug": "2026-09-01-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-20.html",
+   "title": "懐かしい自社製品が広告に映ってた！60年前のやつ、今どこにあるんだろう？",
+   "title_en": "Company Spots Its Own 60-Year-Old Product in an Ad—Mystery of the Unbreakable Item",
+   "category": "コラム",
+   "published": "2026-09-01",
+   "summary": "ある企業が自社の広告を眺めていたところ、映り込んでいた商品が60年前に製造・販売していた自社製品だったことが判明。思わぬ懐かしい再会に、企業も話題にしている。昭和の時代の品がいまだに現役で使われているという、ものの耐久性と愛用者の絆が感じられるほほえましい出来事だ。"
+  },
+  {
+   "slug": "2026-09-01-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-19.html",
+   "title": "BC埼玉武蔵の清田育宏監督が突然辞任 バスケットボール界に波紋",
+   "title_en": "Shock in Japan's Basketball League: BC Saitama Musashi Coach Shio Kiyota Steps Down",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "バスケットボール男子プロリーグBリーグに所属するBC埼玉武蔵の清田育宏監督が辞任を表明した。同監督は日本バスケットボール界の指導者として活躍してきた人物。辞任の詳細な理由については報道では明確にされていないが、チーム関係者や業界内での今後の人事体制の変動が予想される。"
+  },
+  {
+   "slug": "2026-09-01-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-18.html",
+   "title": "スターバックス、なぜこんなに増えてるのか 飽和状態でも出店が止まらない理由",
+   "title_en": "Why Does Starbucks Keep Expanding? Inside Japan's Oversaturated Coffee Market",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "全国各地でスターバックスの出店が相次ぎ、市街地だけでなく郊外でも多くの店舗を見かけるようになった。一見すると市場は飽和状態に見えるが、なぜ企業は出店を続けるのか。その背景には立地戦略、消費者行動の変化、そして競合との競争が複雑に絡み合っている。"
+  },
+  {
+   "slug": "2026-09-01-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-17.html",
+   "title": "ITパスポート試験のシラバスが改定へ　AI時代に対応した新たな学習範囲は何が変わる?",
+   "title_en": "IPA Updates IT Passport Exam Syllabus: How Will AI and Emerging Tech Reshape Japan's Most Popular IT Certification?",
+   "category": "IT",
+   "published": "2026-09-01",
+   "summary": "情報処理推進機構がITパスポート試験の新しいシラバス案を公開しました。デジタル化の加速やAI技術の浸透に対応させるため、学習範囲や出題内容の見直しが行われています。ITリテラシーの基礎を認定する同試験が、現代のビジネス環境をどう反映させるかが焦点となっています。"
+  },
+  {
+   "slug": "2026-09-01-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-16.html",
+   "title": "常陸大宮市が核ごみ文献調査の打診を受ける。茨城県内での最終処分地選定が現実に？",
+   "title_en": "Hitachi-Omiya City May Become Japan's Nuclear Waste Study Site. Is Final Disposal Location Selection Moving Forward in Ibaraki?",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "経済産業省が茨城県常陸大宮市に対して、高レベル放射性廃棄物の最終処分地選定に向けた第一段階の『文献調査』への参加を打診したことが明らかになった。文献調査は地質や地盤の既存データを分析する初期段階で、了承すれば2年程度かけて実施される。同市が受け入れれば、茨城県での本格的な処分地選定に向けた検討が進展する可能性がある。"
+  },
+  {
+   "slug": "2026-09-01-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-15.html",
+   "title": "障害者雇用「代行」の闇――企業の数字合わせ、当事者は置き去り",
+   "title_en": "Japan's Disability Employment Quota: A Numbers Game That Leaves Workers Behind",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "障害者雇用促進法に基づく雇用義務を果たすため、企業が障害者を実際には雇用せず、訓練施設などの「代行機関」に業務委託する実態が広がっている。法定雇用率は満たされても、障害者本人の就労や社会参画の機会が失われるジレンマが指摘されている。"
+  },
+  {
+   "slug": "2026-09-01-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-14.html",
+   "title": "米カナダ貿易戦争、長期化で両国経済に打撃か？5つの図表で徹底検証",
+   "title_en": "US-Canada Trade War Drags On: What Do 5 Charts Reveal About the Economic Impact?",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "米国とカナダの貿易紛争が継続し、解決への見通しが立たない状況が続いている。両国間の貿易関係の悪化がもたらす経済的影響は深刻で、製造業や農業など複数の産業セクターに波及している。本記事では5つの図表を用いて、この長期化する貿易戦争の実態と今後の見通しを分析する。"
+  },
+  {
+   "slug": "2026-09-01-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-13.html",
+   "title": "新学年前に1200万冊が灰に…ロシアがウクライナの「知」を破壊する戦争",
+   "title_en": "12 Million Books Destroyed: Russia's War on Ukrainian Culture Before the New School Year",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "ロシアがウクライナ全土の印刷所や出版社を集中的に攻撃し、約1200万冊の書籍を破壊した。新学年の開始を控えた時期での攻撃であり、歴史や文化を象徴する資料にも損害が及んでいる。今年だけでウクライナで印刷された書籍の3分の1が失われたという深刻な状況だ。"
+  },
+  {
+   "slug": "2026-09-01-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-12.html",
+   "title": "旧統一教会トップに懲役2年判決、求刑13年から大幅減刑…韓国裁判所の判断は妥当か",
+   "title_en": "Unification Church Leader Sentenced to 2 Years Prison in South Korea—Far Lighter Than Expected?",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "韓国裁判所は旧統一教会（世界平和統一家庭連合）の総裁・韓鶴子被告に懲役2年の判決を言い渡した。韓国前大統領の妻への金品供与や政治資金法違反などが罪状。求刑が懲役13年だったのに対し、実刑はその6分の1以下となり、減刑幅の大きさが注目される。同教会は韓国と日本で社会問題化している。"
+  },
+  {
+   "slug": "2026-09-01-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-11.html",
+   "title": "ネパール土石流、死者919人で行方不明4793人…なぜこれほどの大惨事に？",
+   "title_en": "Nepal Landslide Kills 919, 4,793 Still Missing: What Caused This Catastrophe?",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "ネパールと中国の国境付近で発生した大規模な土石流により、両国で919人の死亡が確認され、4700人以上が依然として行方不明となっている。ネパール当局によると、中部の水力発電所周辺で複数のトンネルが影響を受けており、今後も被害状況の詳細が明らかになる見通し。地形的・気象的な要因が重なった可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-01-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-10.html",
+   "title": "イラン、米空軍基地に報復攻撃を敢行　中東情勢が再び緊迫化",
+   "title_en": "Iran Strikes U.S. Military Base in Major Escalation of Middle East Tensions",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "イランが米国の空軍基地に対して報復攻撃を実施した。地域の政治的緊張の高まりを背景とした今回の軍事行動は、中東情勢のさらなる悪化を招く可能性がある。国際社会は事態の拡大を懸念しており、今後の対応が注視されている。"
+  },
+  {
+   "slug": "2026-09-01-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-9.html",
+   "title": "ジョコビッチなぜ全米OP初戦敗退？テニス界の予想外の波乱",
+   "title_en": "Djokovic's Shocking First-Round Exit at US Open: What Went Wrong?",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "テニスの四大大会・全米オープンで、世界的なトップ選手のノバク・ジョコビッチが初戦で敗退するという波乱が起きた。グランドスラムでの早期敗退は近年では珍しく、テニス界に衝撃が走っている。パフォーマンス低下の要因や今後の影響について注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-01-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-8.html",
+   "title": "バレー女子主将が帰国会見で謝罪　一体何があった？",
+   "title_en": "What Happened? Japanese Women's Volleyball Team Captain Apologizes at Press Conference",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "バレーボール女子代表チームが帰国し、主将が会見で謝罪する事態となった。国際大会での成績不振や内部トラブルなど、チームの問題が浮き彫りになった形。選手らの言及内容から、今後の体制改善や心構えの見直しが急務とされている状況が明らかになった。"
+  },
+  {
+   "slug": "2026-09-01-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-7.html",
+   "title": "水谷八重子さん逝去、昭和の大女優が歩んだ波乱万丈の人生とは",
+   "title_en": "A Legendary Showa Actress: Remembering Yaeko Mizutani's Remarkable Career",
+   "category": "エンタメ",
+   "published": "2026-09-01",
+   "summary": "昭和を代表する女優・水谷八重子さんが亡くなられました。舞台から映画、テレビドラマまで幅広く活躍し、数多くの作品で存在感を示してきた大ベテラン。長年の芸能活動を通じて、日本の演劇界と映像作品に大きな足跡を残された方の訃報です。"
+  },
+  {
+   "slug": "2026-09-01-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-6.html",
+   "title": "時速30km制限の「生活道路」って実際どこ？警察も住民も混乱中",
+   "title_en": "Where exactly are Japan's 30 km/h 'residential roads'? Everyone seems confused",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "警察庁が生活道路での法定速度を30km/hに引き下げる施策を推進している。この「生活道路」の明確な定義が曖昧で、実際の運用では警察と市民の間で認識にズレが生じているという。安全性向上の意図は理解できるが、具体的にどの道路が対象なのか、ドライバーにとって分かりやすい基準が求められている状況だ。"
+  },
+  {
+   "slug": "2026-09-01-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-5.html",
+   "title": "ホンダと日産が手を組んだ理由とは？次世代車OS共同開発で自動車業界はどう変わる",
+   "title_en": "Honda and Nissan's Strategic Bet: Could Joint OS Development Change the Auto Industry?",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "ホンダと日産が電動車の中核となる次世代車載OSの共同開発に乗り出す。両社は技術開発の効率化とコスト削減を狙いとしており、急速に進む電動化・自動運転化への対応を加速させる戦略だ。競争力強化に向けた業界再編の動きとも言える。"
+  },
+  {
+   "slug": "2026-09-01-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-4.html",
+   "title": "ココイチがハウス食品から売却検討？創業40年超の人気カレーチェーンに何が起きている",
+   "title_en": "Is CoCo Ichibanya Being Sold Off? What's Happening to Japan's Iconic 40-Year-Old Curry Chain",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "ハウス食品がカレーチェーン大手のココイチ（CoCo壱番屋）の売却を検討していることが明らかになった。同社は経営資源の最適配分と事業ポートフォリオの見直しを進めており、非中核事業の整理を視野に入れているとみられる。飲食事業の採算性や市場環境の変化が背景にあると考えられる。"
+  },
+  {
+   "slug": "2026-09-01-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-3.html",
+   "title": "全教科でAI学習が必須に？文科省の新指導要領素案が波紋",
+   "title_en": "Japan's New Curriculum Brings AI Education to Every Subject—What Does This Mean for Students?",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "文部科学省が新しい学習指導要領の素案を発表し、全ての教科にAIに関する記述を盛り込む方針を示した。プログラミング教育に限らず、国語や社会、理科など幅広い科目でAIの仕組みや活用法を学ばせることで、デジタル社会への適応力を育成する狙い。2030年代の実装を目指すとみられている。"
+  },
+  {
+   "slug": "2026-09-01-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-2.html",
+   "title": "あなたのAIは大丈夫？新機能追加で個人情報が流出する危険性",
+   "title_en": "Is Your AI Safe? New Features Come With Data Privacy Risks",
+   "category": "IT",
+   "published": "2026-09-01",
+   "summary": "AIに新たな機能が追加される際、セキュリティ対策が不十分なままリリースされ、ユーザーの個人情報や入力データが流出するリスクが高まっているという。便利さを優先するあまり、プライバシー保護が後回しになる傾向が指摘されており、利用者側も注意が必要な状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-01-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-1.html",
+   "title": "9月は食品値上げ4900品目超　ことし最多に。10月も3000品目予定で家計が悲鳴",
+   "title_en": "Food Prices Soar: Over 4,900 Products to Increase in September Alone - Year's Highest Monthly Surge",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "民間調査会社の集計により、9月に値上げされる食品が4900品目を超えることが判明。これは2026年1月以降で最も多い月間値上げ数となる。10月も3000品目を超える値上げが予定されており、消費者の家計負担が急速に増加する見込み。原材料費やエネルギーコストの上昇が背景にある。"
+  },
+  {
+   "slug": "2026-09-01-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-0.html",
+   "title": "若者の3人に1人が「結婚するつもりない」…なぜ結婚離れが加速するのか",
+   "title_en": "One-Third of Young Japanese Say They Have No Plans to Marry—What's Driving the Shift?",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "若い世代の結婚観が大きく変わっている。最新の調査によると、35%の若者が結婚するつもりがないと回答した。経済的不安、キャリア重視、結婚に対する価値観の多様化など、結婚離れの背景には複数の要因が指摘されている。少子高齢化が進む中、社会全体への影響が懸念されている。"
+  },
   {
    "slug": "2026-08-31-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-08-31-19.html",
