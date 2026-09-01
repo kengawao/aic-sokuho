@@ -2,8 +2,198 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 945,
+ "count": 964,
  "articles": [
+  {
+   "slug": "2026-09-01-60",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-60.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-60.html",
+   "title": "回転寿司が走ってくる時代到来？「動く寿司屋」で外食の未来が変わるのか",
+   "title_en": "Sushi is Coming to You: Will Moving Conveyor Belt Sushi Restaurants Revolutionize Dining?",
+   "category": "コラム",
+   "published": "2026-09-01",
+   "summary": "回転寿司の概念を覆す新しい業態が登場。寿司屋そのものが移動して客のもとへ向かうという、ある意味逆転の発想。従来の「客が店に行く」という常識を打ち破り、利便性と話題性で新たな市場を狙っているようだ。果たしてこのビジネスモデルは定着するのか、業界関係者からも注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-01-59",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-59.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-59.html",
+   "title": "JOC、5億円の追加納税　オリンピック委員会の税務処理に誤り発覚",
+   "title_en": "JOC Admits 500 Million Yen Tax Miscalculation, Forced to File Amended Return",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "日本オリンピック委員会（JOC）が昨年度の決算における法人税計算の誤りを理由に、約5億円の修正申告と追加納税を行うことを発表した。税務上の計算ミスが組織レベルで発生していたことになり、ガバナンス体制の実効性が問われる事態となっている。"
+  },
+  {
+   "slug": "2026-09-01-58",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-58.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-58.html",
+   "title": "日米が宇宙ビジネスで覚書締結、何が変わる？民間企業の参入拡大へ",
+   "title_en": "Japan and US Sign Space Business Partnership—What's Next for Commercial Space?",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "日本とアメリカが宇宙産業の協力を深める覚書に調印した。衛星通信、宇宙資源開発、民間ロケット産業など複数の分野で連携を強化し、官民一体で宇宙ビジネスの拡大を目指す動き。両国の企業が国際競争力を持つ体制構築が狙い。"
+  },
+  {
+   "slug": "2026-09-01-57",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-57.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-57.html",
+   "title": "note、ピクシブなど大型プラットフォーム企業が「特定プラットフォーム事業者」に指定へ。何が変わる？",
+   "title_en": "Why Are Japan's Creator Platforms Like Note and Pixiv Facing New Digital Regulations?",
+   "category": "IT",
+   "published": "2026-09-01",
+   "summary": "デジタルプラットフォーム企業に対する規制が強化される。noteやピクシブなど、ユーザー企業間の取引仲介機能を持つ大規模事業者が「特定プラットフォーム事業者」として法的指定を受けることになった。透明性向上やアルゴリズム開示などの義務が課される見通しで、クリエイター経済やシェアリングサービス業界への影響が注視されている。"
+  },
+  {
+   "slug": "2026-09-01-56",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-56.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-56.html",
+   "title": "ポケカがアニメ映画化される理由、TCGブームの先にある戦略とは",
+   "title_en": "Why Pokémon Trading Card Game Became an Anime Film: Strategy Behind TCG Adaptation",
+   "category": "エンタメ",
+   "published": "2026-09-01",
+   "summary": "ポケモンカードゲーム（ポケカ）がアニメ映画の題材として選ばれるニュースについて、その背景を分析する記事。転売問題や品薄を経験しながらも、世界的な市場拡大とファン層の多様化により、映画化による新規層開拓と既存ファン層の深掘りが狙われている。単なるキャラクタービジネスではなく、TCGそのものへの関心を映像化することの意味が問われている。"
+  },
+  {
+   "slug": "2026-09-01-55",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-55.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-55.html",
+   "title": "住宅地のすぐそばに弾薬庫？キーウ攻撃で37人死亡、ウクライナ当局が「重大過失」を捜査",
+   "title_en": "37 Dead After Ammo Depot Hit Near Kyiv—Why Was a Military Warehouse So Close to Homes?",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "ウクライナの首都キーウ近郊で、ロシアのドローン攻撃により軍の弾薬庫が被弾し、37人が死亡した。約400人が避難を余儀なくされた。問題は、この武器庫が住宅地のすぐ近くに設置されていたこと。ウクライナ当局は規則違反の可能性を調査している。同地域では7月にも同様の被害が発生しており、軍事施設の配置基準が問われている。"
+  },
+  {
+   "slug": "2026-09-01-54",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-54.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-54.html",
+   "title": "30年の謎が解ける。ヒップホップ史上最大の事件「2パック殺害」、ついに犯人有罪評決",
+   "title_en": "30-Year Mystery Solved: 2Pac's Killer Finally Convicted After Three Decades",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "1996年にラスベガスで射殺された米ラッパー・2パック（トゥパック・シャクール）の殺人事件で、30年近い時間を経てようやく有罪評決が出た。元ギャングリーダーのドゥエイン・デイヴィス被告が殺人罪で有罪とされたもの。ヒップホップ文化の歴史を揺るがせた未解決事件の決着により、ファンからは様々な反応が寄せられている。"
+  },
+  {
+   "slug": "2026-09-01-53",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-53.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-53.html",
+   "title": "米陸軍トップが突然辞表提出、何が起きた？",
+   "title_en": "US Army Secretary Steps Down Abruptly—What's Behind the Resignation?",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "米国のドリスコル陸軍長官が辞表を提出したことが報道されました。詳細な辞任理由は明かされていませんが、米軍内の人事や組織運営に関わる何らかの問題が背景にあるとみられます。陸軍の最高指揮官の交代は軍の方針転換や組織体制に影響を与える可能性があります。"
+  },
+  {
+   "slug": "2026-09-01-52",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-52.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-52.html",
+   "title": "ネパール・中国で千人超の犠牲者 土石流災害の深刻な被害状況とは",
+   "title_en": "Over 1,000 Dead in Nepal-China Landslide: What We Know About This Massive Disaster",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "ネパールと中国の境界地域で発生した土石流により、千人を超える死傷者が報告されている。この地域は急峻な地形と降水量が多く、土砂災害のリスクが高い。国際的な支援体制が動き始めており、両国の被災者救援と復興支援が急務となっている。"
+  },
+  {
+   "slug": "2026-09-01-51",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-51.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-51.html",
+   "title": "米FTCと22州がアマゾンを一斉提訴　何が問題なのか？",
+   "title_en": "Why Is the U.S. Government Suing Amazon? Here's What You Need to Know",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "米連邦取引委員会（FTC）と22の州がアマゾンに対して提訴した。独占禁止法違反の疑いで、プラットフォーム上での不公正な商慣行が焦点となっている。アマゾンは市場支配力を乱用し、マーケットプレイスの出品者に対する差別的な扱いや、消費者に対する不透明な料金体系などが指摘されている。"
+  },
+  {
+   "slug": "2026-09-01-50",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-50.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-50.html",
+   "title": "メッシ39歳、アルゼンチン代表引退表明　「ささげられるものは何も残っていない」の真意とは",
+   "title_en": "Messi Retires from Argentina at 39: \"I Have Nothing Left to Give\"",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "サッカー史上最高峰の選手の一人、リオネル・メッシが8月31日にアルゼンチン代表からの引退を正式に発表した。39歳の彼は「つらい決断」としながらも「その時が来た」と述べ、代表チームに「ささげられるものは何も残っていない」とコメント。2022年のワールドカップ優勝という悲願達成の後、彼の代表としての役割は一区切りを迎えた。"
+  },
+  {
+   "slug": "2026-09-01-49",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-49.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-49.html",
+   "title": "ネパール土石流、死者1000人超・行方不明4400人。心のケアまで必要な被災者6万5000人の現実",
+   "title_en": "Over 1,000 Dead in Nepal Landslide: 65,000 Need Aid as Psychological Support Becomes Critical",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "ネパールと中国の国境付近で発生した大規模な土石流により、死亡確認者が1019人に達した。現在も4400人以上の行方不明者捜索が進行中で、国連によると約6万5000人が水や食糧などの支援を必要としている状況。被災地では救助活動だけでなく、心理的トラウマへの対応も課題として浮上している。"
+  },
+  {
+   "slug": "2026-09-01-48",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-48.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-48.html",
+   "title": "伊達みきおが脳梗塞で休養、脳梗塞ってどんな病気？前兆は見落としやすい",
+   "title_en": "Comedy Star Date Mikio Takes Medical Leave for Stroke—What You Need to Know About Cerebral Infarction",
+   "category": "エンタメ",
+   "published": "2026-09-01",
+   "summary": "お笑いコンビ・サンドウィッチマンの伊達みきおが脳梗塞により休養することが報じられました。脳梗塞は脳の血管が詰まることで脳に血液が届かなくなる病気で、日本の三大死因の一つです。本記事では脳梗塞がどのような疾患であるか、その症状や予防方法について解説します。著名人の発症報道を機に、多くの人が自分たちの脳卒中リスクについて関心を持つようになっています。"
+  },
+  {
+   "slug": "2026-09-01-47",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-47.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-47.html",
+   "title": "日本人宇宙飛行士の先駆者・秋山豊寛さん逝去 90年の歴史的飛行から30年以上",
+   "title_en": "Pioneering Japanese Astronaut Toyohiro Akiyama Passes Away: Reflecting on His Historic 1990 Space Mission",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "TBS記者出身で、1990年にソビエト連邦のソユーズで宇宙飛行を実現した秋山豊寛さんが亡くなられました。日本人による初の宇宙飛行であり、宇宙報道の先駆けとなった業績は宇宙開発史に大きな足跡を残しています。"
+  },
+  {
+   "slug": "2026-09-01-46",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-46.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-46.html",
+   "title": "大坂なおみ、全米OPで奇抜な衣装で話題に　ファッションと競技力の両立は可能か",
+   "title_en": "Naomi Osaka Turns Heads with Bold Fashion at US Open: Can Athletes Balance Style with Performance?",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "テニスの大坂なおみが全米オープンで派手な衣装を着用し、注目を集めている。独特のファッションセンスで知られる大坂が、どのような意図でこうした衣装を選択したのか、また競技パフォーマンスへの影響について関心が高まっている。"
+  },
+  {
+   "slug": "2026-09-01-45",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-45.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-45.html",
+   "title": "キユーピー マヨネーズ値上げへ　家計への影響は？",
+   "title_en": "Kewpie Raises Mayonnaise Prices: What Does This Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "キユーピーがマヨネーズなど主力商品の値上げを発表した。原料費や製造コストの上昇が主な理由とされている。消費者の家計に直結する食卓の必需品だけに、値上げが家計管理に与える影響が注視されている。"
+  },
+  {
+   "slug": "2026-09-01-44",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-44.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-44.html",
+   "title": "長期金利が30年ぶりに3%到達、家計と企業に何が起きる?",
+   "title_en": "Japan's Long-Term Interest Rate Hits 3% for First Time in 30 Years - What Does This Mean for You?",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "日本の長期金利が一時的に3%の水準に達し、約30年ぶりの高さとなった。これは日銀の金融緩和政策の修正や世界的な金利上昇の影響を受けたもの。住宅ローン金利の引き上げや企業の借入コスト増加など、家計と企業経営に広がる影響が懸念されている。"
+  },
+  {
+   "slug": "2026-09-01-43",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-43.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-43.html",
+   "title": "台風24号が発生、週後半は大雨の可能性。今のうちに準備すべきことは？",
+   "title_en": "Typhoon No. 24 Forms, Heavy Rain Expected Mid-Week. What Should You Prepare Now?",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "台風24号が発生し、週後半にかけて日本列島に接近する可能性が高まっています。気象庁の予報によると、影響を受ける地域では大雨や強風への警戒が必要です。今後の進路と被害予測について、最新情報をご紹介します。"
+  },
+  {
+   "slug": "2026-09-01-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-42.html",
+   "title": "命を預ける最後の砦で接続ミス…ECMO患者が重体に、医療現場で何が起きた？",
+   "title_en": "ECMO Connection Error Leaves Patient Critical: What's Really Failing in Japan's Healthcare?",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "人工心肺装置ECMOの接続作業中にエラーが発生し、患者が重篤な状態に陥る事故が報告された。ECMOは心肺機能が極度に低下した患者の最後の治療手段として使用される装置。接続ミスのような人為的ミスが致命的な結果をもたらすリスクが改めて浮き彫りになり、医療機関における安全管理体制と人員教育の充実が急務とされている。"
+  },
   {
    "slug": "2026-09-01-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-41.html",
