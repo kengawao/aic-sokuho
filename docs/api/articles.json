@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 964,
+ "count": 985,
  "articles": [
+  {
+   "slug": "2026-09-02-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-20.html",
+   "title": "二宮和也が石川佳純と卓球対決→結果が予想外すぎてワロタ",
+   "title_en": "Arashi's Kazunari Ninomiya Takes On Table Tennis Champion Yoshimura Ishikawa—The Unexpected Result Is Hilarious",
+   "category": "コラム",
+   "published": "2026-09-02",
+   "summary": "嵐の二宮和也さんが、卓球の石川佳純選手と対戦するという、一見ミスマッチに見える企画が実現。プロ選手相手に素人が挑む緊張感満載の対決の模様が話題に。果たして二宮さんはどこまで渡り合えたのか、その結果に注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-02-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-19.html",
+   "title": "高木美帆の国民栄誉賞、実は包丁も贈呈される？スポーツ選手への副賞の実態とは",
+   "title_en": "What's Inside Japan's National Honor Award? Olympic Skater Maho Takagi Gets an Unexpected Gift",
+   "category": "スポーツ",
+   "published": "2026-09-02",
+   "summary": "スピードスケートの高木美帆選手が国民栄誉賞を受賞する際、賞状や盾といった通常の栄誉物に加えて、実用的な包丁が副賞として贈呈されることが明らかになった。この異例の措置は、選手の実生活での活用を想定した新しい取り組みとして注目を集めている。"
+  },
+  {
+   "slug": "2026-09-02-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-18.html",
+   "title": "SBエナジー、米国上場申請へ。ソフトバンクの再生可能エネルギー事業が世界舞台へ",
+   "title_en": "SB Energy Files for US IPO: SoftBank's Renewable Energy Unit Eyes Global Stage",
+   "category": "経済",
+   "published": "2026-09-02",
+   "summary": "ソフトバンクグループの子会社であるSBエナジーが米国市場でのIPO（新規上場）を申請した。同社は国内で太陽光・風力発電事業を手がける大手企業で、米国での上場により国際的な資金調達と事業拡大を目指す。脱炭素社会への転換が加速する中、再生可能エネルギー企業の海外展開が注目されている。"
+  },
+  {
+   "slug": "2026-09-02-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-17.html",
+   "title": "Googleマップがアメリカ湖を『湖』として認識できなくなった？地図データの不可解な変更の真相",
+   "title_en": "Why Did Google Maps Reclassify a Major U.S. Lake? The Geographic Data Mystery",
+   "category": "IT",
+   "published": "2026-09-02",
+   "summary": "Googleマップ上で、アメリカの特定の湖が表示データから削除されるか、表示形式が変更される事象が報告されている。地理情報の正確性を重視するユーザーから、データベースの更新プロセスやAIによる自動分類の問題ではないかという指摘が上がっており、オープンストリートマップなど他の地図サービスとの表示の乖離も明らかになりつつある。"
+  },
+  {
+   "slug": "2026-09-02-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-16.html",
+   "title": "体操の「誠お兄さん」が大学の特任助教に就任、タレント活動と研究の両立は可能か？",
+   "title_en": "NHK Gymnastics Host 'Makoto Oneesan' Appointed as Special Assistant Professor: Can Talent Work and Academia Coexist?",
+   "category": "スポーツ",
+   "published": "2026-09-02",
+   "summary": "NHK体操講座の人気講師として知られる「誠お兄さん」が、大学の特任助教に就任することが明らかになった。タレント兼研究者という異例のキャリアパスとなる同氏の就任により、体操教育の専門性と大衆向け発信のバランスをどう取るのかが注目される。タレント活動との両立や、大学での研究テーマについての詳細はまだ不明だが、体操界における学問的価値向上の象徴となる可能性がある。"
+  },
+  {
+   "slug": "2026-09-02-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-15.html",
+   "title": "ヤクルト・石川雅規が今季限りで引退へ 怪我と闘い続けた21年間の現役生活に幕",
+   "title_en": "Yakult's Ishikawa Masaki Retires After 21 Years: A Shoulder Injury Ends the Career of a Veteran Left-Hander",
+   "category": "スポーツ",
+   "published": "2026-09-02",
+   "summary": "東京ヤクルトスワローズの石川雅規投手が今季限りで現役を引退することを表明した。左肩の怪我の影響で今シーズンは登板機会が限定的となっていた。1000試合出場を誇る球界の大ベテランが、長年の課題だった故障と向き合いながら続けてきたキャリアに区切りをつけることになる。"
+  },
+  {
+   "slug": "2026-09-02-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-14.html",
+   "title": "保守派長官も反対したのに…米最高裁がトランプのホワイトハウス宴会場建設を認可",
+   "title_en": "Supreme Court Approves Trump's Whitehouse Ballroom Despite Conservative Chief Justice's Opposition",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "米最高裁はトランプ政権によるホワイトハウスへのボールルーム新設計画を認める判決を下した。5対4の僅差の判断で、下級審が違法として中止させた地上部分の建設が進められることになる。保守派のロバーツ長官まで反対意見を述べ、議会承認の欠如が法的問題となる可能性を指摘している。"
+  },
+  {
+   "slug": "2026-09-02-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-13.html",
+   "title": "仕事を増やしたくない？韓国警官が失踪届を受理しながら捜査打ち切り、大統領激怒で警察改革へ",
+   "title_en": "Korean Police Officer Ignores Missing Person Cases to Avoid Extra Work; President Promises Reform",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "韓国の済州島で警官が、業務負担を増やさないという理由で受理した失踪届の捜査を打ち切っていた問題が明らかになった。容疑者は容疑を認めており、当局は訴追を決定。この事件を受けて、大統領は警察組織全体の改革を約束するなど、韓国の行政機関における職務怠慢問題への対応が急務となっている。"
+  },
+  {
+   "slug": "2026-09-02-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-12.html",
+   "title": "650億バレルの原油をアメリカが管理？トランプ大統領が発表したヴェネズエラ取引の真相",
+   "title_en": "Is America Now Managing Venezuela's 65 Billion Barrels? Trump's Controversial Oil Deal Explained",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "トランプ米大統領がヴェネズエラとの間で、同国の膨大な石油資源をアメリカが管理することで合意したと発表した。ヴェネズエラは世界有数の埋蔵量を持つ産油国だが、経済危機で採掘が低迷している。詳細は明かされていないものの、この取引には国際法や主権の問題、地政学的な影響など、複数の懸念が生じている。"
+  },
+  {
+   "slug": "2026-09-02-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-11.html",
+   "title": "日本企業がインドに殺到する理由、中国リスクの急速な高まりが背景に",
+   "title_en": "Why Japanese Companies Are Rushing Into India as China Risks Deepen",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "日本企業がインドへの投資を急速に強化している。国内市場の人口減少による需要縮小と、中国でのビジネスリスク増大が主な要因。地政学的リスクやサプライチェーンの多様化を狙い、今後もこの動きが加速する見通しが強まっている。"
+  },
+  {
+   "slug": "2026-09-02-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-10.html",
+   "title": "死者1000人超、600人以上が土に埋もれたトンネル内に…ネパール土石流災害の絶望的状況",
+   "title_en": "Over 1,000 Dead in Nepal Landslide: 600+ Trapped in Power Plant Tunnel as Rescue Operations Continue",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "ネパールと中国・チベット国境沿いで発生した大規模な土石流により、死者が1000人を超えた。トリシュリ川沿いの水力発電所では、泥が流入したトンネル内に従業員600人以上が閉じ込められており、家族の望みをつなぎながら救出作業が続いている。行方不明者は約4500人に上っており、被害規模の拡大が懸念されている。"
+  },
+  {
+   "slug": "2026-09-02-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-9.html",
+   "title": "伊勢神宮近くの商店街火災、1日半経っても完全鎮火できず…何が鎮火を妨げているのか",
+   "title_en": "Major Fire Near Ise Shrine Still Not Fully Extinguished After 36+ Hours—What's Preventing Complete Containment?",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "8月31日に三重県の伊勢神宮周辺の商店街で発生した火事は、9月2日午前の時点でも完全に消し止められていない。夜通し消火活動が続けられているにもかかわらず、1日半以上経過した現在も焼け跡から火が出ている状況が続いている。"
+  },
+  {
+   "slug": "2026-09-02-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-8.html",
+   "title": "10年国債3％超は何を意味する？30年ぶりの大台突破で家計と企業に何が起きるのか",
+   "title_en": "Japan's 10-Year Bond Yield Hits 3% for First Time in 30 Years: What Does It Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-02",
+   "summary": "9月1日の債券市場で長期金利が急騰し、10年国債の利回りが約30年ぶりに3％を超えました。この上昇は日銀の金融政策スタンスの転換や財政状況への市場の警戒感が背景にあるとみられます。金利上昇は住宅ローンや企業融資に影響を与える可能性があり、今後の日銀の対応と政府の財政運営が注視されています。"
+  },
+  {
+   "slug": "2026-09-02-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-7.html",
+   "title": "医師が妻の死後に語った言葉とは？喪失が専門家に与えた予想外の影響",
+   "title_en": "What Did a Doctor Say After Losing His Wife? The Unexpected Impact of Grief on a Medical Professional",
+   "category": "コラム",
+   "published": "2026-09-02",
+   "summary": "妻を亡くした医師が、個人的な喪失経験と医療現場での経験を通じて、グリーフ（悲しみ）が人間の心身に与える影響について語る。医学知識を持つ立場からも、理屈では割り切れない悲しみの深さを改めて認識し、患者への向き合い方も変わったという内容。医療従事者も人間であることを改めて考えさせる。"
+  },
+  {
+   "slug": "2026-09-02-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-6.html",
+   "title": "くら寿司の景品問題、X投稿で炎上→企業が説明に乗り出す 何が起きた？",
+   "title_en": "Kura Sushi Prize Controversy Spreads on X, Company Issues Statement—What Happened?",
+   "category": "エンタメ",
+   "published": "2026-09-02",
+   "summary": "くら寿司の景品に関するX（旧Twitter）の投稿が拡散し、話題となっている。同社が景品についての説明を発表した。投稿内容や企業の対応、ネット上での反応など、一連の経緯と背景について、消費者側の期待値と企業のコミュニケーション方法の課題が浮かび上がっている。"
+  },
+  {
+   "slug": "2026-09-02-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-5.html",
+   "title": "大手クラウドファンディング『みんなで大家さん』が事実上終了へ…投資家から悲鳴の声",
+   "title_en": "Major Real Estate Crowdfunding Platform 'Minna de Oyasan' to Effectively Shut Down—Investors Left in Distress",
+   "category": "経済",
+   "published": "2026-09-02",
+   "summary": "不動産投資型クラウドファンディング大手の「みんなで大家さん」が事実上の終了を迎えることになった。同社は過去に複数の法令違反で行政処分を受けており、運営継続が困難になったと見られる。多くの一般投資家が出資していただけに、今後の対応が注視される。"
+  },
+  {
+   "slug": "2026-09-02-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-4.html",
+   "title": "フラット35が9月に3.46%まで上昇、住宅ローン利用者の家計負担はどうなる？",
+   "title_en": "Japan's Flat35 Mortgage Rate Hits 3.46% in September—What Does This Mean for Home Buyers?",
+   "category": "経済",
+   "published": "2026-09-02",
+   "summary": "長期固定金利型住宅ローン「フラット35」の9月適用金利が3.46%に設定されました。金利水準の変動は、これからマイホーム購入を検討している層や既存ローン利用者の返済計画に直結する重要な指標として注目されています。住宅市場全体への影響が懸念される中、購入タイミングの判断が難しくなりそうです。"
+  },
+  {
+   "slug": "2026-09-02-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-3.html",
+   "title": "防災グッズの進化がすごい。ラーメンの缶詰まで登場、もう「非常食=まずい」の時代は終わった",
+   "title_en": "Emergency Food Evolution: Canned Ramen Changes the Game. Say Goodbye to the 'Disaster Food Tastes Bad' Era",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "防災グッズの多様化が進んでいる。従来の乾パンやようかんといった非常食に加え、ラーメンの缶詰など実食しても美味しい商品が次々と開発されている。災害時の心理的負担を軽減し、栄養面でも充実させる取り組みが広がっており、防災意識の向上と結びついている。"
+  },
+  {
+   "slug": "2026-09-02-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-2.html",
+   "title": "防災庁11月創設、でも課題は山積み…実際に機能するのか",
+   "title_en": "Japan's New Disaster Prevention Agency Launches in November—But Can It Deliver?",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "政府が11月の創設を予定している防災庁について、組織体制や予算配分、既存機関との連携など多くの課題が残されていることが明らかになった。災害対応の効率化を目指す新組織だが、実運用に向けた調整が急速に進む必要がある状況である。"
+  },
+  {
+   "slug": "2026-09-02-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-1.html",
+   "title": "青森県弘前市で1時間90mm の豪雨 あなたの地域は大丈夫？",
+   "title_en": "Is Your Area Safe? Record-Breaking 90mm Rain Hits Hirosaki, Aomori",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "青森県弘前市で記録的な大雨が発生し、1時間に90mmという強い降水量が観測されました。このレベルの雨は道路冠水や土砂災害のリスクが高まる危険な状況です。気象庁は該当地域に警戒を呼びかけており、住民に対して適切な避難判断が求められています。"
+  },
+  {
+   "slug": "2026-09-02-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-0.html",
+   "title": "米軍がイラン革命防衛隊を攻撃　中東情勢さらに緊迫、今後どうなる？",
+   "title_en": "U.S. Military Strikes Iranian Revolutionary Guards: What Happens Next?",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "米軍がイランの革命防衛隊を標的とした攻撃を実施した。中東地域の緊張がさらに高まる中での軍事行動となり、イラン側の報復の可能性や地域の安定性に懸念が生じている。米国とイランの対立がエスカレートする局面を迎えている。"
+  },
   {
    "slug": "2026-09-01-60",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-60.html",
