@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 924,
+ "count": 945,
  "articles": [
+  {
+   "slug": "2026-09-01-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-41.html",
+   "title": "ネパール母子、24年ぶりの再会！離ればなれの人生ドラマに涙が止まらない",
+   "title_en": "Nepalese Mother and Child Reunite After 24 Years Apart: A Real-Life Drama That'll Make You Cry",
+   "category": "コラム",
+   "published": "2026-09-01",
+   "summary": "ネパールで長年離ればなれだった母親と子どもが、数十年ぶりに再会したという感動的なストーリー。想像を絶する苦労を経ての劇的な再会の瞬間に、多くの人が涙腺崩壊必至。人生何が起こるかわからないというリアルな物語です。"
+  },
+  {
+   "slug": "2026-09-01-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-40.html",
+   "title": "ソニーG傘下35社がAnthropicを提訴？AI企業との知的財産戦争が本格化か",
+   "title_en": "Sony Group's 35 Subsidiaries Sue Anthropic: Is the AI Copyright Battle Escalating?",
+   "category": "IT",
+   "published": "2026-09-01",
+   "summary": "ソニーグループ傘下の35社がAI企業Anthropicを相手に米国で提訴したと報じられている。詳細な訴訟理由は未公開だが、AI学習データの無断利用や知的財産権侵害の可能性が指摘されている。大手企業によるAI企業への集団訴訟は業界内で増加傾向にあり、今後のAI産業規制の方向性を示唆する事例として注目されている。"
+  },
+  {
+   "slug": "2026-09-01-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-39.html",
+   "title": "フランスにドラゴンボール施設が建設される？ 現在の進捗状況は",
+   "title_en": "Is Dragon Ball Getting a Major Theme Park in France? Here's What We Know So Far",
+   "category": "エンタメ",
+   "published": "2026-09-01",
+   "summary": "フランスでドラゴンボール関連の大型施設建設計画が報じられている。日本の漫画文化の海外展開が加速する中、欧州での拠点整備が検討されているとみられる。現在のところ計画段階にあり、実現に向けた具体的なタイムラインや投資規模などの詳細は明かされていない状況だ。"
+  },
+  {
+   "slug": "2026-09-01-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-38.html",
+   "title": "ポケカ映画化はなぜ今？アニメ業界が注目するゲーム原作の映像化戦略",
+   "title_en": "Why Now? The Pokémon TCG Movie and the Gaming Industry's IP Strategy Shift",
+   "category": "エンタメ",
+   "published": "2026-09-01",
+   "summary": "ポケットモンスターカードゲーム（ポケカ）を題材としたアニメ映画の製作が進行中であることが明らかになった。ゲーム・TCGの映像化が相次ぐ中、ポケカという数十年の歴史を持つIPをどう映像化するか、業界と視聴者の関心が集まっている。背景には、海外での急速な人気拡大とエンタメ産業全体のIP活用戦略の変化がある。"
+  },
+  {
+   "slug": "2026-09-01-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-37.html",
+   "title": "災害時に日本語が通じない外国人にどう対応する？熊本地震で注目された『やさしい日本語』の可能性",
+   "title_en": "How 'Easy Japanese' Became a Lifeline During the Kumamoto Earthquake: A Solution for Disaster Communication",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "熊本地震の際、災害情報を外国人にも分かりやすく伝える手段として『やさしい日本語』が活用された。複雑な漢字や表現を避け、短くシンプルな文で情報を伝える手法で、日本語学習者だけでなく、聴覚障害者や高齢者にとっても有効な情報提供方法として注目を集めている。防災対策の現場では、多言語対応よりも実装が容易であることが利点とされている。"
+  },
+  {
+   "slug": "2026-09-01-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-36.html",
+   "title": "MLB発祥の「ピッチコム」、ついに日本野球に上陸へ　投手マウンドの革命始まるか",
+   "title_en": "PitchCom Arrives in Japan: Will Smartwatch Technology Revolutionize NPB Next Season?",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "NPB（日本野球機構）が来季から「ピッチコム」の導入を決定。これはメジャーリーグで2022年から運用されている、キャッチャーが腕時計型デバイスを通じてピッチャーに暗号化された指示を送るシステム。盗塁防止と試合時間短縮を両立させるための技術で、日本でも同様の効果が期待されている。"
+  },
+  {
+   "slug": "2026-09-01-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-35.html",
+   "title": "NASAの新型望遠鏡がついに打ち上げ　ダークエネルギーやブラックホールの謎に迫る",
+   "title_en": "NASA's Next-Generation Space Telescope Finally Launches to Unravel Cosmic Mysteries",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "NASAの次世代宇宙望遠鏡がフロリダ州から打ち上げられた。この望遠鏡はダークエネルギーやブラックホール、その他未解明の宇宙現象を観測する目的で設計されており、宇宙の謎解明に向けた重要なプロジェクトとなる。NASA関係者は、このミッションが宇宙科学の歴史において大きな転換点になると期待を寄せている。"
+  },
+  {
+   "slug": "2026-09-01-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-34.html",
+   "title": "米軍がイラン攻撃、7月以来初めて。ミサイル基地が標的に、報復の応酬が加速か",
+   "title_en": "US Strikes Iran Again After Weeks of Silence: Missile Facilities in Hormuz Strait Targeted, Retaliation Cycle Accelerates",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "アメリカ軍は30日、ホルムズ海峡のイラン領ララク島にあるミサイル発射装置2基を攻撃した。7月下旬以降、米軍によるイラン攻撃は今回が初となる。イランの革命防衛隊は死傷者が出たことを発表し、報復を宣言。その後、イラン側がヨルダンのアメリカ関連施設を攻撃したと報じられており、両国間の軍事的緊張が再び高まっている状況だ。"
+  },
+  {
+   "slug": "2026-09-01-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-33.html",
+   "title": "ネパール土石流、死者955人に。なぜ土砂撤去がこんなに困難なのか",
+   "title_en": "Nepal Landslide Death Toll Reaches 955: Why Debris Removal Remains a Critical Challenge",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "ネパール・中国国境付近で発生した大規模土石流により、死者が955人に達した。4400人以上の行方不明者の捜索・救助活動が継続中だが、流出した大量の土砂処理が大きな課題となっている。険しい地形と土砂の規模が復旧作業を複雑にしており、国際的な支援の必要性が高まっている。"
+  },
+  {
+   "slug": "2026-09-01-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-32.html",
+   "title": "イラン、米軍基地への攻撃映像を公開　緊迫する中東情勢、今後どうなる？",
+   "title_en": "Iran Releases Video of Attack on U.S. Military Base—What's Next for the Middle East?",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "イランが米軍基地に対する軍事行動の映像を公開した。これは地域の緊張がさらに高まっていることを示唆しており、米国とイランの対立が具体的な軍事衝突へと発展している可能性を示唆している。映像公開の背景には政治的メッセージの発信という狙いもあるとみられ、今後の中東情勢の行方が注視されている。"
+  },
+  {
+   "slug": "2026-09-01-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-31.html",
+   "title": "米露財務相が直接会談、ウクライナ和平案が協議テーブルに？",
+   "title_en": "US and Russian Finance Ministers Meet: Are Ukraine Peace Talks Back on the Table?",
+   "category": "国際",
+   "published": "2026-09-01",
+   "summary": "アメリカとロシアの財務相が会談を開き、ウクライナ情勢に関連した和平案について協議する見通しが報じられた。両国の経済的な対立が続く中での対話は、紛争解決に向けた動きとして注視される。直接的な交渉チャネルの構築が今後の外交に影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-01-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-30.html",
+   "title": "信組の不祥事相次ぐ、金融庁が検査体制を大幅強化へ。地域金融機関の信頼は回復するのか?",
+   "title_en": "Credit Union Scandals Trigger FSA's Expanded Inspection Push. Can Trust Be Restored?",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "信用金庫における不祥事が相次いだことを受け、金融庁が検査体制の拡充に乗り出す方針を固めた。地域経済を支える信用金庫の経営姿勢や内部管理態勢に対する懸念が高まっており、監督強化を通じた信頼回復が急務となっている。具体的な検査内容の厳格化や検査頻度の増加が検討されている。"
+  },
+  {
+   "slug": "2026-09-01-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-29.html",
+   "title": "三重の商店街が火災でほぼ全焼か 昼間の火事が広がる速度に地元震撼",
+   "title_en": "Major Fire Engulfs Shopping District in Mie: What Happened and Why?",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "三重県内の商店街で火災が発生し、複数の店舗がほぼ全焼したとみられている。昼間の時間帯に発生した火災は急速に延焼し、消防隊が消火活動に当たった。詳細な被害状況や出火原因については現在調査中。地元の商業活動への大きな打撃が懸念されており、今後の復旧に向けた対応が注視されている。"
+  },
+  {
+   "slug": "2026-09-01-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-28.html",
+   "title": "広島カープ・小園海斗が離婚発表、プロ野球選手の私生活が注目される理由とは",
+   "title_en": "Hiroshima Carp's Koazono Kaito Announces Divorce: Why Pro Baseball Players' Personal Lives Matter",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "広島東洋カープの投手・小園海斗が離婚を発表した。同選手は球団の将来を担う若手有望株として期待される存在だっただけに、ファンや関係者の間で驚きの声が上がっている。プロ野球選手の私生活の変化が、成績やチーム運営にどう影響するのかが注視される状況となっている。"
+  },
+  {
+   "slug": "2026-09-01-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-27.html",
+   "title": "SNSで「完璧なママ」を演じる心理とは？心理学者が分析する『キラキラママ投稿』の裏側",
+   "title_en": "The Psychology Behind 'Picture-Perfect' Mom Posts: What Social Media Reveals About Our Inner Lives",
+   "category": "コラム",
+   "published": "2026-09-01",
+   "summary": "SNSで理想的な子育てや家庭生活を発信する「キラキラママ」の投稿が増える中、心理学の専門家がこうした行動の心理背景を分析。承認欲求や自己呈示の動機、現実とのギャップが生み出すストレスなど、投稿者と閲覧者の両方に影響を及ぼす複雑な心理メカニズムが明らかになった。"
+  },
+  {
+   "slug": "2026-09-01-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-26.html",
+   "title": "包丁が売れなくなった？共働き時代に調理の何が変わったのか",
+   "title_en": "Why Are Kitchen Knives Losing Sales in the Era of Dual-Income Households?",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "共働き世帯の増加に伴い、従来の調理器具市場に変化が生じている。特に包丁の販売が減少傾向にあり、時短調理や中食・外食への需要シフト、調理の外部化が進んでいるとみられる。家庭での食事準備のあり方が大きく転換する中で、キッチン用品業界は新たなニーズへの対応を迫られている。"
+  },
+  {
+   "slug": "2026-09-01-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-25.html",
+   "title": "メッシ、代表引退を表明。アルゼンチンの象徴は何を遺すのか",
+   "title_en": "Messi's Retirement from International Football: What Legacy Will He Leave Behind?",
+   "category": "スポーツ",
+   "published": "2026-09-01",
+   "summary": "リオネル・メッシがアルゼンチン代表からの引退を発表した。長年代表を背負い続けた世界最高峰の選手が、キャリアの一区切りを迎える。2022年ワールドカップ優勝という悲願達成から約1年、彼の決断はサッカー界に大きな影響を与えることになる。"
+  },
+  {
+   "slug": "2026-09-01-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-24.html",
+   "title": "核のごみ処分地に経産省が申し入れ。地元住民は「丁寧な対話」求める姿勢も、過去の拒否事例が壁に",
+   "title_en": "Japan's Ministry of Economy Proposes Nuclear Waste Disposal Site Survey. Dialogue with Locals Will Make or Break the Plan",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "経済産業省が茨城県常陸大宮市に対し、高レベル放射性廃棄物の最終処分地選定に向けた第一段階の「文献調査」実施を申し入れました。今後の市の対応が焦点となりますが、過去の同様の取り組みでは自治体からの反発が課題となっており、今回も住民との十分な対話ができるかが重要になると指摘されています。"
+  },
+  {
+   "slug": "2026-09-01-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-23.html",
+   "title": "北海道・東北が大津波に襲われたら？政府が日本海溝巨大地震で本気の訓練を実施",
+   "title_en": "What Would Happen if a Massive Earthquake Hit the Japan and Kuril Trenches? Japan's Government Conducts Large-Scale Disaster Drill",
+   "category": "国内",
+   "published": "2026-09-01",
+   "summary": "9月1日の防災の日に合わせて、政府は日本海溝・千島海溝での巨大地震を想定した総合防災訓練を実施した。北海道と東北地方で甚大な被害が発生するシナリオで、国や地方自治体の担当者が初動対応や相互の連携体制、情報伝達の流れなどを確認。実際の災害時に迅速で効果的な対応ができるよう、課題の洗い出しと改善策の検討が行われた。"
+  },
+  {
+   "slug": "2026-09-01-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-22.html",
+   "title": "長期金利が約30年ぶりの高水準に…あなたの家計と投資に何が起きるのか？",
+   "title_en": "Japan's Long-Term Interest Rates Hit 30-Year High: What Does It Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-01",
+   "summary": "債券市場で10年物国債の利回りが2.955％まで上昇し、1996年10月以来の高水準となりました。これは日本銀行の金融政策の転換や世界的な金利上昇の影響を反映したもので、住宅ローン金利や預金金利など家計の金融商品に大きな波及効果をもたらす可能性があります。"
+  },
+  {
+   "slug": "2026-09-01-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-01-21.html",
+   "title": "9月なのに猛暑続く…今年の残暑がヤバい理由",
+   "title_en": "September Heat Wave: Why This Year's Lingering Summer Is So Harsh",
+   "category": "健康",
+   "published": "2026-09-01",
+   "summary": "秋雨前線が例年より北に位置するため、9月も厳しい残暑が続く見込みとなっている。気象庁の予報では、全国的に気温が平年を上回る日が増加し、熱中症リスクが高まるという警戒が強まっている。秋口での体調管理が重要になりそうだ。"
+  },
   {
    "slug": "2026-09-01-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-01-20.html",
