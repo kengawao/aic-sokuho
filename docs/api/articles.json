@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 985,
+ "count": 1006,
  "articles": [
+  {
+   "slug": "2026-09-02-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-41.html",
+   "title": "新学期を前に水族館が『きえないで』と悲鳴？なぜ生き物たちは学校を恐れるのか",
+   "title_en": "As School Starts, Aquarium Pleads 'Don't Disappear'—Are the Fish Getting Lonely?",
+   "category": "コラム",
+   "published": "2026-09-02",
+   "summary": "新学期シーズンに水族館が『きえないで』というメッセージを投稿し、話題となっています。子どもたちが学校に戻る時期に、施設の来園者減少への危機感をユーモアたっぷりに表現したもの。生き物たちのキャラクターを使った切実だけど面白い訴えが、SNS上で拡散されています。"
+  },
+  {
+   "slug": "2026-09-02-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-40.html",
+   "title": "労働不足なのに使わない？日本企業がAI導入で世界に後れを取る理由",
+   "title_en": "Why Japanese Companies Lag Behind in AI Adoption Despite Labor Shortages",
+   "category": "経済",
+   "published": "2026-09-02",
+   "summary": "深刻な人手不足と生産性低下に悩む日本企業は、AIの導入に最適な環境にあるはずだ。しかし現実は、イギリスやアメリカと比べて導入が大幅に遅れている。日本の職場で何がAI活用を妨げているのか、その背景と課題について解説する。"
+  },
+  {
+   "slug": "2026-09-02-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-39.html",
+   "title": "アニマルカフェ、国が動く？動物の福祉問題で初の実態調査へ",
+   "title_en": "Japan's Government to Investigate Animal Cafe Industry Over Welfare Concerns",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "動物とのふれあいを売りにするアニマルカフェの営業実態について、国が初めて本格的な調査に乗り出す方針を示した。ウサギやハリネズミなど小動物との接客時間や飼育環境の実態把握を通じ、動物愛護法との整合性や業界ガイドラインの必要性を検討するとみられる。利用者の満足度向上と動物福祉のバランスをどう取るかが課題となる。"
+  },
+  {
+   "slug": "2026-09-02-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-38.html",
+   "title": "子どもに大人気の「スクイーズ」、実は危険？安全に遊ぶために親が知るべきこと",
+   "title_en": "Squishy Toys Are Everywhere—But Are They Safe? What Parents Really Need to Know",
+   "category": "健康",
+   "published": "2026-09-02",
+   "summary": "モチモチとした感触が人気のスクイーズ玩具について、安全な遊び方が改めて注目されている。製品によっては有害物質の含有や、誤飲・窒息のリスクが指摘されており、消費者庁なども注意喚起を行っている。メーカー品の選定から遊び方の指導まで、親が把握すべき安全情報をまとめた。"
+  },
+  {
+   "slug": "2026-09-02-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-37.html",
+   "title": "なぜ全国の観光地が「小京都」から脱却したいのか？地域ブランド戦略の転換点",
+   "title_en": "Why Are Japan's Tourist Towns Abandoning the 'Little Kyoto' Brand Strategy?",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "全国各地で「小京都」というブランド戦略から脱却しようとする動きが加速している。京都を模倣したイメージから独自の地域特性を打ち出そうとする観光地が増えており、個性化戦略へのシフトが進んでいる。人口減少やインバウンド需要の多様化に対応するため、各自治体は独自の文化資源や景観を前面に出す方針に転換しつつある。"
+  },
+  {
+   "slug": "2026-09-02-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-36.html",
+   "title": "7年ぶり復活のパジェロ、なぜいま三菱は賭けるのか？ SUV市場で生き残り戦略",
+   "title_en": "Why Mitsubishi's Pajero Is Making a Comeback: Can a Legend Survive the SUV Wars?",
+   "category": "経済",
+   "published": "2026-09-02",
+   "summary": "三菱自動車が12月の国内販売に向けて、7年ぶりに復活させる『パジェロ』の新型モデルを公開しました。かつての人気車種を現代の市場ニーズに適応させることで、ブランド価値を強化し、激化するグローバル自動車競争に対抗する狙いです。各メーカーも人気車種の刷新に注力し、ブランド価値向上による差別化競争が加速しています。"
+  },
+  {
+   "slug": "2026-09-02-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-35.html",
+   "title": "フランスがついに動いた！SHEINやTemuに「課金」開始、2030年には1品20ユーロに",
+   "title_en": "France Launches Tax on Ultra-Cheap Fashion: SHEINs and Temu in the Crosshairs",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "フランス政府が中国の激安ファストファッションブランドを抑制するため、課金制度を導入。現在はTシャツ2ユーロ、ジャケット12ユーロから始まり、2030年までに最大20ユーロまで段階的に引き上げる予定。過度な安価商品の流通増加に歯止めをかけることが目的。"
+  },
+  {
+   "slug": "2026-09-02-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-34.html",
+   "title": "前英首相スターマー氏が突然の下院議員辞任宣言、次の総選挙まで残るはずだったのに何が？",
+   "title_en": "Former UK PM Starmer Quits Parliament Unexpectedly—Reversed Position From Months Ago to Focus on International Work",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "イギリスの前首相キア・スターマー氏が、下院議員を辞任すると発表した。国際問題と女性・少女への暴力対策に専念するためとしている。スターマー氏は今年7月に首相を辞任していたが、先の発言では2029年の総選挙まで議員に留まると述べていたため、方針転換となる。"
+  },
+  {
+   "slug": "2026-09-02-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-33.html",
+   "title": "ドイツ空港でロシア製ドローン爆弾が発見、NATO加盟国への直接的な挑発か",
+   "title_en": "Explosive-Laden Drone Found at German Airport: Berlin Points Finger at Russia's Bold Provocation",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "ドイツ政府が、東部ザクセン州の空港で先月発見された爆発物搭載ドローンについて、ロシアが背後にいると公式に発表した。NATO加盟国であるドイツの領土内での武装ドローン発見は、ロシアによる大胆な挑発行為として国際社会に衝撃を与えている。ウクライナ情勢の緊迫化に伴い、欧州での安全保障上の懸念が急速に高まっている。"
+  },
+  {
+   "slug": "2026-09-02-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-32.html",
+   "title": "プーチン大統領が日本に全責任と主張　露日関係悪化の背景は？",
+   "title_en": "Putin Blames Japan for Deteriorating Russia-Japan Relations: What's Behind the Conflict?",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "ロシアのプーチン大統領が、ロシアと日本の関係悪化について日本側に全責任があると述べた。ウクライナ情勢やそれに伴う経済制裁など、国際的な緊張の中でロシア側の主張と日本の対応が対立している状況を反映した発言となっている。"
+  },
+  {
+   "slug": "2026-09-02-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-31.html",
+   "title": "ウクライナ大統領がロシア領空を事実上閉鎖宣言、戦争の新展開は？",
+   "title_en": "Ukraine President Declares Russian Airspace 'Effectively Closed'—What's Next?",
+   "category": "国際",
+   "published": "2026-09-02",
+   "summary": "ウクライナのゼレンスキー大統領がロシアの領空を事実上閉鎖すると宣言しました。これは同国が長距離ミサイルや無人機などを用いた作戦能力を強化する中での発表で、ロシア側への対抗措置として機能する見通しです。紛争の軍事的局面がさらに激化する可能性を示唆しています。"
+  },
+  {
+   "slug": "2026-09-02-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-30.html",
+   "title": "LINEとPayPay連携が夏に延期、何が起きたのか？",
+   "title_en": "LINE and PayPay Delay Summer Partnership: What's Behind It?",
+   "category": "IT",
+   "published": "2026-09-02",
+   "summary": "LINEとPayPayが予定していた今夏の連携が延期されることが明らかになった。両社の統合によるサービス強化が見込まれていたが、技術的な調整や規制対応など複数の課題があるとみられる。今後の進展が注目される。"
+  },
+  {
+   "slug": "2026-09-02-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-29.html",
+   "title": "ヤクルト・石川雅規46歳が現役引退 日本球界を代表する左腕の軌跡とは",
+   "title_en": "End of an Era: Yakult's Masaki Ishikawa Retires at 46 After Legendary Left-Arm Career",
+   "category": "スポーツ",
+   "published": "2026-09-02",
+   "summary": "東京ヤクルトスワローズの石川雅規投手が46歳での現役引退を発表しました。長年にわたり日本プロ野球を支えた左腕投手の決断について、野球ファンから多くの反応が寄せられています。キャリア晩年の活動と今後の動向に注目が集まっています。"
+  },
+  {
+   "slug": "2026-09-02-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-28.html",
+   "title": "ヨルシカが投稿画像のAI疑惑について説明　実際のところどうなの？",
+   "title_en": "Yorushika Addresses AI-Generated Image Controversy: What Really Happened?",
+   "category": "エンタメ",
+   "published": "2026-09-02",
+   "summary": "音楽ユニット・ヨルシカが、SNSに投稿した画像がAI生成ではないかという疑惑に対して公式見解を発表した。ファンからの指摘を受け、制作背景や使用ツールについて詳しく説明することで透明性を重視する姿勢を示した。AIと創作の線引きについて、音楽業界でも議論が深まっている。"
+  },
+  {
+   "slug": "2026-09-02-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-27.html",
+   "title": "もやもや病患者が工夫する日常生活。医学では解決しない「その後」をどう支えるか",
+   "title_en": "Living Beyond Surgery: How Moyamoya Disease Patients Adapt to Life-Changing Aftereffects",
+   "category": "健康",
+   "published": "2026-09-02",
+   "summary": "脳血管が異常に狭くなるもやもや病は、手術後も後遺症との闘いが続く患者が多い。麻痺や言語障害などの症状に向き合いながら、患者たちが工夫する日常生活の工夫や社会的サポートの必要性が改めて注目されている。医学的治療だけでなく、生活全般でのリハビリテーションと心理的サポートが重要な課題となっている。"
+  },
+  {
+   "slug": "2026-09-02-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-26.html",
+   "title": "陸自が攻撃用ドローン初公開、日本の防衛戦略が大きく変わる？",
+   "title_en": "Japan's Military Goes Autonomous: What the New Attack Drone Reveals About Defense Strategy",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "防衛省が無人機の本格導入を推進する中、陸上自衛隊は宮城県での訓練で攻撃用小型無人機を初めて公開しました。侵攻してくる敵への対処を想定した実戦的な訓練で、日本の防衛政策が有人兵器から無人兵器へのシフトを進めている実態が明らかになりました。"
+  },
+  {
+   "slug": "2026-09-02-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-25.html",
+   "title": "わが子の余命、医者でなく他人から聞かされる親の絶望。なぜこんなことが起きるのか",
+   "title_en": "A Parent's Nightmare: Learning Your Child's Prognosis From a Stranger, Not the Doctor",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "重篤な疾患を抱える子どもを持つ親が、医師からではなく第三者から子どもの余命を知らされるという事態が問題となっている。本来は患者と医師が信頼関係の中で共有すべき最も繊細な情報が、不適切なタイミングと方法で伝わることで、患者家族が精神的苦痛を受けているという。医療現場における情報管理と患者・家族への説明責任のあり方が改めて問われている。"
+  },
+  {
+   "slug": "2026-09-02-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-24.html",
+   "title": "上皇さまの葬儀が大幅縮小へ　昭和天皇との違いは何か？",
+   "title_en": "Former Emperor's State Funeral to Be Significantly Scaled Down—What Changed?",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "上皇さまの葬儀について、政府が規模の大幅な縮小を検討していることが明らかになった。昭和天皇の大喪儀と比較して、参列者数や式典の期間を削減する方針。皇室の在り方や国家行事の効率化を巡って、議論が広がっている。"
+  },
+  {
+   "slug": "2026-09-02-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-23.html",
+   "title": "給食時間なのに教員がいない？公立小中の『教員不足』がヤバい状況に",
+   "title_en": "When Teachers Are Missing: Japan's Public Schools Face Staffing Crisis",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "全国の公立小中学校で教員不足が深刻化している。病休や育休の代替要員が確保できず、授業の繰り越しや行事の中止など学校運営に支障が生じているケースが増加。少子化で採用試験の受験者減少や教員志望者の低下が背景にあり、教育現場の負担増加が悪循環を招いている状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-02-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-22.html",
+   "title": "長期金利3%で住宅ローン相談が殺到…今買うべき？それとも待つべき？",
+   "title_en": "Long-Term Interest Rates Hit 3%—Should You Buy a Home Now or Wait?",
+   "category": "経済",
+   "published": "2026-09-02",
+   "summary": "長期金利が3%に上昇したことを受け、住宅ローンに関する相談が金融機関に殺到している。金利上昇局面での購入判断に迷う消費者が増えており、ローン返済額の増加に対する不安が高まっている状況が伝えられている。"
+  },
+  {
+   "slug": "2026-09-02-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-02-21.html",
+   "title": "3日から西日本で大雨警戒 台風24号と秋雨前線のダブルパンチで長雨のおそれ",
+   "title_en": "Major Rainfall Alert: Typhoon 24 and Autumn Front Threaten Extended Heavy Rains from September 3rd",
+   "category": "国内",
+   "published": "2026-09-02",
+   "summary": "秋雨前線が本州付近で停滞し、台風24号がこれに湿った空気を供給することで、3日から西日本と東日本で大雨が予想されている。2日には青森県で線状降水帯が発生し記録的な大雨となった地域もあった。前線は当面停滞する見込みで、降雨が長引く可能性があり、警戒が必要な状況になっている。"
+  },
   {
    "slug": "2026-09-02-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-20.html",
