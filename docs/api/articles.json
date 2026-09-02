@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1006,
+ "count": 1027,
  "articles": [
+  {
+   "slug": "2026-09-03-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-20.html",
+   "title": "はなわが熱唱してガッツさんをお見送り？歌うたい芸人が追悼ライブで見せた意外な一面",
+   "title_en": "Did You Know? Comedian Hanawa Brought Down the House With Unexpected Vocal Performance at Colleague's Memorial",
+   "category": "コラム",
+   "published": "2026-09-03",
+   "summary": "お笑い芸人のガッツさんのお別れ会が開催され、同じくお笑い芸人のはなわが熱唱で会を盛り上げたというニュース。ガッツさんゆかりの人物たちが故人を偲ぶ中、はなわの歌声が会場を包んだ。芸能界の温かい絆と、予想外の才能が垣間見える感動のひとときとなったようだ。"
+  },
+  {
+   "slug": "2026-09-03-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-19.html",
+   "title": "オリ杉沢龍、右手首手術で今季絶望。主力野手の離脱でクライマックス争いにどう影響？",
+   "title_en": "Orioles' Sugisawa Ryu Out for Season After Wrist Surgery—How Will This Impact Playoff Contention?",
+   "category": "スポーツ",
+   "published": "2026-09-03",
+   "summary": "オリックス・バファローズの杉沢龍選手が右手首の怪我により手術を受け、今季の復帰が絶望的となった。同選手は昨季打率3割超を記録した主力野手で、チームの攻撃力低下が懸念される。クライマックスシリーズ進出を目指す同チームにとって、この離脱は大きな痛手となりそうだ。"
+  },
+  {
+   "slug": "2026-09-03-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-18.html",
+   "title": "タクシー大手・東京MKがパワハラ報道で会見 業界の労働環境問題が浮き彫りに",
+   "title_en": "Major Taxi Company Tokyo MK Holds Press Conference Over Workplace Harassment Allegations",
+   "category": "経済",
+   "published": "2026-09-03",
+   "summary": "タクシー業界大手の東京MKがパワハラ疑惑に関する報道を受けて公式会見を開催。同社は従業員への厳しい指導や労働環境に関する指摘に対して、事実関係の確認と改善策の検討を表明。タクシー業界全体における労働条件やハラスメント対策の不備が改めて問題視される状況となっている。"
+  },
+  {
+   "slug": "2026-09-03-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-17.html",
+   "title": "日本の若き才能、なぜフランスの強豪リヨンを選んだのか？中村敬斗の欧州挑戦の舞台裏",
+   "title_en": "Why Did Young Japanese Star Keito Nakamura Choose Lyon Over Bigger European Clubs?",
+   "category": "スポーツ",
+   "published": "2026-09-03",
+   "summary": "日本代表の中盤の才能・中村敬斗がフランスの名門オリンピック・リヨンへの加入を決めた。リヨンはフランス国内で複数のリーグアン優勝を経験する強豪クラブで、欧州の厳しい環境での成長が期待される。日本人選手の海外進出が相次ぐ中、今後のパフォーマンスが注目される。"
+  },
+  {
+   "slug": "2026-09-03-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-16.html",
+   "title": "大阪市が民泊規制を強化へ。ホステルと何が違うのか？",
+   "title_en": "Osaka Tightens Airbnb Rules: What's the Real Difference from Hotels?",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "大阪市が民泊事業の開業規制を厳しくする方針を打ち出した。具体的な規制内容としては、営業日数の制限や近隣住民への事前通知義務などが検討されている。観光需要の高さと住環境の保全のバランスを取る狙いだが、既存事業者や不動産オーナーへの影響が懸念される。"
+  },
+  {
+   "slug": "2026-09-03-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-15.html",
+   "title": "警察も対応困難な「匿流」、スマホ遠隔解析で捜査革新へ？",
+   "title_en": "Japan Police Propose Remote Smartphone Analysis to Counter Encrypted 'Anon Flow' App",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "違法薬物などの密売に使われるとされる「匿流」という通信アプリに対し、警察庁が捜査能力を強化するための提言をまとめた。スマートフォンの遠隔解析技術の導入により、端末内のデータを押収前に分析できる仕組みが検討されている。プライバシー保護とのバランスをどう図るかが課題となる。"
+  },
+  {
+   "slug": "2026-09-03-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-14.html",
+   "title": "ハマス治安部門トップを拘束、イスラエルが急襲作戦で成果―中東情勢、さらに緊迫化か",
+   "title_en": "Israel Detains Hamas Security Chief in Gaza Raid—Will Middle East Tensions Escalate Further?",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "イスラエルのネタニヤフ首相は、特殊部隊がガザ地区で地上作戦を実施し、パレスチナの武装組織ハマスの治安部門責任者を拘束したと発表した。この急襲作戦により少なくとも4人が死亡。イスラエルが高い軍事的成功を主張する一方で、民間人被害も報告されており、中東地域の緊張がさらに高まる可能性がある。"
+  },
+  {
+   "slug": "2026-09-03-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-13.html",
+   "title": "イスラエル外相、イギリスの制裁に報復警告　入植地問題で対立激化か",
+   "title_en": "Israel's Foreign Minister Warns of Retaliation Against UK Over Settlement Sanctions",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "イスラエルのサール外相が、ヨルダン川西岸地区の入植地拡大を理由にイギリスが制裁を科した場合、報復措置を取ると表明した。パレスチナ領土における入植地政策をめぐり、イスラエルと欧米諸国の対立が深まっている状況を示すもの。制裁と報復の応酬がさらに緊張を高める可能性がある。"
+  },
+  {
+   "slug": "2026-09-03-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-12.html",
+   "title": "結婚披露宴で民間人4人死亡、米軍空爆がエスカレート…イランが報復予告",
+   "title_en": "U.S. Airstrike Kills 4 at Wedding Reception; Iran Vows Retaliation as Middle East Tensions Soar",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "米中央軍がイランの革命防衛隊による商船攻撃の試みに対抗し、空爆を再開したと発表。イラン側は民間人4人が結婚披露宴で殺害されたと主張し、報復攻撃に出ている。ホルムズ海峡周辺での米イラン間の緊張がさらに高まっている。"
+  },
+  {
+   "slug": "2026-09-03-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-11.html",
+   "title": "中間選挙まで2ヶ月、トランプvs民主党の激闘は誰が笑うのか？",
+   "title_en": "Midterm Elections in 2 Months: Will Trump or Democrats Win America's Trust Vote?",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "アメリカの中間選挙が2ヶ月後に迫る中、トランプ大統領の支持率が低迷している。イラン情勢の緊迫化や物価上昇などが背景にあり、有権者の不満が高まっている。トランプ氏は民主党への批判を強めており、共和党と民主党の選挙戦がさらに激化する見込みだ。この選挙はトランプ政権への評価が実質的に問われる重要な投票となる。"
+  },
+  {
+   "slug": "2026-09-03-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-10.html",
+   "title": "ネパール土石流で1200人以上が死亡、気候変動がもたらす災害リスクの深刻化",
+   "title_en": "Massive Landslide in Nepal Kills Over 1,200 as Prime Minister Warns of Climate Change Crisis",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "ネパールと中国の国境付近で発生した大規模な土石流により、1200人以上の死亡が確認され、4700人以上の行方が分からなくなっています。この災害を受けてネパールのシャー首相は議会で、気候変動による自然災害のリスク増加に対する対策強化を強く訴えました。山岳地帯での土砂災害頻発の背景には、極端な気象現象の増加が指摘されています。"
+  },
+  {
+   "slug": "2026-09-03-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-9.html",
+   "title": "米国でクマの出没が急増、なぜ今？餌不足が深刻化",
+   "title_en": "Why Are Bears Invading American Towns? Food Shortage Crisis Explained",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "アメリカでクマの出没事例が急速に増加しており、その背景には深刻な餌不足があるとされています。気候変動による生態系の変化や食料源となる木の実などの不作が、クマを人間の生活圏へ追いやっています。住宅地への侵入事件も増え、地域住民の不安が高まっています。"
+  },
+  {
+   "slug": "2026-09-03-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-8.html",
+   "title": "宇宙から届いた最後のメッセージ 秋山さん、ISS滞在中に地球へ伝えたこととは",
+   "title_en": "Last Message from Space: Remembering Japanese Astronaut Akiyama's Historic Words from the ISS",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "国際宇宙ステーション（ISS）に滞在していた日本人宇宙飛行士・秋山さんが亡くなられました。宇宙滞在中に地球へ向けて発した第一声が話題となっており、宇宙探査の歴史における貴重な記録として注目されています。宇宙飛行士としてのキャリアと、彼が残した言葉の意義について改めて考察する動きが広がっています。"
+  },
+  {
+   "slug": "2026-09-03-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-7.html",
+   "title": "コンゴのエボラ死者3000人超に、なぜこんなに被害が広がっているのか",
+   "title_en": "Why Is Ebola Death Toll in Congo Surpassing 3,000? The Crisis Behind the Numbers",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "アフリカのコンゴ民主共和国でエボラウイルスの感染が急速に拡大し、死者数が3000人を超えた。同国での感染拡大は医療インフラの不足や紛争地域での対応の困難さなど、複数の要因が絡んでいるとされている。国際社会による支援強化が求められている状況だ。"
+  },
+  {
+   "slug": "2026-09-03-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-6.html",
+   "title": "土石流から1週間、なぜ不明者の捜索は難航するのか",
+   "title_en": "Why Is Search and Rescue Still Struggling One Week After the Mudslide?",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "土石流災害発生から1週間が経過し、不明者の捜索活動が難航している。現場は大量の土砂に覆われ、捜索チームが危険な状況下での作業を余儀なくされている。気象条件の悪化や二次災害のリスクなど、復旧を阻む多くの課題が明らかになっている。"
+  },
+  {
+   "slug": "2026-09-03-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-5.html",
+   "title": "ファミマがおにぎり4品を値下げ、家計負担は緩和されるのか？",
+   "title_en": "FamilyMart Cuts Prices on 4 Onigiri Items: Will It Ease Consumer Burden?",
+   "category": "経済",
+   "published": "2026-09-03",
+   "summary": "ファミリーマートが人気おにぎり4品の値下げを発表した。食品の値上げが相次ぐ中、主要コンビニチェーンによる値下げは消費者にとって朗報となる。ただし値下げ幅や対象商品の詳細、他チェーンの対応動向が注目される。生活必需品の価格抑制という課題は依然残されている。"
+  },
+  {
+   "slug": "2026-09-03-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-4.html",
+   "title": "長期金利3%突破は日本経済の警告信号か、それとも正常化か",
+   "title_en": "Is Japan's Long-Term Interest Rate Breaking 3% a Warning Signal or Economic Normalization?",
+   "category": "経済",
+   "published": "2026-09-03",
+   "summary": "日本の長期金利が3%を突破し、市場で異例の事態として注目を集めている。バブル期以来の水準に達したこの現象について、経済専門家らは金融政策の転換や世界的な金利上昇の影響を指摘する一方で、市場の過度な反応を懸念する声もある。家計と企業への波及効果が注視されている。"
+  },
+  {
+   "slug": "2026-09-03-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-3.html",
+   "title": "論文査読がAIに任される時代へ…でも信頼できるの？誤情報リスクも浮上",
+   "title_en": "Academic Papers Now Reviewed by AI—But Can We Trust It? New Concerns Over Misinformation Risks",
+   "category": "科学",
+   "published": "2026-09-03",
+   "summary": "学術論文の質を確保する査読プロセスにAIが活用され始めている。審査の効率化が期待される一方で、AIが誤った判定をしたり、不正な論文を見落としたりするリスクが懸念されている。査読の信頼性とAI導入のバランスをどう取るかが課題となっている。"
+  },
+  {
+   "slug": "2026-09-03-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-2.html",
+   "title": "デジタル教科書に動画時間の上限設定へ、子どもの健康懸念で規制強化",
+   "title_en": "Japan Sets Screen Time Limits on Digital Textbooks, Citing Student Health Concerns",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "文部科学省がデジタル教科書における動画コンテンツの利用時間に上限を設ける方針を発表した。急速に導入が進むデジタル教科書だが、長時間の画面閲覧が児童生徒の視力低下や集中力散漫につながる懸念から、教育効果と健康のバランスを取る必要があると判断した。具体的な上限時間や実装時期については今後の検討課題となる予定。"
+  },
+  {
+   "slug": "2026-09-03-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-1.html",
+   "title": "ウーバー、世界従業員の1割削減へ。配車サービス大手の経営判断は正しいのか？",
+   "title_en": "Uber to Cut 10% of Global Workforce: Is This the Right Call for the Ride-Sharing Giant?",
+   "category": "経済",
+   "published": "2026-09-03",
+   "summary": "配車サービス大手のウーバーが世界規模で従業員の約1割にあたる人員削減を実施する方針を明らかにした。急速な事業拡大に伴う採用過剰や経営効率化の必要性が背景にあるとみられる。スタートアップから急成長企業へと転換する際の構造的課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-03-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-0.html",
+   "title": "台風と秋雨前線が同時発生？知られざる大雨長期化のメカニズム",
+   "title_en": "Typhoon Meets Autumn Rain Front: What Happens When Two Weather Systems Collide?",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "台風と秋雨前線が同じ時期に活動することで、数日間にわたる大雨が予想されている。この気象パターンが重なると、単独の現象よりも降水量が増加し、土砂災害や洪水のリスクが高まる。気象庁では厳重な警戒を呼びかけており、住民への早期警報の発令が重要になると指摘されている。"
+  },
   {
    "slug": "2026-09-02-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-02-41.html",
