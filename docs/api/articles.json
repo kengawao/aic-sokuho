@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1027,
+ "count": 1028,
  "articles": [
+  {
+   "slug": "2026-09-03-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-21.html",
+   "title": "男女のユニフォーム面積差が大論争！女性アスリートの『公平性』問題、ついに物議を醸す",
+   "title_en": "Why Do Female Athletes Wear Less? The Uniform Size Gap Sparks Global Debate",
+   "category": "コラム",
+   "published": "2026-09-03",
+   "summary": "男女アスリートが着用するユニフォームの面積差が話題に。女性選手がより露出度の高い衣装を強要される傾向があるとして、スポーツ界で議論が加熱している。パフォーマンスとの関連性や、商業的背景、各競技の規則など、複数の視点から考察が進んでいる。"
+  },
   {
    "slug": "2026-09-03-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-20.html",
