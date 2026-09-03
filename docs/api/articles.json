@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1028,
+ "count": 1049,
  "articles": [
+  {
+   "slug": "2026-09-03-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-42.html",
+   "title": "冷水でカップめん？日本が沸騰した新商品、BBC記者も困惑",
+   "title_en": "Cold Water Instant Noodles? Japan's Latest Food Trend Puzzles BBC Correspondent",
+   "category": "コラム",
+   "published": "2026-09-03",
+   "summary": "日本で冷水を注ぐだけで完成するカップラーメンが登場し、ネットで話題沸騰。従来の熱湯調理の常識を覆す商品に、国内では既に売り切れ状態が続いている。BBCの東京特派員・森来実氏が実際に試食してその実態をレポートした。"
+  },
+  {
+   "slug": "2026-09-03-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-41.html",
+   "title": "北海道でゴキブリが増殖中、原因は「住環境の向上」だった",
+   "title_en": "Hokkaido's Unexpected Cockroach Problem: Improved Housing to Blame",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "北海道でゴキブリの個体数が増加傾向にあり、その背景には住宅の断熱性向上や暖房設備の充実など、居住環境の快適化が関係していると指摘されている。寒冷地であるはずの北海道でも、冬季の室内環境改善がゴキブリの生存条件を整えてしまい、従来は冬期に個体数が激減していた仕組みが崩れつつあるという。"
+  },
+  {
+   "slug": "2026-09-03-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-40.html",
+   "title": "国宝・彦根城が世界遺産候補に推薦決定、実現すれば滋賀県初の快挙へ",
+   "title_en": "Hikone Castle Recommended as Japan's World Heritage Candidate—Could Become Shiga's First UNESCO Site",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "文化庁の文化審議会は、滋賀県の彦根城を再来年（2027年）の世界文化遺産登録を目指す国内候補として正式に推薦することを決定しました。江戸時代に築城された彦根城は国宝に指定されており、今回の推薦により、ユネスコの審査を経て登録が実現した場合、滋賀県初の世界文化遺産となります。"
+  },
+  {
+   "slug": "2026-09-03-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-39.html",
+   "title": "船の中の体育館、なぜ突然解体中止に？造船所が下した異例の判断の背景",
+   "title_en": "Why Was Demolition Halted? The Surprising Story Behind a Historic Gymnasium Inside a Ship",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "造船所が保有する船舶内の体育館施設の解体工事が、工事開始直前に中止される異例の事態が発生した。関係者の強い反発や歴史的価値の指摘など、複数の要因が重なったことが背景にあるとみられる。船舶施設の扱いをめぐり、産業遺産と実用性のバランスについて改めて問い直す事例として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-03-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-38.html",
+   "title": "なぜ中国はナマコに執着するのか？乱獲が止まらない理由",
+   "title_en": "Why is China so obsessed with sea cucumbers? Inside the global overfishing crisis",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "中国などアジア地域でのナマコ需要の急増に伴い、世界中でナマコの乱獲が深刻化している。高級食材・漢方薬としての価値が高く、特に中国市場での消費が爆発的に増加。沿岸資源の枯渇や密漁問題が各国で問題化しており、持続可能な利用に向けた国際的対応が急務となっている。"
+  },
+  {
+   "slug": "2026-09-03-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-37.html",
+   "title": "床に混雑状況を映す東京メトロの新技術、実装でラッシュ時間帯は本当に改善される?",
+   "title_en": "Tokyo Metro's Floor Projection System for Crowd Information: Will It Really Ease Rush Hour Congestion?",
+   "category": "IT",
+   "published": "2026-09-03",
+   "summary": "東京メトロが駅構内の床にプロジェクターで混雑状況をリアルタイム表示する実証実験を開始した。利用者が視覚的に混雑度を判断でき、混雑を避けた乗降位置の選択が可能になる。駅員の業務効率化にも期待され、今後の導入拡大が検討されている。"
+  },
+  {
+   "slug": "2026-09-03-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-36.html",
+   "title": "スペイン飛び地で性的暴行が「ほぼ毎日」発生…1カ月で23件、9件が子どもへの被害",
+   "title_en": "Sex Attacks \"Nearly Daily\" in Spain's Ceuta: 23 Incidents in One Month as African Migrants Surge, 9 Victims Children",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "アフリカ北端のスペイン領セウタに7月末から数万人の移民が流入した約1カ月間に、計23件の性的暴行事件が記録された。被害者のうち9件は児童が対象だったことが検察当局の調査で判明。急激な人口増加に伴う治安悪化と社会的混乱が深刻化している。"
+  },
+  {
+   "slug": "2026-09-03-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-35.html",
+   "title": "ホルムズ海峡で何が起きた？サウジのタンカー攻撃、フィリピン人船員2人死亡",
+   "title_en": "Crisis in the Strait: Saudi Tanker Attacked in Hormuz, 2 Filipino Crew Members Killed",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "サウジアラビアは8月31日夜、ホルムズ海峡で同国の超大型タンカーがイランからの攻撃を受けたと発表。この事件でフィリピン人船員2人が死亡したとされている。中東の重要な海上輸送路での軍事的緊張が一層高まった形だ。"
+  },
+  {
+   "slug": "2026-09-03-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-34.html",
+   "title": "オランダが金塊を北米からイギリスに大移動　地政学的リスク高まる中、何が起きている？",
+   "title_en": "Dutch Central Bank Moves Billions in Gold from North America to UK—What's Really Behind This Shift?",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "オランダ中央銀行が数十億ドル相当の金準備をアメリカとカナダからイギリスに移管したと発表。地政学的な緊張の高まりが背景にあるとされている。欧米の金融機関が政治的リスクを回避する動きが加速している可能性がある。"
+  },
+  {
+   "slug": "2026-09-03-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-33.html",
+   "title": "時速167km、土石流の恐ろしさ。ネパール土砂災害で明かになった自然災害の脅威",
+   "title_en": "Landslide at 167 km/h: Nepal Disaster Reveals the Terrifying Power of Natural Catastrophes",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "ネパールで発生した土石流が時速167km程度の速度で流下していたことが判明した。この速度は自動車の高速走行に匹敵し、逃げ場のない山岳地域では多くの人命が失われる危険性がある。同国の山岳地帯では、気候変動による豪雨や氷河融解により、こうした土砂災害が増加傾向にあるとされている。"
+  },
+  {
+   "slug": "2026-09-03-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-32.html",
+   "title": "米がイラン攻撃再開も「長く続かず」と判断？中東情勢、なぜ激化と沈静化を繰り返すのか",
+   "title_en": "US Resumes Iran Strikes But 'Won't Last Long' – Why Does Middle East Conflict Keep Flaring and Fading?",
+   "category": "国際",
+   "published": "2026-09-03",
+   "summary": "米国がイラン攻撃を再開する見通しを示しつつも、その期間は長引かないとの見方が出ている。中東地域の緊張が高まる中、米国はイランとの軍事的対立に一定の制限を加えようとしている可能性がある。専門家の間では、エスカレーションと停止を繰り返す戦略的計算が働いているとの指摘もある。"
+  },
+  {
+   "slug": "2026-09-03-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-31.html",
+   "title": "秋雨前線と台風24号が同時襲来 西日本で線状降水帯のおそれ、7日にかけて警戒必須",
+   "title_en": "Japan Braces for Double Threat: Autumn Rain Front and Typhoon 24 Converge, Creating Risk of Linear Precipitation Bands",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "秋雨前線と台風24号の影響により、日本列島の広い範囲で大雨が継続中。特に鹿児島県、宮崎県、大分県、高知県では線状降水帯が発生するおそれがあり、気象庁が厳重な警戒を呼びかけている。青森県では既に記録的な大雨を観測しており、7日にかけてさらに雨量が増加する見込みのため、土砂災害や浸水被害への対策が急務となっている。"
+  },
+  {
+   "slug": "2026-09-03-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-30.html",
+   "title": "NY市が小中学校でAI原則禁止へ　教育現場で何が起きている？",
+   "title_en": "New York Bans AI in Schools: Is This the Right Move for Education?",
+   "category": "IT",
+   "published": "2026-09-03",
+   "summary": "ニューヨーク市の教育委員会が、市内の小中学校においてAI技術の使用を原則禁止する方針を打ち出した。生徒の学習効果への懸念やデータプライバシーの問題が背景にあるとされている。ただし教育的価値が認められた場合は例外措置も検討されている。この決定は、急速に進むAI導入への警告信号として、他の自治体にも影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-03-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-29.html",
+   "title": "エルニーニョ、来年まで続くってマジ？ 気象庁が予測",
+   "title_en": "El Niño Set to Continue Through Next Year: What's Next?",
+   "category": "科学",
+   "published": "2026-09-03",
+   "summary": "気象庁がエルニーニョ現象の継続を予測しており、来年まで影響が続く見通しが示されました。エルニーニョは太平洋の海水温上昇により、世界中の気候に影響を与える現象です。今後の気象変動と農業や経済への影響が懸念されています。"
+  },
+  {
+   "slug": "2026-09-03-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-28.html",
+   "title": "なぜ今、定食屋が熱い？大戸屋が好調の理由を分析",
+   "title_en": "Why Are Teishoku Restaurants Making a Comeback? The Success of Ootoya Explained",
+   "category": "経済",
+   "published": "2026-09-03",
+   "summary": "大戸屋などの定食チェーン店が好調だという。背景には、消費者が「手頃な価格で栄養バランスの取れた食事」を求める傾向の高まりがあると見られる。外食産業全体が苦戦する中で、シンプルで実用的な食事スタイルへの需要が再評価されているようだ。"
+  },
+  {
+   "slug": "2026-09-03-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-27.html",
+   "title": "33府県で目安超え、最低賃金改定。地域格差はどうなる？",
+   "title_en": "Minimum Wage Hikes Exceed Government Targets in 33 Prefectures: What's Next for Regional Inequality?",
+   "category": "経済",
+   "published": "2026-09-03",
+   "summary": "今年度の最低賃金改定で、33の府県が厚生労働省の目安額を上回る引き上げを決定した。地域によって賃金水準にばらつきが出ており、経済格差の拡大が懸念される一方で、労働環境改善の足がかりとなる可能性も指摘されている。企業への負担増加と労働者の待遇向上のバランスが今後の課題となりそうだ。"
+  },
+  {
+   "slug": "2026-09-03-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-26.html",
+   "title": "30代でセミリタイア、本当に可能？FIRE流行の現実と落とし穴",
+   "title_en": "FIRE at 30: Dream or Reality? Rising Investment Trend Raises Questions",
+   "category": "経済",
+   "published": "2026-09-03",
+   "summary": "経済的自由を目指して投資に取り組む若年層が増加している。特に30代でのFIRE（経済的自立と早期退職）を実現させようとする動きが活発化。株式投資やインデックス投資への関心が高まる中、その可能性と課題が改めて問われている。"
+  },
+  {
+   "slug": "2026-09-03-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-25.html",
+   "title": "高齢者の運転技能検査が強化へ。あなたの親は大丈夫？",
+   "title_en": "Japan to Toughen Elderly Driver Tests: Is Your Parent Ready?",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "高齢運転者による交通事故の増加を受け、政府が運転技能検査の基準を厳しくする方針を示した。認知機能や身体能力の低下を早期に発見し、安全運転の継続を支援する仕組みが強化される見通し。実施時期や具体的な内容は今後詰められる予定。"
+  },
+  {
+   "slug": "2026-09-03-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-24.html",
+   "title": "大谷、今季の投手復帰ならず？二刀流の夢、再び延期の可能性",
+   "title_en": "Will Ohtani's Two-Way Dream End? Pitcher Return Unlikely This Season",
+   "category": "スポーツ",
+   "published": "2026-09-03",
+   "summary": "大谷翔平選手が今季中の投手としての復帰を断念する可能性が報じられた。昨シーズンの肘の手術から復帰を目指していたが、回復状況によって投手活動の再開時期がさらに遅れる見通しが出ている。打者としての活動継続一方で、二刀流復帰のタイミングについて不透明な状況が続いている。"
+  },
+  {
+   "slug": "2026-09-03-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-23.html",
+   "title": "女性が年上の結婚が増加中。昭和の常識が令和で覆る",
+   "title_en": "The Rise of Older Women in Japanese Marriages: Breaking a Century-Old Tradition",
+   "category": "国内",
+   "published": "2026-09-03",
+   "summary": "従来、男性が年上という結婚が一般的だった日本社会で、女性が年上のカップルが増加傾向にある。経済的自立や男女平等観の浸透、結婚観の多様化が背景にあると指摘されている。年齢差よりも相手との相性や価値観を重視する傾向が強まっている。"
+  },
+  {
+   "slug": "2026-09-03-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-03-22.html",
+   "title": "ノーベル化学賞の白川英樹さん死去、導電性プラスチック開発の巨星が逝く",
+   "title_en": "Nobel Laureate Hideki Shirakawa, Pioneer of Conductive Plastics, Passes Away",
+   "category": "科学",
+   "published": "2026-09-03",
+   "summary": "ノーベル化学賞を受賞した白川英樹さんが亡くなられました。同氏は導電性プラスチック（ポリアセチレン）の開発により、化学の分野に革新をもたらし、2000年にノーベル化学賞を受賞しています。この発見は現代の電子機器やエネルギー産業に大きな影響を与え、学界全体への貢献は計り知れません。"
+  },
   {
    "slug": "2026-09-03-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-21.html",
