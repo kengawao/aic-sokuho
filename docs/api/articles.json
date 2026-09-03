@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1049,
+ "count": 1070,
  "articles": [
+  {
+   "slug": "2026-09-04-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-20.html",
+   "title": "カナダの湖から「浮島」がまさかの消失！島ごと旅に出たのか？",
+   "title_en": "Canadian Lake's Floating Island Mysteriously Vanishes—Did It Go on Vacation?",
+   "category": "コラム",
+   "published": "2026-09-04",
+   "summary": "カナダの湖で存在していた浮島が忽然と姿を消すという、まるでファンタジー小説のような出来事が発生。自然現象なのか、それとも誰かの仕業なのか、地元でも話題になっているこの謎の消失事件。湖の浮島が本当になくなってしまった不可思議なニュースをお届けします。"
+  },
+  {
+   "slug": "2026-09-04-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-19.html",
+   "title": "ロンドンで自動運転タクシー実運用開始、東京は年内試験走行へ。日本の公道で走る日も近い？",
+   "title_en": "Autonomous Taxis Now Running in London; Tokyo Trial Launch Expected This Year",
+   "category": "IT",
+   "published": "2026-09-04",
+   "summary": "ウーバーとイギリスのスタートアップが、ロンドンで自動運転タクシーの商用運行を開始した。乗客を乗せての実運用は欧州主要都市では初の取り組みとなる。両社は東京都内でも年内に試験運行を予定しており、日本の自動運転タクシー実装が現実味を帯びてきた。安全基準や法整備の課題が焦点となる。"
+  },
+  {
+   "slug": "2026-09-04-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-18.html",
+   "title": "宮古島で犬がヤギを襲撃、獣医が警告する野生化する飼い犬の危険性",
+   "title_en": "Miyako Island Dog Attack on Goat Raises Concerns About Feral Pet Populations",
+   "category": "国内",
+   "published": "2026-09-04",
+   "summary": "沖縄県宮古島でペットの犬がヤギを襲う事件が発生し、地元の獣医から懸念の声が上がっています。島内では飼い主による適切な管理が不十分なケースが増加しており、放し飼いや野生化した犬による家畜への被害が問題化。獣医学の専門家は、島の畜産業や生態系への悪影響を指摘し、飼い主の責任と行政の対策強化の必要性を訴えています。"
+  },
+  {
+   "slug": "2026-09-04-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-17.html",
+   "title": "死球が増えている理由は何か？藤川監督の提案に上原氏が異議",
+   "title_en": "Why Are Hit Batsmen on the Rise? Fujikawa's Proposal Sparks Debate with Uehara",
+   "category": "スポーツ",
+   "published": "2026-09-04",
+   "summary": "プロ野球で死球が増加傾向にある問題について、藤川球児監督が対策案を提案したのに対し、上原浩治氏が異なる見解を示した。投手側と打者側の立場から、死球増加の原因と解決方法について議論が分かれている状況が報じられている。"
+  },
+  {
+   "slug": "2026-09-04-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-16.html",
+   "title": "懐かしの『ストリートファイター』なぜ今実写映画化？ゲーム映画化ラッシュの背景を読む",
+   "title_en": "Street Fighter Live-Action Film: Why Now? The Hidden Boom Behind Game-Based Movies",
+   "category": "エンタメ",
+   "published": "2026-09-04",
+   "summary": "格闘ゲームの傑作『ストリートファイター』の実写映画化が進められている。90年代のジャン=クロード・ヴァン・ダムの映画化作から約30年。CG技術の進化、ゲーム原作映画の商業的成功、そしてeスポーツの拡大がこのタイミングを生み出した。懐かしの大作がハリウッドで現代的な解釈を受けようとしている。"
+  },
+  {
+   "slug": "2026-09-04-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-15.html",
+   "title": "誠お兄さんが順大の特任助教に？ 教育系YouTuberのキャリア転換が話題に",
+   "title_en": "From YouTube Star to University Lecturer: Education Influencer Joins Juntendo University Faculty",
+   "category": "エンタメ",
+   "published": "2026-09-04",
+   "summary": "教育系YouTuberとして知られる誠お兄さんが、順天堂大学の特任助教に就任することが明らかになった。動画制作と並行しながら大学教育に携わることになる異例の人事。YouTuber出身者の大学進出の事例として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-04-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-14.html",
+   "title": "トランプ大統領の指示でAppleが従った…オンタリオ湖が「アメリカ湖」に改名される波紋",
+   "title_en": "Apple Bows to Trump's Order: Ontario Lake Renamed to 'American Lake' on Maps",
+   "category": "国際",
+   "published": "2026-09-04",
+   "summary": "米アップルが地図サービス「アップルマップ」でカナダとアメリカの間のオンタリオ湖を「アメリカ湖」と表示し始めた。トランプ大統領が8月末に署名した大統領令を受けての対応。カナダとの貿易摩擦が続く中での決定となり、国家と企業の関係について議論を呼んでいる。"
+  },
+  {
+   "slug": "2026-09-04-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-13.html",
+   "title": "香港民主活動家が外国勢力との結託を認める、終身刑の可能性も",
+   "title_en": "Hong Kong Pro-Democracy Activist Admits to Foreign Collusion, Facing Possible Life Sentence",
+   "category": "国際",
+   "published": "2026-09-04",
+   "summary": "香港の民主化運動指導者である黄之鋒氏が、外国勢力と結託した罪について有罪を認めた。香港国家安全維持法違反での起訴で、量刑は後日決定される予定。この罪状は最高刑が終身刑となる可能性があり、今後の判決が注視されている。"
+  },
+  {
+   "slug": "2026-09-04-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-12.html",
+   "title": "プーチンがイギリスに何を仕掛けようとしているのか？ウクライナ支援の代償を示唆",
+   "title_en": "What Is Putin Really Threatening Britain Over? The Hidden Cost of Ukraine Support",
+   "category": "国際",
+   "published": "2026-09-04",
+   "summary": "プーチン大統領がイギリスに対して圧力をかけている。ウクライナへの軍事支援を続ければ報復があることを暗に示し、西側諸国の決意を揺さぶろうとしているとみられる。BBC報道によれば、ロシアはイギリスへの脅迫を通じて、ウクライナ支援連合の結束を弱体化させようと狙っているとのこと。"
+  },
+  {
+   "slug": "2026-09-04-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-11.html",
+   "title": "ロシア上空は『死の空域』？ ゼレンスキーの警告にプーチンが猛反発",
+   "title_en": "Is Russian Airspace Now a 'Dead Zone'? Zelenskyy's Warning Sparks Putin's Fury",
+   "category": "国際",
+   "published": "2026-09-04",
+   "summary": "ウクライナのゼレンスキー大統領が、ドローン攻撃の脅威を理由にロシア上空の通過を事実上禁止する警告を発した。これに対してプーチン大統領は「国家的テロ行為だ」と強く批判し、両国の緊張がさらに高まっている。無人機による攻撃の激化が、航空運送などに影響を与える可能性も懸念されている。"
+  },
+  {
+   "slug": "2026-09-04-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-10.html",
+   "title": "ネパール土石流、1200人超が犠牲に。水力発電所に生存者の可能性",
+   "title_en": "Over 1,200 Dead in Nepal Landslide Disaster; Survivors Possibly Trapped in Hydropower Plant",
+   "category": "国際",
+   "published": "2026-09-04",
+   "summary": "ネパールと中国の国境付近で発生した大規模な土石流により、1200人以上の死亡が確認され、5500人以上の行方が依然として不明のままです。特に多くの作業員が巻き込まれた水力発電所施設では、生存者が閉じ込められている可能性があり、救助活動が急ピッチで進められています。災害の全容解明と生存者救出が急務となっています。"
+  },
+  {
+   "slug": "2026-09-04-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-9.html",
+   "title": "水ダウが炎上、『笑い』と『不快』の境界線はどこにある？",
+   "title_en": "Where's the Line? The 'Suiyoubi no Downtown' Controversy Sparks Debate on Comedy and Discomfort",
+   "category": "エンタメ",
+   "published": "2026-09-04",
+   "summary": "人気お笑い番組『水曜日のダウンタウン』の企画が視聴者から賛否両論の声を集めている。笑いを追求する放送と、視聴者が感じる不快感のギャップについて議論が白熱。番組の表現の自由と社会的責任のバランスが問われている。"
+  },
+  {
+   "slug": "2026-09-04-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-8.html",
+   "title": "武田玲奈が一般男性と結婚発表 女優の意外な決断に驚きの声",
+   "title_en": "Actress Rena Takeda Announces Surprise Marriage to Ordinary Man",
+   "category": "エンタメ",
+   "published": "2026-09-04",
+   "summary": "女優の武田玲奈が一般男性との結婚を発表した。テレビドラマや映画で活躍してきた彼女の突然の結婚報告に、ファンから祝福と驚きの声が上がっている。相手については一般人のため詳細は明かされていないが、今後の活動継続について注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-04-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-7.html",
+   "title": "大谷翔平、31試合ぶりスタメン外　何が起きた？",
+   "title_en": "Shohei Ohtani Benched After 31 Straight Games: What's Going On?",
+   "category": "スポーツ",
+   "published": "2026-09-04",
+   "summary": "メジャーリーグで活躍する大谷翔平選手が、31試合連続出場の記録を止められ、スタメンを外された。チームの戦略や本人のコンディション調整など、背景には複数の要因が考えられる。連続出場記録の途切れが、今後のシーズン成績にどう影響するかが注目されている。"
+  },
+  {
+   "slug": "2026-09-04-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-6.html",
+   "title": "鼻のかみ方で医学賞？イグ・ノーベル賞で日本の研究者が受賞した理由",
+   "title_en": "Why Did Japan Win an Ig Nobel Prize for Studying How to Blow Your Nose?",
+   "category": "科学",
+   "published": "2026-09-04",
+   "summary": "ユニークな研究に贈られるイグ・ノーベル賞の今年の受賞者が発表され、旭川医科大学の名誉教授が「医学賞」を受賞した。受賞理由は、正しく効果的な鼻のかみ方を科学的に分析したというもの。一見くだらなく思える研究が、実は実用的な価値を持つことが認められた形となっている。"
+  },
+  {
+   "slug": "2026-09-04-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-5.html",
+   "title": "時給1177円に引き上げ、でも中小企業は大丈夫？国の支援策は本当に機能するのか",
+   "title_en": "Japan's Minimum Wage Rises to 1,177 Yen/Hour—But Will Small Businesses Survive the Increase?",
+   "category": "経済",
+   "published": "2026-09-04",
+   "summary": "全国の最低賃金が平均時給1177円に引き上げられることが決定した。働き手の収入向上につながる一方で、特に中小企業への負担が大きくなるため、政府は支援策の充実を検討している。企業体力と雇用環境のバランスをどう取るかが課題となっている。"
+  },
+  {
+   "slug": "2026-09-04-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-4.html",
+   "title": "純金と思って買ったら銅と鉄？偽サイト詐欺の手口と対策",
+   "title_en": "Fake Online Store Scandal: \"Pure Gold\" Actually Made of Copper and Iron?",
+   "category": "国内",
+   "published": "2026-09-04",
+   "summary": "ネット上の偽造サイトで、純金製品として販売されていた商品が実は銅と鉄の合金だったという詐欺被害が報告されている。消費者が正規サイトと見分けつかない偽サイトで購入させられ、金額に見合わない低品質の製品を受け取るケースが増加。被害者からは返金対応の遅れなどの苦情も上がっており、注意が呼びかけられている。"
+  },
+  {
+   "slug": "2026-09-04-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-3.html",
+   "title": "維新が閣内協力へ転換？馬場氏が推す方針、政界再編の流れは変わるのか",
+   "title_en": "Will Ishin Party Join the Government? A Major Political Shift Could Reshape Japan's Politics",
+   "category": "国内",
+   "published": "2026-09-04",
+   "summary": "日本維新の会が政府との閣内協力を検討する方針を固めたとされています。馬場伸幸代表がこの方針を推しているとのことで、これまでの野党としての立場から政権との関係を深める可能性が出てきました。政治状況の変化と政界の力学がどう動くかが注目されます。"
+  },
+  {
+   "slug": "2026-09-04-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-2.html",
+   "title": "片山さつき財務相、内閣改造で留任へ。政権の経済政策方針に変わりなし？",
+   "title_en": "Satsuki Katayama Retains Finance Minister Role in Cabinet Reshuffle—What's Next for Economic Policy?",
+   "category": "国内",
+   "published": "2026-09-04",
+   "summary": "内閣改造に伴い、片山さつき財務相が留任することが決定した。経済情勢の不確実性が続く中での留任は、政権が経済政策の継続性を重視する姿勢を示すものと見られる。今後の財政運営や金融政策との連携がどう進むかが注目される。"
+  },
+  {
+   "slug": "2026-09-04-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-1.html",
+   "title": "臨時国会10月上旬召集へ…今国会の焦点は何になる？",
+   "title_en": "Special Diet Session Scheduled for Early October: What Are the Main Issues?",
+   "category": "国内",
+   "published": "2026-09-04",
+   "summary": "政府が臨時国会の召集時期を10月上旬に設定する方向で調整していることが明らかになった。秋の臨時国会は重要な法案審議や予算案検討が予定されており、政治日程に大きな影響を与える可能性がある。召集時期の決定により、今後の国会運営スケジュールが確定する見通し。"
+  },
+  {
+   "slug": "2026-09-04-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-04-0.html",
+   "title": "四国・九州で災害危険度が高まる恐れ、いま準備すべきことは？",
+   "title_en": "Rising Disaster Risk in Shikoku and Kyushu: Are You Prepared?",
+   "category": "国内",
+   "published": "2026-09-04",
+   "summary": "気象関連の情報から、四国と九州地域で今後、災害が発生するリスクが高まる可能性があると指摘されている。大雨や台風などの気象条件が重なることで、土砂災害や水害の危険性が増す見込み。地域住民に対して、気象情報の確認や避難準備の早期実施が呼びかけられている。"
+  },
   {
    "slug": "2026-09-03-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-03-42.html",
