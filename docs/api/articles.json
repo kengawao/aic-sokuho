@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1091,
+ "count": 1111,
  "articles": [
+  {
+   "slug": "2026-09-05-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-19.html",
+   "title": "浮島が消えた！？カナダの湖で起きた怪現象、原因は○○だった",
+   "title_en": "Where Did It Go? Canadian Lake's Mysterious Island Vanishes, Then Reappears",
+   "category": "コラム",
+   "published": "2026-09-05",
+   "summary": "カナダのブリティッシュコロンビア州の湖で、小さな浮島が発見されたのに、その後忽然と消えてしまった。人工衛星画像でも確認できず、謎のままだったが、最近になって再び姿を現したという奇妙な出来事が話題に。自然界のミステリーに科学者も首をかしげている。"
+  },
+  {
+   "slug": "2026-09-05-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-18.html",
+   "title": "ロッテ唐川侑己が現役引退を発表 なぜいま決断したのか",
+   "title_en": "Why Did Karakawa Yuki Decide to Retire Now? Lotte's Veteran Pitcher Steps Down",
+   "category": "スポーツ",
+   "published": "2026-09-05",
+   "summary": "ロッテの投手・唐川侑己が現役引退を表明した。複数のシーズンにわたって登板機会が減少していた状況下での決断となる。プロ野球界では30代での戦力外や引退選手が相次ぐ中、本人の判断と球団の方針がどのように作用したのかが注目される。キャリア通算成績や今後の進路についても関心が集まっている。"
+  },
+  {
+   "slug": "2026-09-05-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-17.html",
+   "title": "中井亜美、SPで首位発進！ 次戦での逆転劇は起きるのか",
+   "title_en": "Ami Nakai Takes SP Lead: Will She Hold On Through the Free Skate?",
+   "category": "スポーツ",
+   "published": "2026-09-05",
+   "summary": "フィギュアスケート選手の中井亜美がショートプログラム（SP）で首位に立った。安定した演技で高い評価を獲得し、好スタートを切った形となる。今後のフリースケーティング（FS）での戦いが注目される。"
+  },
+  {
+   "slug": "2026-09-05-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-16.html",
+   "title": "TikTokが音声コメント機能を導入、テキスト入力が面倒な時代はもう終わり？",
+   "title_en": "TikTok Rolls Out Voice Comment Feature—Is the Era of Text Typing Finally Over?",
+   "category": "IT",
+   "published": "2026-09-05",
+   "summary": "TikTokが動画に対して音声でコメントできる新機能を導入する。従来のテキスト入力に加え、音声録音でそのままコメントが投稿される仕組み。スマートフォンでの利便性向上やZ世代の音声コンテンツ親和性の高さを背景に、SNS業界全体で音声機能の重要性が高まっている。"
+  },
+  {
+   "slug": "2026-09-05-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-15.html",
+   "title": "大阪高裁でTeams誤登録6000人、司法機関のIT管理に問題あり？",
+   "title_en": "Osaka High Court Teams Mishap: 6,000 Users Mistakenly Added—What It Says About Government IT Security",
+   "category": "IT",
+   "published": "2026-09-05",
+   "summary": "大阪高等裁判所がMicrosoft Teamsの設定ミスにより、約6000人を誤って登録してしまったことが判明した。これは職員や関係者向けのグループに意図しない人物が追加された大規模なIT管理トラブル。司法機関という信頼性が求められる組織でのセキュリティ・アクセス管理体制の杜撰さが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-05-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-14.html",
+   "title": "なぜ今？連載中の漫画「メダリスト」がしばらく休載へ",
+   "title_en": "Manga 'Medalist' Goes on Hiatus: What's Behind the Timing?",
+   "category": "エンタメ",
+   "published": "2026-09-05",
+   "summary": "月刊誌に連載中の漫画「メダリスト」がしばらくの間休載することが発表された。作者の創作活動の状況や連載の進行状況から判断しての判断とみられる。読者からは続きを心待ちにする声が上がっており、復帰のタイミングに注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-05-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-13.html",
+   "title": "アメリカの「出生地主義」にメスを入れるトランプ大統領令、裁判所が待ったをかけた理由は？",
+   "title_en": "Trump's Challenge to Birthright Citizenship: Why Did the Federal Court Block It?",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "トランプ米大統領が先月発令した、アメリカ国内で生まれた子どもへの自動国籍付与を制限する大統領令について、連邦地方裁判所が一時差し止めの判断を下した。アメリカの憲法修正第14条で保障されている「出生地主義」に関わる重要な判断となる。"
+  },
+  {
+   "slug": "2026-09-05-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-12.html",
+   "title": "新首相バーナム氏、就任1ヶ月で初の外国首脳迎接　マクロン大統領との会談でボート問題から文化交流まで幅広く",
+   "title_en": "UK's New PM Welcomes Macron at Downing Street Just One Month Into Office—Historic Tapestry Viewing with King Charles Highlights Anglo-French Ties",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "イギリスのアンディ・バーナム首相は3日、訪英中のフランスのエマニュエル・マクロン大統領と初会談を行った。7月就任から間もない新首相にとって、首相官邸での外国首脳との会談は初めて。イギリス海峡を渡る小型ボート問題や国際情勢での関係強化を協議。会談後はチャールズ国王も交えて大英博物館でバイユーのタペストリーを観覧するなど、英仏の歴史的絆を象徴する活動も行われた。"
+  },
+  {
+   "slug": "2026-09-05-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-11.html",
+   "title": "ロシア、北方領土の税制優遇は「成功した」と発表。狙いは何か？",
+   "title_en": "Russia Claims Tax Incentives in Disputed Northern Territories Are 'Successful'—But Why Now?",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "ロシアのプーチン大統領が、北方領土に対する税制優遇措置が成功していると述べた。ロシアは実効支配を強化するため、同地域への企業進出や投資促進を目的とした税制上の優遇策を実施している。この発表は、領土支配の正当性をアピールする狙いとみられる。"
+  },
+  {
+   "slug": "2026-09-05-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-10.html",
+   "title": "共和党の牙城で異例の接戦、米中間選挙の勢力図が大きく変わる可能性",
+   "title_en": "Republican Strongholds Facing Unexpectedly Close Races in US Midterms",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "米国の中間選挙で、これまで共和党が優位を保ってきた地域で予想外の激戦となっている。インフレやアブラメフ判決など複数の要因が有権者の投票行動に影響を与え、従来の政治地図が揺らぎ始めている。接戦地域の結果が全体の勢力図を大きく左右する可能性が高まっている。"
+  },
+  {
+   "slug": "2026-09-05-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-9.html",
+   "title": "猛暑と渇水でワカサギ5千匹が一気に死ぬ　日本の淡水魚に何が起きている？",
+   "title_en": "5,000 Smelt Fish Dead Amid Extreme Heat and Drought: What's Happening to Japan's Freshwater Ecosystems?",
+   "category": "国内",
+   "published": "2026-09-05",
+   "summary": "記録的な猛暑と渇水の影響により、ワカサギ5千匹が集団で死ぬ事態が発生した。水温上昇と酸欠が主な原因とみられている。気候変動による異常気象が、淡水生態系に深刻な打撃を与えている実態が改めて浮き彫りになった。今後も同様の被害が懸念されている。"
+  },
+  {
+   "slug": "2026-09-05-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-8.html",
+   "title": "大手居酒屋が100円台の酒を本格展開。消費者の「安さ求める心理」に大手まで動く理由とは",
+   "title_en": "Why Major Izakayas Are Now Selling Alcohol for Under $1: The Psychology Behind the Price War",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "大手居酒屋チェーンが100円台の低価格酒類メニューを拡充させている。背景には、物価上昇で外食費を抑えたい消費者ニーズと、来店頻度を高めたい企業戦略がある。低価格帯での競争激化により、単価よりも客数確保にシフトする大手の経営判断が見える。"
+  },
+  {
+   "slug": "2026-09-05-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-7.html",
+   "title": "消費税減税で地方が困る？政府が全額補てん案を検討中",
+   "title_en": "Will Tax Cuts Leave Local Governments Behind? Government Considers Full Compensation Plan",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "食料品の消費税減税を検討している政府が、自治体の財政悪化を懸念し、税率引き下げで生じる地方の減収分を特例交付金で全額補てんする案を検討していることが明らかになった。与党とも調整を進めており、国と地方の財政バランスを保つための対策が進行中だという。"
+  },
+  {
+   "slug": "2026-09-05-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-6.html",
+   "title": "任天堂が異例の2日連続発表へ、次世代機情報か？",
+   "title_en": "Nintendo's Rare Two-Day Announcement Blitz: What's Coming?",
+   "category": "エンタメ",
+   "published": "2026-09-05",
+   "summary": "任天堂が2日連続で新情報を発表することが明らかになった。同社がこのような異例の発表体制を取ることは極めて珍しく、次世代ゲーム機やメジャータイトルの発表である可能性が高まっている。ゲーム業界全体が注視する中、何が発表されるのか大きな関心が集まっている。"
+  },
+  {
+   "slug": "2026-09-05-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-5.html",
+   "title": "大谷翔平に異変か？監督が明かした『首の違和感』、今後の活躍に影響は",
+   "title_en": "Is Shohei Ohtani in Trouble? Manager Reveals 'Neck Discomfort' Concerns",
+   "category": "スポーツ",
+   "published": "2026-09-05",
+   "summary": "大谷翔平選手の首に違和感が生じていることが、チームの監督によって明かされた。詳細な症状や原因については現在調査中とのことだが、今後の試合出場や成績に影響を与える可能性が懸念されている。ファンや関係者の間で健康状態を懸念する声が上がっている。"
+  },
+  {
+   "slug": "2026-09-05-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-4.html",
+   "title": "セブン-イレブンがアパレルに本格参入、コンビニの枠を超える戦略とは？",
+   "title_en": "Why is Seven-Eleven Going Into the Fashion Business? The New Retail Strategy Explained",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "セブン-イレブンがアパレル事業への本格的な参入を発表した。従来の食品・日用雑貨中心のビジネスモデルから、衣料品市場への進出により新たな収益源を確保する狙いがある。コンビニ各社の経営戦略の多角化が進む中、消費者の生活ニーズへの対応が急速に進んでいる。"
+  },
+  {
+   "slug": "2026-09-05-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-3.html",
+   "title": "米雇用統計が予想上回る16.2万人増　市場が注視する雇用回復の勢い",
+   "title_en": "US August Jobs Data Beats Expectations With 162,000 New Hires—What's Next for the Fed?",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "アメリカの8月の雇用統計が発表され、非農業部門の雇用者数は前月比16.2万人増となり、市場予想を上回る結果となった。この数字は景気動向の重要な指標として機能しており、米連邦準備制度理事会（FRB）の金融政策判断にも影響を与える可能性がある。労働市場の堅調さが示唆される一方で、今後のインフレ動向や利上げペースをめぐる議論も生じている。"
+  },
+  {
+   "slug": "2026-09-05-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-2.html",
+   "title": "生後2カ月の乳児が亡くなった事件で18歳男を逮捕　何が起きたのか",
+   "title_en": "What Led to the Death of a 2-Month-Old Infant? 18-Year-Old Man Arrested",
+   "category": "国内",
+   "published": "2026-09-05",
+   "summary": "生後2カ月の乳児が殺害されたとして、18歳の男が逮捕された。極めて幼い命が失われた本件について、警察は詳しい経緯を調査中。虐待や育児の困難さに関わる深刻な社会問題が改めて浮き彫りになり、児童保護体制のあり方を問う声も上がっている。"
+  },
+  {
+   "slug": "2026-09-05-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-1.html",
+   "title": "インドネシアの火山で大規模噴火、周辺地域に何が起こる？",
+   "title_en": "Major Volcanic Eruption in Indonesia: What's the Impact on Surrounding Areas?",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "インドネシアの火山が大規模な噴火を起こしました。火山灰が広範囲に拡散し、周辺の空港や交通機関に影響が出ています。現地では避難勧告が発令され、住民の安全確保が急務となっており、今後の火山活動の推移が注視されています。"
+  },
+  {
+   "slug": "2026-09-05-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-0.html",
+   "title": "屋久島でレベル5土砂災害特別警報、経験したことない猛烈な雨に何ができる？",
+   "title_en": "Level 5 Sediment Disaster Alert Issued for Yakushima—What Can You Do in an Unprecedented Downpour?",
+   "category": "国内",
+   "published": "2026-09-05",
+   "summary": "台風と秋雨前線の影響で鹿児島県の屋久島町に、最高レベルの土砂災害特別警報が発表されました。種子島・屋久島地方では経験を上回る猛烈な雨が降っており、気象庁は住民に命を守る行動を強く呼びかけています。土砂災害のリスクが極めて高い状況となっています。"
+  },
   {
    "slug": "2026-09-04-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-04-41.html",
