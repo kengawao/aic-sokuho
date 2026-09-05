@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1112,
+ "count": 1133,
  "articles": [
+  {
+   "slug": "2026-09-05-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-41.html",
+   "title": "投手が球を放つ前に三振？ド軍で起きた野球史上の珍事件がヤバすぎるwww",
+   "title_en": "Strike Out Before the Pitch? This Dodgers Play is Breaking Baseball's Most Basic Rule",
+   "category": "コラム",
+   "published": "2026-09-05",
+   "summary": "ロサンゼルス・ドジャースの試合で驚くべき珍三振が発生。なんと投手がボールを投げる前の段階で打者が三振判定されるという、野球のルールブックに載っていそうもない出来事が起きたという。常識を覆す瞬間に、ファンから困惑と爆笑の声が上がっている。"
+  },
+  {
+   "slug": "2026-09-05-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-40.html",
+   "title": "ソフトクリームそっくり？古生物学者も驚いた奇妙な化石の正体とは",
+   "title_en": "New Fossil Discovery Looks Like Soft-Serve Ice Cream—And Scientists Are Equally Baffled",
+   "category": "科学",
+   "published": "2026-09-05",
+   "summary": "研究チームが新種の化石を発見し、その外形がソフトクリームに酷似していることから話題になっている。らせん状の構造を持つこの化石は、従来の分類では説明がつかない特徴を複数備えており、古生物学の既存の理解に新たな視点をもたらす可能性がある。現在、詳細な分析が進められている。"
+  },
+  {
+   "slug": "2026-09-05-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-39.html",
+   "title": "あの世界地図、もう使うな 国連が正式採択した理由とは",
+   "title_en": "UN Officially Ditches Mercator Projection: Why Now?",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "国連がメルカトル図法の使用廃止を正式に採択した。メルカトル図法は赤道から離れるほど陸地が拡大して見える特性があり、特に高緯度のヨーロッパ・北米が過度に大きく、アフリカ・アジアが小さく表示されてきた。この歴史的偏見を是正し、より正確な世界地図表示への転換が決定された。"
+  },
+  {
+   "slug": "2026-09-05-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-38.html",
+   "title": "マンションの一室が旅館に変身？民泊の法的グレーゾーン、住民トラブルの実態",
+   "title_en": "From Apartment to Hotel? The Hidden Legal Gray Zone Behind Japan's Booming Minpaku Problem",
+   "category": "国内",
+   "published": "2026-09-05",
+   "summary": "マンションの一室を無許可で旅館業として利用する民泊が問題化している。旅館業法では許可が必要だが、自治体によって対応が異なり、規制が追いつかない状況。騒音やゴミ問題など住民トラブルが増加する一方で、空室対策として利用するオーナーも多く、法規制と実態のズレが深刻化している。"
+  },
+  {
+   "slug": "2026-09-05-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-37.html",
+   "title": "「setlog」が若者に刺さる理由、他のSNSとの決定的な違いは何か",
+   "title_en": "Why Is \"setlog\" Capturing Gen Z? What Makes It Different From Other Social Media",
+   "category": "IT",
+   "published": "2026-09-05",
+   "summary": "新興SNS「setlog」が若者層から注目を集めている。既存のInstagramやTikTokとは異なるコンセプトやUI設計により、特に10代後半から20代前半のユーザーから支持を獲得しているという。本記事ではこのプラットフォームが従来のSNSと何が異なり、なぜこの世代に響いているのかを検証する。"
+  },
+  {
+   "slug": "2026-09-05-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-36.html",
+   "title": "運転免許の更新試験が激変、高齢ドライバーにどう影響する?",
+   "title_en": "Japan's Stricter Driving Tests: Who Will Be Left Behind?",
+   "category": "国内",
+   "published": "2026-09-05",
+   "summary": "警察庁が運転技能検査を厳格化する方針を示した。認知機能低下が疑われる高齢ドライバーへの対応強化が背景。実施方法や基準の詳細が検討中で、免許更新の難化が予想される。安全性向上と利便性のバランスが課題となっている。"
+  },
+  {
+   "slug": "2026-09-05-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-35.html",
+   "title": "アメリカだけ反対！国連が世界地図を刷新、アフリカの「本当の大きさ」がついに認識される",
+   "title_en": "US Stands Alone Against UN Vote to Reshape World Maps and Show Africa's True Size",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "国連総会がアフリカ大陸の実際の面積をより正確に反映した世界地図への置き換えを決議した。トーゴが提出した決議案は164カ国の賛成で可決。従来の地図ではアフリカが過小評価されていたという長年の指摘が、国際舞台で正式に認められた形となる。アメリカのみが反対票を投じた。"
+  },
+  {
+   "slug": "2026-09-05-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-34.html",
+   "title": "米軍のミサイルが結婚披露宴を直撃か、子ども2人を含む民間人4人が犠牲に―イラン主張を米が調査中",
+   "title_en": "US Investigates Iran's Claims: American Military Strike May Have Hit Wedding Reception, Killing At Least 4 Civilians Including 2 Children",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "米国のヴァンス副大統領は、先月1日にイランへの攻撃で民間人少なくとも4人が殺害されたというイランの主張について、米軍が現在調査していることを明らかにした。犠牲者には結婚披露宴に参列していた子ども2人が含まれているという。事実関係の把握と検証が進められている段階である。"
+  },
+  {
+   "slug": "2026-09-05-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-33.html",
+   "title": "アルゼンチン大統領がフォークランド周辺の石油企業に経済制裁警告　英国との領有権争いが加速",
+   "title_en": "Argentina's President Escalates Falkland Islands Claim with Threat of Economic Sanctions on Oil Companies",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "アルゼンチンのミレイ大統領がフォークランド諸島周辺で石油採掘を行う企業に対して経済制裁を課すと警告した。領有権をめぐってイギリスとの対立が深まっている。アルゼンチンは長年にわたってフォークランド諸島の領有権を主張しており、今回の警告はその立場を改めて強調する動きとなっている。"
+  },
+  {
+   "slug": "2026-09-05-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-32.html",
+   "title": "産後の精神疾患で審理無効に　米国で3人の子どもを殺害した母親の裁判、陪審が判断できず",
+   "title_en": "Mistrial Declared in U.S. Case: Did Postpartum Illness Shield Mother from Murder Charges?",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "米マサチューセッツ州の裁判所が、幼い子ども3人を殺害した母親の裁判を審理無効と宣言した。被告は産後精神疾患を患っていたと主張し、刑事責任を問うべきではないと訴えていた。陪審団が評決に至らず、今後の再審理の行方が注目されている。精神疾患と刑事責任の問題が改めて焦点となった。"
+  },
+  {
+   "slug": "2026-09-05-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-31.html",
+   "title": "米特使の訪ロ直前にロシアがウクライナ保安庁本部を攻撃　和平交渉を揺さぶる狙いか",
+   "title_en": "Russia Strikes Ukraine Security HQ Days Before US Envoy's Moscow Visit: Testing Peace Talks?",
+   "category": "国際",
+   "published": "2026-09-05",
+   "summary": "ウクライナのゼレンスキー大統領は、キーウ中心部にあるウクライナ保安庁（SBU）本部がロシアのドローン攻撃を受けたと発表した。この攻撃は、米国の特使がロシアとの和平交渉を目的に訪ロを予定している直前に発生。紛争の緊張が高まる中での軍事行動であり、和平協議に対するロシア側の姿勢が問われている。"
+  },
+  {
+   "slug": "2026-09-05-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-30.html",
+   "title": "寝たきりの13歳が映画出演で人生が変わる　何が起きたのか",
+   "title_en": "How a 13-Year-Old Bedridden Boy's Life Changed After Starring in a Film",
+   "category": "エンタメ",
+   "published": "2026-09-05",
+   "summary": "寝たきりの状態にあった13歳の子どもが映画出演を機に変化を遂げたというニュース。身体的な制限がある中での映画製作への参加がもたらした心身への影響や、本人の成長、周囲の対応の変化など、創作活動が持つ可能性について注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-05-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-29.html",
+   "title": "ニデック不正問題、なぜ一流企業で利益至上主義が蔓延するのか",
+   "title_en": "Why Did Nidec's Profit-First Culture Lead to Misconduct?",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "精密機器メーカーのニデックで不正行為が発覚し、企業文化における利益至上主義の浸透が指摘されている。品質管理や法令遵守よりも短期的な利益追求を優先させる経営姿勢が問題視される中、業界全体での企業倫理の見直しが求められている。"
+  },
+  {
+   "slug": "2026-09-05-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-28.html",
+   "title": "長野県が健康寿命で男女とも全国1位を維持、その秘訣は何か？",
+   "title_en": "Why Does Nagano Prefecture Maintain the Longest Health Expectancy in Japan?",
+   "category": "健康",
+   "published": "2026-09-05",
+   "summary": "厚生労働省の調査で、長野県が健康寿命において男女ともに全国で最も長い状態を維持していることが明らかになった。健康寿命とは、介護を必要としない自立した生活が送れる期間を指す。この結果は、長野県の健康施策や食生活、運動習慣などの総合的な取り組みが評価されたものとみられている。"
+  },
+  {
+   "slug": "2026-09-05-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-27.html",
+   "title": "北極の氷河が13年で5m消失…このままだと地球はどうなる?",
+   "title_en": "Arctic Glaciers Lost 5 Meters in 13 Years—What Happens Next?",
+   "category": "科学",
+   "published": "2026-09-05",
+   "summary": "北極圏の氷河が過去13年間で平均5メートルの厚さを失ったことが明らかになりました。温暖化による急速な融解が進行しており、海面上昇や気候変動への影響が懸念されています。衛星観測データから氷河の後退が加速していることが確認され、今後の対策の重要性が指摘されています。"
+  },
+  {
+   "slug": "2026-09-05-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-26.html",
+   "title": "30年ぶり3%超え。長期金利上昇で、住宅ローンや家計にどう影響する？",
+   "title_en": "Japan's Long-Term Interest Rates Hit 3% for First Time in 30 Years—What Does It Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "日本の長期金利が急速に上昇し、10年ものの国債利回りが約30年ぶりに3%を超えました。この動きは、住宅ローン金利の上昇、企業の借入コスト増加、預金金利の改善など、私たちの日常生活や経済全体に多くの波紋を広げています。具体的な影響を整理し、今後の見通しについて考えます。"
+  },
+  {
+   "slug": "2026-09-05-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-25.html",
+   "title": "焦って家を買う若者が急増中…銀行も警告する『後悔しない購入時期』とは",
+   "title_en": "Young Home Buyers in Japan Rushing Into Mortgages—Banks Sound Alarm on Risky Purchases",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "金利上昇や物価高騰の影響で、将来への不安から住宅購入を急ぐ若年層が増加している。しかし専門家は、十分な貯蓄や人生計画のないまま購入決断することの危険性を指摘。ローン返済負担の増加や転職・結婚などのライフイベントで返済困難に陥るリスクがあるとして、焦らない判断の重要性を強調している。"
+  },
+  {
+   "slug": "2026-09-05-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-24.html",
+   "title": "2029年に中低所得者へ現金給付検討、政府が新たな経済対策で何が変わる?",
+   "title_en": "Japan's 2029 Cash Handout Plan for Low-Income Families: What Could Change?",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "政府が2029年を目安に、中低所得者を対象とした現金給付の実施を検討していることが明らかになった。経済格差の是正と家計支援を目的とした施策で、具体的な給付額や対象世帯の基準などは今後詰められる見通し。消費喚起と生活保障のバランスをどう取るかが課題となる。"
+  },
+  {
+   "slug": "2026-09-05-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-23.html",
+   "title": "水道代がまた上がる…日本の家計はどこまで耐えられるのか",
+   "title_en": "Japan's Water Bills Keep Rising — But Can Households Take Any More?",
+   "category": "経済",
+   "published": "2026-09-05",
+   "summary": "全国で水道料金の値上げが相次いでいる。老朽化したインフラの維持管理費や人口減少による収入減が主な原因で、既に値上げを実施した自治体に加え、今後さらに多くの地域での値上げが検討されている。電気・ガス代に続く新たな負担増が、家計を圧迫する状況が深刻化している。"
+  },
+  {
+   "slug": "2026-09-05-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-22.html",
+   "title": "鹿児島で線状降水帯が再発生。台風24号と秋雨前線の組み合わせでさらなる大雨のおそれ",
+   "title_en": "Linear Precipitation Band Emerges in Amami Region as Typhoon 24 and Autumn Rain Front Create Dangerous Weather Conditions",
+   "category": "国内",
+   "published": "2026-09-05",
+   "summary": "台風24号と秋雨前線の影響で記録的な大雨に見舞われている鹿児島県で、5日夜間に奄美地方で線状降水帯が発生しました。既に甚大な被害が出ている中での新たな降水帯の出現により、土砂災害や洪水などの危険性が急速に高まっています。今後も熱帯低気圧による大雨が継続する見込みで、厳重な警戒が必要な状況が続く見通しです。"
+  },
+  {
+   "slug": "2026-09-05-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-05-21.html",
+   "title": "妊娠中の自殺61人、4年間で何が起きているのか",
+   "title_en": "61 Maternal Suicides Over 4 Years: What's Really Happening in Pregnancy Crisis Care?",
+   "category": "健康",
+   "published": "2026-09-05",
+   "summary": "過去4年間の調査で、妊娠中に自殺した人が61人に上ることが明らかになった。妊娠・出産期は身体的・精神的負担が大きく、うつ病などの精神疾患のリスクが高まる時期とされている。専門家は妊産婦への心理社会的サポート体制の充実が急務だと指摘しており、医療機関や地域での支援強化の必要性が浮き彫りになっている。"
+  },
   {
    "slug": "2026-09-05-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-20.html",
