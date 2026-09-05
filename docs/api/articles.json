@@ -2,8 +2,198 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1133,
+ "count": 1152,
  "articles": [
+  {
+   "slug": "2026-09-06-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-18.html",
+   "title": "石井大智が51試合連続無失点達成、低迷からの驚異的な復活の秘密は",
+   "title_en": "From Forgotten to Unstoppable: Tomosato Ishii's Remarkable 51-Game Shutout Streak",
+   "category": "スポーツ",
+   "published": "2026-09-06",
+   "summary": "かつての期待の選手から一度は低迷していた石井大智が、見事な復活を遂げた。51試合連続無失点という驚異的な記録を達成し、その名前が再び注目を集めている。技術面での改善と精神的な鍛え直しが功を奏したとみられ、業界関係者からは高く評価されている。"
+  },
+  {
+   "slug": "2026-09-06-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-17.html",
+   "title": "給料じゃなく「時間」で報酬をもらう経済圏が実在していた。日本でも広がる『時間銀行』の仕組みとは？",
+   "title_en": "What if Your Hourly Wage Became Digital Currency? How 'Time Banks' Are Actually Operating Around the World",
+   "category": "経済",
+   "published": "2026-09-06",
+   "summary": "労働時間を通貨として記録・交換できる仕組み「時間銀行」が海外で実際に運営されている。提供した1時間のサービスを時間単位で貯蓄し、必要な時に他のサービスと交換できる仕組みで、コミュニティの相互扶助や高齢化社会への対応策として注目されている。日本でも導入事例が増えつつあり、新しい経済モデルとして関心が高まっている。"
+  },
+  {
+   "slug": "2026-09-06-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-16.html",
+   "title": "こち亀新アニメの両津勘吉役に落合福嗣が決定　懐かしの声優はどこへ？",
+   "title_en": "New City Hunter Anime Casts Fukushi Ochiai as Kankichi Ryotsu—Will the Legendary Character Be Reimagined?",
+   "category": "エンタメ",
+   "published": "2026-09-06",
+   "summary": "長寿漫画『こちら葛飾区亀有公園前派出所』の新作アニメ化が決定し、主人公・両津勘吉役の声優を落合福嗣が務めることが明かされた。前作アニメシリーズとは異なるキャスティングとなることから、ファンからは期待と懸念の声が上がっている。新しい両津像がどのように描かれるかが注目されている。"
+  },
+  {
+   "slug": "2026-09-06-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-15.html",
+   "title": "コナン、視聴者が物語を決める？初の参加型アニメ制作決定の衝撃",
+   "title_en": "Detective Conan Goes Interactive: Fans to Shape the Story in Historic First",
+   "category": "エンタメ",
+   "published": "2026-09-06",
+   "summary": "名探偵コナンシリーズが初めて参加型のアニメ制作に挑戦することが決定した。従来の一方的な視聴スタイルから脱却し、ファンが投票や選択を通じて物語展開に関与できる新しい形態のアニメ体験を提供する計画。デジタル時代に適応したコンテンツ戦略として、業界内でも注目される取り組みになりそうだ。"
+  },
+  {
+   "slug": "2026-09-06-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-14.html",
+   "title": "広島監督の長男がプロ志望届提出へ、親子二代での野球人生はどうなる？",
+   "title_en": "Will Hiroshima Manager's Son Follow in His Father's Footsteps? The Next Chapter in a Baseball Dynasty",
+   "category": "スポーツ",
+   "published": "2026-09-06",
+   "summary": "広島東洋カープの監督の長男がプロ野球志望届を提出することが明らかになった。監督自身も現役時代にプロ経験を持つなど、野球一家としての背景がある。親の期待やプレッシャー、そして独立した選手としてのキャリア形成など、複数の視点から注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-06-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-13.html",
+   "title": "6ヶ月経ってどうなった？トランプがイランとの戦争で成し遂げたこと",
+   "title_en": "Six Months In: What Has Trump Actually Achieved in the Iran War?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "アメリカとイスラエルがイランとの戦争を開始してから半年が経過した。BBC特派員がトランプ大統領の戦果を分析する記事。この半年間の軍事作戦や外交交渉の成果と課題、中東情勢への影響について詳しく解説されている。"
+  },
+  {
+   "slug": "2026-09-06-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-12.html",
+   "title": "ゼレンスキー氏が航空各社に警告、ロシア領空は「事実上閉鎖」？ドローン作戦激化で何が起きているのか",
+   "title_en": "Zelenskyy Warns Airlines: Is Russian Airspace Really 'Effectively Closed' Over Intensified Drone Operations?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "ウクライナのゼレンスキー大統領が航空各社に対し、ロシア領空の利用を避けるよう呼びかけた。ウクライナが民間航空機への脅威となるドローン攻撃を強化していることが背景にあり、同国は国連にもこのリスクについて正式に通知。国際航空路線の安全性が新たな懸念材料となっている。"
+  },
+  {
+   "slug": "2026-09-06-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-11.html",
+   "title": "50万ポンド献金をどう隠す？ファラージ党幹部が法回避の手口を暴露される",
+   "title_en": "Exposed: How Farage's Allies Proposed Hiding £500,000 in Foreign Donations",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "英公共放送チャンネル4が潜入取材映像を報道。身分を偽ったジャーナリストの隠し撮り映像には、野党リフォームUKのファラージ党首の側近が、外国からの50万ポンド献金を政治資金規制法から逃れさせる具体的な方法を提案する場面が映っていた。英国の選挙・政治資金に関する法規制の抜け穴利用が明るみに出たことで、政治倫理をめぐる議論が再燃する可能性がある。"
+  },
+  {
+   "slug": "2026-09-06-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-10.html",
+   "title": "80年間の謎が解ける。不動産広告の片隅に隠されていた、ナチスが略奪した名画",
+   "title_en": "Lost for 80 Years: Masterpiece Stolen by Nazis Found in Argentine Real Estate Ad",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "アルゼンチンの裁判所が、第2次世界大戦中にナチス・ドイツに略奪されたイタリアの後期バロック絵画「婦人の肖像」の返還を命じた。この作品はブエノスアイレス近郊の住宅を紹介するウェブ広告に偶然写り込むまで、80年以上行方不明だった。正当な所有者の相続人へ返還される見通しだ。"
+  },
+  {
+   "slug": "2026-09-06-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-9.html",
+   "title": "米特使がモスクワ入り、ウクライナ和平案を提示か？プーチンとの会談は実現するのか",
+   "title_en": "U.S. Envoy Arrives in Moscow: Will Peace Proposal for Ukraine Be Presented?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "アメリカの特使らがロシアの首都モスクワに到着した。この訪問は、ウクライナ紛争の終結に向けた和平案の提示が目的とみられている。両国の立場が対立する中での交渉となり、実現可能な合意が成立するかが焦点となっている。国際社会が和平交渉の進展を注視している。"
+  },
+  {
+   "slug": "2026-09-06-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-8.html",
+   "title": "同姓同名の夫婦が直面する日常トラブル、銀行口座から郵便物まで大混乱",
+   "title_en": "Couple with Identical First and Last Names Face Unexpected Daily Chaos",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "姓も名も同じ夫婦が日常生活で直面するトラブルについて報じている。銀行や役所での手続き、郵便物の誤配、クレジットカード申請など、同姓同名という稀なケースゆえに生じる混乱が後を絶たない。本人確認書類が必要な場面で特に問題が顕在化し、事務手続きの効率化が課題となっている。"
+  },
+  {
+   "slug": "2026-09-06-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-7.html",
+   "title": "10日まで続く大雨警報、あなたの地域は大丈夫？台風24号と秋雨前線が同時襲来",
+   "title_en": "Heavy Rain Alert Through September 10th: Is Your Area at Risk? Typhoon No. 24 and Autumn Front Converging",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "台風24号と秋雨前線の同時影響により、西日本から東北の太平洋側を中心に7日にかけて大雨が予想されている。局地的には非常に激しい雨となり、浸水や土砂災害のリスクが高まる可能性があるという。気象庁は厳重な警戒を呼びかけており、最大で10日まで雨が続く見込み。"
+  },
+  {
+   "slug": "2026-09-06-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-6.html",
+   "title": "軽油が過去最高価格に…バイデン政権の難題、ガソリンスタンドで何が起きてる?",
+   "title_en": "U.S. Diesel Prices Hit All-Time High: What Does This Mean for Biden and Your Wallet?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "米国の軽油価格が過去最高を記録し、バイデン政権に大きな打撃となっている。エネルギー価格の上昇は生活コストに直結し、消費者の負担増につながっている。トラック業界や物流セクターへの影響も深刻で、経済全体に波及する懸念が高まっている状況だ。"
+  },
+  {
+   "slug": "2026-09-06-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-5.html",
+   "title": "全米OPで大麻のにおい？ テニス会場で選手が訴え、スポーツ界も対応に頭を抱える",
+   "title_en": "Marijuana Smell Complaints at US Open: How Major Tennis Tournament Is Handling New Environmental Challenge",
+   "category": "スポーツ",
+   "published": "2026-09-06",
+   "summary": "全米オープンテニスの試合会場で、大麻のにおいが漂っていることに選手が苦情を訴えた。ニューヨークの会場周辺での大麻使用が原因とみられ、選手のパフォーマンスや集中力への影響が懸念されている。競技環境の質を保つための課題として、会場管理関係者の対応が注目されている。"
+  },
+  {
+   "slug": "2026-09-06-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-4.html",
+   "title": "獺祭が1億円寄付、日本酒メーカーの社会貢献が加速？被災地支援の背景にあるもの",
+   "title_en": "Japan's Premium Sake Maker Asahi Donates ¥100 Million: What's Behind This Corporate Generosity?",
+   "category": "経済",
+   "published": "2026-09-06",
+   "summary": "日本酒メーカーの獺祭が豪雨被災地などを対象に1億円の寄付を実施する。同社は品質へのこだわりで知られる旭酒造の主力ブランドであり、近年は国内外での事業拡大に伴い、社会貢献活動にも力を入れている。この寄付により、被災地の復興支援と地域経済の再構築に貢献する見通しだ。"
+  },
+  {
+   "slug": "2026-09-06-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-3.html",
+   "title": "ロシアの対日戦勝碑、首相が撤去要請へ　日露関係が新たな局面に",
+   "title_en": "Japan's PM Demands Removal of Russian War Monument: What Does This Signal About Tokyo-Moscow Relations?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "日本の首相がロシアに対し、ロシア領内に設置されている対日戦勝碑の撤去を正式に要請することが明らかになった。この碑は日露戦争の勝利を記念するもので、両国の歴史認識の相違や現在の政治的緊張を象徴する存在となっている。日本政府は外交ルートを通じて撤去の協議を進める方針を示しており、今後の日露関係への影響が注視されている。"
+  },
+  {
+   "slug": "2026-09-06-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-2.html",
+   "title": "大谷、移籍後初の3戦連続スタメン外　何が起きている？",
+   "title_en": "Shohei Ohtani Benched for Third Consecutive Game: What's Going On?",
+   "category": "スポーツ",
+   "published": "2026-09-06",
+   "summary": "メジャーリーグの大谷翔平選手が、新球団での3戦連続スタメン外という異例の事態に。移籍後初めてのことで、ファンからは心配の声が上がっている。故障の有無や起用方針について関心が集まっている。"
+  },
+  {
+   "slug": "2026-09-06-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-1.html",
+   "title": "悠仁さま20歳、成年皇族へ　皇籍離脱の可能性が高まる中での節目",
+   "title_en": "Prince Hisahito Turns 20: Japan's Imperial Succession Faces Critical Questions",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "秋篠宮悠仁さまが20歳を迎え、成年皇族としての活動を本格化させます。皇位継承権を持つ皇族男性として公務を担当していく一方で、皇籍離脱や身分について国民的な関心が集まっています。皇室制度の在り方が問い直される重要な局面を迎えています。"
+  },
+  {
+   "slug": "2026-09-06-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-0.html",
+   "title": "ケーキ店で放火か、2人死亡3人搬送　なぜ商業施設での火災は後を絶たないのか",
+   "title_en": "Arson Suspected in Bakery Fire: 2 Dead, 3 Hospitalized—Why Do Commercial Fires Keep Happening?",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "ケーキ店で火災が発生し、2人が死亡、3人が病院に搬送される事態が起きた。現場の状況から放火の可能性も指摘されており、警察が調査を進めている。商業施設での火災事故は毎年多数発生しており、防火対策や緊急対応体制の重要性が改めて浮き彫りになった。"
+  },
   {
    "slug": "2026-09-05-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-05-41.html",
