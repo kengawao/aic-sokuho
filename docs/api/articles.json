@@ -2,8 +2,188 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1174,
+ "count": 1192,
  "articles": [
+  {
+   "slug": "2026-09-07-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-17.html",
+   "title": "織田裕二に恋した野呂佳代、幼少期の秘密の想いが明かされるwww",
+   "title_en": "Yoshiyo Noro's Childhood Crush on Oda Yoji Revealed - And It's Adorable!",
+   "category": "コラム",
+   "published": "2026-09-07",
+   "summary": "タレントの野呂佳代が、幼少期に俳優・織田裕二に恋をしていたことを明かした。当時テレビで見かけた織田裕二に惹かれていたというエピソード。多くの人が子ども時代に芸能人を好きになる経験があるが、それを大人になってから語るのはなかなかユニーク。野呂のこのような素朴で可愛らしい告白は、ファンの間でも微笑ましい反応を呼んでいる。"
+  },
+  {
+   "slug": "2026-09-07-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-16.html",
+   "title": "3連単5294万円の大穴が出た中山競馬場、一体何が起きたのか",
+   "title_en": "What Happened at Nakayama Racecourse? A Record 52.94 Million Yen Payout Shocks Betting Community",
+   "category": "スポーツ",
+   "published": "2026-09-07",
+   "summary": "中山競馬場で3連単の配当金が5294万円という高額配当が成立する事態が発生し、競馬ファンの間で話題となっています。これほどの高額配当が出るのは、予想を大きく外れた馬券組み合わせが的中したことを意味し、競馬界でも稀な現象です。多くの穴馬が好走した結果とみられ、競馬ファンから驚きと羨望の声が上がっています。"
+  },
+  {
+   "slug": "2026-09-07-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-15.html",
+   "title": "おせち離れの若者層を逆転させるには？ 食品メーカーが仕掛ける「新しいおせち」の正体",
+   "title_en": "Can Food Makers Turn Around Young People's Declining Interest in Traditional Osechi?",
+   "category": "経済",
+   "published": "2026-09-07",
+   "summary": "伝統的なおせち料理の需要が減少する中、食品メーカーやデパートが若い世代の獲得に向けた新しい商品展開を始めている。洋風アレンジおせちやSNS映え重視のデザイン、個食対応パッケージなど、従来の家族向け大皿おせちとは異なるコンセプトで市場を拡大しようとしている。高級志向から手軽さへのシフトなど、消費者の多様なニーズに対応する動きが注目されている。"
+  },
+  {
+   "slug": "2026-09-07-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-14.html",
+   "title": "朝日新聞の「新R25」9月末で終了へ　若年層向けメディアの栄枯盛衰は何を意味するのか",
+   "title_en": "Asahi Shimbun's 'Shin-R25' to Shut Down: What Does the Rise and Fall of Youth-Targeted Digital Media Reveal?",
+   "category": "経済",
+   "published": "2026-09-07",
+   "summary": "朝日新聞社が運営していた若年層向けデジタルメディア「新R25」が2024年9月末に運営終了することが発表された。同メディアは2019年の立ち上げから約5年間にわたり、ミレニアル・Z世代を主要ターゲットとしてキャリアや人生相談、トレンド情報などを発信してきた。これは新聞社が若年層向けコンテンツ戦略を再構築する動きとして注目される。"
+  },
+  {
+   "slug": "2026-09-07-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-13.html",
+   "title": "玉木宏が柔術世界大会で3位入賞、俳優の本気がついに形に",
+   "title_en": "Actor Hiroshi Tamaki Places Third at International BJJ World Championship",
+   "category": "スポーツ",
+   "published": "2026-09-07",
+   "summary": "俳優の玉木宏が国際柔術大会で3位の成績を収めた。柔術は近年日本でも競技人口が増えており、格闘技への関心の高まりを背景に、芸能人の本格的な参加事例が増加している。玉木の入賞は、訓練を積み重ねた結果の実績として注目されている。"
+  },
+  {
+   "slug": "2026-09-07-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-12.html",
+   "title": "アンダーパスの浸水対策、全国初の予防的規制へ 何が変わる？",
+   "title_en": "Japan's First Preventive Traffic Control for Underpasses: A New Flood Safety Approach",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "道路のアンダーパス（地下道）で予防的な通行規制を導入する取り組みが全国で初めて実施されることになった。豪雨時の浸水リスクを事前に察知し、危険が高まる前に通行を制限する新たな安全対策。従来は浸水が発生してから対応していたが、より早期の段階で交通を止めることで、孤立や被害を防ぐ狙い。"
+  },
+  {
+   "slug": "2026-09-07-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-11.html",
+   "title": "濁流に飲み込まれる検問所、土石流発生の瞬間に何が起きていたのか",
+   "title_en": "Border Checkpoint Swallowed by Mudslide: What Happened in Those Final Moments?",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "ネパールと中国・チベット国境で発生した大規模土石流により、中国側の国境検問所が濁流に飲み込まれる映像が世界に衝撃を与えた。本記事では、災害発生時の検問所周辺の状況について、残存する記録と関係者の証言をもとに詳細を検証。自然災害の驚異的な威力と、山岳地帯の国境地域が抱える脆弱性が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-07-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-10.html",
+   "title": "ネパール土石流、中国がチベット側被災地を初めて外国メディアに公開――何を伝えたいのか？",
+   "title_en": "China Opens Tibet Landslide Site to Foreign Media—What's the Real Message?",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "ネパールとの国境付近で発生した大規模な土石流による被害を受けたチベット自治区の現場を、中国外務省が外国メディアに公開しました。ロイター通信などの映像では、国境検問所があった場所が甚大な被害を受けた状況が映されています。通常は外国メディアへの現場公開に慎重な中国当局の異例の対応が、どのような意図を持つのかが注目されています。"
+  },
+  {
+   "slug": "2026-09-07-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-9.html",
+   "title": "ネパール土石流、生き残った村人の言葉が重い「泥しか残っていない」",
+   "title_en": "\"Nothing But Mud Remains\": BBC Reports on Devastating Nepal Mudslide",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "ネパール・チベット国境近くのベトラワティ村で発生した大規模な土石流により、甚大な被害が生じた。BBC特派員が現地を取材し、土石流から1週間経った村の惨状と、生き残った住民たちの証言を伝えている。村は泥に埋もれ、復興への道のりは極めて困難な状況にある。"
+  },
+  {
+   "slug": "2026-09-07-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-8.html",
+   "title": "ネパール土石流から9日目、地下トンネルに閉じ込められた作業員2人が奇跡の救出",
+   "title_en": "Against the Odds: Two Workers Rescued After 9 Days Trapped in Nepal's Flooded Mountain Tunnel",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "ネパールと中国・チベット国境沿いで8月26日に発生した大規模土石流により、水力発電所の地下トンネル内に取り残された作業員2人が、9日後の9月4日に救出された。長期間の閉じ込め状態からの生還は、極限状態での救助活動の成功事例として注目されている。"
+  },
+  {
+   "slug": "2026-09-07-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-7.html",
+   "title": "ドイツ極右政党が州議選で第1党へ。単独過半数達成なら欧州政治はどうなる？",
+   "title_en": "Germany's Far-Right Party Wins Regional Election: What Happens to Europe Next?",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "ドイツ東部のザクセン・アンハルト州で実施された州議会選挙で、極右政党「ドイツのための選択肢」が第1党となることが確実となった。同党が単独で過半数の議席を獲得するかどうかが今後の焦点。極右勢力の政治的影響力拡大がドイツおよびEU全体の政治情勢に与える影響が注目されている。"
+  },
+  {
+   "slug": "2026-09-07-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-6.html",
+   "title": "同級生10人が集まった夜に何が起きたのか 岐阜の火事、会社役員の関与浮上",
+   "title_en": "What Happened During the Class Reunion? Murder Suspect Emerges in Gifu Fire That Killed 3",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "岐阜県本巣市で5日に発生し3人が死亡した火事について、警察の調べで現場にはガソリンが使用されていたことが判明。住人とその同級生合わせて約10人が集まっていたとみられ、刃物による傷害と放火の可能性が指摘されている。また会社役員の関与可能性も浮上し、捜査が進行中。集まりの経緯と事件発生までの詳細な経過が捜査の焦点となっている。"
+  },
+  {
+   "slug": "2026-09-07-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-5.html",
+   "title": "息子を失った母が、別の病気の子どもたちを支え続ける理由とは",
+   "title_en": "How a Mother Who Lost Her Son Finds Purpose Supporting Children Fighting Disease",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "自身の息子を病気で亡くした経験を持つ女性が、同じく重い病気と闘う子どもたちやその家族を支援する活動を続けている。悲しみを乗り越え、他者のために行動する姿勢が、多くの家族に希望をもたらしているという内容。"
+  },
+  {
+   "slug": "2026-09-07-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-4.html",
+   "title": "DeNA牧選手が死球後に病院搬送、検査へ。プロ野球選手の安全性を改めて問う",
+   "title_en": "DeNA's Makoto Hospitalized After Getting Hit by Pitch: Is Player Safety in Japanese Baseball Adequate?",
+   "category": "スポーツ",
+   "published": "2026-09-07",
+   "summary": "DeNAの牧秀悟選手が試合中に死球を受けた後、医学的検査のため病院へ向かった。死球は野球において避けられない事象だが、選手の健康と安全確保がいかに重要であるかが改めて浮き彫りになった。プロ野球界での安全対策の強化が議論の焦点となっている。"
+  },
+  {
+   "slug": "2026-09-07-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-3.html",
+   "title": "長期金利が上昇、なぜ市場は政府の積極財政を警戒し始めたのか",
+   "title_en": "Long-term Interest Rates Surge: Why Is the Market Getting Nervous About Japan's Fiscal Spending?",
+   "category": "経済",
+   "published": "2026-09-07",
+   "summary": "長期金利の上昇が市場で注目を集めている。背景には、政府の積極的な財政支出政策に対する市場の懸念がある。金利上昇は、インフレ期待の高まりや日銀の金融政策の正常化観測、さらには財政規律への不安が複合的に作用している可能性が指摘されている。今後の経済や投資環境に影響を与える重要な局面となっている。"
+  },
+  {
+   "slug": "2026-09-07-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-2.html",
+   "title": "坂口健太郎が結婚発表、相手は一般女性。俳優たちの『逆玉』結婚、最近増えてる？",
+   "title_en": "Actor Kentaro Sakaguchi Marries Non-Celebrity Woman: Is This Becoming Hollywood Trend in Japan?",
+   "category": "エンタメ",
+   "published": "2026-09-07",
+   "summary": "俳優の坂口健太郎が一般女性との結婚を発表した。芸能人男性が一般女性と結婚するケースは珍しくないが、近年は身元が明かされない傾向が強まっている。ファンからは祝福の声が上がる一方で、相手がどのような人物なのか、プライバシー保護の観点からの関心も集まっている。"
+  },
+  {
+   "slug": "2026-09-07-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-1.html",
+   "title": "明日の関東、朝の通勤ラッシュが大雨直撃か？ 満員電車で立ち往生も",
+   "title_en": "Heavy Rain to Batter Tokyo's Morning Commute Tomorrow: Will Peak Hours Be Gridlocked?",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "関東地方で明朝の通勤・通学時間帯に大雨が予想されている。交通機関の遅延や混雑が懸念され、駅や路線によっては大きな混乱が生じる可能性がある。気象当局は早めの外出や交通情報の確認を呼びかけている。"
+  },
+  {
+   "slug": "2026-09-07-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-0.html",
+   "title": "東京・新島村に特別警報が発表 これってどんな状況？",
+   "title_en": "What Does Japan's Special Weather Alert for Niijima Actually Mean?",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "東京都の新島村に気象特別警報が発表されました。特別警報は最も高いレベルの気象警報で、数十年に一度の極めて危険な状況を示しています。当地域の住民には厳重な注意と警戒が呼びかけられており、今後の気象情報の確認が重要です。"
+  },
   {
    "slug": "2026-09-06-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-40.html",
