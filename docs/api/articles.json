@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1152,
+ "count": 1153,
  "articles": [
+  {
+   "slug": "2026-09-06-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-19.html",
+   "title": "鈴木P「ジブリ風AI画は面白くない」→ネット民も同意で大爆笑",
+   "title_en": "Producer Suzuki Slams AI-Generated Ghibli Art: 'Not Interesting' — Internet Users Agree and Crack Up",
+   "category": "コラム",
+   "published": "2026-09-06",
+   "summary": "プロデューサーの鈴木敏夫氏がジブリ風のAI生成画について「面白くない」とコメント。AI技術の進化は目覚ましいものの、独創性や魅力に欠ける問題が指摘される形となった。既存スタイルの模倣に頼るAIの限界が浮き彫りになった形だ。"
+  },
   {
    "slug": "2026-09-06-18",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-18.html",
