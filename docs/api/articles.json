@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1153,
+ "count": 1174,
  "articles": [
+  {
+   "slug": "2026-09-06-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-40.html",
+   "title": "死産が続いたイルカが遂に出産成功！水族館の諦めない挑戦が実を結ぶ",
+   "title_en": "After Multiple Stillbirths, Dolphin Finally Gives Birth Successfully – A Water Park's Perseverance Pays Off",
+   "category": "コラム",
+   "published": "2026-09-06",
+   "summary": "複数回の死産を経験していたイルカが、ついに健康な子どもを出産することに成功したというニュース。水族館スタッフの献身的なケアと、イルカ自身の生命力が見事に実を結んだこの感動的なストーリーは、動物との向き合い方について改めて考えさせてくれます。"
+  },
+  {
+   "slug": "2026-09-06-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-39.html",
+   "title": "菊池雄星、10戦目でようやく初勝利 何が変わった？",
+   "title_en": "Yusei Kikuchi Finally Gets First Win in 10th Start: What Changed?",
+   "category": "スポーツ",
+   "published": "2026-09-06",
+   "summary": "メジャーリーグで活躍する菊池雄星投手が、今季10試合目で初勝利を手にした。これまでの9試合では勝ち星がつかず、ファンからは心配の声も上がっていた。この初勝利に至るまでの経過と、投球内容の改善点が注目されている。"
+  },
+  {
+   "slug": "2026-09-06-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-38.html",
+   "title": "直パケレシピが企業から次々公開される理由、食品ロス削減の切り札になるのか",
+   "title_en": "Why Major Food Companies Are Racing to Release 'Direct-Package Recipes'—Could This Be the Game Changer for Food Waste?",
+   "category": "経済",
+   "published": "2026-09-06",
+   "summary": "直火で調理した際に出る端材や規格外食材を活用するレシピ「直パケレシピ」を、複数の食品メーカーや飲食企業が相次いで公開している。食品ロス削減とサステナビリティへの関心の高まりを背景に、消費者向けの調理方法提案が広がりつつある動きが注目されている。"
+  },
+  {
+   "slug": "2026-09-06-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-37.html",
+   "title": "JR西日本で3月に複数作業員が列車接近の危険にさらされる　安全管理体制に課題か",
+   "title_en": "Multiple Workers Exposed to Incoming Train Danger at JR West in March — Safety Management System Under Question",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "JR西日本の線路上で3月、複数の作業員が走行中の列車の接近に気づかず危険な状況に陥ったという事案が報告されました。事故には至らなかったものの、鉄道事業者における作業員の安全管理手法や列車運行との連携体制の実効性が問われる事態となっています。"
+  },
+  {
+   "slug": "2026-09-06-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-36.html",
+   "title": "図書館も電子化の波…全国自治体の3割超が導入、紙の本は消える？",
+   "title_en": "Japan's Digital Library Wave: Will Paper Books Disappear from Public Libraries?",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "電子図書館サービスの導入が進んでおり、全国自治体の30%を超えが既に運用開始または導入予定の段階にあることが明らかになった。デジタル化による利便性向上の一方で、利用実績のばらつきや運営コストの課題も浮上している。図書館の未来像をめぐり、自治体間での取り組み温度差が顕著になっている。"
+  },
+  {
+   "slug": "2026-09-06-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-35.html",
+   "title": "衛星100基超へ増強、日本の宇宙監視網はどこまで強化される？",
+   "title_en": "Japan Plans 100+ Satellite Network: How Far Will Space Surveillance Expand?",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "日本政府が衛星監視網を現在から100基を超える規模に増強する検討を進めている。防衛力強化の一環として、より広範囲かつ高頻度での地球観測・情報収集体制の構築を目指すもの。中国やロシアなどの動きを監視する能力向上が背景にあり、国防戦略上の重要な施策として位置づけられている。"
+  },
+  {
+   "slug": "2026-09-06-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-34.html",
+   "title": "ナイジェリアで拉致被害が急増、背景には何が？治安悪化の実態",
+   "title_en": "Nigeria's Kidnapping Crisis: What's Behind the Alarming Surge?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "ナイジェリアで拉致事件の被害が急速に増加している。武装勢力やテロ組織による拉致が相次ぎ、身代金目当ての犯行も多発。北部地域を中心に住民の不安が高まっており、政府の対応が求められている状況だ。経済的困窮や統治の脆弱さが問題の根底にあるとも指摘されている。"
+  },
+  {
+   "slug": "2026-09-06-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-33.html",
+   "title": "殺人ロボの国際ルール、ついに決定へ 国連が文書合意",
+   "title_en": "UN Reaches Agreement on Rules for Autonomous Killer Robots",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "国連において、AI技術を搭載した自律型兵器システム（殺人ロボ）の規制に関する文書合意が成立した。各国が人道的懸念と軍事的必要性のバランスを取りながら、国際的なルール枠組みの構築に向けて一歩前進。今後の具体的な実装が焦点となる。"
+  },
+  {
+   "slug": "2026-09-06-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-32.html",
+   "title": "土石流から10日、絶望の中での奇跡—ネパール災害で2人が生還",
+   "title_en": "Against the Odds: Two Survivors Rescued from Nepal Landslide After 10 Days",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "ネパールで発生した土石流災害から10日経過後、瓦礫の中から2人が救助されました。広大な被災地での困難な救助活動が続く中での救出は、被災者や関係者に希望をもたらしています。ネパール当局は依然として多くの行方不明者の捜索を継続しており、今後の天候悪化への懸念も高まっています。"
+  },
+  {
+   "slug": "2026-09-06-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-31.html",
+   "title": "米露がウクライナ和平で会談も「進展ゼロ」？両国の溝はどこまで深いのか",
+   "title_en": "US-Russia Ukraine Peace Talks End in Stalemate: How Deep is the Divide?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "ウクライナの和平交渉をめぐり、米国とロシアが会談を実施しました。しかし両国の立場の違いは大きく、具体的な進展は見られなかったとされています。国際社会がウクライナ問題の解決を望む中、紛争の長期化が懸念される状況が続いています。"
+  },
+  {
+   "slug": "2026-09-06-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-30.html",
+   "title": "米軍がイランのタンカー3隻を攻撃、中東の緊張が急速にエスカレート",
+   "title_en": "US Military Strikes Iranian Tankers: What's Next for Middle East Tensions?",
+   "category": "国際",
+   "published": "2026-09-06",
+   "summary": "米軍がイランのタンカー3隻に対して攻撃を実施した。この行動により、中東地域の情勢がさらに緊迫化している。米国とイランの対立は経済制裁から軍事的衝突へと段階を進めており、国際社会での懸念が高まっている。ホルムズ海峡を含む重要な航路への影響も危惧されている。"
+  },
+  {
+   "slug": "2026-09-06-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-29.html",
+   "title": "実は多くの人が悩んでいる「自臭症」とは？心理的な思い込みへの正しい対処法",
+   "title_en": "Understanding 'Olfactory Reference Syndrome': When You Think You Smell Bad But Don't",
+   "category": "健康",
+   "published": "2026-09-06",
+   "summary": "自分は臭いに違いないと強く思い込む症状が注目を集めている。実際には臭わないのに、本人が過度に不安を感じる「自臭症」は心理的な問題が背景にあることが多い。医学的な根拠に基づいた対処法や、医療機関への相談の重要性について紹介する。"
+  },
+  {
+   "slug": "2026-09-06-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-28.html",
+   "title": "玉木氏が国民民主党代表に3選、政界再編の中で党の存在感は？",
+   "title_en": "Tamaki Re-elected as Democratic Party for the People Leader for Third Term: What's Next for Japan's Third Force?",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "国民民主党の代表選挙で玉木雄一郎氏が3期連続で再選された。複数候補者による争いの中での選出となり、党内の支持が確認された形だ。今後の政治情勢や党の方向性に注目が集まる。"
+  },
+  {
+   "slug": "2026-09-06-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-27.html",
+   "title": "サイバー攻撃が急増する中、IT大手が防御支援で稼ぐ？ 企業の焦りが商機に",
+   "title_en": "As Cyber Attacks Surge, Are IT Giants Cashing In on Defense Solutions?",
+   "category": "IT",
+   "published": "2026-09-06",
+   "summary": "ロシアのウクライナ侵攻やランサムウェア被害の増加に伴い、企業のサイバーセキュリティ需要が急速に高まっている。これに応じてMicrosoftやGoogle、国内IT企業も防御支援サービスの強化・新展開に注力し、新たなビジネス機会を創出している。政府の支援も拡大する中、セキュリティ産業の成長が加速している。"
+  },
+  {
+   "slug": "2026-09-06-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-26.html",
+   "title": "20代女性の包丁保有率が9割切る…料理離れ？それとも別の理由？",
+   "title_en": "Why Are Young Japanese Women Giving Up the Kitchen Knife? The Shocking Drop Below 90%",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "調査によると、20代女性の包丁保有率が9割を下回ったことが明らかになった。かつては台所の必需品だった包丁が、若い女性層で所有されなくなってきている実態が浮き彫りになり、生活様式の変化や食文化の多様化が背景にあるとみられている。"
+  },
+  {
+   "slug": "2026-09-06-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-25.html",
+   "title": "くら寿司の騒動、割引対応で終わり？消費者の怒りは本当に収まるのか",
+   "title_en": "Can Kura Sushi's Discount Save Its Reputation? The Crisis That Money Alone May Not Solve",
+   "category": "経済",
+   "published": "2026-09-06",
+   "summary": "くら寿司を巡る一連の騒動について、割引対応で事態の収束が図られているとの見方が出ている。ただし、消費者の信頼回復には割引だけでは不十分との指摘も。企業のコンプライアンスと消費者対応の在り方が改めて問われている状況である。"
+  },
+  {
+   "slug": "2026-09-06-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-24.html",
+   "title": "村上宗隆の30号が意味するもの～日本人新人がついに成し遂げた歴史的快挙",
+   "title_en": "What Shohei Murakami's 30 Home Runs Mean: Historic Achievement for Japanese Rookie",
+   "category": "スポーツ",
+   "published": "2026-09-06",
+   "summary": "ヤクルト・村上宗隆選手が新人シーズンで日本プロ野球史上初となる30本塁打を達成した。これまで新人での30号達成は外国人選手のみであり、日本人選手としては歴史的な偉業となる。若き才能が示した驚異的な成長が注目を集めている。"
+  },
+  {
+   "slug": "2026-09-06-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-23.html",
+   "title": "島田麻央が圧巻V、ジャンプの大技で他選手を寄せ付けず",
+   "title_en": "Mao Shimada's Dominant Victory: World-Class Jumps Steal the Show",
+   "category": "スポーツ",
+   "published": "2026-09-06",
+   "summary": "フィギュアスケート選手の島田麻央が大会で優勝を果たした。高難度のジャンプ技術を駆使した演技が高く評価され、他の選手に大差をつけての勝利となった。若き才能の活躍が改めて注目を集めている。"
+  },
+  {
+   "slug": "2026-09-06-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-22.html",
+   "title": "子どもの肥満、実は貧困が原因？　栄養格差の深刻な現実",
+   "title_en": "Childhood Obesity and Poverty: The Hidden Link Nobody's Talking About",
+   "category": "健康",
+   "published": "2026-09-06",
+   "summary": "子どもの肥満問題が貧困と密接な関係にあることが指摘されている。低所得世帯では栄養バランスの取れた食事よりも、安価で高カロリーの加工食品に頼らざるを得ない傾向があり、これが肥満につながるという悪循環が生まれている。教育格差や運動環境の不足も重なり、貧困層の子どもたちが健康リスクにさらされている実態が明らかになった。"
+  },
+  {
+   "slug": "2026-09-06-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-21.html",
+   "title": "ケーキ店火事、死亡男性が関与か…一体何が起きたのか",
+   "title_en": "Bakery Fire Death: What Really Happened? Deceased Man's Involvement Emerges",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "ケーキ店で発生した火事により男性が死亡した事件で、警察の調べによると死亡した男性本人が火事の原因に関与している可能性が浮上した。事件の詳細や経緯についての捜査が進められており、火災の原因特定に向けた調査が継続されている。"
+  },
+  {
+   "slug": "2026-09-06-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-06-20.html",
+   "title": "東北・関東・東海で線状降水帯の危険性が高まる　大雨への備えは万全ですか？",
+   "title_en": "Dangerous Line-Shaped Rainfall System Threatens Tohoku, Kanto, and Tokai Regions: Are You Prepared?",
+   "category": "国内",
+   "published": "2026-09-06",
+   "summary": "気象庁の予報によると、東北から東海地方にかけて線状降水帯が発生するおそれが指摘されている。この現象は短時間に大量の雨をもたらし、洪水や土砂災害などの重大な被害を引き起こす可能性がある。該当地域の住民に対して、気象情報の確認と早期の避難準備が呼びかけられている。"
+  },
   {
    "slug": "2026-09-06-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-06-19.html",
