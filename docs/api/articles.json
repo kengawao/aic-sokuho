@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1192,
+ "count": 1193,
  "articles": [
+  {
+   "slug": "2026-09-07-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-18.html",
+   "title": "ドパガキ2人の父が激白「もう限界です」→その実態がヤバすぎる",
+   "title_en": "Father of 'Dopamine-Addicted Kids' Reveals the Reality: \"I'm at My Limit\"",
+   "category": "コラム",
+   "published": "2026-09-07",
+   "summary": "「ドパガキ」なる造語が話題を呼んでいる。ドーパミン中毒の子どもたちを指すこの言葉。SNSやゲームに依存する2人の娘を持つ父親が、その壮絶な日常をメディアで語った。寝不足、成績低下、親との衝突…現代の子育ての新たな悩みが浮き彫りになっている。"
+  },
   {
    "slug": "2026-09-07-17",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-17.html",
