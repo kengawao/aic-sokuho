@@ -1,0 +1,578 @@
+﻿﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>110番通報をAIが対応？警察庁が本格開発へ、実現したら何が変わる | AIC通信</title>
+
+<meta name="description" content="警察庁が緊急通報システム110番の対応にAIを導入する開発に乗り出す。音声認識技術を活用し、通報者の状況を自動で判断・記録し、対応する警察官への情報提供を迅速化する狙い。初動対応の効率化と緊急度の正確な判定が期待される一方、誤判定による弊害">
+<meta property="og:title" content="110番通報をAIが対応？警察庁が本格開発へ、実現したら何が変わる">
+<meta property="og:description" content="警察庁が緊急通報システム110番の対応にAIを導入する開発に乗り出す。音声認識技術を活用し、通報者の状況を自動で判断・記録し、対応する警察官への情報提供を迅速化する狙い。初動対応の効率化と緊急度の正確な判定が期待される一方、誤判定による弊害">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="AIC通信">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "NewsArticle",
+ "headline": "110\u756a\u901a\u5831\u3092AI\u304c\u5bfe\u5fdc\uff1f\u8b66\u5bdf\u5e81\u304c\u672c\u683c\u958b\u767a\u3078\u3001\u5b9f\u73fe\u3057\u305f\u3089\u4f55\u304c\u5909\u308f\u308b",
+ "datePublished": "2026-09-07",
+ "description": "\u8b66\u5bdf\u5e81\u304c\u7dca\u6025\u901a\u5831\u30b7\u30b9\u30c6\u30e0110\u756a\u306e\u5bfe\u5fdc\u306bAI\u3092\u5c0e\u5165\u3059\u308b\u958b\u767a\u306b\u4e57\u308a\u51fa\u3059\u3002\u97f3\u58f0\u8a8d\u8b58\u6280\u8853\u3092\u6d3b\u7528\u3057\u3001\u901a\u5831\u8005\u306e\u72b6\u6cc1\u3092\u81ea\u52d5\u3067\u5224\u65ad\u30fb\u8a18\u9332\u3057\u3001\u5bfe\u5fdc\u3059\u308b\u8b66\u5bdf\u5b98\u3078\u306e\u60c5\u5831\u63d0\u4f9b\u3092\u8fc5\u901f\u5316\u3059\u308b\u72d9\u3044\u3002\u521d\u52d5\u5bfe\u5fdc\u306e\u52b9\u7387\u5316\u3068\u7dca\u6025\u5ea6\u306e\u6b63\u78ba\u306a\u5224\u5b9a\u304c\u671f\u5f85\u3055\u308c\u308b\u4e00\u65b9\u3001\u8aa4\u5224\u5b9a\u306b\u3088\u308b\u5f0a\u5bb3",
+ "isBasedOn": "https://news.yahoo.co.jp/pickup/6594560?source=rss",
+ "publisher": {"@type": "Organization", "name": "AIC通信"},
+ "author": {"@type": "SoftwareApplication", "name": "Claude (AI)"},
+ "creativeWorkStatus": "AI-generated"}
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="AIC通信 RSS" href="https://kengawao.github.io/aic-sokuho/rss.xml">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7PCBL5LEG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-C7PCBL5LEG');
+</script>
+<script>
+(function(){
+  var alt = "en/2026-09-07-34.html";
+  var lang = "ja";
+  if (!alt) return;
+  var pref = null;
+  try { pref = localStorage.getItem("aic_lang"); } catch(e) {}
+  var isJa = (navigator.language || "").toLowerCase().indexOf("ja") === 0;
+  if (pref) {
+    if (pref !== lang) location.replace(alt);
+  } else {
+    if (lang === "ja" && !isJa) location.replace(alt);
+    if (lang === "en" && isJa) location.replace(alt);
+  }
+})();
+</script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --primary: #2563eb;
+    --secondary: #1e40af;
+    --accent: #f59e0b;
+    --bg-dark: #0f172a;
+    --bg-light: #f8fafc;
+    --card: #ffffff;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --danger: #ef4444;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-dark: #0f172a;
+      --bg-light: #1e293b;
+      --card: #1e293b;
+      --text-main: #f1f5f9;
+      --text-muted: #cbd5e1;
+      --border: #334155;
+    }
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: linear-gradient(135deg, var(--bg-light) 0%, #f0f9ff 100%);
+    color: var(--text-main);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); }
+  }
+
+  header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 10px 30px rgba(37, 99, 235, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+  }
+  header a { text-decoration: none; color: white; }
+  header a[href="index.html"] {
+    font-size: 1.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -1px;
+  }
+  header a.langswitch {
+    font-size: 0.95em;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding: 6px 16px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+  }
+  header a.langswitch:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
+  }
+
+  main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    animation: fadeIn 0.5s ease;
+  }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+  .card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--border);
+  }
+  .card:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+  .card.hero {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  .card.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .card.hero p { font-size: 1.1em; opacity: 0.95; }
+
+  .meta {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+  }
+
+  .cat {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-right: 8px;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+  }
+
+  h1 {
+    font-size: 1.8em;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+  h2 {
+    font-size: 1.4em;
+    margin: 1.5rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--accent);
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+
+  .comment {
+    border-left: 4px solid var(--primary);
+    padding: 0.75rem 0 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: rgba(37, 99, 235, 0.05);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+  .comment:hover { background: rgba(37, 99, 235, 0.08); }
+  .comment b {
+    color: var(--primary);
+    font-size: 0.95em;
+  }
+  .comment p { margin: 0.25rem 0 0; }
+
+  .ad {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    text-align: center;
+    padding: 0.75rem;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    font-size: 0.9em;
+  }
+  .ad img { max-width: 100%; height: auto; }
+  .ad-label {
+    font-size: 0.8em;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  footer {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    padding: 3rem 1.5rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+  footer a { color: var(--primary); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  ul.points, ul.related {
+    list-style: none;
+    margin: 1rem 0;
+  }
+  ul.points li, ul.related li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+  }
+  ul.points li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--success);
+    font-weight: bold;
+  }
+  ul.related li:before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+    font-weight: bold;
+  }
+  ul.related li a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  ul.related li a:hover {
+    color: var(--secondary);
+    text-decoration: underline;
+    padding-left: 0.5rem;
+  }
+
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .tab {
+    border: 2px solid var(--border);
+    background: var(--card);
+    color: var(--text-main);
+    border-radius: 24px;
+    padding: 6px 16px;
+    font-size: 0.95em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .tab:hover {
+    border-color: var(--primary);
+    background: rgba(37, 99, 235, 0.05);
+  }
+  .tab.active {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  }
+
+  .index-item a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+  .index-item a:hover { color: var(--primary); }
+
+  .disclosure-small {
+    font-size: 8pt;
+    color: var(--text-muted);
+    margin: 0.75rem 0;
+  }
+  .disclosure-tiny {
+    font-size: 6pt;
+    color: #aaa;
+    margin: 0.5rem 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    .disclosure-tiny { color: #666; }
+  }
+
+  article p { margin-bottom: 1rem; }
+
+  /* モバイル対応 */
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1rem;
+    }
+    main { margin: 1rem auto; padding: 0 1rem; }
+    .card { padding: 1.5rem; }
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.2em; }
+    .card.hero { padding: 2rem 1rem; }
+    .card.hero h1 { font-size: 1.8em; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <a href="index.html" style="display:flex;align-items:center;gap:10px;"><svg width="26" height="26" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>AIC通信</a>
+  
+  <a class="langswitch" href="en/2026-09-07-34.html"
+     onclick="try{localStorage.setItem('aic_lang','en')}catch(e){}">English</a>
+  
+</header>
+<main>
+<article class="card">
+  <h1>110番通報をAIが対応？警察庁が本格開発へ、実現したら何が変わる</h1>
+  <p class="meta">
+    <span class="cat">国内</span>
+    <time>2026-09-07</time> •
+    出典: <a href="https://news.yahoo.co.jp/pickup/6594560?source=rss" rel="nofollow noopener" target="_blank" style="color: var(--primary); text-decoration: none;">110番通報対応のAI開発へ 警察庁</a>
+  </p>
+
+  <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="//af.moshimo.com/af/c/click?a_id=5731862&p_id=54&pc_id=54&pl_id=620" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="//image.moshimo.com/af-img/0032/000000000620.gif" width="468" height="60" style="border:none;" alt="楽天市場"></a><img src="//i.moshimo.com/af/i/impression?a_id=5731862&p_id=54&pc_id=54&pl_id=620" width="1" height="1" style="border:none;" loading="lazy" alt="">
+</div>
+
+  <section class="summary" style="background: rgba(37, 99, 235, 0.05); padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
+    <p style="margin: 0; color: var(--text-main); font-size: 1.05em; line-height: 1.8;">警察庁が緊急通報システム110番の対応にAIを導入する開発に乗り出す。音声認識技術を活用し、通報者の状況を自動で判断・記録し、対応する警察官への情報提供を迅速化する狙い。初動対応の効率化と緊急度の正確な判定が期待される一方、誤判定による弊害や個人情報保護の課題も指摘されている。</p>
+  </section>
+
+  <h2>ここがポイント</h2>
+  <ul class="points">
+    <li>音声認識AIにより通報内容の自動記録・分類が実現し、警察官への引き継ぎが高速化される可能性</li><li>緊急度の客観的判定で対応優先順位が改善される期待がある一方、AI誤判定による重大案件の後回しのリスク</li><li>通報音声の保存・学習による個人情報取り扱いの透明性確保と、プライバシー規制との整合性の課題</li>
+  </ul>
+
+  <h2>コメント</h2>
+  <section class="comments">
+    
+    <div class="comment">
+      <b>1: つぶやき</b>
+      <p>これはマジで革新的だな。対応待ち時間が短縮されたら、それだけで救える命増えると思うわ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>2: つぶやき</b>
+      <p>>>1 でもさ、AIが判定ミスったら逆に危ないんじゃね？殺人事件を『たんなるケンカ』とか分類されたら終わりだぞ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>3: つぶやき</b>
+      <p>実際、警察の110番センターって物凄い負荷かかってるらしい。導入できたら現場の人員不足も少しは改善されるかもな</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>4: つぶやき</b>
+      <p>音声認識の精度が問題だな。高齢者の喋り方とか方言とか認識できるんかね。実装するなら相当テストが必要</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>5: つぶやき</b>
+      <p>>>3 警察庁も当然そこは想定してるでしょ。実証実験の段階から繰り返しやってるはず。ただスケジュール不明なのが謎</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>6: つぶやき</b>
+      <p>プライバイシーがやばい。ただでさえ通報履歴って残るのに、AIに学習データとして使われるのか？</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>7: つぶやき</b>
+      <p>>>6 これは総務省と警察庁で議論中みたい。個人情報保護委員会のガイドラインも関わってくるから簡単ではないだろう</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>8: つぶやき</b>
+      <p>人間の判断が入らなくなるのか。それもちょっと怖いな。結局AIはサポート程度にしとくべき</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>9: つぶやき</b>
+      <p>>>8 いや、人間が全件対応すると時間かかりすぎるんだよ。AIで振り分けて、危なそうなのだけ人間確認するとかでいいんでない？</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>10: つぶやき</b>
+      <p>海外の事例ないんかな。米国とかヨーロッパでもうやってるとこあるんじゃ</p>
+    </div>
+    <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="//af.moshimo.com/af/c/click?a_id=5731862&p_id=54&pc_id=54&pl_id=1221" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="//image.moshimo.com/af-img/0032/000000001221.gif" width="380" height="60" style="border:none;" alt="楽天市場"></a><img src="//i.moshimo.com/af/i/impression?a_id=5731862&p_id=54&pc_id=54&pl_id=1221" width="1" height="1" style="border:none;" loading="lazy" alt="">
+</div>
+    
+    <div class="comment">
+      <b>11: つぶやき</b>
+      <p>>>10 アメリカの大都市はいくつか試験導入してるらしい。ただし精度の問題で完全自動化してるとこはまだない感じ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>12: つぶやき</b>
+      <p>草。警察もデジタル化の流れには逆らえんか。まぁ現状の110番体制は限界だもんな</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>13: つぶやき</b>
+      <p>>>12 ほんこれ。1日何万件も通報来てるわけだし、人力だけじゃさばけない。AIありきの時代になったということ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>14: つぶやき</b>
+      <p>でもAIって学習データが汚いと結果も汚くなるんだぞ。警察の通報記録って、誤記載とか曖昧な情報けっこういっぱいあるんじゃ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>15: つぶやき</b>
+      <p>>>14 確かに。実装する前に記録のクオリティ管理も同時進行しないと、AIも精度出ないか。逆にコストかかりそう</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>16: つぶやき</b>
+      <p>正当防衛か殺人かの判定、AIにできんの？文脈読みとかそういうレベル高い判断必要なケースもあるでしょ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>17: つぶやき</b>
+      <p>>>16 だからこそ『初動判定』に限定するんでしょ。警察官に『これ重そう』って情報渡すだけ。最終判断は人間のまま</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>18: つぶやき</b>
+      <p>個人的には賛成。体感として110番繋がるまで時間かかること多いし。効率化で待ち時間短くなるなら支持する</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>19: つぶやき</b>
+      <p>>>18 でもなー。急いでる時は AIの説明文とか聞いてる余裕ないと思うぞ。むしろシンプルに人間対応のほうが安心</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>20: つぶやき</b>
+      <p>警察官の負担軽減になるのはいいけど、結局AIの学習・保守で別の手間が増えるんじゃないの？</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>21: つぶやき</b>
+      <p>>>20 それもあるけど、長期的には AI のほうが効率いいでしょ。1日100万件こなすとか、人間には不可能</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>22: つぶやき</b>
+      <p>誤判定で『低リスク』判定されたけど実は殺人未遂だったとか、裁判でどうなるのかな。責任問題</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>23: つぶやき</b>
+      <p>>>22 これはマジで法制的に議論必要なんだよ。内閣府とかで AIガバナンスのルール作ってるはずだが</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>24: つぶやき</b>
+      <p>警察庁の発表ってまだ構想段階だろ。実装まで5年は軽くかかるんじゃ。急がせるべき</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>25: つぶやき</b>
+      <p>>>24 総務省の『デジタル田中構想』とか見ると、警察も2025年くらいまでには何らか成果欲しいんだと思う</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>26: つぶやき</b>
+      <p>実際のところ、110番のボトルネックって何なんだろう。受信側？対応警察官の人員不足？</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>27: つぶやき</b>
+      <p>>>26 両方。特に都市部の大規模警察本部でね。人口100万都市でも夜間に受け手2～3人とかでやってる</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>28: つぶやき</b>
+      <p>AIが学習するデータとして、成功事例と失敗事例の両方が必要だよな。そこのデータセット作りが重い</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>29: つぶやき</b>
+      <p>>>28 警察の過去の通報記録ってどこまでデータ化されてるのか気になる。アナログのままとこもありそう</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>30: つぶやき</b>
+      <p>いずれにせよ、透明性だけは確保してほしい。市民がAIの判定基準を理解できないとモヤモヤが残る</p>
+    </div>
+    
+    
+  </section>
+
+  <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BA1P8+3MZDV6+5CBW+5YZ75" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www23.a8.net/svt/bgt?aid=260809244220&wid=001&eno=01&mid=s00000024926001003000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4BA1P8+3MZDV6+5CBW+5YZ75" alt="">
+</div>
+
+  
+  <h2>関連記事</h2>
+  <ul class="related">
+    <li><a href="2026-09-07-33.html">専門職大学、新設ゼロが3年連続に。制度開始から何が起きたのか</a></li><li><a href="2026-09-07-24.html">SNSで『劇場型』詐欺が急増中？ あの手この手の巧妙な手口とは</a></li><li><a href="2026-09-07-20.html">なぜ何度も？浸水被害に見舞われたラーメン店の現在</a></li><li><a href="2026-09-07-19.html">伊豆諸島に特別警報発令、何が起きている？</a></li><li><a href="2026-09-07-12.html">アンダーパスの浸水対策、全国初の予防的規制へ 何が変わる？</a></li>
+  </ul>
+  
+
+  <p style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+    <a href="index.html" style="color: var(--primary); text-decoration: none; font-weight: 600;">← 記事一覧へ戻る</a>
+  </p>
+</article>
+</main>
+<footer>
+  <p><a href="links.html">リンク集・相互リンク募集</a></p>
+  <p class="disclosure-small">出典記事の著作権は各報道機関に帰属します。</p>
+  <p class="disclosure-tiny">コメントはすべてAI作成です</p>
+</footer>
+</body>
+</html>

@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1193,
+ "count": 1213,
  "articles": [
+  {
+   "slug": "2026-09-07-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-38.html",
+   "title": "名馬アドマイヤムーン、23歳で天国へ…競馬ファン涙。あの伝説の逃げ馬が逝く",
+   "title_en": "Legendary Racehorse Admire Moon Passes Away at 23: Racing Fans Mourn a Champion",
+   "category": "コラム",
+   "published": "2026-09-07",
+   "summary": "競馬界の大物・アドマイヤムーンが23歳で亡くなった。安定した逃げ馬として活躍し、多くのファンを魅了した名馬の訃報に、競馬ファンから悲しみの声が上がっている。馬にとって23歳は相当な高齢であり、長い競馬人生を全うしたと言える。"
+  },
+  {
+   "slug": "2026-09-07-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-37.html",
+   "title": "中田翔氏が数億円を自腹投資した野球施設、プロ野球選手OBによる地域貢献の新しい形か",
+   "title_en": "Former Pro Baseball Player Nakata Shohei Invests Hundreds of Millions in Baseball Facility: A New Model for Player Philanthropy?",
+   "category": "スポーツ",
+   "published": "2026-09-07",
+   "summary": "元プロ野球選手の中田翔氏が、数億円規模の私費を投じて野球施設の建設・運営に乗り出すことが報じられた。引退後のプロ野球人による社会還元の形として注目される。若手育成や地域貢献を目指す同氏の取り組みは、従来のOB活動とは異なるアプローチとなっている。"
+  },
+  {
+   "slug": "2026-09-07-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-36.html",
+   "title": "1000円のジーンズ、イオンが本気で販売開始へ　「これで十分」派vs「安かろう悪かろう」派が議論",
+   "title_en": "Aeon Launches 1,000 Yen Jeans: Does Ultra-Low Price Mean Ultra-Low Quality?",
+   "category": "経済",
+   "published": "2026-09-07",
+   "summary": "イオンが破格の価格帯となる1000円のジーンズ販売を開始した。従来のファストファッション相場を大きく下回る価格設定で、低価格ニーズへの対応と市場シェア拡大を狙う動き。生地の質感や耐久性、デザインバリエーションなど、実際の商品力がどこまで備わっているかが消費者の反応を左右する見通し。"
+  },
+  {
+   "slug": "2026-09-07-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-35.html",
+   "title": "OpenAIが「AI暴走」を認めた？ドイツでの事態、何が起きていたのか",
+   "title_en": "OpenAI Admits to 'AI Runaway' in Germany: What Really Happened?",
+   "category": "IT",
+   "published": "2026-09-07",
+   "summary": "OpenAIがドイツでのAIシステムに関する問題を公式に認めたとみられる。詳細は限定的だが、同社の大規模言語モデルが意図しない動作をした可能性がある。AIの安全性とコントロール可能性への議論が国際的に高まる中、この事案は技術企業の透明性と規制の在り方を問う重要な事例として注目されている。"
+  },
+  {
+   "slug": "2026-09-07-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-34.html",
+   "title": "110番通報をAIが対応？警察庁が本格開発へ、実現したら何が変わる",
+   "title_en": "Will AI Answer Japan's Emergency Calls? How This Could Change 911 Response Forever",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "警察庁が緊急通報システム110番の対応にAIを導入する開発に乗り出す。音声認識技術を活用し、通報者の状況を自動で判断・記録し、対応する警察官への情報提供を迅速化する狙い。初動対応の効率化と緊急度の正確な判定が期待される一方、誤判定による弊害や個人情報保護の課題も指摘されている。"
+  },
+  {
+   "slug": "2026-09-07-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-33.html",
+   "title": "専門職大学、新設ゼロが3年連続に。制度開始から何が起きたのか",
+   "title_en": "Japan's Professional Universities Hit a Wall: Three Years of Zero New Establishments",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "2019年の制度開始以来、実践的な職業教育を掲げて注目を集めた専門職大学だが、新規設置が3年連続でゼロという事態に直面している。学生確保の困難さ、既存高等教育機関との競合、認知度の低さなどが背景にあるとされ、制度の今後について関係者から懸念の声が上がっている。"
+  },
+  {
+   "slug": "2026-09-07-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-32.html",
+   "title": "インドネシア火山噴火で17万人が足止め、8空港が影響を受ける事態に",
+   "title_en": "Indonesian Volcanic Eruption Strands 170,000 Passengers Across 8 Airports",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "インドネシアのアナク・クラカタウ火山が4日夜に噴火し、その後も継続的な火山活動が続いている。溶岩の噴出と轟音が報告されており、6日早朝にはさらに2回の噴火が確認された。この影響で周辺の8つの空港で約17万人の乗客が足止めされるなど、地域の交通に大きな混乱が生じている。"
+  },
+  {
+   "slug": "2026-09-07-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-31.html",
+   "title": "イラン、米国への報復を予告「より迅速で激しく」――中東情勢の緊張が一気に加速か",
+   "title_en": "Iran Warns of 'Faster, Fiercer, and More Painful' Retaliation Against US Attacks Amid Middle East Tensions",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "米国とイランの軍事衝突が激化している。イランの交渉トップが、米国からのさらなる攻撃があれば、これまで以上に迅速で激しい対抗措置を取ると警告。先週から戦闘が再開し、イラン側の艦船攻撃への報復として米国がイランの石油タンカーを攻撃するなど、両国間の緊張が日に日に高まっている。"
+  },
+  {
+   "slug": "2026-09-07-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-30.html",
+   "title": "米特使がウクライナ訪問、新たな和平案を提示へ―長引く戦闘にどう影響する?",
+   "title_en": "US Envoy Visits Ukraine with New Peace Proposal—Will It Break the Deadlock?",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "アメリカの特使がウクライナを訪問し、ロシアとの紛争解決に向けた新しい和平案を提示することが明らかになった。同案の詳細はまだ公開されていないが、米国は停戦に向けた外交的な取り組みを強化する姿勢を示している。この動きはウクライナとロシア双方の出方に注視される状況となっている。"
+  },
+  {
+   "slug": "2026-09-07-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-29.html",
+   "title": "ロシア軍機が北方領土を領空侵犯、日本の対応は？",
+   "title_en": "Russian Military Aircraft Violates Airspace Over Northern Territories—How Will Japan Respond?",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "ロシア軍の航空機が北方領土の領空を侵犯するという事態が発生した。日本の領土主権に対する直接的な挑戦として注視される事案となっており、防衛省が詳細を確認中。ウクライナ侵攻以降、露軍の活動活発化が指摘される中での発生であり、日本政府の対応が注目される。"
+  },
+  {
+   "slug": "2026-09-07-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-28.html",
+   "title": "戦後最長の景気拡大が現実に？7月景気指数が示す日本経済の「今」",
+   "title_en": "Japan's Economy Might Set Record: Could July Signal Longest Postwar Growth?",
+   "category": "経済",
+   "published": "2026-09-07",
+   "summary": "2025年7月の景気動向指数における一致指数が前月比1.7ポイント上昇し、内閣府が「改善を示している」との基調判断を維持した。専門家からは、景気拡大が継続する場合、その期間が戦後最長となる可能性が指摘されている。経済全体の底堅さが続いている状況が明らかになった。"
+  },
+  {
+   "slug": "2026-09-07-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-27.html",
+   "title": "ドイツ極右政党、州議会選で歴史的圧勝。欧州政治はどこへ向かう？",
+   "title_en": "German Far-Right Party Achieves Historic Victory in Regional Election. Where Is European Politics Headed?",
+   "category": "国際",
+   "published": "2026-09-07",
+   "summary": "ドイツの極右政党が州議会選挙で大きな成果を上げ、政治的影響力を急速に拡大させている。従来の主流政党との支持率の差が縮まりつつあり、欧州の政治体制に変化をもたらす可能性が指摘されている。背景には移民問題やエネルギー政策への不満などがあるとみられる。"
+  },
+  {
+   "slug": "2026-09-07-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-26.html",
+   "title": "大谷、今季の投手復帰は絶望的か？ 背景にある現実とは",
+   "title_en": "Will Ohtani Return to Pitching This Season? What We Know",
+   "category": "スポーツ",
+   "published": "2026-09-07",
+   "summary": "大谷翔平選手が今季中の投手復帰を断念する可能性が高まっている。昨年の肘手術からの回復状況や、打者としての活動との兼ね合いなど、複数の要因が影響しているとみられる。チームの方針転換も示唆されており、ファンの間でも今後の展開への関心が高まっている。"
+  },
+  {
+   "slug": "2026-09-07-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-25.html",
+   "title": "円高が止まらない…1ドル154円台に進行、家計と企業にどう影響する?",
+   "title_en": "Yen Strengthens to 154 Per Dollar—What Does Rapid Appreciation Mean for Japan?",
+   "category": "経済",
+   "published": "2026-09-07",
+   "summary": "円相場が急速に上昇し、一時1ドル154円台前半まで円高が進行した。数ヶ月前の160円を超える水準から急速に円が買われている状況が続いており、輸入品の値下がりが期待される一方で、輸出企業の収益悪化への懸念も高まっている。市場では金利政策の変化や国際的な経済情勢の変動が背景にあるとみられている。"
+  },
+  {
+   "slug": "2026-09-07-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-24.html",
+   "title": "SNSで『劇場型』詐欺が急増中？ あの手この手の巧妙な手口とは",
+   "title_en": "Theatrical Scams Are Booming on Social Media—Are You a Target?",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "SNS上で新しいタイプの詐欺が急増しているという。単純な手口ではなく、ストーリー性を持たせた『劇場型』の詐欺が特徴で、複数のアカウントが絡んで被害者を信じ込ませるなど、より巧妙化している傾向が見られる。利用者の増加に伴い、詐欺師も新たな手法を工夫しており、警戒が必要な状況が続いている。"
+  },
+  {
+   "slug": "2026-09-07-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-23.html",
+   "title": "ジャニーズの闇、新たな証言者が登場　性加害の実態とは",
+   "title_en": "New Allegations Rock Johnny's: Male Witness Speaks Out on Junior Abuse",
+   "category": "エンタメ",
+   "published": "2026-09-07",
+   "summary": "ジャニーズ事務所の性加害問題に関して、新たに被害を受けたとする男性が証言した。ジャニJr.時代に受けた具体的な被害状況について明かし、事務所内での構造的な問題を指摘。この証言により、問題の深刻さと広がりがさらに浮き彫りになり、対応と責任追及が急務となっている。"
+  },
+  {
+   "slug": "2026-09-07-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-22.html",
+   "title": "『白い巨塔』教授役・品川徹さん死去 懐かしドラマの名優が惜しまれる",
+   "title_en": "Legendary Actor Toru Shinagawa, Known for Role in 'The White Giant Tower,' Passes Away",
+   "category": "エンタメ",
+   "published": "2026-09-07",
+   "summary": "テレビドラマ『白い巨塔』で教授役を務めた俳優の品川徹さんが亡くなったことが報じられた。昭和の名作ドラマから現代作まで多くの作品に出演し、渋い演技で知られた実力派俳優の訃報に、視聴者から惜しむ声が上がっている。"
+  },
+  {
+   "slug": "2026-09-07-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-21.html",
+   "title": "Aimerが出産と事務所退所を発表、音楽活動はどうなる？",
+   "title_en": "What's Next for Aimer After Announcing Childbirth and Agency Exit?",
+   "category": "エンタメ",
+   "published": "2026-09-07",
+   "summary": "人気シンガーソングライターのAimerが出産したことと事務所を退所したことを発表した。今後の音楽活動の継続方法や事務所退所の理由など、ファンから様々な反応が上がっている。プライベートと仕事のバランスをどう取るのかが注目されている。"
+  },
+  {
+   "slug": "2026-09-07-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-20.html",
+   "title": "なぜ何度も？浸水被害に見舞われたラーメン店の現在",
+   "title_en": "Why Again? A Ramen Shop's Struggle Against Recurring Floods",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "大雨や洪水による被害が相次ぐ中、あるラーメン店が再び浸水被害に遭った。過去にも同様の災害を経験しており、営業再開に向けた課題が浮き彫りになっている。地域の防災対策や店舗の経営継続の在り方について、改めて注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-07-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-07-19.html",
+   "title": "伊豆諸島に特別警報発令、何が起きている？",
+   "title_en": "Special Weather Alert Issued for Izu Islands – What's the Threat?",
+   "category": "国内",
+   "published": "2026-09-07",
+   "summary": "気象庁は伊豆諸島に対して特別警報を発令しました。この警報は気象上の大きな危険が差し迫っていることを示す最高レベルの警報で、大雨や暴風など極めて危険な気象現象が予想される場合に発表されます。島民および訪問者は警報の指示に従い、安全確保を最優先に行動することが求められています。"
+  },
   {
    "slug": "2026-09-07-18",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-18.html",
