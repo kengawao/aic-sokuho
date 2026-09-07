@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1213,
+ "count": 1234,
  "articles": [
+  {
+   "slug": "2026-09-08-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-20.html",
+   "title": "目黒蓮、カナダ9ヶ月で何を掴んだのか？ジャニーズアイドルの海外生活が意外と充実している件",
+   "title_en": "What Did Meiro Renjou Gain From 9 Months in Canada? A Johnny's Idol's Unexpected Fulfillment Abroad",
+   "category": "コラム",
+   "published": "2026-09-08",
+   "summary": "Snow Manの目黒蓮がカナダでの9ヶ月間の生活について語り、充実感を感じているという。海外での生活経験を通じて、新たな視点や学びを得たようだ。日本とは異なる環境での活動が、彼にどのような影響を与えたのかが話題となっている。"
+  },
+  {
+   "slug": "2026-09-08-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-19.html",
+   "title": "FNN記者が同行取材、謎の巨大生物「モンスーンジャイア」の正体は何か",
+   "title_en": "What Is the \"Monsoon Jaiga\"? FNN's Exclusive Documentation of a Mysterious Giant Creature",
+   "category": "科学",
+   "published": "2026-09-08",
+   "summary": "フジテレビ系列のFNNが、モンスーンジャイアと呼ばれる未確認の巨大生物の観測に同行取材を実施した。この生物は特定の季節に出現するとされており、専門家による調査と映像記録が行われた。生物学的な分類や生態の解明を目指す取り組みとして注目されている。"
+  },
+  {
+   "slug": "2026-09-08-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-18.html",
+   "title": "みずほ楽天カードのポイント還元率が2%に引き上げ、他社カードとの競争激化が加速",
+   "title_en": "Mizuho Rakuten Card Boosts Point Reward Rate to 2%, Intensifying Credit Card Market Competition",
+   "category": "経済",
+   "published": "2026-09-08",
+   "summary": "みずほ銀行と楽天が提携するクレジットカード「みずほ楽天カード」のポイント還元率が2%に引き上げられることが明らかになった。従来より還元率を大幅に改善することで、競争が激化するクレジットカード市場における顧客獲得戦略の一環。金融機関のデジタル化と提携による利便性向上の動きが加速している。"
+  },
+  {
+   "slug": "2026-09-08-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-17.html",
+   "title": "なぜ今、病院がサイバー攻撃の標的に？医療機関の防御態勢が急務",
+   "title_en": "Why Are Hospitals Becoming Cyberattack Targets? Japan's Healthcare Security Crisis Deepens",
+   "category": "IT",
+   "published": "2026-09-08",
+   "summary": "医療機関を狙ったサイバー攻撃が増加している状況を受け、政府や関連機関が対策の強化に乗り出す。患者情報の流出や医療機器の停止といった深刻な被害リスクを抑えるため、セキュリティ体制の整備と人員不足への対応が課題となっている。業界全体での防御意識の向上が求められている。"
+  },
+  {
+   "slug": "2026-09-08-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-16.html",
+   "title": "VIVANTはなぜ2週休止？ドラマの視聴率好調でも放送延期する理由",
+   "title_en": "Why Does Hit Drama VIVANT Take a Two-Week Break? The Reality Behind Japanese TV Production",
+   "category": "エンタメ",
+   "published": "2026-09-08",
+   "summary": "日本テレビの連続ドラマ『VIVANT』が放送スケジュールで2週間の休止を挟むことが判明。好調な視聴率を獲得している作品だけに、視聴者から戸惑いの声が上がっている。制作側の事情と視聴者への影響について、ドラマ業界の実状が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-08-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-15.html",
+   "title": "マンガの言葉がデータベース化へ。「推し活」「それってあなたの感想ですよね」はいつから流行った?",
+   "title_en": "When Did 'Pushing' Become Popular? Manga Language Gets Its Own Database",
+   "category": "エンタメ",
+   "published": "2026-09-08",
+   "summary": "マンガ作品に登場する独特の言葉や表現をデータベースとして整備する取り組みが進められている。流行語やネットスラングの起源がマンガにあることが多く、言語文化の研究対象として注目されている。完成すれば、言葉の流行時期や作品ごとの特徴を学術的に追跡できるようになる。"
+  },
+  {
+   "slug": "2026-09-08-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-14.html",
+   "title": "トランプ特使の動きは象徴的？ロシア・ウクライナ戦争、和平協議も根本的な溝は埋まらず",
+   "title_en": "Trump's Envoys Make Symbolic Moves in Russia-Ukraine Peace Talks, But Fundamental Differences Remain",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "トランプ米大統領の特使がロシアとウクライナの首都を相次いで訪問し、両国の指導者と会談した。メディアでは和平協議の可能性が注目されているが、BBC外交担当編集委員は両国の基本的な立場の違いは依然として解決されていないと指摘。ウクライナ政府は戦闘の継続と厳しい冬への対備を覚悟しているという。"
+  },
+  {
+   "slug": "2026-09-08-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-13.html",
+   "title": "米特使が連日モスクワ・キーウ訪問、ゼレンスキーが漏らした本音とは？冬到来でも戦争は終わらない",
+   "title_en": "Trump's Envoys Shuttle Between Moscow and Kyiv: Is Winter the Deadline for War's End?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "トランプ米大統領の特使であるウィトコフ氏とクシュナー氏が、5日にロシアのモスクワ、翌6日にウクライナのキーウを相次いで訪問し、プーチン大統領とゼレンスキー大統領とそれぞれ会談した。ゼレンスキー氏は米国の特使との会談後、ロシアとの戦争は冬季間も継続することになるとの見通しを示した。両国の和平交渉の動きが進む中、長期化する戦況への懸念が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-08-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-12.html",
+   "title": "ドイツ極右AfDが東部州議会で圧勝、過半数届かずも「民意を得た」と主張―欧州民主主義の危機が加速?",
+   "title_en": "German Far-Right AfD Sweeps Eastern State Election: Democracy at Risk Without Majority?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "ドイツ東部ザクセン・アンハルト州の州議会選挙で、移民排斥を掲げる極右政党AfDが主要政党を大きく引き離して圧勝した。過半数には至らない見込みだが、同党は議会運営における民意の支持を獲得したと主張。欧州における極右勢力の台頭を象徴する結果となった。"
+  },
+  {
+   "slug": "2026-09-08-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-11.html",
+   "title": "中国がついに動いた。日本の半導体材料にダンピング認定、報復関税へ",
+   "title_en": "China Slaps Dumping Tariffs on Japanese Semiconductor Materials—What's Next?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "中国政府が、半導体製造に欠かせない化学物質「ジクロロシラン」について、日本からの輸入品が不当に安い価格で販売されているとしてダンピング認定を行いました。これを受けて中国は事実上の関税措置を講じることを発表。日本の半導体関連産業への打撃が懸念される一方、米中対立の中での産業保護主義の動きとして注視されています。"
+  },
+  {
+   "slug": "2026-09-08-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-10.html",
+   "title": "北朝鮮が日本海側に新型駆逐艦を配備する狙いは？軍事専門家が指摘する背景",
+   "title_en": "What's Behind North Korea's New Destroyer in the Sea of Japan? Military Analysts Reveal the Strategy",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "北朝鮮が日本海側に新型駆逐艦を配備したとみられる。韓国や日本の防衛当局が確認したもので、この配備の背景には地政学的な緊張の高まりや、朝鮮半島周辺での軍事力強化の意図が考えられている。専門家からは、この動きが地域の安全保障にどのような影響を与えるかが注視されている。"
+  },
+  {
+   "slug": "2026-09-08-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-9.html",
+   "title": "アマゾン・エアの貨物機が着陸失敗、滑走路オーバーランで5人死亡　マイアミ国際空港で何が起きたのか",
+   "title_en": "Amazon Air Cargo Plane Crashes at Miami Airport: What Caused the Runway Overrun?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "フロリダ州のマイアミ国際空港で、アマゾンの貨物輸送を担当するアマゾン・エアの貨物機が着陸時に滑走路をオーバーランし炎上する事故が発生した。この事故により5人が死亡し、5人が重傷を負っている。原因の詳細はまだ調査中だが、大手eコマース企業の物流を支える航空機の安全性について改めて注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-08-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-8.html",
+   "title": "返済期間50年超の住宅ローンが増加中。金融庁が本格監視に乗り出した理由は？",
+   "title_en": "Ultra-Long Mortgages on the Rise: Why Is Japan's FSA Stepping In?",
+   "category": "経済",
+   "published": "2026-09-08",
+   "summary": "金利上昇と住宅価格の高騰により、返済期間が長期化する住宅ローンの利用が増えている。金融庁は借り手の収入や返済能力に見合った融資が行われているか、金融機関を重点的にモニタリングする方針を示した。利用者の経済状況の急変時に問題が生じるリスクを懸念している。"
+  },
+  {
+   "slug": "2026-09-08-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-7.html",
+   "title": "死亡した役員が関与？岐阜・洋菓子店放火事件、生存者の証言が捜査を揺さぶる",
+   "title_en": "Did the deceased executive set the fire? New testimony shakes Gifu bakery tragedy investigation",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "岐阜県本巣市の洋菓子店兼住宅火災で3人が死亡した放火疑い事件で、新たな展開。現場から救助された住人の同級生が警察に対し、死亡した会社役員が事件に関与していたとする趣旨の証言をしていることが判明した。捜査の焦点が、被害者とされた人物の関与に移る可能性もある。"
+  },
+  {
+   "slug": "2026-09-08-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-6.html",
+   "title": "くら寿司がコラボ急きょ中止、その背景は？ファン騒然",
+   "title_en": "Kura Sushi Suddenly Cancels Collaboration: Here's What We Know",
+   "category": "経済",
+   "published": "2026-09-08",
+   "summary": "くら寿司が予定していたコラボレーション企画を急遽中止することが判明した。詳しい背景について報道されており、業界内でも波紋が広がっている。同社の経営判断や市場への影響など、複数の観点から注目が集まっている状況だ。"
+  },
+  {
+   "slug": "2026-09-08-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-5.html",
+   "title": "戦後最長の景気拡大、ついに超える？今の日本経済は本当に好況なのか",
+   "title_en": "Japan's Economic Expansion May Break Post-War Record: But Do People Really Feel Prosperous?",
+   "category": "経済",
+   "published": "2026-09-08",
+   "summary": "日本の景気拡大が戦後最長の景気循環を超える可能性が高まっている。複数の経済指標が堅調に推移しており、専門家からも楽観的な見方が出ている。ただし、海外経済の不確実性や賃金上昇の課題など、先行きへの懸念材料も残されている。個人消費と企業投資のバランスが今後の景気継続を左右する鍵となりそうだ。"
+  },
+  {
+   "slug": "2026-09-08-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-4.html",
+   "title": "坂口健太郎、結婚発表の翌日から公の場へ　新婚とは思えぬ行動力",
+   "title_en": "Kentaro Sakaguchi Returns to Public Events Day After Wedding Announcement",
+   "category": "エンタメ",
+   "published": "2026-09-08",
+   "summary": "俳優の坂口健太郎が結婚を発表した翌日、公の場に姿を見せたことが話題になっている。多くの芸能人は結婚発表後、一定期間公の活動を控えるケースが多い中、迅速に日程をこなす姿勢が注目されている。プロとしての責任感と私生活のバランスについて、業界内でも関心が集まっているようだ。"
+  },
+  {
+   "slug": "2026-09-08-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-3.html",
+   "title": "大谷、5戦ぶりスタメン復帰へ　監督が明かした復調の兆し",
+   "title_en": "Ohtani Returning to Lineup After Five-Game Absence, Manager Confirms",
+   "category": "スポーツ",
+   "published": "2026-09-08",
+   "summary": "大谷選手が5試合ぶりにスタメンでの出場が決まった。監督がこの起用について発表したもので、調整の進行状況が良好であることが背景にあるとみられる。今後の試合での活躍に注目が集まる。"
+  },
+  {
+   "slug": "2026-09-08-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-2.html",
+   "title": "会社の駅伝大会で夫が熱中症死亡、遺族が提訴へ—親睦行事の安全管理が問われる",
+   "title_en": "Employee Dies of Heat Stroke at Company Relay Race; Family Files Lawsuit Against Employer",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "企業の親睦行事である駅伝大会に参加した男性が熱中症で死亡し、遺族が会社を相手に損害賠償請求の訴訟を起こした。事件は適切な熱中症対策や医療体制が講じられていなかったことが背景にあるとみられ、企業の従業員向け行事における安全管理責任の在り方が改めて問題となっている。"
+  },
+  {
+   "slug": "2026-09-08-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-1.html",
+   "title": "金利上昇で住宅ローン返済者が悲鳴…変動金利の人たちはどうなる？",
+   "title_en": "Rising Interest Rates Squeeze Mortgage Borrowers—What Happens Next?",
+   "category": "経済",
+   "published": "2026-09-08",
+   "summary": "金利上昇に伴い、住宅ローン返済者の負担が増加し、家計管理に支障が出ている。特に変動金利を選択した世帯では返済額の上昇が深刻化。固定金利への借り換えや返済プランの見直しを余儀なくされるなど、多くの返済者が対応に追われている状況が報告されている。"
+  },
+  {
+   "slug": "2026-09-08-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-0.html",
+   "title": "四国と東北南部が危険水域へ…大雨警戒で何が起こる？",
+   "title_en": "Shikoku and Southern Tohoku Brace for Heavy Rain: What's the Real Risk?",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "気象庁の予報によると、四国地方から東北南部にかけて大雨による災害のリスクが高まっているとして、厳重な警戒を呼びかけている。土砂災害や河川氾濫の危険性があり、これらの地域の住民は最新の気象情報を確認し、必要に応じて避難準備を進めることが推奨されている。"
+  },
   {
    "slug": "2026-09-07-38",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-07-38.html",
