@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1255,
+ "count": 1276,
  "articles": [
+  {
+   "slug": "2026-09-09-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-20.html",
+   "title": "背面スパイク炸裂！高橋藍の予想外の一手に会場がどよめいた理由",
+   "title_en": "Behind-the-Back Spike Leaves Crowd Stunned: Takahashi Ai's Incredible Play",
+   "category": "コラム",
+   "published": "2026-09-09",
+   "summary": "バレーボールの高橋藍選手が試合中に背面スパイクを決め、会場を驚かせた。背中越しに相手コートへ叩き込むこの技は通常まれで、実行するにはかなりの技術と判断力が必要とされている。観客からは予想外の展開に驚嘆の声が上がり、SNSでも話題となった。"
+  },
+  {
+   "slug": "2026-09-09-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-19.html",
+   "title": "ジャッジ、満を持してIL復帰へ　ヤンキース優勝の鍵となるか",
+   "title_en": "Judge Returns from IL: Is This the Key to Yankees' World Series Dreams?",
+   "category": "スポーツ",
+   "published": "2026-09-09",
+   "summary": "ニューヨーク・ヤンキースの主砲アーロン・ジャッジが、故障者リスト(IL)から復帰することが発表された。昨シーズンのAL MVP であるジャッジの復帰により、ヤンキースの攻撃力が大幅に強化される見込み。今シーズンの順位争いやプレーオフ進出への影響が注目される。"
+  },
+  {
+   "slug": "2026-09-09-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-18.html",
+   "title": "岩佐真悠子が介護士役でCM出演、女優がこの職業を選ぶ理由は？",
+   "title_en": "Why Is Actress Mayuko Iwasa Playing a Care Worker in a New Commercial?",
+   "category": "エンタメ",
+   "published": "2026-09-09",
+   "summary": "女優の岩佐真悠子氏が介護士役としてCM出演することが報じられた。高齢化社会への関心の高まりとともに、芸能人による介護職の可視化が進んでいる。このキャスティングを通じて、介護職の社会的認知向上と業界イメージ改善に向けた取り組みが注目を集めている。"
+  },
+  {
+   "slug": "2026-09-09-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-17.html",
+   "title": "懐かしのゼルダ最高傑作が再びやってくる――11/5『時のオカリナ』発売決定、なぜいま64の名作が？",
+   "title_en": "The Legend of Zelda: Ocarina of Time Returns This November — Why Is Nintendo Reviving This 26-Year-Old Masterpiece?",
+   "category": "エンタメ",
+   "published": "2026-09-09",
+   "summary": "Nintendo64の伝説的作品『ゼルダの伝説 時のオカリナ』が11月5日に新プラットフォームでの発売が決定した。1998年の発売から四半世紀を経た今なお、ゲーム史上最高峰の評価を受ける本作が、新しい世代のプレイヤーにどう迎えられるか注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-09-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-16.html",
+   "title": "伝説の俳優養成所「無名塾」が55年の歴史に幕　演劇界に何をもたらしたのか",
+   "title_en": "Legendary Acting School 'Mumeijuku' Closes After 55 Years: What Will Be Lost?",
+   "category": "エンタメ",
+   "published": "2026-09-09",
+   "summary": "俳優の宮本亜門が1969年に設立した「無名塾」が2025年2月に解散することが明らかになった。半世紀以上にわたり多くの演劇人を輩出してきた同塾は、独特の教育理念と舞台制作で知られていた。業界内では今後の演劇教育や人材育成の形態が問われている。"
+  },
+  {
+   "slug": "2026-09-09-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-15.html",
+   "title": "捕手が投手へ？日ハム進藤の「人生初」登板に野球ファン驚愕",
+   "title_en": "Catcher-Turned-Pitcher: Shindo's Historic Debut on the Mound Shocks Baseball World",
+   "category": "スポーツ",
+   "published": "2026-09-09",
+   "summary": "日本ハムファイターズの捕手・進藤が試合で投手として登板し、捕手としてのキャリアで初めてマウンドに立つという異例の事態が発生した。通常、異なるポジションからの登板は戦力の逼迫時に行われるもので、この試合がどのような状況下で実現したのか、そして進藤の投手としてのパフォーマンスが注目を集めている。"
+  },
+  {
+   "slug": "2026-09-09-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-14.html",
+   "title": "トランプ大統領がハリー王子夫妻の帰国に「うれしい」　その本音とは？",
+   "title_en": "Trump's Blunt Take on Prince Harry's Return to UK: 'I'm Pleased'",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "トランプ米大統領は、ハリー英王子夫妻がイギリスへ帰国したことについて記者の質問に答え、アメリカを離れることになって「うれしい」とコメントした。大統領は、夫妻の「ファン」ではなかったことが理由だと明言し、その率直な発言が注目を集めている。"
+  },
+  {
+   "slug": "2026-09-09-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-13.html",
+   "title": "ハンガリーがロシア外交官10人を国外退去命じた理由は？背後にある冷え込む関係",
+   "title_en": "Why Did Hungary Expel 10 Russian Diplomats? Rising Tensions Signal Deeper Rift",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "ハンガリー政府は、駐在するロシアの外交官10人に対して国外退去命令を下しました。理由は「容認できない活動」に従事していたからとされています。これに対してロシア外務省は強く反発し、報復措置も視唆しており、東欧地域における両国の緊張がさらに高まることが予想されます。"
+  },
+  {
+   "slug": "2026-09-09-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-12.html",
+   "title": "ロシア最後のドイツ総領事館が閉鎖へ　ウクライナ戦争で露独関係はここまで冷え込んだ",
+   "title_en": "Russia's Last German Consulate Set to Close: How Ukraine War Froze Relations Between Former Economic Partners",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "ロシアに残されていた最後のドイツ総領事館が閉鎖される見通しとなった。ウクライナ侵攻後の経済制裁や政治的対立により、両国の外交関係が急速に悪化。かつての欧州最大の経済パートナー関係は事実上断絶し、冷戦後の国際秩序が大きく転換する象徴的な動きとなっている。"
+  },
+  {
+   "slug": "2026-09-09-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-11.html",
+   "title": "タイ軍がカンボジア詐欺拠点を公開　なぜ国境付近に大規模詐欺組織が?",
+   "title_en": "Thai Military Exposes Cambodian Scam Operations: Why Is Transnational Fraud Thriving at the Border?",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "タイ軍がカンボジア領内に存在する詐欺拠点を公開した。国境地域に構築された大規模な詐欺組織の実態が明らかになり、両国間での対策強化が課題となっている。スマートフォン詐欺やロマンス詐欺など、国際的な詐欺犯罪の温床となっていることが指摘されている。"
+  },
+  {
+   "slug": "2026-09-09-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-10.html",
+   "title": "米軍がイラン関連タンカーを攻撃、中東情勢はどうなる？",
+   "title_en": "U.S. Military Strikes Iran-Linked Tanker: What Happens Next in the Middle East?",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "米軍がイラン関連とされるタンカーへの攻撃を実施したとの報道がなされました。中東地域での緊張が高まる中、この軍事行動は地域の安定性に直結する重大な案件です。背景にあるイラン核問題や経済制裁をめぐる対立が、さらに深刻化する可能性も指摘されています。"
+  },
+  {
+   "slug": "2026-09-09-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-9.html",
+   "title": "14歳未満の女子生徒がスカーフ着用禁止に。オーストリアが踏み切った理由とは？",
+   "title_en": "Austria Bans Headscarves for Girls Under 14: Why This Age Limit?",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "オーストリアが新学期から、14歳未満の女子生徒を対象に学校でのヘッドスカーフ着用を禁止する法律を施行しました。ヒジャブやブルカなどイスラム教の頭部を覆うスカーフが対象で、公立・私立を問わず全国の学校で適用されます。宗教の自由と国の教育方針のバランスをめぐる議論が世界的に注目されています。"
+  },
+  {
+   "slug": "2026-09-09-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-8.html",
+   "title": "パリの象徴エッフェル塔がストライキで閉鎖、女性従業員が持ち場から移動させられた理由とは",
+   "title_en": "Eiffel Tower Closes Over Gender Dispute: Female Employee Removed From Post During Religious Group Visit",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "エッフェル塔が労働争議によって閉鎖された。宗教団体の訪問時に女性従業員が持ち場から移動させられたことが引き金となった。労働組合側は従業員が「屈辱を受けた」と主張しており、この出来事について調査を開始する予定だという。信仰と職場の自由をめぐる問題として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-09-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-7.html",
+   "title": "ネタニヤフ首相は1週間前に知ってた？ハマス奇襲攻撃、事前警告の衝撃",
+   "title_en": "Netanyahu Knew a Week Before? The Shocking Report of Pre-Attack Warning on Hamas Assault",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "パレスチナ・ガザ地区での戦闘の引き金となったハマスのイスラエル奇襲攻撃について、イスラエルメディアが新たな報道をしました。ネタニヤフ首相が攻撃の1週間以上前に情報を得ていたというもの。来月の総選挙を控える中、事前警告がなぜ活かされなかったのか、その背景への疑問の声が高まっています。"
+  },
+  {
+   "slug": "2026-09-09-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-6.html",
+   "title": "EUがグリーンランドに360億円投資する狙いは？北極圏での戦略的価値が急上昇",
+   "title_en": "Why Is the EU Investing $3.6 Billion in Greenland? Arctic Strategy Heats Up Amid Global Competition",
+   "category": "国際",
+   "published": "2026-09-09",
+   "summary": "欧州連合（EU）がグリーンランドに約360億円の投資を決定した。北極圏での資源獲得やロジスティクス強化を目指す戦略的な動きとみられ、気候変動に伴う北極海の重要性の高まりや、米国・中国との地政学的競争が背景にあるとされている。"
+  },
+  {
+   "slug": "2026-09-09-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-5.html",
+   "title": "周東が27年ぶりの快挙！ランニング満塁弾とは何か",
+   "title_en": "Historic Moment: Shuto's Running Grand Slam Breaks 27-Year Drought",
+   "category": "スポーツ",
+   "published": "2026-09-09",
+   "summary": "プロ野球で周東選手がランニング満塁弾を放った。この珍しい記録は27年ぶりとのこと。ランニング満塁弾は、満塁の状況で走者がスチールを仕掛けた際に打者が安打を打つことで成立する極めてレアな記録。周東の快挙は打撃センスと試合の流れを読む野球眼の高さを示すものとして注目されている。"
+  },
+  {
+   "slug": "2026-09-09-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-4.html",
+   "title": "景気拡大のはずなのに…給料は増えず、物価だけ上昇する矛盾",
+   "title_en": "Economic Growth Without The Paycheck: Why Japanese Consumers Don't Feel Richer",
+   "category": "経済",
+   "published": "2026-09-09",
+   "summary": "日本経済が拡大局面にあるとされながら、国民の実感は乏しいという現象が起きている。円安による輸出企業の好調や金融緩和による株価上昇がある一方で、物価上昇により実質賃金が伸び悩んでいるためだ。特に生活必需品の値上げが家計を圧迫し、景気回復の恩恵が一般国民に行き渡らない構造的問題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-09-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-3.html",
+   "title": "長澤まさみ、22年ぶりゴジラ映画復帰へ　あの映画から何が変わった？",
+   "title_en": "Masami Nagasawa Returns to Godzilla Film After 22 Years: What Changed?",
+   "category": "エンタメ",
+   "published": "2026-09-09",
+   "summary": "女優の長澤まさみが、22年ぶりにゴジラ映画に出演することが明かされました。前回の出演から現在まで、映画業界やゴジラシリーズの作風も大きく変化しています。新作での彼女の役柄やストーリーの詳細については、今後の情報公開が注目されています。"
+  },
+  {
+   "slug": "2026-09-09-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-2.html",
+   "title": "日本、OECD学力調査で3分野トップ獲得―教育の「強み」が世界で証明される",
+   "title_en": "Japan Tops OECD Academic Rankings in Three Key Areas—Global Recognition of Educational Excellence",
+   "category": "国内",
+   "published": "2026-09-09",
+   "summary": "OECD(経済協力開発機構)が実施した最新の学力調査で、日本が複数分野において世界トップクラスの成績を収めた。数学や読解力、科学など主要3分野で日本の生徒たちが優秀な成績を残し、日本の教育システムの有効性が国際的に認められる結果となった。長年の教育投資と改革の成果が数字で示された形だ。"
+  },
+  {
+   "slug": "2026-09-09-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-1.html",
+   "title": "名古屋の大雨で帰宅困難者が多発、何が起きていた？",
+   "title_en": "What Caused Mass Commuter Chaos in Nagoya During Heavy Rainfall?",
+   "category": "国内",
+   "published": "2026-09-09",
+   "summary": "大雨の影響で名古屋市内の交通機関に支障が生じ、多くの帰宅困難者が発生した。駅周辺は混雑し、帰宅を断念する人や夜通し滞在する人も見られた。気象庁によると予想を上回る降水量が記録され、都市部でも排水能力の限界に達した地域がある模様。"
+  },
+  {
+   "slug": "2026-09-09-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-0.html",
+   "title": "関東から四国まで線状降水帯の危険性が高まる可能性、どのような対策が必要？",
+   "title_en": "Linear Precipitation Belt Warning from Kanto to Shikoku: What Precautions Should You Take?",
+   "category": "国内",
+   "published": "2026-09-09",
+   "summary": "気象情報によると、関東地方から四国地方にかけて線状降水帯が発生するリスクが高まっているとのこと。線状降水帯は短時間に大量の雨をもたらすため、土砂災害や洪水などの危険が懸念される。地域の住民は気象情報に注視し、必要に応じて避難準備を進めることが推奨されている。"
+  },
   {
    "slug": "2026-09-08-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-41.html",
