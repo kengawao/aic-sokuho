@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1234,
+ "count": 1255,
  "articles": [
+  {
+   "slug": "2026-09-08-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-41.html",
+   "title": "Suicaペンギンの後継者候補、3羽が発表される！あなたはどのペンギンを推す？",
+   "title_en": "Suica's Iconic Penguin Getting a Successor: Which of the 3 Candidates Will Win Your Heart?",
+   "category": "コラム",
+   "published": "2026-09-08",
+   "summary": "長年JR東日本のシンボルとして愛されてきたSuicaペンギンの後継キャラクター候補が3体公開された。新しい時代を担うペンギンたちの選出について、ファンから期待と不安の声が上がっている。"
+  },
+  {
+   "slug": "2026-09-08-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-40.html",
+   "title": "米海軍の次世代フリゲート、韓国造船が優位？日本は脱落するのか",
+   "title_en": "Will South Korea's Shipbuilders Win the U.S. Navy's Next Frigate Contract?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "米海軍が進める新型フリゲート艦の国際競争入札で、韓国の造船業者が有力候補として浮上している。日本も参入を検討していたとされるが、建造実績、コスト競争力、納期の面で韓国勢が優位に立つ可能性が指摘されている。防衛産業のグローバル化が進む中、海上防衛力整備の国際戦略が問われる局面となっている。"
+  },
+  {
+   "slug": "2026-09-08-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-39.html",
+   "title": "本人が望まない心肺蘇生、なぜ行われ続けるのか？ 医療現場の実態調査で浮かぶ課題",
+   "title_en": "Unwanted CPR Still Happening: What's Blocking Patient Autonomy in Japanese Hospitals?",
+   "category": "健康",
+   "published": "2026-09-08",
+   "summary": "患者本人が希望していない心肺蘇生が行われている実態について、医療機関を対象とした調査が進められている。高齢者や終末期患者の意思確認の問題、医療スタッフの判断基準の曖昧さ、家族の要望と本人の意思のズレなど、複雑な背景が浮かび上がっている。これまで見落とされてきた医療現場の実態解明と、患者の自己決定権をいかに尊重するかが焦点となっている。"
+  },
+  {
+   "slug": "2026-09-08-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-38.html",
+   "title": "石塚裕惺20歳、4番プランが急浮上？背景にある期待と課題",
+   "title_en": "Can Yussei Ishitsuka Become a Cleanup Hitter at 20? The Rise of a Young Giants Prospect",
+   "category": "スポーツ",
+   "published": "2026-09-08",
+   "summary": "G(読売ジャイアンツ)の若手選手・石塚裕惺が20歳にして4番での起用を視野に入れるプランが浮上している。打力の成長と将来性を評価する声が出ている一方で、若年での重責への適応や一貫性のある成績維持が課題とされている。"
+  },
+  {
+   "slug": "2026-09-08-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-37.html",
+   "title": "19年間ロッテ一筋の唐川が引退へ　なぜ1球団での長期キャリアは今や稀少なのか",
+   "title_en": "After 19 Years with Lotte, Karakawa Retires: Why Single-Team Careers Are Now Rare in Japanese Baseball",
+   "category": "スポーツ",
+   "published": "2026-09-08",
+   "summary": "千葉ロッテマリーンズの唐川侖央投手が現役引退を表明した。1軍デビューから19年間、同一球団でのキャリアを貫いた唐川は、近年の日本野球で珍しい「生え抜き」選手の代表格。年齢やケガの状態、これからの人生設計といった引退時期の判断について、本人の意思が尊重される形となった。"
+  },
+  {
+   "slug": "2026-09-08-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-36.html",
+   "title": "駅員の胸元カメラで何が見える？小田急が導入、乗客対応はこう変わった",
+   "title_en": "What Will Odakyu's Body Camera Initiative Really Change? Inside Station Staff's New Reality",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "小田急電鉄が駅員に胸元カメラを装着させる取り組みを開始した。利用客とのトラブルや迷惑行為に対応する際の記録を残すことが目的。カメラの映像は乗客対応の質向上やトラブル解決の証拠として活用される見通しで、駅員側も対応の透明性が高まると期待される。一方で監視社会化への懸念や駅員のプライバシー問題も指摘されている。"
+  },
+  {
+   "slug": "2026-09-08-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-35.html",
+   "title": "インドネシア火山噴火で34万人が足止め　なぜ空港が2日連続で閉鎖？",
+   "title_en": "Indonesia's Major Volcano Grounds 340,000 Travelers: Why Did Seven Airports Close?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "インドネシアのアナク・クラカタウ火山の噴火が続いており、7日に全国7カ所の空港が火山灰の影響で2日間閉鎖された。この影響で約3000便が欠航となり、34万人以上が移動できない状況に陥った。その後、ジャカルタのスカルノ・ハッタ国際空港を含む主要空港は8日から段階的に再開している。"
+  },
+  {
+   "slug": "2026-09-08-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-34.html",
+   "title": "ヨーロッパ全土で相次ぐ謎の破壊工作、ロシアの影がちらつく理由は？",
+   "title_en": "Why Sabotage Attacks Are Spreading Across Europe, and Russia May Be Behind It",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "ドイツの空港でドローンが発見されたことをきっかけに、ヨーロッパ各地の防衛施設で不審火が急増している。ドイツの内相はこの事案にロシアの関与を示唆。イタリアからエストニアまで広がる一連の事件の背景には何があるのか、専門家の見方も分かれている。"
+  },
+  {
+   "slug": "2026-09-08-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-33.html",
+   "title": "ドイツ極右AfDが歴史的大躍進、欧州全体が警戒する理由は？",
+   "title_en": "Germany's Far-Right AfD Surges to Historic Victory: What Does It Mean for Europe?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "ドイツ東部の州議会選で移民排斥を掲げる極右政党AfDが劇的な勝利を収めた。BBC欧州編集長は、この結果がドイツだけでなく欧州全体の既存政治体制に対する警告信号だと指摘。AfDの躍進の背景と、欧州政治全体への波及効果に注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-08-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-32.html",
+   "title": "イスラエルがレバノン南部を空爆、12人殺害　中東情勢はどこへ向かう？",
+   "title_en": "Israeli Airstrikes in Southern Lebanon Kill 12—Where Is the Middle East Headed?",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "レバノン保健省は7日、イスラエルによるレバノン南部の村への空爆で少なくとも12人が殺害されたと発表した。同地域ではイスラエルとヒズボラの衝突が継続しており、今回の空爆は両勢力間の緊張がさらに高まっていることを示している。中東地域の不安定性が国際社会にも影響を及ぼしかねない状況が続いている。"
+  },
+  {
+   "slug": "2026-09-08-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-31.html",
+   "title": "北朝鮮とロシアが初の道路橋開通、ウクライナ支援団体は「軍事物資の調達に使われる」と警告",
+   "title_en": "Russia and North Korea Open First Road Bridge; Ukrainian Groups Warn of Military Supply Chain Concerns",
+   "category": "国際",
+   "published": "2026-09-08",
+   "summary": "ロシアと北朝鮮を結ぶ初の道路橋が開通した。豆満江を挟んだ国境間に建設されたこの橋により、両国間の貨物・旅客輸送が容易になる。ウクライナ侵攻以降、ロシアと北朝鮮の関係が急速に強化されている中での開通であり、ウクライナの支援団体からは軍事調達に悪用される懸念の声が上がっている。"
+  },
+  {
+   "slug": "2026-09-08-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-30.html",
+   "title": "グレート義太夫さん死去、67歳 落語界の大物が惜しまれる",
+   "title_en": "Beloved Rakugo Master Great Gitayū Passes Away at 67",
+   "category": "エンタメ",
+   "published": "2026-09-08",
+   "summary": "落語家のグレート義太夫さんが67歳で亡くなられました。独特のキャラクターと高い芸能技術で知られ、多くの弟子を育てるなど落語界に大きな足跡を残されました。ご逝去により、日本の伝統芸能界は貴重な人材を失うことになります。"
+  },
+  {
+   "slug": "2026-09-08-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-29.html",
+   "title": "くみっきー、第3子出産を報告 タレント兼インフルエンサーの育児生活は今",
+   "title_en": "Kumikky Reports Birth of Third Child: Balancing Talent Career with Motherhood",
+   "category": "エンタメ",
+   "published": "2026-09-08",
+   "summary": "人気タレント・インフルエンサーのくみっきーが第3子の出産を報告した。彼女はSNSを通じてこの喜びの報告を行い、ファンから祝福のメッセージが相次いでいる。多くの芸能人が出産と仕事の両立について言及する中、くみっきーのキャリアと育児のバランスについても注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-08-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-28.html",
+   "title": "OpenAIの主任サイエンティストが緊急警告『AIの急速な進歩に人類が対応できていない』",
+   "title_en": "OpenAI Chief Scientist Warns: 'Humanity Unprepared for AI's Impact'",
+   "category": "IT",
+   "published": "2026-09-08",
+   "summary": "OpenAIの主任サイエンティスト、ヤクブ・パホツキ氏がAIの急速な進歩に対する危機感を表明。人工知能技術がもたらす結果に対して現在の準備が不十分であり、人類が未来を制御し続けるためには『極めて慎重な対応』と従来以上の介入が必要だと主張しています。"
+  },
+  {
+   "slug": "2026-09-08-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-27.html",
+   "title": "役員が戻ってきたあの瞬間に何が？岐阜・洋菓子店3人死亡事件の新事実",
+   "title_en": "What Happened When the Executive Returned? New Details Emerge in Gifu Pastry Shop Triple Homicide",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "岐阜県本巣市の洋菓子店兼住宅で3人が焼死した事件について、新たな捜査情報が浮上した。死亡した会社役員と現場にいた住人の同級生らとの間でトラブルが発生し、その直後に事件が起きた疑いが強まっている。事件の背景に人間関係のもつれがあった可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-08-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-26.html",
+   "title": "大谷、今季の投手復帰を断念…二刀流の夢はどうなる？",
+   "title_en": "Ohtani Abandons Pitching Return This Season – What's Next for Two-Way Dream?",
+   "category": "スポーツ",
+   "published": "2026-09-08",
+   "summary": "大谷翔平選手が2024年シーズンの投手復帰を断念することを明かした。昨シーズンの肘手術からの回復状況を踏まえた判断で、今後は打者専念での活動となる見通し。ファンや球団の間では、今後のキャリアについて様々な見方が広がっている。"
+  },
+  {
+   "slug": "2026-09-08-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-25.html",
+   "title": "日銀が利上げ決定へ、家計と企業への影響は？金利が上がるとどうなる",
+   "title_en": "Bank of Japan Set to Raise Rates This Month—What Does It Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-08",
+   "summary": "日本銀行は今月開催する金融政策決定会合で、政策金利の引き上げを実施する方針を固めた。長年のマイナス金利政策からの転換が進む中での判断となる。これにより住宅ローンや預金金利など、生活に関わる金利に変化が生じる可能性がある。市場では既に先読みの動きが見られており、経済への波及効果が注視されている。"
+  },
+  {
+   "slug": "2026-09-08-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-24.html",
+   "title": "円高が急加速した理由は？専門家が語る背景と今後の見通し",
+   "title_en": "Why the Sudden Yen Surge? Experts Break Down the Causes and What Comes Next",
+   "category": "経済",
+   "published": "2026-09-08",
+   "summary": "最近の急速な円高現象について、その背景要因と今後の見通しを分析する記事。グローバルな金利環境の変化、日本銀行の金融政策、国際的な資金フローの変動など、複数の要因が相互に作用していることが指摘されている。市場関係者の予測も交えながら、今後の円相場の動向を解説。"
+  },
+  {
+   "slug": "2026-09-08-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-23.html",
+   "title": "庄内川がレベル5氾濫特別警報、まさかの事態に。線状降水帯はまだ終わらない？",
+   "title_en": "Shonai River Issues Highest-Level Flood Warning—What Happens Next?",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "秋雨前線と熱帯低気圧の影響で東海地域に線状降水帯が発生し、愛知県と岐阜県の庄内川で最高レベルの「レベル5氾濫特別警報」が発表されました。既に氾濫が発生している可能性があり、気象庁では住民に対し、直ちに警戒を強めるよう呼びかけています。今後も他地域で線状降水帯が発生するおそれがあります。"
+  },
+  {
+   "slug": "2026-09-08-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-22.html",
+   "title": "名古屋で観測史上最大の1時間雨量を記録、何が起きているのか",
+   "title_en": "Nagoya Records Historic Rainfall: What's Driving Extreme Weather Events?",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "名古屋地方気象台が記録した1時間雨量が、観測開始以来の最高値を更新したことが明らかになった。局地的な豪雨現象により、短時間での異常降水が発生。このような極端気象の頻発化が、気象データの更新と防災体制の見直しを迫っている状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-08-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-08-21.html",
+   "title": "愛知・岐阜で氾濫特別警報が発令 大雨の最新情報と影響範囲は？",
+   "title_en": "Aichi and Gifu Issue Rare Flood Warning Alert—What You Need to Know",
+   "category": "国内",
+   "published": "2026-09-08",
+   "summary": "愛知県と岐阜県で大雨による河川の氾濫に対し、最高レベルの「氾濫特別警報」が発令されました。この警報は極めて稀な現象で、人命にかかわる危機的状況を示しています。該当地域の住民に対し、直ちに高い場所への避難と安全確保が呼びかけられています。気象庁からは継続的な警戒情報が発表されており、今後の気象展開に注視が必要です。"
+  },
   {
    "slug": "2026-09-08-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-08-20.html",
