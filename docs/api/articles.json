@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1298,
+ "count": 1319,
  "articles": [
+  {
+   "slug": "2026-09-10-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-20.html",
+   "title": "人工内耳の子ども育てる母親の奮闘記→これは泣く準備しておくべき",
+   "title_en": "Mother's Battle to Raise Child with Cochlear Implant→Get Your Tissues Ready",
+   "category": "コラム",
+   "published": "2026-09-10",
+   "summary": "人工内耳を装用した子どもの育児に奔走するお母さんの物語。音声言語の習得から学校生活まで、様々な課題に直面しながらも工夫と愛情で乗り越えていく親子の日常が紹介されている。医療技術と家族の絆がどのように交わるのか、その現実が描かれている。"
+  },
+  {
+   "slug": "2026-09-10-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-19.html",
+   "title": "LIVゴルフが米国で破産申請、サウジマネーで急速拡大した新興ツアーに何が起きたのか",
+   "title_en": "LIV Golf Files for Bankruptcy: How Saudi-Backed Golf Tour's Rapid Expansion Unraveled",
+   "category": "スポーツ",
+   "published": "2026-09-10",
+   "summary": "サウジアラビアの公的投資基金PIFが支援するLIVゴルフが米国の破産法11条の適用を申請した。2021年の発足以来、莫大な資金を投じてPGAツアーの選手を引き抜き、メジャー大会への道を模索していた同ツアーだが、経営困難に直面。既得権益との対立やスポンサー獲得の難しさが背景にあるとみられる。"
+  },
+  {
+   "slug": "2026-09-10-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-18.html",
+   "title": "千葉が17年ぶりリーグ杯勝利 低迷期を抜け出せるか",
+   "title_en": "Chiba's First League Cup Victory in 17 Years: A Turning Point for the Struggling Club?",
+   "category": "スポーツ",
+   "published": "2026-09-10",
+   "summary": "J1リーグの千葉が、17年間リーグ杯（ルヴァンカップ）での勝利を逃していた状況から、ついに白星を奪取した。この勝利は、クラブの低迷からの転機となるのか、それとも一時的な喜びに過ぎないのか。千葉の復活への道筋が注目される。"
+  },
+  {
+   "slug": "2026-09-10-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-17.html",
+   "title": "清和源氏発祥の神社なぜ経営危機？由緒ある社寺が直面する「令和の経営課題」",
+   "title_en": "Why Is Japan's Historic Shrine Linked to the Seiwa Genji Clan Facing Financial Crisis?",
+   "category": "国内",
+   "published": "2026-09-10",
+   "summary": "平安時代の清和天皇に由来する清和源氏ゆかりの神社が民事再生手続きに入ることが明らかになった。全国的な神社参拝者の減少や維持管理費の増加、社殿修復の高額費用が経営を圧迫。歴史的文化遺産としての価値と現代の経営課題という、多くの由緒ある宗教施設が共通して抱える問題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-10-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-16.html",
+   "title": "タワマン配送の盲点　駐車場不足で配達員が悲鳴、どうなる宅配の未来",
+   "title_en": "The Hidden Crisis of Tower Mansion Deliveries: Why Parking Shortages Are Killing the Last-Mile Logistics Business",
+   "category": "経済",
+   "published": "2026-09-10",
+   "summary": "タワーマンション向けの宅配業務で、駐車場不足が深刻な問題になっている。配達員が駐車スペースを確保できず、違法駐車のリスクを背負わせられたり、配送効率が大幅に低下したりしているという。高層住宅の急増とそれに伴う物流インフラの整備不足が浮き彫りになり、業者側から改善を求める声が上がっている。"
+  },
+  {
+   "slug": "2026-09-10-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-15.html",
+   "title": "聖地・高野山の宿坊が集団申告漏れ？修行の場で何が起きていたのか",
+   "title_en": "Buddhist Temple Lodgings at Koyasan Face Tax Evasion Probe—What Happened at Japan's Sacred Mountain?",
+   "category": "経済",
+   "published": "2026-09-10",
+   "summary": "和歌山県の高野山にある複数の宿坊（僧侶や参拝者を受け入れる宿泊施設）が、税務署から集団で申告漏れを指摘されていることが判明した。宗教施設であっても事業収入がある場合は税申告義務があるが、宿坊運営の税務処理について適切な理解が浸透していなかった可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-10-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-14.html",
+   "title": "ネパール土石流、220万トンのがれき 復興までどうなる？",
+   "title_en": "Nepal Landslide Leaves 2.2 Million Tons of Debris: How Will Recovery Unfold?",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "ネパール北部で発生した大規模な土石流による被害が明らかになった。当局の試算によると、流出したがれきは220万トンに達することが判明。豪雨による地盤の緩みが原因とみられ、地域の復興作業は長期化する見通し。インフラ整備や二次災害防止が重大な課題となっている。"
+  },
+  {
+   "slug": "2026-09-10-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-13.html",
+   "title": "イギリスが制裁を発表した「E1地区」とは？ヨルダン川西岸でなぜこの場所が重要なのか",
+   "title_en": "What is the \"E1 Zone\" that Britain is imposing sanctions over? Why this West Bank location matters",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "イスラエルがヨルダン川西岸で計画する新しい入植地建設に対し、イギリスのミリバンド外相が制裁を発表した。特に焦点となっているのが「E1地区」という場所。BBCの中東特派員がマアレ・アドゥミムという既存入植地から現地リポートし、この地域がなぜ紛争の中で重要な位置置づけにあるのかを解説している。入植地拡大の行方が注視される。"
+  },
+  {
+   "slug": "2026-09-10-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-12.html",
+   "title": "数十年来で最低レベル…イギリス・イスラエル関係が急冷した理由は何か",
+   "title_en": "UK-Israel Relations Hit Lowest Point in Decades: What's Behind the Rift?",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "イギリス政府がイスラエル占領下のヨルダン川西岸入植地との貿易を禁止する決定を下したことに対し、イスラエル政府が強く反発している。BBC外交担当編集委員によると、この激しい反応は事態の深刻さを示唆しており、両国関係は数十年で最も悪化した状況にあるとのこと。パレスチナ領土の扱いをめぐる立場の相違が、歴史的な対立へと発展している。"
+  },
+  {
+   "slug": "2026-09-10-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-11.html",
+   "title": "ウイスキーからバターまで…米国がカナダ製品を一斉禁輸、貿易戦争がついにエスカレート",
+   "title_en": "From Whiskey to Butter: US Slaps Sweeping Import Ban on Canadian Goods as Trade War Escalates",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "アメリカがカナダ製品に対する輸入禁止措置を発表した。対象はアルコール飲料、乳製品、自動二輪車など多岐にわたる。これはカナダ側がアメリカ製品への報復関税を発効させたことへの対抗措置で、両国の貿易紛争は数ヶ月続く激しい応酬の段階へ突入している。"
+  },
+  {
+   "slug": "2026-09-10-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-10.html",
+   "title": "トランプ大統領が仲介か？ロシア・ウクライナ・米国の3者会談実現へ動く",
+   "title_en": "Trump Steps In: Will Three-Way Ukraine Peace Talks Actually Happen?",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "ロシアとウクライナの和平交渉が膠着状態に陥るなか、アメリカのトランプ大統領がプーチン大統領とゼレンスキー大統領を交えた3者会談の開催に強い意欲を示しました。トランプ氏は「実現する可能性がある」とコメント。停戦交渉の打開に向けて、米国が仲介役として動く姿勢が明らかになりました。"
+  },
+  {
+   "slug": "2026-09-10-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-9.html",
+   "title": "櫻坂46・松田里奈が年内卒業を発表、坂道グループからまた一人",
+   "title_en": "Sakurazaka46's Matsuda Rina Announces Graduation by Year-End",
+   "category": "エンタメ",
+   "published": "2026-09-10",
+   "summary": "櫻坂46のメンバー・松田里奈が年内での卒業を発表した。松田は2015年にAKB48研究生として加入し、その後坂道シリーズへ異動。櫻坂46では主要なポジションを担ってきたメンバーの突然の卒業発表は、ファンや関係者に大きな反響を呼んでいる。"
+  },
+  {
+   "slug": "2026-09-10-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-8.html",
+   "title": "70キロから球速130キロへ、62歳野球人の執念が凄い",
+   "title_en": "From 70 to 130 km/h: This 62-Year-Old's Quest to Defy Age at Baseball",
+   "category": "スポーツ",
+   "published": "2026-09-10",
+   "summary": "62歳の野球愛好家が、かつての自分の球速70キロから、現在130キロを目指すというチャレンジに取り組んでいる。加齢による体の変化に抗いながら、トレーニングを重ねる姿勢が話題となっており、年齢を理由に諦めない挑戦者の姿が多くの人に感動と驚きを与えている。"
+  },
+  {
+   "slug": "2026-09-10-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-7.html",
+   "title": "米大統領がドイツ極右政党を絶賛？国際政治の転機か",
+   "title_en": "US President Praises Germany's Far-Right AfD—What Does This Mean for the West?",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "米国の大統領がドイツの極右政党・AfD（ドイツのための選択肢）の選挙での成功を絶賛するコメントを発表。従来の西側民主主義的価値観からの外交姿勢の大きな転換として注目を集めており、ドイツ国内のみならず欧州全体での政治的波紋が広がっている。"
+  },
+  {
+   "slug": "2026-09-10-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-6.html",
+   "title": "削除命令後も掲載され続けた　メタの児童虐待広告問題、なぜ止められないのか",
+   "title_en": "Meta's AI-Generated Child Abuse Content Ads: Why Can't They Be Stopped Even After Government Orders?",
+   "category": "IT",
+   "published": "2026-09-10",
+   "summary": "米メタが運営するインスタグラムやフェイスブックで、過去10カ月間にAIで生成された児童性的虐待素材を使用した有料広告が数百件掲載されていたことが判明した。インド政府は既に削除命令を出していたが、現在でも掲載が続いているという。プラットフォームの監視体制の脆弱性が改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-10-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-5.html",
+   "title": "『ルフィ』指示役による狛江強盗致死事件、実行役に無期懲役が確定。広域強盗事件の全容は？",
+   "title_en": "Life Sentence Confirmed for Accomplice in Komae Robbery Murder: What We Know About the 'Luffy' Crime Syndicate",
+   "category": "国内",
+   "published": "2026-09-10",
+   "summary": "ネット上で『ルフィ』と名乗り、全国で広域強盗事件を指示していた犯人グループ。その実行役を務めた55歳の被告が、東京狛江市での高齢女性死亡事件で強盗致死罪に問われていた。最高裁が上告を退ける決定をし、無期懲役刑が確定することとなった。この事件は犯人グループの指示体制の悪質さが問題視されてきた。"
+  },
+  {
+   "slug": "2026-09-10-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-4.html",
+   "title": "なぜ今、土砂災害が危険なのか？地盤が緩んだ状態での大気不安定が最悪の組み合わせ",
+   "title_en": "Why Is Landslide Risk So High Right Now? The Dangerous Combination of Weakened Ground and Unstable Atmosphere",
+   "category": "国内",
+   "published": "2026-09-10",
+   "summary": "秋雨前線と低気圧の影響により、広範囲で大気が不安定化している。特に伊豆諸島では局地的な降雨が集中し、レベル4の土砂災害危険警報が発表されている地域もある。地盤が既に緩んだ状態での降雨のため、土砂災害のリスクが極めて高く、警戒の強化が急務となっている。"
+  },
+  {
+   "slug": "2026-09-10-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-3.html",
+   "title": "睡眠研究で日本人がラスカー賞受賞、なぜ眠りの謎を解くことが世界的に評価されるのか",
+   "title_en": "Japanese Sleep Researcher Wins Lasker Award—Why Understanding Sleep Science Matters to the World",
+   "category": "科学",
+   "published": "2026-09-10",
+   "summary": "睡眠研究の第一人者である柳沢氏らがラスカー賞を受賞した。ラスカー賞はノーベル賞の前哨戦とも呼ばれる権威ある国際賞で、生医学分野の重要な発見に与えられる。柳沢氏の研究は睡眠メカニズムの解明に大きく貢献し、医学界から高く評価されている。"
+  },
+  {
+   "slug": "2026-09-10-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-2.html",
+   "title": "丸亀製麺に公取委が勧告、何があった？利用者への影響は",
+   "title_en": "Marugame Udon Faces JFTC Advisory: What Happened and What's Next?",
+   "category": "経済",
+   "published": "2026-09-10",
+   "summary": "公正取引委員会が丸亀製麺の運営会社に対して勧告を出した。競争法に関連する何らかの不適切な事業慣行があったとみられる。うどんチェーン業界における取引慣行の改善が求められることになり、消費者や加盟店への影響が注目されている。"
+  },
+  {
+   "slug": "2026-09-10-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-1.html",
+   "title": "AIが100年解けなかった数学問題を解決、OpenAIが発表",
+   "title_en": "AI Solves Unsolved Math Problem: What OpenAI's Breakthrough Means",
+   "category": "IT",
+   "published": "2026-09-10",
+   "summary": "OpenAIが、数十年にわたって未解決だった数学の懸賞問題をAIで解決したことを発表した。この成果は、AI技術が純粋数学の領域でも実用的な貢献ができることを示す事例として注目を集めている。問題解決のプロセスや具体的な応用可能性について、業界内での関心が高まっている。"
+  },
+  {
+   "slug": "2026-09-10-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-0.html",
+   "title": "Appleが「折りたたみiPhone」をついに発表？Galaxy Zとの差別化戦略が明らかに",
+   "title_en": "Apple Finally Enters Foldable Smartphone Market with iPhone Duo—Can It Compete with Galaxy Z?",
+   "category": "IT",
+   "published": "2026-09-10",
+   "summary": "Appleが折りたたみ機構を備えた新型iPhone「iPhone Duo」を発表した。この製品はSamsungのGalaxy Zシリーズなど既存の折りたたみスマートフォンと競合する形となる。Appleの折りたたみ技術への参入は、スマートフォン市場に新たな競争軸をもたらす可能性がある。発表時期や具体的スペック、価格帯については注目が集まっている。"
+  },
   {
    "slug": "2026-09-09-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-42.html",
