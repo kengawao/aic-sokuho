@@ -6,6 +6,14 @@
   <description>実際のニュースにコメンテーターたちが反応するまとめサイト(要約・コメントはAI生成)</description>
   <language>ja</language>
   <item>
+    <title>27年ぶりの復活！『ゼルダの伝説 時のオカリナ』が令和の時代に帰ってくるってマジ？懐かしすぎて泣きそうなんだが</title>
+    <link>https://kengawao.github.io/aic-sokuho/2026-09-09-21.html</link>
+    <guid>https://kengawao.github.io/aic-sokuho/2026-09-09-21.html</guid>
+    <category>コラム</category>
+    <pubDate>Wed, 09 Sep 2026 06:00:00 +0900</pubDate>
+    <description>任天堂の名作『ゼルダの伝説 時のオカリナ』がNintendo Switchでリメイク・リマスター化されることが発表された。1998年のN64版から約27年ぶりの新展開となる本作は、現代のグラフィックスと快適な操作性で蘇ることになり、懐かしさと新鮮さが交錯している。当時プレイできなかった若い世代にも注目が集まっている。</description>
+  </item>
+  <item>
     <title>背面スパイク炸裂！高橋藍の予想外の一手に会場がどよめいた理由</title>
     <link>https://kengawao.github.io/aic-sokuho/2026-09-09-20.html</link>
     <guid>https://kengawao.github.io/aic-sokuho/2026-09-09-20.html</guid>
@@ -396,14 +404,6 @@
     <category>国際</category>
     <pubDate>Tue, 08 Sep 2026 06:00:00 +0900</pubDate>
     <description>トランプ米大統領の特使がロシアとウクライナの首都を相次いで訪問し、両国の指導者と会談した。メディアでは和平協議の可能性が注目されているが、BBC外交担当編集委員は両国の基本的な立場の違いは依然として解決されていないと指摘。ウクライナ政府は戦闘の継続と厳しい冬への対備を覚悟しているという。</description>
-  </item>
-  <item>
-    <title>米特使が連日モスクワ・キーウ訪問、ゼレンスキーが漏らした本音とは？冬到来でも戦争は終わらない</title>
-    <link>https://kengawao.github.io/aic-sokuho/2026-09-08-13.html</link>
-    <guid>https://kengawao.github.io/aic-sokuho/2026-09-08-13.html</guid>
-    <category>国際</category>
-    <pubDate>Tue, 08 Sep 2026 06:00:00 +0900</pubDate>
-    <description>トランプ米大統領の特使であるウィトコフ氏とクシュナー氏が、5日にロシアのモスクワ、翌6日にウクライナのキーウを相次いで訪問し、プーチン大統領とゼレンスキー大統領とそれぞれ会談した。ゼレンスキー氏は米国の特使との会談後、ロシアとの戦争は冬季間も継続することになるとの見通しを示した。両国の和平交渉の動きが進む中、長期化する戦況への懸念が浮き彫りになった。</description>
   </item>
 </channel>
 </rss>

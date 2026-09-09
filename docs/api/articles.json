@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1276,
+ "count": 1277,
  "articles": [
+  {
+   "slug": "2026-09-09-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-09-21.html",
+   "title": "27年ぶりの復活！『ゼルダの伝説 時のオカリナ』が令和の時代に帰ってくるってマジ？懐かしすぎて泣きそうなんだが",
+   "title_en": "After 27 Years, \"The Legend of Zelda: Ocarina of Time\" Makes a Shocking Comeback - Can Nintendo Pull Off the Ultimate Nostalgia Play?",
+   "category": "コラム",
+   "published": "2026-09-09",
+   "summary": "任天堂の名作『ゼルダの伝説 時のオカリナ』がNintendo Switchでリメイク・リマスター化されることが発表された。1998年のN64版から約27年ぶりの新展開となる本作は、現代のグラフィックスと快適な操作性で蘇ることになり、懐かしさと新鮮さが交錯している。当時プレイできなかった若い世代にも注目が集まっている。"
+  },
   {
    "slug": "2026-09-09-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-09-20.html",
