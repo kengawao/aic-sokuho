@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1319,
+ "count": 1340,
  "articles": [
+  {
+   "slug": "2026-09-10-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-41.html",
+   "title": "「グエー」と呼んだら寄付が集まった父親、感謝状をもらう→その理由が予想外すぎた",
+   "title_en": "Father Called 'Guee' by Child Receives Donations—Here's Why It Became Viral",
+   "category": "コラム",
+   "published": "2026-09-10",
+   "summary": "ある父親が子どもに「グエー」と呼ばれたことがきっかけで、予期せぬ寄付が集まったという心温まる話題。名前の読み間違いや愛称が思わぬ形で社会貢献につながり、当の父親が感謝の言葉を述べている。偶然と優しさが交差した珍しいエピソードとして注目を集めている。"
+  },
+  {
+   "slug": "2026-09-10-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-40.html",
+   "title": "世界遺産・高野山の宿坊で1億円超の申告漏れ　なぜ宗教法人の税務調査が入ったのか",
+   "title_en": "Why Did a UNESCO World Heritage Site Face a ¥100M+ Tax Audit? The Hidden Business Behind Koyasan Temple Lodgings",
+   "category": "国内",
+   "published": "2026-09-10",
+   "summary": "和歌山県の世界遺産・高野山で精進料理やめい想体験などを提供する宿坊を営む複数の宗教法人が、昨年度に大阪国税局から税務調査を受け、法人税や所得税などで1億円を超える申告漏れを指摘されていた。宗教法人は一般的に税制優遇を受けるが、事業収入に関しては課税対象となる。宿坊ビジネスの拡大に伴い、収入計上基準の解釈が問われる形となった。"
+  },
+  {
+   "slug": "2026-09-10-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-39.html",
+   "title": "白色なのに透明？京大が開発した「白色印刷」技術が産業用途で革命を起こす可能性",
+   "title_en": "White Yet Transparent? Kyoto University's Breakthrough in White Printing Technology Could Revolutionize Industry",
+   "category": "科学",
+   "published": "2026-09-10",
+   "summary": "京都大学の研究チームが、従来にない鮮やかで発色性に優れた白色印刷技術を開発したと発表した。この技術は、従来の白色顔料では実現が難しかった高度な色彩表現を可能にするもの。パッケージデザイン、医療用途、電子ディスプレイなど幅広い産業応用が期待されており、印刷・表示技術の今後の発展に大きな影響を与える可能性があるという。"
+  },
+  {
+   "slug": "2026-09-10-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-38.html",
+   "title": "あいち・三十三FG統合合意を解消へ　銀行経営統合はなぜ破談に？",
+   "title_en": "Why Did the Aichi-Juroku Bank Merger Collapse? A Setback in Japan's Regional Banking Consolidation",
+   "category": "経済",
+   "published": "2026-09-10",
+   "summary": "愛知県の地域金融機関であるあいち銀行と三十三銀行の経営統合計画が合意解消となった。両行は2023年に統合を発表していたが、経営環境や市場条件の変化により、統合による シナジー効果の見通しが変わったと考えられる。地域銀行の再編が進む中での統合破談は、金融業界に波紋を広げそうだ。"
+  },
+  {
+   "slug": "2026-09-10-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-37.html",
+   "title": "老朽化した国家公務員宿舎がまさかの大変身？リノベ後の姿に驚きの声",
+   "title_en": "How Japan's Aging Civil Service Housing Transformed Into Modern Living Spaces",
+   "category": "国内",
+   "published": "2026-09-10",
+   "summary": "国家公務員宿舎の老朽化施設がリノベーションプロジェクトの対象となり、初めて一般に公開された。従来の官舎のイメージを一新した現代的な設計と機能性が注目されている。このプロジェクトは、財務効率化と職員の生活環境改善を両立させる取り組みとして位置づけられており、今後の公的施設の再利用モデルとなる可能性を秘めている。"
+  },
+  {
+   "slug": "2026-09-10-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-36.html",
+   "title": "銭湯の廃業止まらず、救世主はサウナ？ 昭和の風情を守る意外な戦略",
+   "title_en": "As Public Baths Decline, Saunas Emerge as Unexpected Lifeline",
+   "category": "経済",
+   "published": "2026-09-10",
+   "summary": "全国で急速に減少する銭湯業界が、新たな活路としてサウナ施設に注目している。かつて数千軒あった銭湯も現在は大幅に減少。設備投資や人件費の負担で経営難に陥る施設が多い中、サウナという新しい顧客層を取り込む戦略が広がりつつある。伝統的な銭湯文化をどう継承するかが課題となっている。"
+  },
+  {
+   "slug": "2026-09-10-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-35.html",
+   "title": "トランプ氏「イラン終結は選挙後」発言の意図は？米国の中東戦略が揺らぐ",
+   "title_en": "Trump Claims Iran Crisis Will End After Election—What's His Real Strategy?",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "米国の大統領がイラン関連の問題解決は大統領選後になると主張した。この発言は、現在の国際紛争がいつまで続くのか、また米国の対中東外交がどの方向に向かうのかについて、各国から注視を集めている。選挙日程と外交判断の関係性が議論を呼んでいる。"
+  },
+  {
+   "slug": "2026-09-10-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-34.html",
+   "title": "ガソリンスタンドにも波及？ブレント原油が100ドル超に跳ね上がった理由",
+   "title_en": "Will Your Gas Prices Surge? Brent Crude Oil Jumps Above $100 Amid Middle East Tensions",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "中東における相次ぐ石油関連施設への攻撃により、国際的な原油価格の指標であるブレント原油が1バレル＝100ドルを超えた。米国とイランのタンカー攻撃、さらにイエメンの親イラン武装勢力フーシ派によるサウジアラビアの石油施設への攻撃が続く中での急騰で、7月下旬以来の高値水準となっている。地政学的リスクの高まりが世界的なエネルギー価格に直結する形となった。"
+  },
+  {
+   "slug": "2026-09-10-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-33.html",
+   "title": "北朝鮮が新型ウラン濃縮施設を建設　IAEAが警告、核兵器開発はどこまで進んでいるのか",
+   "title_en": "North Korea Builds New 2-Story Uranium Enrichment Facility: How Far Has Nuclear Development Gone?",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "国際原子力機関（IAEA）のグロッシ事務局長が、北朝鮮による2階建てのウラン濃縮施設の新規建設を明らかにした。IAEAは「深刻な懸念」を表明している。この施設の建設は、北朝鮮の核兵器開発計画がさらに進展している可能性を示唆しており、国際社会に緊張が走っている。"
+  },
+  {
+   "slug": "2026-09-10-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-32.html",
+   "title": "トランプ氏、イラン戦争は11月中間選挙まで終わらないと明言…原油価格への影響は?",
+   "title_en": "Trump Declares Iran War Won't End Until November Midterms—What About Oil Prices?",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "トランプ前大統領は、米国とイランの戦争は11月の米国中間選挙が終わるまで終結しないと述べた。テキサス州の共和党大会でこの見方を改めて強調し、それまでは原油価格も下落しないとの見通しも示している。選挙日程と外交・軍事政策の関連性についての発言として注目される。"
+  },
+  {
+   "slug": "2026-09-10-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-31.html",
+   "title": "フィリピンフェリー火災、92人が消息不明に　乗客乗員の安否確認急ぐ",
+   "title_en": "Philippine Ferry Fire Claims 5 Lives, 87 Still Missing",
+   "category": "国際",
+   "published": "2026-09-10",
+   "summary": "フィリピンで発生したフェリーの火災事故により、5人の死亡が確認されたほか、87人が行方不明となっている。事故の詳細な原因はまだ明らかになっていないが、海上での大規模火災として当局が懸命な捜索・救助活動を進めている。事故船舶の乗客数や正確な事故発生時刻など、詳細情報の把握が課題となっている。"
+  },
+  {
+   "slug": "2026-09-10-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-30.html",
+   "title": "初代ニンテンドーからSwitch2へ、任天堂が仕掛ける戦略とは？ニンダイの注目ポイント",
+   "title_en": "From the Original Nintendo Switch to Switch 2: What's Nintendo's Strategy? Key Takeaways from the Nintendo Direct",
+   "category": "エンタメ",
+   "published": "2026-09-10",
+   "summary": "任天堂が次世代機Switch2への移行を視野に入れた施策を進めている。初代Switchから現在までのゲームラインナップやユーザー層の拡大戦略を振り返りながら、ニンテンドーダイレクトで発表される新タイトルがどのように両世代を繋ぐかが注目されている。"
+  },
+  {
+   "slug": "2026-09-10-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-29.html",
+   "title": "気象庁も予想外？千葉豪雨がここまで凄かった理由",
+   "title_en": "Japan's Weather Agency Caught Off Guard by Chiba's Unexpected Downpour",
+   "category": "科学",
+   "published": "2026-09-10",
+   "summary": "千葉県を襲った豪雨について、気象庁の担当者も驚くほどの激しさだったことが明らかになった。通常の予測モデルでは捉えきれない気象現象が発生していたとみられ、今後の予報精度向上に向けた検討が進められている。気候変動の影響で極端気象の予測難度が高まっていることが浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-10-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-28.html",
+   "title": "「心中」という言葉が消える？国の専門委が用語変更を検討、その理由とは",
+   "title_en": "Is the Word 'Shinju' Disappearing? Japan's Expert Panel Considers Changing Suicide-Related Terminology",
+   "category": "国内",
+   "published": "2026-09-10",
+   "summary": "国の専門委員会が、自殺に関連する従来の用語「心中」の使用を改めることを検討している。メディアや公的機関での表現方法の見直しを通じて、自殺報道がもたらす社会への影響を最小限にしようとする取り組み。言葉の選択が世論や行動に与える影響について、改めて問い直す機会となっている。"
+  },
+  {
+   "slug": "2026-09-10-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-27.html",
+   "title": "NEC「全員AI部署」始動へ 人間の仕事は本当になくなるのか?",
+   "title_en": "NEC Launches 'AI-Only Department' — Is the End of Human Work Near?",
+   "category": "IT",
+   "published": "2026-09-10",
+   "summary": "NECが人間の従業員を配置せず、AIのみで運営する部署の設立を計画していることが報道された。業務効率化と人員配置の最適化を目指す戦略だが、これが成功すれば企業内の組織体制に大きな変化をもたらす可能性がある。今後の実装方法と課題が注目されている。"
+  },
+  {
+   "slug": "2026-09-10-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-26.html",
+   "title": "口蹄疫が空港検疫で検出、国内侵入の危機は回避できるのか",
+   "title_en": "Foot-and-Mouth Disease Detected at Airport Quarantine: Can Japan Prevent Domestic Outbreak?",
+   "category": "国内",
+   "published": "2026-09-10",
+   "summary": "感染性を持つ口蹄疫ウイルスが空港の検疫段階で確認されました。畜産業に甚大な被害をもたらす可能性のある家畜感染症が、国内への侵入を防ぐ検疫体制によって阻止されたもの。今後の水際対策強化の重要性が改めて示されています。"
+  },
+  {
+   "slug": "2026-09-10-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-25.html",
+   "title": "中部電力が12億円過大徴収、あなたの電気代も返ってくる？",
+   "title_en": "Chubu Electric to Refund ¥1.2 Billion: Did Your Power Bill Get Overcharged?",
+   "category": "経済",
+   "published": "2026-09-10",
+   "summary": "中部電力が電気料金を過大に徴収していたことが判明し、12億円の返還を実施することになりました。この過大徴収は複数年にわたって発生していたとみられ、該当する利用者への返金手続きが進められる予定です。電力会社の料金算定体制における不備が改めて焦点となっています。"
+  },
+  {
+   "slug": "2026-09-10-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-24.html",
+   "title": "8月の世界平均気温が観測史上最高を更新　このままだとどうなる？",
+   "title_en": "August Marks Hottest Month Ever Recorded Globally—What Happens Next?",
+   "category": "科学",
+   "published": "2026-09-10",
+   "summary": "世界気象機関などの観測データによると、8月の世界平均気温が過去最高を記録したことが明らかになりました。地球規模での気温上昇が加速している実態が改めて浮き彫りになり、気候変動への対策強化の必要性が指摘されています。専門家からは地球温暖化の影響が深刻化する可能性への懸念の声が上がっています。"
+  },
+  {
+   "slug": "2026-09-10-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-23.html",
+   "title": "大谷がIL入り、ロバーツ監督が正式発表。今シーズンの戦力に大きな影響か",
+   "title_en": "Shohei Ohtani Heading to IL as Roberts Confirms. What's Next for the Dodgers?",
+   "category": "スポーツ",
+   "published": "2026-09-10",
+   "summary": "ドジャースの大谷翔平選手がIL（故障者リスト）に入ることが、ロバーツ監督から正式に明言された。具体的な怪我の内容や復帰時期については報道により異なるが、チームの戦力構成に影響を与えることは確実。ファンの間では復帰を望む声と今後の見通しについて関心が高まっている。"
+  },
+  {
+   "slug": "2026-09-10-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-22.html",
+   "title": "野球界のレジェンド・張本勲さん逝く。現役時代の記録はいまも破られず",
+   "title_en": "Isao Harimoto, Baseball Legend, Dies; His Record Still Stands Unbroken",
+   "category": "スポーツ",
+   "published": "2026-09-10",
+   "summary": "日本球界を代表する打者として活躍した張本勲さんが亡くなりました。通算3085安打という日本野球史上最多記録を樹立し、巨人などで活躍した張本さんの訃報に対し、野球関係者から追悼の声が相次いでいます。長年にわたる野球への貢献が高く評価されています。"
+  },
+  {
+   "slug": "2026-09-10-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-10-21.html",
+   "title": "3085本の安打記録は今も破られず。野球界の象徴「張本勲」86歳で逝去",
+   "title_en": "Isao Harimoto, Baseball Legend With Unbreakable 3,085-Hit Record, Passes Away at 86",
+   "category": "スポーツ",
+   "published": "2026-09-10",
+   "summary": "プロ野球の歴史に名を刻んだ張本勲さんが9月9日に亡くなられました。86歳。選手時代は3085本という最多安打記録を樹立し、「安打製造機」として野球ファンから愛されました。引退後はテレビの野球解説者として活躍し、選手の活躍に「喝！」と評価するコメントが印象的でした。名球会が発表しました。"
+  },
   {
    "slug": "2026-09-10-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-20.html",
