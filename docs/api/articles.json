@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1340,
+ "count": 1361,
  "articles": [
+  {
+   "slug": "2026-09-11-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-20.html",
+   "title": "きゃりーぱみゅぱみゅ初始球式は68点…評価された理由と「あと32点はどこに？」の声",
+   "title_en": "Kyary Pamyu Pamyu Gets 68 Points for First Ceremonial Pitch—But Where Are the Other 32?",
+   "category": "コラム",
+   "published": "2026-09-11",
+   "summary": "アイドル兼タレントのきゃりーぱみゅぱみゅが初めて始球式を務め、その投球が「68点」と評価された。ネット上では投球フォームや精度への言及が相次ぎ、芸能人の始球式クオリティについて改めて注目が集まっている。完璧さを求めすぎるファンと、チャレンジを応援する層で意見が分かれている。"
+  },
+  {
+   "slug": "2026-09-11-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-19.html",
+   "title": "政党交付金が届かない？中道系政党の資金問題、何が起きている",
+   "title_en": "Where's the Money? Japan's Mid-Tier Parties Face Funding Crisis",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "政治資金制度における政党交付金の配分に関わる問題が浮上している。中道系政党が期待していた交付金が支給されていないか、支給が遅延している状況が報じられている。政党の活動資金確保と国庫からの公金配分の透明性・公平性の問題として、制度設計と運用の課題が改めて焦点となっている。"
+  },
+  {
+   "slug": "2026-09-11-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-18.html",
+   "title": "68歳運転手の認知機能、さらに3ヶ月詳査へ　バス事故の責任能力が争点に",
+   "title_en": "High Court to Extend Psychiatric Evaluation for 68-Year-Old Bus Driver in Fatal Incident",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "5月に福島県の磐越自動車道で高校生ら9人が死傷したバス事故で、運転していた68歳容疑者について検察が鑑定留置を3ヶ月延長することを決めた。認知機能や身体機能が運転にどう影響したかをさらに詳しく調べる必要があると判断。責任能力の有無が刑事責任の大きな焦点となる見通し。"
+  },
+  {
+   "slug": "2026-09-11-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-17.html",
+   "title": "わずか数ヶ月で運行停止、3月導入のEVバスは何が起きたのか",
+   "title_en": "What Went Wrong? Electric Bus Launched in March Already Halted",
+   "category": "経済",
+   "published": "2026-09-11",
+   "summary": "3月に導入された電動バスが早くも運行停止に追い込まれている。導入直後の不具合や予想外のトラブルが原因とみられ、EV普及を掲げる自治体の施策に早速課題が浮き彫りになった形。バッテリー性能やインフラ整備の不備など、実装段階での検証不足が指摘される。"
+  },
+  {
+   "slug": "2026-09-11-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-16.html",
+   "title": "日中半導体戦争、日本企業はどこまで巻き込まれる？供給網の危機が現実に",
+   "title_en": "Japan's Semiconductor Companies Face Heat in China-US Rivalry—How Far Will the Fallout Reach?",
+   "category": "経済",
+   "published": "2026-09-11",
+   "summary": "日中間の半導体を巡る対立が激化する中、日本の関連企業への影響が懸念されている。中国への輸出規制強化や報復措置により、精密機械メーカーや材料・装置サプライヤーなどが事業判断を迫られている状況。台湾有事のリスクも絡み、グローバルサプライチェーンの再編を余儀なくされ、企業の経営戦略に大きな変化をもたらそうとしている。"
+  },
+  {
+   "slug": "2026-09-11-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-15.html",
+   "title": "ニデック創業者らに株主代表訴訟、何が問題なのか？",
+   "title_en": "Nidec Founders Face Shareholder Derivative Lawsuit: What's at Stake?",
+   "category": "経済",
+   "published": "2026-09-11",
+   "summary": "光学機器大手のニデックの創業者らが株主から代表訴訟を起こされた。訴訟の具体的な内容は、経営上の判断や資産運用に関する問題とみられている。上場企業の創業者層が株主の信任を失う事態は、企業ガバナンスの在り方を問う事例として注目される。"
+  },
+  {
+   "slug": "2026-09-11-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-14.html",
+   "title": "ワリエワの中立選手資格が取り消し――ドーピング問題から1年半、彼女に何が起きたのか",
+   "title_en": "Valieva Stripped of Neutral Status: What Happened to the Figure Skater One Year After the Doping Scandal?",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "ロシアのフィギュアスケート選手エフゲニア・ワリエワが、国際競技連盟から中立選手（ROC）としての資格を取り消されたことが報じられた。2022年の北京冬季五輪でのドーピング疑惑に続く処分で、今後の国際大会出場に影響が出る可能性がある。ワリエワは当時16歳で、処分が議論を呼んでいた。"
+  },
+  {
+   "slug": "2026-09-11-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-13.html",
+   "title": "英野党リフォームUK、外国献金疑惑で警察捜査へ　潜入取材が引き金に",
+   "title_en": "UK Opposition Party Reform UK Under Police Investigation Over Foreign Donations",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "英国の野党リフォームUKが外国からの政治献金に関する疑惑で警察の刑事捜査対象となった。英公共放送チャンネル4の潜入取材映像をきっかけに、ロンドン警視庁が政治献金規制法違反の可能性があると判断。同党は不正を否定し、捜査への全面協力を表明している。"
+  },
+  {
+   "slug": "2026-09-11-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-12.html",
+   "title": "イスラエル激怒も、なぜアメリカは沈黙？ イギリスの入植地制裁が浮き彫りにする米国の微妙な立場",
+   "title_en": "Why is America Silent? Britain's Settlement Sanctions Expose a Subtle Shift in US-Israel Relations",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "イギリスがパレスチナ・ヨルダン川西岸のイスラエル入植地への制裁を発表し、イスラエルは強く反発した。一方、伝統的にイスラエルの強い支持国とみなされてきたアメリカが目立った動きを見せていない。この沈黙が、米国内のイスラエル政策に対する見方が変わりつつあることを示唆している可能性がある。"
+  },
+  {
+   "slug": "2026-09-11-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-11.html",
+   "title": "9.11から25年、あの日がアメリカと世界をどう変えたのか？",
+   "title_en": "25 Years Since 9/11: How Did That Day Change America and the World?",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "2001年9月11日の米同時多発テロから四半世紀が経過しました。ニューヨークやワシントンなど事件の現場では追悼式典が行われ、犠牲者を偲びます。この事件は米国の対外政策や国内社会に大きな影響を与えた歴史的転換点となり、今なお政治・社会への影響を検証する動きが続いています。"
+  },
+  {
+   "slug": "2026-09-11-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-10.html",
+   "title": "ウクライナ・モルドヴァ国境の検問所がロシアドローン攻撃で2人殺害、NATO隣国への影響は",
+   "title_en": "Russian Drone Strike on Ukraine-Moldova Border Kills 2: What's at Stake for NATO's Vulnerable Neighbor?",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "ゼレンスキー大統領は、ウクライナとモルドヴァを結ぶ国境検問所がロシアのドローン攻撃を受け、2人が殺害されたと発表した。モルドヴァはロシアに隣接する小国で、EUへの加盟志向を示しており、同国領土への攻撃は地域の緊張をさらに高める可能性がある。"
+  },
+  {
+   "slug": "2026-09-11-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-9.html",
+   "title": "涙から勝利へ。平本蓮が判定で復活、絶叫の瞬間は何が起きたのか",
+   "title_en": "From Tears to Victory: Hiramoto Ren's Triumphant Comeback with Unanimous Decision Win",
+   "category": "スポーツ",
+   "published": "2026-09-11",
+   "summary": "格闘技選手の平本蓮が試合で復活を遂行し、判定勝ちを収めた。涙を流しながら絶叫する姿が印象的となった本試合は、長期の低迷や怪我からの完全復帰を象徴する重要な一戦となり、ファンの間でも話題となっている。"
+  },
+  {
+   "slug": "2026-09-11-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-8.html",
+   "title": "消費税減税、来週決定へ 高市首相が人事刷新と同時実行？その狙いは",
+   "title_en": "Food Consumption Tax Cut Planned for Next Week: Is Prime Minister Takaichi Synchronizing Personnel Reshuffle?",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "自民党執行部が食料品の消費税減税制度設計を盛り込んだ大綱案を了承し、来週の決定を目指している。実現すれば16日に党役員人事、17日に内閣改造を行う日程で進める見通し。減税と人事刷新を同時に進めることで政権浮揚を図る戦略とみられる。"
+  },
+  {
+   "slug": "2026-09-11-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-7.html",
+   "title": "滝沢秀明のTOBEが紺綬褒章受章、芸能界での社会貢献が認められた意味は？",
+   "title_en": "Why Did Hideaki Takizawa's TOBE Receive Japan's紺綬褒章? What It Means for the Entertainment Industry",
+   "category": "エンタメ",
+   "published": "2026-09-11",
+   "summary": "滝沢秀明が社長を務めるエンタテインメント企業TOBEが紺綬褒章を受章した。紺綬褒章は社会に対して顕著な貢献をした団体に授与される栄誉ある褒章で、芸能・エンタメ業界での文化振興や社会への還元が評価されたものとみられる。タレント育成から文化事業まで、TOBEの多角的な活動が公式に認定された形となった。"
+  },
+  {
+   "slug": "2026-09-11-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-6.html",
+   "title": "トランプ氏が有権者に現金77万円？政党勝利時の支給計画の狙いとは",
+   "title_en": "Trump Pledges $5,000+ Cash Payments If Party Wins Election—Is This the Future of Politics?",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "米国の政治家トランプ氏が、自身の政党が選挙で勝利した場合、支持者に対して77万円程度の現金を支給する計画を発表した。この政策提案は、有権者の獲得を目指した戦略とみられ、米国の政治キャンペーンにおける異例の取り組みとして注目を集めている。実現可能性や財源確保の詳細については、今後の展開が注視される。"
+  },
+  {
+   "slug": "2026-09-11-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-5.html",
+   "title": "張本さん、1カ月前は元気だったのに...突然の訃報に驚き広がる",
+   "title_en": "Zhang본 Passes Away—Was Still Healthy Just One Month Before",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "卓球の元選手で解説者として活躍していた張本さんが亡くなった。関係者によると、わずか1カ月前には元気な姿が目撃されており、その急な逝去に周囲も予期していなかったという。長年スポーツ界の第一線で活躍してきた人物の突然の別れに、ファンや関係者から悲しみの声が上がっている。"
+  },
+  {
+   "slug": "2026-09-11-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-4.html",
+   "title": "紀子さま還暦60歳に達成 文章での感想発表に見える皇族の「新しい情報発信」とは",
+   "title_en": "Princess Kiko Reaches 60: How the Imperial Family Is Modernizing Public Communication",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "秋篠宮妃紀子さまが還暦の60歳を迎えられました。宮内庁を通じて文章形式で感想が発表されたもので、この節目の年齢に対する思いや人生経験の振り返りが綴られています。皇族メンバーが重要な誕生日を迎える際の公式な情報発信の方法として注目が集まっています。"
+  },
+  {
+   "slug": "2026-09-11-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-3.html",
+   "title": "鳥貴族、ついに均一価格を破棄…410円に値上げする理由とは",
+   "title_en": "Torikizoku Abandons Uniform Pricing: What Does 410 Yen Tell Us About Japan's Inflation?",
+   "category": "経済",
+   "published": "2026-09-11",
+   "summary": "居酒屋チェーン・鳥貴族が、長年維持してきた均一価格制を廃止し、新たに410円の統一価格へ移行することを発表した。原材料費の上昇や人件費増加への対応が背景にあるとみられる。同社の経営戦略の大きな転換となる。"
+  },
+  {
+   "slug": "2026-09-11-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-2.html",
+   "title": "学校給食のチキンナゲットでアレルギー反応、なぜ検出されなかった？",
+   "title_en": "School Lunch Chicken Nuggets Trigger Allergic Reaction: How Did Allergens Go Undetected?",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "学校給食で提供されたチキンナゲットが原因でアレルギー症状を起こした生徒がいたことが報じられた。給食には表示義務のあるアレルゲン物質が含まれていたとみられ、食材管理と事前確認の体制に課題が指摘されている。学校側の対応と今後の安全策が焦点となっている。"
+  },
+  {
+   "slug": "2026-09-11-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-1.html",
+   "title": "環境危機時計が昨年より6分進む…世界の終わりまであと何分？",
+   "title_en": "Environmental Crisis Clock Moves Forward 6 Minutes—How Much Time Do We Have Left?",
+   "category": "科学",
+   "published": "2026-09-11",
+   "summary": "国際的な科学者グループが発表する「環境危機時計」が昨年より6分進み、地球の危機的状況がさらに深刻化していることが明らかになりました。この時計は気候変動や生態系破壊などの指標をもとに、人類が直面する環境問題のリスク度を視覚的に示しており、今回の進展は複数の環境指標が同時に悪化していることを示唆しています。"
+  },
+  {
+   "slug": "2026-09-11-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-0.html",
+   "title": "AI企業が衝撃警告「10年以内に人類滅亡の確率10％以上」―その根拠は?",
+   "title_en": "AI Company's Shocking Warning: 10%+ Risk of Human Extinction Within a Decade",
+   "category": "科学",
+   "published": "2026-09-11",
+   "summary": "AI開発大手アンソロピックの安全研究トップが、AIの進化速度が予想を上回っており、今後10年以内に人工知能が人類を滅亡させるリスクが10％以上存在する可能性を指摘した。技術の急速な発展に対し、安全対策が追いついていない現状への危機感を表明している。"
+  },
   {
    "slug": "2026-09-10-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-10-41.html",
