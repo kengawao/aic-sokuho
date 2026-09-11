@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1383,
+ "count": 1404,
  "articles": [
+  {
+   "slug": "2026-09-12-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-20.html",
+   "title": "ナイトスクープついに秘書交代？瀧口アナが新しく就任、あの大物司会者の相棒は誰になる",
+   "title_en": "Night Scoop Gets a New Secretary: Takiguchi Announcer Takes the Helm",
+   "category": "コラム",
+   "published": "2026-09-12",
+   "summary": "関西テレビの人気番組「探偵！ナイトスクープ」に新しい秘書として瀧口アナが就任することが発表された。長年番組を支えてきた秘書の交代は、ファンにとって大きなニュース。新体制で番組がどう変わっていくのか、視聴者からの期待と驚きの声が上がっている。"
+  },
+  {
+   "slug": "2026-09-12-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-19.html",
+   "title": "ダウ90000が決勝進出、8人組の快挙とは？KOCで何が起きたのか",
+   "title_en": "Down 90000 Advances to KOC Finals: An Eight-Member Group's Historic Achievement—What Does It Mean?",
+   "category": "エンタメ",
+   "published": "2026-09-12",
+   "summary": "ダウ90000という8人組が、KOC（キングオブコント）の決勝戦に進出した。複数のメンバーで構成されたユニットの決勝進出は異例であり、漫才や競争の激しいコント業界における新たな可能性を示すものとなっている。従来型の少人数制ユニットの枠を超えた表現形式が審査員らに評価された形だ。"
+  },
+  {
+   "slug": "2026-09-12-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-18.html",
+   "title": "爆発事故から一転、イオンモール熊本が全テナントに契約解除打診──7人死亡の大規模事故がもたらす連鎖倒産リスク",
+   "title_en": "Aeon Mall Kumamoto Offers Contract Termination to All Tenants Following Deadly Explosion – Cascade of Business Closures Looms",
+   "category": "経済",
+   "published": "2026-09-12",
+   "summary": "熊本県嘉島町のイオンモール熊本で発生した爆発事故により7人が死亡し、施設が休業を続ける中、イオン側がすべてのテナント企業に対して一時的な契約解除を打診していることが判明しました。事故からの復旧見通しが立たないなか、数百のテナント事業者が営業停止による経営危機に直面する可能性があり、商業施設の危機管理体制が問われる事態となっています。"
+  },
+  {
+   "slug": "2026-09-12-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-17.html",
+   "title": "AirPods 5でANC標準装備へ、廉価モデルの終わり？",
+   "title_en": "AirPods 5 Brings ANC to All Models—The End of Budget-Tier Compromises?",
+   "category": "IT",
+   "published": "2026-09-12",
+   "summary": "Appleの最新イヤホン『AirPods 5』がノイズキャンセリング機能を標準搭載することが明らかになった。これまでANCは上位モデル限定だったが、今回から全グレードに統一される見通し。ワイヤレスイヤホン市場で高機能の民主化が進む一方、価格帯の差別化戦略に変化が生じる可能性がある。"
+  },
+  {
+   "slug": "2026-09-12-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-16.html",
+   "title": "SB前田悠伍、開幕12連勝の快進撃 この速度で球界記録に到達するか",
+   "title_en": "SB's Maeda Yusuke Extends to 12 Straight Wins: Could This Pace Break a Baseball Record?",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "ソフトバンクホークスの前田悠伍投手が開幕からシーズン序盤で12連勝を達成。安定した投球と球団打線の支援により、無傷での連勝記録を伸ばし続けている。このペースが続けば、球界の個人連勝記録に迫る可能性も出てきた。投手としての実力と運の両面が評価されている。"
+  },
+  {
+   "slug": "2026-09-12-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-15.html",
+   "title": "飲食店の悪質クレーム対応を保険でカバー？業界初の試み、実際のところどうなの",
+   "title_en": "Does Japan Need Insurance for Rude Customer Incidents? The Industry's First Groundbreaking Attempt",
+   "category": "経済",
+   "published": "2026-09-12",
+   "summary": "飲食業界で社会問題化している迷惑客への対応費用を補償する保険商品が登場した。暴言やセクハラ、不当な要求への対応にかかる人件費や慰謝料などを保障する仕組みで、店舗運営者の負担軽減と従業員保護が狙い。業界全体でのカスタマーハラスメント対策が急務となる中、保険という新たなソリューションが注目されている。"
+  },
+  {
+   "slug": "2026-09-12-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-14.html",
+   "title": "天安門追悼集会の主催者に最大7年以上の刑判決…かつて『最後の自由都市』だった香港で何が起きているのか",
+   "title_en": "Hong Kong's Last Pro-Democracy Haven? Court Sentences Tiananmen Memorial Organizers to 7+ Years",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "香港の裁判所が天安門事件の追悼集会を主催してきた活動家3人に対し、5年2カ月から7年3カ月の懲役判決を言い渡した。国家安全維持法違反が理由。かつて香港は中国領土内で数少ない、民主化運動の弾圧被害者を自由に追悼できる場所だったが、この判決はその状況が大きく変わったことを象徴している。"
+  },
+  {
+   "slug": "2026-09-12-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-13.html",
+   "title": "スイスで観光バス横転、5人死亡40人負傷 なぜ観光地で事故は起きるのか",
+   "title_en": "Bus Accident in Switzerland Kills 5, Injures 40: Why Do Tourist Routes Pose Risks?",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "スイス東部でオランダ人観光客を乗せたバスが横転し、5人が死亡、40人がけがをしました。事故原因は現在調査中。ヨーロッパではバスツアーが人気で、多くの観光客が利用していますが、急カーブの多い山岳地帯での安全管理が課題となっています。"
+  },
+  {
+   "slug": "2026-09-12-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-12.html",
+   "title": "原油価格が急騰、その背景にフーシ派の海峡掌握？世界経済への影響は",
+   "title_en": "Oil Prices Surge as Houthi Forces Tighten Control of Crucial Strait",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "イエメンの反政府勢力フーシ派が重要な海上輸送路である海峡周辺を掌握したことで、原油価格が急速に上昇している。同海峡は世界的なエネルギー供給ルートとして機能しており、この地政学的緊張がエネルギー市場に直結する形となっている。国際社会での対応が急務となっている。"
+  },
+  {
+   "slug": "2026-09-12-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-11.html",
+   "title": "日本人ビザ料金が7.5倍に急騰、中国が値上げ実施で何が起きる？",
+   "title_en": "China Hikes Japanese Visa Fees by 7.5x: What's Really Going On?",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "中国が日本人向けビザの料金を大幅に引き上げることを決定しました。具体的な引き上げ幅は約7.5倍に達し、これは中国とのビザ手数料に関する相互関係の変化を反映しているとみられます。日本への出張や赴任を予定していた日本人ビジネスパーソンや旅行者への影響が懸念されており、日中関係の現状を象徴する動きとして注目されています。"
+  },
+  {
+   "slug": "2026-09-12-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-10.html",
+   "title": "北朝鮮が日本海へ飛翔体発射、今年何度目？",
+   "title_en": "North Korea Fires Projectile into Sea of Japan - How Many Times This Year?",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "北朝鮮が日本海方面に向けて飛翔体を発射したと報じられた。この発射は朝鮮半島の軍事的緊張をめぐる一連の動きの一部であり、国際社会の懸念が高まっている。日本や米国などはこうした行動に対し、強い関心を寄せており、今後の動向が注視されている。"
+  },
+  {
+   "slug": "2026-09-12-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-9.html",
+   "title": "逮捕された少年4人が口止め？相模原の高校生暴行死事件、隠蔽工作の疑い浮上",
+   "title_en": "Arrested Teens Allegedly Tried to Silence Witness in Sagamihara Assault Death Case",
+   "category": "国内",
+   "published": "2026-09-12",
+   "summary": "相模原市で先月発生した17歳男子高校生の暴行死事件で、傷害容疑で逮捕された少年4人が、現場にいた中学生に対して警察への通報を禁止する口止めを行っていたことが判明した。事件を隠蔽しようとした可能性が指摘されており、捜査機関は組織的な隠蔽行為の有無を含めて調べを進めている。"
+  },
+  {
+   "slug": "2026-09-12-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-8.html",
+   "title": "中部電力トップ、14日に進退決断へ 浜岡原発データ改ざん問題で外部調査報告書が提出",
+   "title_en": "Chubu Electric Power Executives Face Reckoning Over Fukushima Data Falsification Scandal",
+   "category": "経済",
+   "published": "2026-09-12",
+   "summary": "中部電力が浜岡原子力発電所3号機と4号機の審査でデータ改ざんしていた問題について、外部の専門家による調査報告書が提出された。同社は9月14日に記者会見を開き、この問題の結果を受けた経営陣の進退判断を発表する見通し。原発をめぐる内部統治体制の問題が焦点となっている。"
+  },
+  {
+   "slug": "2026-09-12-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-7.html",
+   "title": "横綱豊昇龍が秋場所休場へ　大関昇進から間もなく、なぜ苦渋の決断？",
+   "title_en": "Yokozuna Toyoshoryu Out for Fall Tournament: What's Behind This Tough Decision?",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "横綱豊昇龍が秋場所の休場を発表した。大関から横綱へ昇進したばかりのタイミングでの休場は、相撲界全体に大きな影響を与えることになる。怪我や体調不良の詳細な理由は明かされていないが、関係者からは悔しさとともに、焦らず回復を優先すべきという声が上がっている。"
+  },
+  {
+   "slug": "2026-09-12-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-6.html",
+   "title": "なぜ侍U18は韓国に逆転負けしたのか？宿敵との一戦から見える課題",
+   "title_en": "Why Did Japan's U18 Squad Collapse Against Korea? Troubling Signs Emerge",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "侍ジャパンのU18代表が国際大会で宿敵の韓国代表と対戦し、試合中盤まで優位に進めていたにもかかわらず、後半の失速により逆転負けを喫した。若年代の重要な国際試合での痛恨の敗北となり、チーム内での戦術面・メンタル面での課題が浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-09-12-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-5.html",
+   "title": "くら寿司が苦戦、大手3社で明暗分かれる理由は？",
+   "title_en": "Why is Kura Sushi Struggling While Competitors Thrive?",
+   "category": "経済",
+   "published": "2026-09-12",
+   "summary": "回転寿司チェーンの大手3社における業績格差が鮮明になっている。くら寿司が客足の減少や収益性の低下に直面する一方で、他の大手チェーンは好調を維持しており、メニュー戦略や価格設定、店舗運営の効率化など複数の要因で差がついている模様。業界全体の競争激化の中で、各社の経営判断が問われる状況となっている。"
+  },
+  {
+   "slug": "2026-09-12-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-4.html",
+   "title": "Claudeが兵器開発に使われる危険性、Anthropicはどう対策したのか",
+   "title_en": "How Anthropic Is Preventing Claude from Being Used to Develop Weapons",
+   "category": "IT",
+   "published": "2026-09-12",
+   "summary": "AI企業のAnthropicが開発する大規模言語モデル「Claude」が兵器開発に悪用される可能性に対し、具体的な防止策を講じたと報じられています。AIの安全性と悪用防止は業界全体の重要な課題となっており、同社の対応が注視されています。"
+  },
+  {
+   "slug": "2026-09-12-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-3.html",
+   "title": "なぜ北朝鮮へ？在日韓国人が語る『地獄』の真実",
+   "title_en": "Why Did They Go North? The Untold Story of Korean-Japanese Who Faced 'Hell'",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "北朝鮮へ渡った在日韓国人の経験を追った記事。戦後の政治状況や家族の事情から北へ渡った人々が、その後どのような状況に直面したのかを証言。異なる二つの国家体制の間で翻弄されてきた在日コミュニティの複雑な歴史背景が浮き彫りになる。"
+  },
+  {
+   "slug": "2026-09-12-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-2.html",
+   "title": "繁盛店だったケーキ屋が炎上、女性オーナーが犠牲に。火災の原因は何だったのか",
+   "title_en": "Popular Cake Shop Engulfed in Flames: Female Owner Killed in Fire - What Caused the Disaster?",
+   "category": "国内",
+   "published": "2026-09-12",
+   "summary": "東京都内のケーキ店で火災が発生し、女性オーナーが亡くなった。店は地域で人気があり、常連客も多かったという。消防による現場検証が進められており、火災の原因特定に向けた調査が続いている。小規模飲食店での火災事故について、安全管理の課題が改めて注目されている。"
+  },
+  {
+   "slug": "2026-09-12-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-1.html",
+   "title": "俳優・森本レオさんが突然死 原因は謎のまま",
+   "title_en": "Legendary Actor Leo Morimoto Passes Away Suddenly; Cause Remains Unknown",
+   "category": "エンタメ",
+   "published": "2026-09-12",
+   "summary": "声優・俳優として活躍していた森本レオさんが亡くなったことが報じられました。報道によると原因は現在のところ明らかになっていないとのこと。昭和から平成にかけて多くの作品に出演し、深みのある演技で知られていた人物の急逝に、業界関係者やファンから哀悼の声が上がっています。"
+  },
+  {
+   "slug": "2026-09-12-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-0.html",
+   "title": "大谷選手がIL入り確定、復帰時期はいつになる？",
+   "title_en": "Ohtani to be Sidelined: When Will He Return to the Field?",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "メジャーリーグで活躍する大谷翔平選手がけがの理由でIL(故障者リスト)入りすることが正式に決定した。球団からの発表では具体的な復帰日の目安は示されておらず、今後の治療状況によって判断されることになりそうだ。ファンの間では復帰時期への関心が高まっている。"
+  },
   {
    "slug": "2026-09-11-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-42.html",
