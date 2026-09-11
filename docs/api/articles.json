@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1361,
+ "count": 1362,
  "articles": [
+  {
+   "slug": "2026-09-11-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-21.html",
+   "title": "加護亜依がタバコ吸うネコ役で登場？「ヤニねこ」出演で話題沸騰！",
+   "title_en": "Veteran Talent Kago Ai Lands Unexpected Role as Smoking Cat in \"Yani-neko\" Drama - Twitter Erupts",
+   "category": "コラム",
+   "published": "2026-09-11",
+   "summary": "タレントの加護亜依がドラマ「ヤニねこ」に出演することが話題になっています。ネコのキャラクターを演じるという異色のキャスティングで、SNS上では驚きと期待の声が上がっています。彼女のこれまでのキャリアからの新しいチャレンジとして注目を集めているようです。"
+  },
   {
    "slug": "2026-09-11-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-20.html",
