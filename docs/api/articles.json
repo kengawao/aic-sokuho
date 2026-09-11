@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1362,
+ "count": 1383,
  "articles": [
+  {
+   "slug": "2026-09-11-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-42.html",
+   "title": "朝6時から行列ができる豚まんって何？東京の551に殺到した理由を考察",
+   "title_en": "Why is Tokyo Lining Up for Pork Buns at 6 AM? Exploring the Mystery Behind 551's Viral Craze",
+   "category": "コラム",
+   "published": "2026-09-11",
+   "summary": "東京の中華まん専門店「551蓬莱」の店舗に朝から長蛇の列ができている。豚まんを求めて並ぶ客たちの姿が話題となっており、その人気の秘密や行列文化について考えさせられるニュース。日本人の「話題のものに集まる習性」が垣間見える現象だ。"
+  },
+  {
+   "slug": "2026-09-11-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-41.html",
+   "title": "中島卓也が今季限りで引退　日本ハムの中核選手が決断した背景は",
+   "title_en": "Takuya Nakajima Retires After This Season: What Led to the Nippon Ham Star's Decision?",
+   "category": "スポーツ",
+   "published": "2026-09-11",
+   "summary": "日本ハムの中島卓也選手が今季限りでの引退を表明した。同選手は球団の主軸打者として長年活躍してきたベテラン選手。年齢や成績、個人的事情など複数の要因が絡んでの決断とみられ、球団内でも大きな影響を及ぼすことになりそうだ。"
+  },
+  {
+   "slug": "2026-09-11-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-40.html",
+   "title": "浜岡原発、審査申請を取り下げへ。脱原発の流れが加速するのか",
+   "title_en": "Hamaoka Nuclear Plant to Withdraw Safety Review Application—Is Japan's Shift Away from Nuclear Accelerating?",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "中部電力が浜岡原発の新規制基準への審査申請を取り下げる方向で調整していることが明らかになった。同原発は東日本大震災後に全号機が停止し、津波対策などの課題を抱えていた。審査申請の取り下げは、稼働再開の可能性が大きく低下することを意味し、国内の脱原発傾向を象徴する動きとして注視される。"
+  },
+  {
+   "slug": "2026-09-11-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-39.html",
+   "title": "水星が誕生以降10km以上縮んでいた…なぜ太陽系最小の惑星は今も冷え続けているのか",
+   "title_en": "Mercury Has Shrunk Over 10 Kilometers Since Its Birth—Why Is the Solar System's Smallest Planet Still Cooling?",
+   "category": "科学",
+   "published": "2026-09-11",
+   "summary": "NASA等の最新研究により、水星が形成されて以来、半径で10キロメートル以上も縮小していることが判明した。これは水星の内部が長時間をかけて冷却され、収縮している証拠とみられている。表面のしわのような地形が示す地質活動から、現在でも冷却と収縮が継続していると考えられており、惑星内部の熱進化メカニズム解明に向けた重要な発見として注目されている。"
+  },
+  {
+   "slug": "2026-09-11-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-38.html",
+   "title": "リュウグウの母天体、実は想像より古かった？ はやぶさ2が解き明かした太陽系の謎",
+   "title_en": "Hayabusa2's Discovery: Ryugu's Parent Asteroid May Be Older Than We Thought",
+   "category": "科学",
+   "published": "2026-09-11",
+   "summary": "小惑星探査機はやぶさ2が採取したリュウグウのサンプル分析から、その母天体の形成年代が推定されました。隕石の同位体比などの詳細な分析により、これまでの推測よりも精密な年代決定が可能になり、太陽系初期の小惑星進化プロセスの理解が深まる成果として注目されています。"
+  },
+  {
+   "slug": "2026-09-11-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-37.html",
+   "title": "AIで偽造レシート生成が横行中？経費精算の不正防止、どうする",
+   "title_en": "AI-Generated Receipts: How Can Companies Prevent Expense Fraud Now?",
+   "category": "経済",
+   "published": "2026-09-11",
+   "summary": "生成AIの技術進化により、実在しないレシートをAIで作成し経費として申請する不正行為が懸念されている。企業の経費管理システムが従来の目視チェック程度では対応できず、新たな検証手法や監査体制の強化が急務となっている。デジタル化による効率化の裏で、不正のハードルが低下している実態が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-11-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-36.html",
+   "title": "ネタニヤフ首相、UAE警告を激怒で否定→新聞社を提訴へ。10月7日攻撃の予報疑惑が波紋",
+   "title_en": "Netanyahu Denies UAE Warning Before Hamas Attack, Threatens Lawsuit Against Israeli Newspaper",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "イスラエルのネタニヤフ首相が、2023年10月7日のハマス襲撃について、事前にUAE大統領から警告を受けていたという報道を強く否定した。イスラエル紙がこの情報を報じたことに激怒した首相は、名誉毀損訴訟を起こすよう弁護士に指示。襲撃の事前警告に関する議論は、イスラエル国内の政治的緊張をさらに高めるものとなっている。"
+  },
+  {
+   "slug": "2026-09-11-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-35.html",
+   "title": "民間人が買い物中に被害…ウクライナのショッピングセンターがドローン攻撃で5人死亡",
+   "title_en": "Russian Drone Attack on Ukrainian Shopping Center Kills 5, Wounds 67",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "ウクライナ中部のパウロフラードで、ロシア軍のドローン攻撃がショッピングセンターを直撃。5人が殺害され、67人が負傷した。攻撃は民間施設が標的となっており、ウクライナ当局は戦争犯罪の可能性を指摘。一般市民の被害が拡大する深刻な状況が続いている。"
+  },
+  {
+   "slug": "2026-09-11-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-34.html",
+   "title": "香港で天安門集会参加者に実刑判決、言論の自由はどうなる?",
+   "title_en": "Three Activists Face Prison Time Over Tiananmen Vigil in Hong Kong—What's Next for Free Speech?",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "香港で天安門事件の追悼集会に関わった3人が実刑判決を受けたと報じられています。香港国家安全維持法の適用をめぐり、言論の自由と安全保障のバランスについて議論が高まっています。国際社会からも関心が寄せられており、香港の民主化運動の今後に影響を与える可能性があります。"
+  },
+  {
+   "slug": "2026-09-11-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-33.html",
+   "title": "9.11から25年、ドローンでツインタワーを空中再現――追悼の新しい形",
+   "title_en": "25 Years After 9/11: Drones Light Up the Sky to Recreate the Twin Towers",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "米国の同時多発テロ事件から25年目を迎えるにあたり、ドローンを使用してニューヨークのツインタワーを空中に再現する企画が実施された。失われた建造物を光と映像で蘇らせることで、犠牲者への追悼と事件の記憶を次世代に伝える新しい表現手法として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-11-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-32.html",
+   "title": "2977機のドローンが夜空に輝く、9/11から25年で犠牲者を追悼",
+   "title_en": "Thousands of Drones Light Up the Night Sky to Honor 9/11 Victims 25 Years Later",
+   "category": "国際",
+   "published": "2026-09-11",
+   "summary": "ニューヨークで9月11日の同時多発攻撃から25周年を迎えるにあたり、数千機のドローンを使った大規模な光の演出が実施された。世界貿易センタービルのツインタワーを実物大で再現した光のディスプレイには、使用された2977機のドローンそれぞれが攻撃の犠牲者を象徴している。悲劇の記憶を次世代に伝える、テクノロジーを活用した追悼の取り組みとして注目を集めている。"
+  },
+  {
+   "slug": "2026-09-11-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-31.html",
+   "title": "PFAS汚染地でも野菜は安全？農水省の実験結果に驚きの結果",
+   "title_en": "PFAS Contamination Surprises: Vegetables Safe Despite Polluted Soil, Japan's Agriculture Ministry Reports",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "農林水産省がPFAS（有機フッ素化合物）の農作物への影響を調査した実験結果を発表しました。土壌中のPFAS濃度が高い畑でも、実際に栽培された野菜からはほとんどPFASが検出されなかったとのこと。この結果は、一部で懸念されていた食品経由の健康リスクを軽減する可能性を示唆しています。"
+  },
+  {
+   "slug": "2026-09-11-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-30.html",
+   "title": "9月の日照時間が過去最少を記録…都心の異常気象が深刻化",
+   "title_en": "Tokyo's September Sunshine Hours Hit Historic Low—What's Behind the Unusual Weather?",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "9月の東京都心における日照時間が統計開始以来最も少なくなったことが判明した。曇りや雨の日が多く、秋雨前線の影響が顕著だったと見られる。異例の日照不足は農作物への影響や気象観測機関の関心を集めている。"
+  },
+  {
+   "slug": "2026-09-11-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-29.html",
+   "title": "テスラの無人タクシーが日本上陸へ？自動運転技術はどこまで来ているのか",
+   "title_en": "Tesla's Driverless Taxi Makes Japan Debut: How Close Are We to Full Autonomous Vehicles?",
+   "category": "IT",
+   "published": "2026-09-11",
+   "summary": "テスラが無人タクシーサービス「Cybercab」を日本で初公開した。完全自動運転を目指す同社の最新技術が国内で披露されたもので、今後の展開に注目が集まっている。自動運転技術の実用化に向けた取り組みが加速する一方で、安全性や法整備の課題も残されている。"
+  },
+  {
+   "slug": "2026-09-11-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-28.html",
+   "title": "政府職員24万件の個人情報が流出か…あなたの情報も含まれている可能性",
+   "title_en": "Is Your Information Exposed? 240,000 Government Employee Records Potentially Leaked",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "政府職員らの個人情報約24万件が漏えいした可能性が明らかになった。氏名や住所、連絡先などが含まれているとみられ、情報セキュリティの脆弱性が改めて指摘されている。政府は詳細な調査を進めており、今後の対応策も検討されている状況だ。"
+  },
+  {
+   "slug": "2026-09-11-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-27.html",
+   "title": "AIが人間を超える日は来るのか？研究者たちが次々と警告を発する理由",
+   "title_en": "When AI Surpasses Humanity: Why Leading Researchers Are Sounding the Alarm",
+   "category": "科学",
+   "published": "2026-09-11",
+   "summary": "人工超知能(AGI)の開発に関して、AI研究の第一線にいる研究者たちが相次いで懸念を表明している。急速に進化するAI技術が人間レベルを超える知能に到達した場合の影響について、単なる学術的な議論ではなく、より具体的なリスク管理の必要性を訴えている専門家が増えている。技術の発展と安全対策のバランスが問われている。"
+  },
+  {
+   "slug": "2026-09-11-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-26.html",
+   "title": "日銀が1.25%程度への利上げ検討か　家計と企業にどう影響する？",
+   "title_en": "BOJ Set to Raise Rates to 1.25%—What Impact on Japanese Households and Businesses?",
+   "category": "経済",
+   "published": "2026-09-11",
+   "summary": "日本銀行が現在の金利水準からさらに引き上げ、1.25%程度への利上げを検討している見通しが報じられた。追加の金利引き上げは、住宅ローンや企業融資の金利上昇につながる可能性があり、家計や企業経営への影響が注視されている。金融政策の正常化の一環とみられ、今後の経済動向と物価動向がカギとなりそうだ。"
+  },
+  {
+   "slug": "2026-09-11-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-25.html",
+   "title": "ソニー生命でまた詐取事件？5千万円の不正が新たに判明",
+   "title_en": "Another Fraud Scandal at Sony Life: 50 Million Yen Embezzlement Uncovered",
+   "category": "経済",
+   "published": "2026-09-11",
+   "summary": "ソニー生命保険で新たに5千万円の詐取事件が明らかになった。同社では過去にも類似の不正事件が報告されており、内部管理体制の不備が指摘される。顧客からの信頼維持と再発防止策が急務となっている状況だ。"
+  },
+  {
+   "slug": "2026-09-11-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-24.html",
+   "title": "未婚者の3割超が子ども望まず…少子化対策の切り札は見つかるのか",
+   "title_en": "Over 30% of Single Adults Don't Want Children – Can Japan's Demographic Crisis Be Reversed?",
+   "category": "国内",
+   "published": "2026-09-11",
+   "summary": "未婚者を対象とした調査で、子どもを持つことを望まない人が3割を超えることが明らかになった。経済的不安や仕事との両立の難しさなど、複数の要因が背景にあるとみられる。少子化が進む中、政府の支援策だけでは解決しない構造的な課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-11-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-23.html",
+   "title": "人気声優・伊藤健太郎が脳内出血で休養へ 業界に衝撃走る",
+   "title_en": "Popular Voice Actor Itou Kentarou Takes Hiatus Due to Cerebral Hemorrhage",
+   "category": "エンタメ",
+   "published": "2026-09-11",
+   "summary": "声優の伊藤健太郎が脳内出血のため活動休養することが明らかになった。同氏は多くのアニメ作品で主要キャラクターを担当しており、ファンからは早期回復を望む声が上がっている。詳細な容体や復帰時期については現在のところ不明。業界内でも治療に専念することを支持する動きが広がっており、今後の出演作品への影響が注視されている。"
+  },
+  {
+   "slug": "2026-09-11-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-11-22.html",
+   "title": "昭和の名優・森本レオさん死去、最後の出演作はいつだった？",
+   "title_en": "Legendary Japanese Actor Leo Morimoto Passes Away - When Was His Last Major Role?",
+   "category": "エンタメ",
+   "published": "2026-09-11",
+   "summary": "昭和から平成にかけて活躍した俳優・森本レオさんが亡くなられました。テレビドラマや映画、舞台など多くの作品に出演し、独特の存在感で視聴者に深い印象を残してきた演技派俳優でした。長年の活動を通じて、日本の映像文化に大きな足跡を残しています。"
+  },
   {
    "slug": "2026-09-11-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-11-21.html",
