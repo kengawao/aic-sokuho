@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1425,
+ "count": 1446,
  "articles": [
+  {
+   "slug": "2026-09-13-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-20.html",
+   "title": "富士山が閉山してもやってくる外国人団体客、いったい何なんだこれは",
+   "title_en": "Mount Fuji is Closed, But Foreign Tour Groups Keep Showing Up Anyway—What's Going On?",
+   "category": "コラム",
+   "published": "2026-09-13",
+   "summary": "富士山が安全上の理由で閉山中にもかかわらず、海外の団体観光客が登山を試みるケースが相次いでいるという。オフシーズンでも訪れる外国人観光客の熱意がとまらない状況と、管理側の対応の課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-13-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-19.html",
+   "title": "15km先まで音が届く理由は気象現象？フェス騒音問題、科学的背景を考える",
+   "title_en": "How Does Music Festival Noise Travel 15km? The Role of Weather Phenomena",
+   "category": "科学",
+   "published": "2026-09-13",
+   "summary": "野外音楽フェスティバルの騒音が通常より遠くまで伝播する現象について、気象条件による影響の可能性が指摘されている。15km先までステージ音が到達したケースが報告されており、大気の温度構造や風向などが音の伝わり方を大きく左右する可能性が考察されている。地域住民との共存と開催者の課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-13-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-18.html",
+   "title": "イオン熊本が専門店に契約解除打診　大型商業施設の「テナント戦争」が激化？",
+   "title_en": "Aeon Kumamoto Pushes Tenants Out: Is Japan's Retail Real Estate Heading for a Shakeup?",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "イオン熊本が入居している専門店に対して契約解除の打診を行ったことが報じられた。背景には、大型商業施設における競争激化やテナント構成の見直しがあるとみられる。この動きは地域の商業施設再編の一環であり、既存テナントの経営環境にも影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-13-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-17.html",
+   "title": "伊藤大海が西武コーチとの騒動に言及、何があったのか？",
+   "title_en": "Daikai Ito Addresses Coaching Staff Controversy: What Happened Inside the Saitama Lions?",
+   "category": "スポーツ",
+   "published": "2026-09-13",
+   "summary": "西武ライオンズの投手・伊藤大海が、球団コーチとの間で生じた騒動について初めて言及した。具体的な内容や経緯については公式発表が限定的だが、選手とコーチング陣の関係性や指導方法をめぐる何らかの対立があったとみられる。本人の発言により、球団内の問題が表面化した形となっている。"
+  },
+  {
+   "slug": "2026-09-13-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-16.html",
+   "title": "イラン男子バレー監督が試合日程に猛抗議、何が問題なのか？",
+   "title_en": "Iran Men's Volleyball Coach Protests Match Schedule: What's the Real Issue?",
+   "category": "スポーツ",
+   "published": "2026-09-13",
+   "summary": "バレーボール男子のイラン代表監督が、大会の試合日程に対して不満を表明している。スケジュール調整の問題により、チームの準備や選手のコンディショニングに影響が出ている可能性が指摘されており、国際大会における日程編成の公平性をめぐる議論が浮上している。"
+  },
+  {
+   "slug": "2026-09-13-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-15.html",
+   "title": "日本の新幹線技術がインドで苦戦中？一帯一路との競争が影響か",
+   "title_en": "Japan's Shinkansen Faces Headwinds in India—How Global Competition is Shifting Infrastructure Markets",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "日本が高い技術力を誇る新幹線のインドへの輸出が難航している。安全性と効率性で世界的に評価される日本の鉄道技術だが、インド市場では中国やヨーロッパ企業との競争が激化。現地の事情や経済的要因が障壁となっているとみられる。"
+  },
+  {
+   "slug": "2026-09-13-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-14.html",
+   "title": "イラン関与か？サウジ石油パイプライン攻撃でトランプ氏が言及、中東情勢緊迫",
+   "title_en": "Iran Connection? Trump Points Finger at Tehran Over Saudi Pipeline Attack, Raising Tensions",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "サウジアラビアが保有する、ホルムズ海峡を迂回して原油を輸出するパイプラインが攻撃により損壊し、操業停止に追い込まれた。トランプ米大統領はこの事件にイランが関与している可能性を指摘し、中東の地政学的緊張が高まっている。犯人が特定されていない中での発言は、今後の米国の対イラン政策にも影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-13-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-13.html",
+   "title": "数万人の移民流入、実は事前通知されていた…スペイン情報機関の警告を政府は放置？",
+   "title_en": "Spain Ignored Warning Before Mass Migration Surge to Ceuta—What Went Wrong?",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "スペイン領セウタに7月末に数万人の移民が押し寄せた事件で、スペインの情報機関が事前にソーシャルメディア上での越境呼びかけを警告していたことが、機密解除された政府文書で判明した。当局が事前情報を把握していながら、大規模流入を防げなかった可能性が浮上している。"
+  },
+  {
+   "slug": "2026-09-13-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-12.html",
+   "title": "イランの影がちらつく紅海…フーシ派がついに戦略的要衝を掌握、世界の海運に何が起きる？",
+   "title_en": "Iran's Shadow Looms Over Red Sea: Houthi Seizure of Moca Raises Stakes for Global Shipping",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "イエメンの反政府勢力フーシ派が、紅海沿岸の重要な港湾都市モカをサウジアラビア支援勢力から奪取した。この制圧により、イラン支持のフーシ派はアジア・ヨーロッパ間の重要な航路であるバブ・エル・マンデブ海峡まで約75キロに接近。国際的な海上交易に影響を与える可能性が高まっている。"
+  },
+  {
+   "slug": "2026-09-13-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-11.html",
+   "title": "なぜ数週間も放置されたのか　米南部での黒人女性遺体発見、逮捕に至るまでの経緯",
+   "title_en": "Why Did It Take Weeks to Act? Black Woman Found Hanged in Mississippi as Investigation Finally Advances",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "ミシシッピ州で黒人女性の遺体が木につるされた状態で発見された事件で、警察が初めて殺人事件の可能性を認め、11日に容疑者を逮捕した。家族らの強い訴えがあってようやく本格的な捜査が開始され、関与する複数の容疑者がいる可能性も指摘されている。人種差別と司法対応の問題が改めて焦点となっている。"
+  },
+  {
+   "slug": "2026-09-13-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-10.html",
+   "title": "トランプ大統領が英国激怒？北アイルランド統一発言で何が起きた",
+   "title_en": "Trump's Ireland Comments Spark UK Outrage: What Happened to the North?",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "アメリカのトランプ大統領がアイルランド訪問中に、帰属問題で長年議論されている北アイルランドについて「統一されたアイルランドを見たい」と発言した。この言及はイギリス国内で反発を招き、両国間の微妙な問題に再び火がついた格好だ。歴史的な領土問題への外国首脳による発言がいかに政治的影響力を持つかが改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-13-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-9.html",
+   "title": "千葉豪雨から1ヶ月、529社が営業再開できず　26億円超の被害が判明",
+   "title_en": "One Month After Chiba Downpour: 529 Businesses Still Unable to Reopen, Over 2.6 Billion Yen in Damages",
+   "category": "国内",
+   "published": "2026-09-13",
+   "summary": "8月の記録的豪雨で千葉県内の商店や事業所529社が被災し、被害総額は26億円を超えることが県の調査で明らかになった。多くの企業が復旧に時間を要しており、1ヶ月経過した時点でも事業を再開できない企業が存在するなど、地域経済への深刻な影響が続いている。"
+  },
+  {
+   "slug": "2026-09-13-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-8.html",
+   "title": "習近平氏がインド訪問、対立する中印関係は改善するのか？",
+   "title_en": "Will Xi's India Visit Signal Real Improvement in China-India Relations?",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "習近平中国国家主席がインドを訪問し、中印関係の改善を探る動きが加速している。両国は国境問題や経済競争など複数の課題を抱えているが、今回の訪問は戦略的な対話の再構築を目指すもの。地域の安定と両国の関係修復が注目されている。"
+  },
+  {
+   "slug": "2026-09-13-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-7.html",
+   "title": "サーティワン、なぜ今売れてるの？アイスの王者が好調を続ける理由",
+   "title_en": "Why is Thirty-One Ice Cream Thriving? The Secrets Behind the Premium Brand's Success",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "アイスクリームチェーンのサーティワンアイスクリームが好調な業績を維持している。季節変動に強い商品戦略、SNS映えするメニュー開発、そして店舗体験の充実が売上増に寄与しているとみられる。コンビニの低価格帯アイスとの差別化に成功し、プレミアム市場でのポジションを確立している。"
+  },
+  {
+   "slug": "2026-09-13-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-6.html",
+   "title": "裏金事件の渦中でも入閣検討？首相の判断に政界が揺れる",
+   "title_en": "Prime Minister Considers Cabinet Post for Politician Embroiled in Political Funds Scandal",
+   "category": "国内",
+   "published": "2026-09-13",
+   "summary": "首相が裏金問題に関与した議員の内閣入りを検討していることが明らかになった。政治資金規正法違反の疑いが指摘される中での人事判断に、与野党から批判の声が上がっている。政治倫理と現実的な人事運営のバランスをめぐって、政界内での議論が活発化している。"
+  },
+  {
+   "slug": "2026-09-13-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-5.html",
+   "title": "イルカ、夫の介護のため活動休止へ　人気歌手が直面する「現実」とは",
+   "title_en": "Iconic Singer Ilka Steps Back from Career to Care for Ailing Husband",
+   "category": "エンタメ",
+   "published": "2026-09-13",
+   "summary": "70年代を代表する歌手イルカが、夫の介護を理由に活動を休止することを発表した。長年のキャリアを持つ著名人であっても、家族の介護という現実の前には難しい選択を迫られることになる。介護と仕事の両立の困難さが改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-13-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-4.html",
+   "title": "時給100円のインターン、これって違法じゃないのか？企業と学生の温度差が明らかに",
+   "title_en": "Is 100 Yen Per Hour Legal? Japan's Exploitative Internship Culture Under Fire",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "最低賃金を大きく下回る時給100円で学生を募集するインターンシップが問題化している。企業側は「学習機会の提供」と位置づけているが、労働基準法との整合性や搾取的な慣行ではないかと指摘する声が上がっている。インターンの適切な待遇基準が問われている。"
+  },
+  {
+   "slug": "2026-09-13-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-3.html",
+   "title": "北口榛花、日本新記録で優勝　やり投げ女王の進化が止まらない",
+   "title_en": "Haruka Kitaguchi Sets New Japanese Record to Win Javelin Competition",
+   "category": "スポーツ",
+   "published": "2026-09-13",
+   "summary": "やり投げの北口榛花選手が大会で日本新記録をマークして優勝を果たした。自身の持つ記録をさらに塗り替えた今回の成績は、技術面での改善と強化の成果を示している。オリンピック選手としてのさらなる飛躍が期待されている。"
+  },
+  {
+   "slug": "2026-09-13-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-2.html",
+   "title": "日本企業の次世代原発、米国での大型投資第3弾か？エネルギー戦略が加速",
+   "title_en": "Japan's Next-Gen Nuclear Power Bet: What's Behind the Third Major U.S. Investment Push?",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "日本企業による米国への投資プロジェクトで、次世代原発技術の導入が有力候補として浮上している。既存の投資計画に続く第3弾として、小型モジュール炉（SMR）などの革新的な原子力技術が検討されており、両国のエネルギー安全保障強化とカーボンニュートラル実現に向けた動きとして注目されている。"
+  },
+  {
+   "slug": "2026-09-13-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-1.html",
+   "title": "内閣支持率60%超の異例の高さ、何が背景にあるのか",
+   "title_en": "Why Is Cabinet Approval Rating Surpassing 60%? An Unprecedented Surge Explained",
+   "category": "国内",
+   "published": "2026-09-13",
+   "summary": "内閣支持率が60%を超える異例の高い水準に達した。複数の世論調査で確認されたこの現象について、政治専門家は経済政策への評価、外交成果、野党側の求心力低下など複合的な要因が絡み合っていると分析。今後の政局運営にも大きな影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-13-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-0.html",
+   "title": "陸上大会で28人搬送、原因は弁当？大量食中毒の背景に何があった",
+   "title_en": "28 Athletes Hospitalized at Track Meet: Was a Lunch Box to Blame?",
+   "category": "国内",
+   "published": "2026-09-13",
+   "summary": "陸上競技の大会参加者28人が体調不良で搬送される事態が発生した。関係者の調査により、大会で配布された弁当が原因の可能性が高まっている。食中毒とみられる症状が複数の参加者から報告されており、衛生管理の徹底が改めて問われている。"
+  },
   {
    "slug": "2026-09-12-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-41.html",
