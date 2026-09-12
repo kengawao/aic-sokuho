@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1404,
+ "count": 1425,
  "articles": [
+  {
+   "slug": "2026-09-12-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-41.html",
+   "title": "洗濯物が乾くまでの時間がなぜか話題に？「Tシャツが乾くまで」が売れてる理由が謎すぎるｗ",
+   "title_en": "Why Is \"Until the T-Shirt Dries\" Becoming a Bestseller? The Mystery Behind This Mundane Title Revealed",
+   "category": "コラム",
+   "published": "2026-09-12",
+   "summary": "「Tシャツが乾くまで」というシンプルなタイトルの作品が予想外のヒットを記録している。日常の何気ない時間を題材にしながら、多くの人の共感を呼んでいるようだ。洗濯物という身近なテーマが、なぜここまで注目されるのか。その理由と背景に迫る。"
+  },
+  {
+   "slug": "2026-09-12-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-40.html",
+   "title": "じゃんけん、何人までなら成立する？数学者も頭を抱える「参加人数の限界」",
+   "title_en": "How Many Players Can Play Rock-Paper-Scissors? Mathematicians Grapple with the Game's Limits",
+   "category": "科学",
+   "published": "2026-09-12",
+   "summary": "シンプルなルールで世界中で親しまれているじゃんけんだが、参加人数が増えると数学的に複雑な問題が生じることが注目されている。3人以上の参加者がいる場合、勝敗の判定方法が曖昧になり、公平性を保つことが困難になるという指摘。ゲーム理論の観点からも、参加人数が増えるほど最適戦略の計算が指数関数的に増加し、実用的な限界が存在する可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-12-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-39.html",
+   "title": "韓国の「半導体高校」になぜ殺到？産業育成の切り札が生む教育現場の異変",
+   "title_en": "Why Are South Korea's 'Semiconductor High Schools' Drawing Record Enrollments?",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "韓国で半導体産業の人材育成を目的とした専門高校が大きな注目を集めており、入学希望者が殺到している。国を挙げた産業政策の一環として設立されたこうした学校は、高い給与や就職率の良さが評判となり、従来の進学校志向から産業人材育成への関心シフトが起きている。半導体業界の人手不足と教育改革が一体化した動きとして注視されている。"
+  },
+  {
+   "slug": "2026-09-12-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-38.html",
+   "title": "ガソリンスタンド10年で1700社超が消滅…EV普及と経営難で何が起きているのか",
+   "title_en": "Over 1,700 Gas Stations Have Vanished in 10 Years: What's Happening to Japan's Oil Industry?",
+   "category": "経済",
+   "published": "2026-09-12",
+   "summary": "過去10年間でガソリンスタンドが1700社以上閉鎖されたことが明らかになった。電動車の普及加速、ガソリン需要の減少、経営採算の悪化が主な要因。地方の給油所消失により、ユーザーの利便性低下や地域経済への波及効果も懸念される状況が進んでいる。"
+  },
+  {
+   "slug": "2026-09-12-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-37.html",
+   "title": "経営危機から復活したVAIO、なぜいま「T」で再挑戦するのか",
+   "title_en": "Why VAIO Bets on a Comeback with the 'T' Model Amid PC Market Challenges",
+   "category": "IT",
+   "published": "2026-09-12",
+   "summary": "かつての日本を代表するノートパソコンブランド・VAIOが新型モデル「VAIO T」を発表した。経営破綻を経て復活した同社が、競争激化するPC市場で再び挑戦する背景には、国内ニーズの変化と独自ポジションの構築戦略がある。高度化する消費者ニーズと企業の自己刷新の試みが注目される。"
+  },
+  {
+   "slug": "2026-09-12-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-36.html",
+   "title": "女性初の棋士誕生まであと一歩？西山朋佳の快進撃が話題に",
+   "title_en": "Breaking Barriers: How Tomoka Nishiyama Could Become Japan's First Female Professional Shogi Master",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "将棋界で女流棋士として活躍する西山朋佳が、女性初の正規棋士獲得に向けて着実に成績を積み重ねている。従来は男性中心だった正規棋士制度への女性の進出は長年の課題であり、西山の挑戦は将棋界の多様性を象徴する出来事として注目を集めている。彼女の今後の活躍が、後進の女性棋士たちに与える影響も期待されている。"
+  },
+  {
+   "slug": "2026-09-12-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-35.html",
+   "title": "火災から40時間以上放置…フィリピン・フェリー沈没で35人死亡、50人超が今も行方不明",
+   "title_en": "Stranded at Sea: Philippine Ferry Fire Claims 35 Lives as Over 50 Remain Missing After 40-Hour Rescue Delay",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "フィリピンのマニラ発フェリーがコロン島近海で火災に見舞われ、35人が死亡し50人以上が行方不明となっている。有毒な煙と熱により救助活動が大幅に遅れ、火災から40時間以上経過した11日正午前にようやく船上での捜索が開始された。救出者は43人に留まっており、今後の捜索活動が難航することが予想される。"
+  },
+  {
+   "slug": "2026-09-12-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-34.html",
+   "title": "9.11の3年前、CIAは「航空機テロ」を警告していた…なぜ防げなかったのか",
+   "title_en": "CIA Warned of Airplane Attacks 3 Years Before 9/11—Why Wasn't It Prevented?",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "2001年9月11日の米同時多発攻撃から25年を迎えた今月、機密文書の公開により、事件の3年前にCIAが爆発物を積んだ航空機による米国内への攻撃の可能性をアルカイダの脅威として指摘していたことが判明した。事前に具体的な危機警告があったにもかかわらず、なぜ大惨事を防ぐことができなかったのかが改めて問われている。"
+  },
+  {
+   "slug": "2026-09-12-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-33.html",
+   "title": "北朝鮮の飛翔体は短距離弾道ミサイルと判明、防衛当局が分析",
+   "title_en": "North Korea's Latest Launch Confirmed as Short-Range Ballistic Missile",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "北朝鮮が発射した飛翔体について、日本の防衛当局が短距離弾道ミサイルであることを確認した。同国は定期的にミサイル実験を実施しており、朝鮮半島の緊張が高まる中での発射となる。防衛省は関連情報の収集と分析を継続し、今後の動向を警視している。"
+  },
+  {
+   "slug": "2026-09-12-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-32.html",
+   "title": "サウジアラビアの主要パイプラインが停止、世界のエネルギー市場はどうなる？",
+   "title_en": "Saudi Arabia's Major Pipeline Down: What Does This Mean for Global Energy Markets?",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "サウジアラビアの重要な原油輸送パイプラインが稼働を停止したことが報道されました。同国はOPECの最大産油国であり、この停止は世界的なエネルギー供給に影響を与える可能性があります。原油価格の変動やガソリン価格への波及が懸念される状況となっています。"
+  },
+  {
+   "slug": "2026-09-12-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-31.html",
+   "title": "ウクライナ大統領が米国に迫る新たな対露制裁、今後の東欧情勢はどうなる?",
+   "title_en": "Ukraine's President Demands Tougher Sanctions on Russia From US—What's Next?",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "ウクライナのゼレンスキー大統領が米国に対して、ロシアへの新たな経済制裁の実施を要求した。既存の制裁では十分でないと判断し、さらなる圧力強化を主張。両国間での防衛支援と経済制裁の連携強化が課題となっている。"
+  },
+  {
+   "slug": "2026-09-12-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-30.html",
+   "title": "9/11から25年、米各地で追悼式典　トランプ大統領『決して忘れない』",
+   "title_en": "25 Years After 9/11: America Pauses to Remember, Trump Pledges 'We Will Never Forget'",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "アメリカは9月11日、2001年の同時多発攻撃から25周年を迎え、全国で追悼式典が開催された。ワシントンの国防総省ではトランプ大統領が式典に出席し、約3000人の犠牲者を悼むとともに『決して忘れない。だからこそ戦う』とのメッセージを発表。各地で市民らが献花や黙祷を行い、四半世紀を経た今なお深く心に刻まれている事件の記憶が継承されている。"
+  },
+  {
+   "slug": "2026-09-12-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-29.html",
+   "title": "避難所の落とし穴？被災者を襲う『エコノミークラス症候群』、富山で緊急検査実施",
+   "title_en": "The Hidden Risk in Shelters: Disaster Victims Screened for Life-Threatening Blood Clots in Toyama",
+   "category": "健康",
+   "published": "2026-09-12",
+   "summary": "富山県氷見市で先月の記録的大雨による被害を受け、避難所生活を余儀なくされている住民を対象に、医師らがエコノミークラス症候群（深部静脈血栓症）のリスク検査を実施しました。避難所での長時間の座位や運動不足が血栓形成のリスクを高めることから、被災者の健康管理が重要課題となっています。"
+  },
+  {
+   "slug": "2026-09-12-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-28.html",
+   "title": "十勝岳がついに警戒レベル3へ…火口から3km圏内が入山禁止、北海道民は大丈夫?",
+   "title_en": "Tokachidake Volcano Raised to Alert Level 3—What Does This Mean for Hokkaido?",
+   "category": "国内",
+   "published": "2026-09-12",
+   "summary": "北海道の十勝岳で先月から大きな火山性地震が相次ぎ、気象台は12日午前に噴火警戒レベルを2から3に引き上げた。レベル3は入山規制を示し、火口からおおむね3キロ圏内への立ち入りが禁止される。周辺地域への直接的な被害懸念と、登山者の安全確保が主な課題となっている。"
+  },
+  {
+   "slug": "2026-09-12-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-27.html",
+   "title": "習近平氏の訪米延期か？台湾への武器売却が引き金に、米中関係の新たな火種",
+   "title_en": "Will Xi Skip Washington? Taiwan Arms Sales Set to Strain US-China Summit Plans",
+   "category": "国際",
+   "published": "2026-09-12",
+   "summary": "米国が台湾に武器を売却した場合、習近平国家主席が米国訪問を見送る可能性が浮上している。中国は台湾問題に極めて敏感で、米国による台湾への軍事支援を主権侵害と強く反発してきた。両国首脳の直接会談が延期されれば、米中関係の緊張がさらに高まり、地政学的リスクが増す懸念がある。"
+  },
+  {
+   "slug": "2026-09-12-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-26.html",
+   "title": "バレー男子が韓国を撃破、五輪出場まであと一歩！本戦行きをほぼ確定",
+   "title_en": "Japan's Men's Volleyball Team Defeats South Korea, Olympic Berth Now Within Reach",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "バレーボール男子日本代表が韓国との試合に勝利し、パリオリンピック出場の大きな一歩を踏み出した。この勝利により、本戦出場がほぼ確実視される状況となった。アジア予選での重要な勝ち星となり、チームの五輪出場への道がより現実的になってきた。"
+  },
+  {
+   "slug": "2026-09-12-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-25.html",
+   "title": "ランサムウェア被害から復元可能に？警察庁が新ツール開発、企業の救世主となるか",
+   "title_en": "Japan's Police Agency Develops Ransomware Recovery Tool: A Game-Changer for Businesses?",
+   "category": "IT",
+   "published": "2026-09-12",
+   "summary": "警察庁がランサムウェア被害によって暗号化されたファイルの復元ツールを開発したと報じられている。サイバー犯罪の脅威が増す中、被害企業や組織が身代金を支払わずにデータを回復できる可能性が広がる。この取り組みはセキュリティ対策の新たな選択肢となり、犯罪者への抑止力にもなると期待されている。"
+  },
+  {
+   "slug": "2026-09-12-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-24.html",
+   "title": "藤井竜王の1手が熊本を救う？ 対局の全収益を被災地に寄付",
+   "title_en": "Fujii's Moves Save Lives: Shogi Champion Donates ¥10,000 Per Move to Kumamoto",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "将棋の藤井聡太竜王が熊本で対局を行い、1手につき1万円を熊本への寄付に充てるという企画が実現した。対局を通じて得られた収益が被災地の復興支援に活用される。トップ棋士による社会貢献活動として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-12-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-23.html",
+   "title": "仮釈放中の性犯罪者にGPS監視を導入、でも課題が山積みってどういうこと？",
+   "title_en": "GPS Monitoring for Paroled Sex Offenders: Will It Work, or Create New Problems?",
+   "category": "国内",
+   "published": "2026-09-12",
+   "summary": "性犯罪者の再犯防止対策として、仮釈放中の受刑者にGPS端末を装着させる制度が導入・検討されている。位置情報をリアルタイムで追跡することで監視の強化を目指す一方で、プライバシー保護や技術的な限界、運用コストなど多くの課題が指摘されている。制度の実効性と人権のバランスをどう取るかが議論の焦点になっている。"
+  },
+  {
+   "slug": "2026-09-12-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-22.html",
+   "title": "元櫻坂46・渡辺梨加が妊娠を発表　活動休止へ",
+   "title_en": "Former Sakurazaka46 Member Watanabe Rika Announces Pregnancy",
+   "category": "エンタメ",
+   "published": "2026-09-12",
+   "summary": "元櫻坂46のメンバーで、グループ脱退後も活動していた渡辺梨加が妊娠を発表した。今後は出産に向けて活動を休止する予定。ファンからは祝福の声が上がる一方、芸能界での妊娠・育児と仕事の両立についての議論も生じている。"
+  },
+  {
+   "slug": "2026-09-12-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-12-21.html",
+   "title": "陸上大会で23人搬送、原因は弁当？大会運営に波紋",
+   "title_en": "23 Athletes Hospitalized at Track Meet Over Suspected Contaminated Lunch Boxes",
+   "category": "スポーツ",
+   "published": "2026-09-12",
+   "summary": "陸上競技の大会開催中に、参加者23人が体調不良で搬送される事態が発生した。弁当が原因の可能性が指摘されており、食中毒や異物混入の懸念が浮上している。大会主催者による原因究明と対応が急務となっており、食事管理体制の見直しを求める声も上がっている。"
+  },
   {
    "slug": "2026-09-12-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-12-20.html",
