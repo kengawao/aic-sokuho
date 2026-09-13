@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1447,
+ "count": 1468,
  "articles": [
+  {
+   "slug": "2026-09-13-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-42.html",
+   "title": "水川かたまり、犬に進研ゼミを勧める謎の行動に一同困惑www",
+   "title_en": "Comedian Mizukawa Katamari Tries to Sell Shinken Zemi to a Dog—What's Going On?",
+   "category": "コラム",
+   "published": "2026-09-13",
+   "summary": "お笑い芸人の水川かたまりが、とある犬に対して進研ゼミの勧誘を行うという珍事が話題になっている。人間相手ならまだしも、犬を相手に教材の案内をするという斜め上の行動。これは何かのネタなのか、それとも本気なのか、真相は謎のままだ。"
+  },
+  {
+   "slug": "2026-09-13-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-41.html",
+   "title": "大関復帰の安青錦、秋場所初日で白星スタート！琴栄峰との対戦はどう決まった？",
+   "title_en": "Aoaonishiki Returns to Ozeki Rank with Impressive Opening Win at Autumn Tournament",
+   "category": "スポーツ",
+   "published": "2026-09-13",
+   "summary": "大相撲秋場所が13日に初日を迎え、先場所優勝による大関復帰を果たした安青錦が琴栄峰との初対戦に勝利。復帰後の最初の取組で白星を獲得し、大関としての地位を守るための場所を好スタートで切った。"
+  },
+  {
+   "slug": "2026-09-13-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-40.html",
+   "title": "全日本実業団選手権で食中毒か、28人搬送 弁当業者に立ち入り調査",
+   "title_en": "Food Poisoning Outbreak at National Industrial Track Championship in Kyoto Leaves 28 Staff Hospitalized",
+   "category": "国内",
+   "published": "2026-09-13",
+   "summary": "12日に京都市の陸上競技場で開催された全日本実業団選手権で、運営スタッフら28人が食中毒とみられる症状を呈して病院に搬送された。症状を訴えた人の多くが同じ弁当を喫食していたことから、京都市保健所は当該弁当の製造業者に対して立ち入り調査を実施。衛生管理体制の確認と原因特定を進めている。大規模スポーツイベントにおける食中毒発生に関する安全管理が問われる事態となった。"
+  },
+  {
+   "slug": "2026-09-13-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-39.html",
+   "title": "タッチパネル注文、客の本音は「面倒くさい」なぜ飲食店は導入し続けるのか",
+   "title_en": "Touchscreen Ordering: Why Customers Hate It But Restaurants Keep Pushing It",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "飲食店で急速に普及しているタッチパネル注文システムについて、利用者の実際の声を集めた記事。便利さが謳われる一方で、操作の手間、画面の見づらさ、店員との対話減少への違和感など、利用者側の不満が顕在化している。店舗側の人手不足対策というニーズと顧客体験のギャップが明らかになり、業界内での議論が深まっている。"
+  },
+  {
+   "slug": "2026-09-13-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-38.html",
+   "title": "なぜAnthropicのCEOはAI開発の減速を訴えるのか？急速な技術進化に警告",
+   "title_en": "Why Is Anthropic's CEO Calling for Slower AI Development? The Reality Behind the Warning",
+   "category": "IT",
+   "published": "2026-09-13",
+   "summary": "AnthropicのCEOが、AI開発ペースの減速を求める発言をしました。急速に進む生成AI技術の開発競争が、安全性や社会への影響を十分に検証せないまま進んでいるとの懸念から、業界全体での慎重な取り組みの必要性を主張しています。"
+  },
+  {
+   "slug": "2026-09-13-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-37.html",
+   "title": "AI料理写真が「不気味」と感じるのはなぜ？ 人間の視覚が見抜く違和感の正体",
+   "title_en": "Why Does AI-Generated Food Photography Feel Uncanny? The Mystery of Visual Discomfort Explained",
+   "category": "IT",
+   "published": "2026-09-13",
+   "summary": "AI生成の料理写真が多くの人に違和感を与える理由が注目されている。完璧に見えながらも何か不自然な雰囲気を放つAI画像は、手指の不自然さ、光の物理的矛盾、食材のテクスチャーの不統一など細部の破綻が原因とされる。飲食業界でのAI活用が進む一方で、こうした違和感が消費者の信頼に影響する可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-13-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-36.html",
+   "title": "米英の同盟に亀裂？北アイルランド問題がもたらす外交上の火種",
+   "title_en": "Could Northern Ireland Drive a Wedge Between America and Britain?",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "北アイルランドをめぐる問題が米国と英国の関係に影響を及ぼす可能性が指摘されている。歴史的背景と現在の政治状況が複雑に絡み合う中、両国の利益が相反する局面が生まれつつある。アイルランド系の影響力が強い米国と、域内統治を優先する英国との間で、外交的な緊張が高まる懸念も出ている。"
+  },
+  {
+   "slug": "2026-09-13-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-35.html",
+   "title": "ネパール地震、換気口で数日間生き延びた男性—極限の救助劇",
+   "title_en": "Nepal Earthquake: How a Man Survived Days Trapped in a Ventilation Shaft",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "ネパールで発生した地震の被害地域で、建物の崩壊に巻き込まれた男性が、狭い換気口を利用して数日間生存していたことが報告された。限定的な酸素供給の中、救助隊による懸命の救出活動の結果、男性は無事に救助されたという。自然災害における生存の可能性と、それに対する迅速な救助活動の重要性があらためて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-13-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-34.html",
+   "title": "ジャワ海で船沈没、130人が行方不明に　インドネシア沖で何が起きたのか",
+   "title_en": "Ship Sinks in Java Sea: 130+ Missing—What Happened?",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "インドネシアのジャワ海で船舶が沈没し、乗船していた130人以上が行方不明となっている。現地当局による捜索・救助活動が進められているが、詳細な原因は今のところ不明。同海域はアジア有数の海運ルートであり、船舶事故の再発防止が課題となっている。"
+  },
+  {
+   "slug": "2026-09-13-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-33.html",
+   "title": "紅海の要衝を掌握したフーシ派、中東の海上輸送に何をもたらす?",
+   "title_en": "Houthis Control Red Sea Chokepoint: What's at Stake for Global Trade?",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "イエメンの反政府勢力フーシ派が紅海入口の重要な要衝地域を支配下に置いたと報じられている。この地域は世界の海上貿易の重要なルートであり、同派による支配は国際的な物流や経済に大きな影響を与える可能性がある。地政学的な緊張がさらに高まる局面となっている。"
+  },
+  {
+   "slug": "2026-09-13-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-32.html",
+   "title": "ドイツ全土で大規模デモ勃発、極右AfDの台頭に市民が反発",
+   "title_en": "Germany Faces Massive Protests Over Far-Right AfD's Electoral Surge",
+   "category": "国際",
+   "published": "2026-09-13",
+   "summary": "ドイツの極右政党・AfD（ドイツのための選択肢）が選挙で大きく勝利したことを受け、国内各地で大規模な抗議デモが相次いでいる。民主主義の危機を懸念する市民が立ち上がり、AfDの台頭を許さない意志を示している。ドイツ政治の転換点となる可能性がある。"
+  },
+  {
+   "slug": "2026-09-13-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-31.html",
+   "title": "秋雨前線が再活発化、月曜から大雨に 土砂災害のリスク高まる",
+   "title_en": "Japanese Autumn Rain Front Intensifies: Heavy Rainfall Expected to Hit Sea of Japan Side Monday",
+   "category": "国内",
+   "published": "2026-09-13",
+   "summary": "秋雨前線の活動が強まり、14日は日本海側を中心に激しい雨が予想されています。その後15日ごろには太平洋側にも雨雲が広がる見込みで、広い範囲で大雨となるおそれがあります。気象庁は土砂災害や川の増水、低い土地の浸水に対する警戒を呼びかけており、今後の気象情報に注意が必要です。"
+  },
+  {
+   "slug": "2026-09-13-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-30.html",
+   "title": "「ドパガキ」って何？親が知らない子どもの新しい課題行動、対策法を専門家が解説",
+   "title_en": "What Is 'Dopa-Kid' Behavior? How Parents Can Address This Growing Trend",
+   "category": "健康",
+   "published": "2026-09-13",
+   "summary": "近年、子どもの間で「ドパガキ」という行動パターンが注目されている。衝動性が高く、ドーパミン刺激を求めやすい傾向を指す造語で、SNS依存やゲーム時間の増加に伴い増えているという。専門家は、親の認識と適切な環境設定が重要だと指摘。生活習慣の見直しや専門家への相談などの対策が提案されている。"
+  },
+  {
+   "slug": "2026-09-13-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-29.html",
+   "title": "張本勲さん逝去、落合博満氏が追悼 野球界の巨星を失う",
+   "title_en": "Baseball Legend Tsuruo Harumoto Passes Away; Hiromitsu Ochiai Pays Tribute",
+   "category": "スポーツ",
+   "published": "2026-09-13",
+   "summary": "野球解説者として長年活躍してきた張本勲さんが亡くなった。この訃報を受けて、同じく野球界の重鎮である落合博満氏が追悼のコメントを寄せた。張本さんは選手時代の成績でも知られ、野球界に大きな足跡を残してきた人物だ。"
+  },
+  {
+   "slug": "2026-09-13-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-28.html",
+   "title": "男子バレー、ロス五輪出場決定！12年ぶりの五輪舞台へ",
+   "title_en": "Japan Men's Volleyball Secures Olympic Berth for LA 2028 After 12-Year Absence",
+   "category": "スポーツ",
+   "published": "2026-09-13",
+   "summary": "日本の男子バレーボール代表チームがロサンゼルスオリンピックの出場枠を獲得することが決まった。予選を突破し、12年ぶりとなる五輪本戦への出場が確定。東京五輪以降、強化を続けてきたチームの成果が実を結んだ形となり、今後の本大会での活躍に期待が集まっている。"
+  },
+  {
+   "slug": "2026-09-13-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-27.html",
+   "title": "ガソリン車はなぜ次々と消えていくのか？知らないと後悔する自動車業界の大転換",
+   "title_en": "Why Are Gasoline Cars Disappearing? The Auto Industry's Massive Shift You Need to Understand",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "世界的な環境規制の強化とEV化の流れの中で、従来のガソリン車が段階的に廃止される動きが加速している。各自動車メーカーは電動化への投資を大幅に増やし、ガソリン車の生産終了を相次いで発表。燃費規制の厳格化と二酸化炭素排出削減目標達成のため、メーカー各社は電気自動車やハイブリッド車へのシフトを余儀なくされている状況が続いている。"
+  },
+  {
+   "slug": "2026-09-13-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-26.html",
+   "title": "景気拡大なのに給料は上がらない？企業と家計の格差が浮き彫りに",
+   "title_en": "Economic Expansion Creating Winners and Losers: Why Corporate Profits Aren't Reaching Workers' Paychecks",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "景気が拡大している一方で、企業と家計の間で明らかな格差が生じている。企業収益は好調で過去最高水準に達しているものの、その恩恵が労働者の賃金や消費に十分反映されていない状況が指摘されている。このギャップが日本経済全体の成長力を制限する要因となる可能性が懸念されている。"
+  },
+  {
+   "slug": "2026-09-13-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-25.html",
+   "title": "張本美和が涙の優勝、中国勢を連破で何が起きた？",
+   "title_en": "Miwao Harimoto's Emotional Victory: What Happened When She Took Down Chinese Players?",
+   "category": "スポーツ",
+   "published": "2026-09-13",
+   "summary": "張本美和選手が大会で優勝を果たし、涙する場面が見られた。この優勝は中国勢の選手たちを連続で破っての栄冠となり、日本卓球界の躍進を象徴する成果として注目を集めている。若き才能の活躍が国内外で高く評価されている。"
+  },
+  {
+   "slug": "2026-09-13-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-24.html",
+   "title": "夫婦なのに言えない…性行為を断りたくても断れない理由とは",
+   "title_en": "Unspoken Desire: Why Even Married Couples Struggle to Say 'I Don't Want Sex'",
+   "category": "コラム",
+   "published": "2026-09-13",
+   "summary": "夫婦間で性行為を拒否したいという気持ちを伝えることが難しいという問題が浮き彫りになっている。相手を傷つけることへの恐れ、関係破綻への不安、社会的な夫婦観の押し付けなど、複合的な要因が夫婦間のコミュニケーション不足につながっているという指摘。パートナーシップの質を高めるためには、性に関する本音の対話が不可欠とされている。"
+  },
+  {
+   "slug": "2026-09-13-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-23.html",
+   "title": "日銀が利上げに踏み切る公算大、あなたのローン・貯金にどう影響する？",
+   "title_en": "BOJ Rate Hike Likely Imminent: Will Your Mortgage and Savings Be Affected?",
+   "category": "経済",
+   "published": "2026-09-13",
+   "summary": "日本銀行が近い時期に政策金利を引き上げる可能性が高まっている。利上げが実施されれば、住宅ローンや自動車ローンの金利上昇、一方で預金金利の上昇も期待される。家計の貯蓄や借金返済の負担に直結する重要な局面を迎えようとしている。"
+  },
+  {
+   "slug": "2026-09-13-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-13-22.html",
+   "title": "沖縄県知事選で何が変わる？古謝氏当選で辺野古問題に転機",
+   "title_en": "Okinawa's Political Turning Point: What Henoko Decision Means for the Future",
+   "category": "国内",
+   "published": "2026-09-13",
+   "summary": "沖縄県知事選で古謝氏が当選確定し、県政の大転換が迫られている。これまで辺野古への米軍基地移設に反対姿勢を示していた県が、今後は容認方針へと舵を切る可能性が高まった。県内の基地問題に関する世論や政治状況に大きな影響を与えることになりそうだ。"
+  },
   {
    "slug": "2026-09-13-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-21.html",
