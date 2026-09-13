@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1468,
+ "count": 1489,
  "articles": [
+  {
+   "slug": "2026-09-14-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-20.html",
+   "title": "紀香と剛力、球場で激突！？投球が交錯してどよめきが起きた件について",
+   "title_en": "Yoshinaga and Gouriki's Pitches Collide Mid-Air at Baseball Event—Crowd Goes Wild",
+   "category": "コラム",
+   "published": "2026-09-14",
+   "summary": "芸能人による野球イベントで、紀香と剛力彩芽の投球が交錯し、観客からどよめきが上がったという珍事。二人の投げた球が空中で遭遇するという、映画みたいな一瞬が現実に。球場の空気が一変したこの瞬間、果たして何が起きたのか。"
+  },
+  {
+   "slug": "2026-09-14-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-19.html",
+   "title": "操縦士が警告していた「速度超過」、なぜ着陸は強行されたのか？アマゾン貨物機事故の新事実",
+   "title_en": "Pilot Warned of Excessive Speed Before Amazon Cargo Plane Crash—Why Was Landing Approved Anyway?",
+   "category": "国際",
+   "published": "2026-09-14",
+   "summary": "フロリダ州マイアミ国際空港で6日に発生したアマゾン貨物機の着陸事故で、飛行データから新たな事実が判明した。操縦士は着陸前に速度が過度に高いことを指摘していたにもかかわらず、着陸が実行され、滑走路をオーバーランして車両に衝突し炎上。5名の死亡が確認されている。速度警告後の意思決定プロセスが焦点となっている。"
+  },
+  {
+   "slug": "2026-09-14-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-18.html",
+   "title": "レベル4警報なのに避難指示なし。豪雨時の『屋外移動危険』という判断が生んだ矛盾",
+   "title_en": "Japan's Evacuation Paradox: Highest Alert Issued, Yet Some Municipalities Avoided Evacuation Orders",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "8月の千葉豪雨で、気象庁が最高レベルの危険警報（レベル4）を発表していたにもかかわらず、一部の自治体は「屋外での移動が危険」という理由で避難指示を出さず、避難所も開設しなかったことがNHKの調査で判明。住民の安全をどう確保するかという課題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-14-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-17.html",
+   "title": "福井の湖で青潮が大発生、魚が一気に死滅。なぜ淡水でこんなことが？",
+   "title_en": "Why Did Blue Tide Strike a Freshwater Lake in Fukui? Mass Fish Die-off Raises Red Flags",
+   "category": "科学",
+   "published": "2026-09-14",
+   "summary": "福井県の湖で青潮（アオコ）が発生し、魚が大量死する事態が起きた。青潮は富栄養化した水域で植物プランクトンが異常増殖する現象だが、淡水での発生は海での赤潮ほど認知されていない。水温上昇や農業排水の流入が原因として指摘され、生態系への影響が懸念されている。"
+  },
+  {
+   "slug": "2026-09-14-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-16.html",
+   "title": "富士山の救助費用が有料化？閉山期間の無断登山で届け出義務化、山梨県が遭難対策を強化",
+   "title_en": "Yamanashi Prefecture Tightens Mt. Fuji Safety Rules: Mandatory Pre-Climbing Permits and Rescue Fees on the Horizon",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "富士山の遭難事故増加を受け、山梨県が新たな対策案をまとめた。登山自粛期間中の無断登山に対して事前届け出を義務化し、防災ヘリコプターによる救助を有料化する制度を検討している。安全管理と救助体制の充実を目指す一方、登山の自由度制限と利用者負担についての議論が予想される。"
+  },
+  {
+   "slug": "2026-09-14-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-15.html",
+   "title": "説諭率100%の元裁判官が明かす、少年事件での「心を開かせる」技法とは",
+   "title_en": "Former Judge Reveals the Technique Behind 100% 'Persuasion Rate' in Juvenile Cases",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "元裁判官が、担当した少年事件で説諭率（非行少年が反省の意を示す率）100%を達成した経験を語る記事。通常は数十％程度とされる中での異例の成績から、家庭裁判所での少年指導の実態と、効果的なアプローチ方法についての洞察が示されている。"
+  },
+  {
+   "slug": "2026-09-14-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-14.html",
+   "title": "AIが生物兵器開発を手助け？アンソロピックが阻止した「悪意ある利用」とは",
+   "title_en": "Can AI Be Weaponized? Anthropic Stops Biological Weapons Development Attempt",
+   "category": "国際",
+   "published": "2026-09-14",
+   "summary": "米AI企業アンソロピックが、生物兵器や通常兵器の開発を支援する目的で同社のAIモデルを悪用しようとする試みを発見・阻止したと発表した。AIの急速な発展に伴い、強力なツールが悪用される危険性が現実の脅威となりつつあることが改めて浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-09-14-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-13.html",
+   "title": "ラスベガスの地下に広がるもう一つの街？ホームレスの実態に迫る",
+   "title_en": "Hidden City Underground: Las Vegas's Growing Homeless Crisis Beneath the Strip",
+   "category": "国際",
+   "published": "2026-09-14",
+   "summary": "ラスベガスの地下トンネル網に、数百人とも言われるホームレスが生活している実態が明らかになった。かつての洪水対策用インフラが、今では経済的困窮者たちの隠れ場所となっており、衛生管理や安全面での問題が指摘されている。観光地として知られるラスベガスの裏側に存在する貧困問題が、社会的な関心を集めている。"
+  },
+  {
+   "slug": "2026-09-14-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-12.html",
+   "title": "トランプ氏がフーシ派に「手を引け」と警告 中東情勢が急転する可能性は？",
+   "title_en": "Trump Warns Houthis to Back Off: Could This Reshape Middle East Tensions?",
+   "category": "国際",
+   "published": "2026-09-14",
+   "summary": "トランプ前大統領がイエメンの反政府勢力フーシ派に対し、紅海での攻撃活動から撤退するよう警告を発した。フーシ派がイスラエルとの対立に乗じて商船への襲撃を続ける中、米国の強硬姿勢が示された形。中東の緊張関係がさらに複雑化する可能性もある。"
+  },
+  {
+   "slug": "2026-09-14-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-11.html",
+   "title": "米大統領がウクライナに軽油高騰の責任を要求？背景にある複雑な事情とは",
+   "title_en": "Why Is the U.S. President Blaming Ukraine for Diesel Prices? The Complex Reality Behind the Demand",
+   "category": "国際",
+   "published": "2026-09-14",
+   "summary": "アメリカの大統領がウクライナに対し、軽油価格の高騰に関連した要求を行ったとみられる。エネルギー価格の上昇は世界経済に影響を及ぼしており、特にエネルギー供給の安定性が国際的な課題となっている。米国とウクライナの関係性やエネルギー政策が複雑に絡み合う中での発言となっている。"
+  },
+  {
+   "slug": "2026-09-14-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-10.html",
+   "title": "ポーランド行き旅客列車がドローン攻撃を受ける――現場にはジョンソン元首相ら外国要人の姿",
+   "title_en": "Russia Drone Strikes Passenger Train Linking Ukraine and Poland — Ex-PM Johnson Nearby",
+   "category": "国際",
+   "published": "2026-09-14",
+   "summary": "ウクライナ国営鉄道がポーランドを結ぶ旅客列車がロシアの無人機による攻撃を受けたと発表した。けが人は報告されていないが、攻撃直前まで現場付近にイギリスのジョンソン元首相など外国要人が滞在していたという。ウクライナへの継続的な支援の意思を示していた最中の出来事となった。"
+  },
+  {
+   "slug": "2026-09-14-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-9.html",
+   "title": "14日の関東は35℃手前まで上昇か　つい先日の寒さは何だったのか",
+   "title_en": "Tokyo Heat Wave Returns: What Happened to Last Week's Cold Snap?",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "関東地方は14日に暑さが戻り、35℃に迫る予想が出ている。数日前の肌寒い天気から一転、真夏日を思わせるような気温上昇が予測されており、気温差への対応が必要になりそうだ。体調管理に注意が呼びかけられている。"
+  },
+  {
+   "slug": "2026-09-14-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-8.html",
+   "title": "張本勲さんが最後に語った坂本勇人への想い。その言葉に野球人としての執念が",
+   "title_en": "Isao Harimoto's Final Words of Admiration for Hayato Sakamoto Revealed",
+   "category": "スポーツ",
+   "published": "2026-09-14",
+   "summary": "先日亡くなられた野球殿堂入り選手・張本勲さんが、巨人の坂本勇人選手に寄せていた深い想いが明かされた。長年のプロ野球界での経験から、次世代選手への指導や期待を託していたという。張本さんが坂本選手の可能性をどのように評価していたのか、その心情が伝わる内容となっている。"
+  },
+  {
+   "slug": "2026-09-14-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-7.html",
+   "title": "OpenAI、開発ペース緩める検討へ。ChatGPTの急速な進化はここまで？",
+   "title_en": "OpenAI to Consider Slowing AI Development Pace. Is the ChatGPT Era of Rapid Growth Coming to an End?",
+   "category": "IT",
+   "published": "2026-09-14",
+   "summary": "OpenAIが人工知能開発のペースを緩める方向で検討していることが報じられた。急速な技術進化による社会的影響への懸念や、開発リソースの最適化が背景にあるとみられる。業界内では慎重派と継続推進派で意見が分かれている。"
+  },
+  {
+   "slug": "2026-09-14-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-6.html",
+   "title": "秋雨前線が日本海側で停滞、土砂災害のリスク高まる？今週末の天気に警戒必要",
+   "title_en": "Japan braces for intense rainfall on Sea of Japan side as stalled weather front threatens mudslides and flooding",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "秋雨前線が停滞することで、日本海側を中心に激しい雨が降る見込みとなっています。土砂災害、低地の浸水、河川の増水など複数の気象リスクが同時に発生する可能性があり、気象庁では住民に対して早めの避難と注意を呼びかけています。"
+  },
+  {
+   "slug": "2026-09-14-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-5.html",
+   "title": "データ改ざん問題で中部電力トップ2人が辞任へ――経営責任をどう問う？",
+   "title_en": "Chubu Electric Power's Top Executives to Resign Over Nuclear Plant Data Falsification",
+   "category": "経済",
+   "published": "2026-09-14",
+   "summary": "中部電力が浜岡原子力発電所3号機・4号機の審査において、地震想定に関するデータを改ざんしていた問題が明らかになりました。14日の記者会見で、林欣吾社長と勝野哲会長の経営トップ2人が辞任する意向を固めたとのこと。原発の安全性評価に関わる重大な信頼失墜となり、今後の影響が注視されています。"
+  },
+  {
+   "slug": "2026-09-14-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-4.html",
+   "title": "中部電力トップ2人が辞任へ、何が起きたのか？",
+   "title_en": "Why Are Chubu Electric Power's Top Two Executives Stepping Down?",
+   "category": "経済",
+   "published": "2026-09-14",
+   "summary": "中部電力の社長と会長が相次いで辞任する見通しが報じられた。大手電力会社のトップが同時に退任するのは異例の事態。背景には経営上の課題や組織内の問題があると考えられるが、詳細はまだ明らかになっていない。電力供給体制や株価への影響が懸念される。"
+  },
+  {
+   "slug": "2026-09-14-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-3.html",
+   "title": "総務省が開示請求後に文書削除？政府の透明性が問われる事態",
+   "title_en": "Did Japan's Ministry of Internal Affairs Delete Documents After Disclosure Request?",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "総務省が情報公開請求を受けた後に、該当する文書を削除していた可能性が指摘されている。情報開示の義務を負う行政機関が、請求後に文書を処分することは法令違反に該当する恐れもあり、政府の説明責任と透明性確保の問題として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-14-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-2.html",
+   "title": "なぜ事故現場から降りたのか？車を降りた直後にはねられ男性死亡",
+   "title_en": "Why Did He Leave His Car? Man Struck and Killed After Exiting Vehicle at Accident Scene",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "交通事故で車から降りた男性が、その直後に別の車にはねられて死亡する事故が発生した。最初の事故の影響で車外に出たと見られるが、二次被害に遭うという痛ましい結果となった。道路上の危険性と、事故時の適切な対応の重要性が改めて浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-14-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-1.html",
+   "title": "ケーキ店主が熱傷性ショックで死亡――火災現場で何が起きていたのか",
+   "title_en": "Cake Shop Owner's Death Caused by Burn Shock—What Happened at the Fire Scene?",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "ケーキ店の火災事故で亡くなった店主の死因が熱傷性ショックと判明した。熱傷性ショックは広範な火傷による急激な身体機能の低下で、迅速な治療が生死を分ける。事故の詳細な状況と、熱傷事故への対応体制について注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-14-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-14-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-14-0.html",
+   "title": "沖縄知事選、古謝氏が過去最多得票で当選～投票率と有権者の選択に何が起きたのか",
+   "title_en": "Okinawa Governor Election: Koza Wins with Record-Breaking Vote Count—What Changed?",
+   "category": "国内",
+   "published": "2026-09-14",
+   "summary": "沖縄県知事選挙で古謝氏が過去最多となる得票数を獲得し当選した。この結果は前回選挙との比較で有権者の投票行動に大きな変化があったことを示唆している。沖縄県の政治動向が今後の県政運営にどう影響するか注目が集まっている。"
+  },
   {
    "slug": "2026-09-13-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-13-42.html",
