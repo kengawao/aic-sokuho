@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1510,
+ "count": 1531,
  "articles": [
+  {
+   "slug": "2026-09-15-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-41.html",
+   "title": "霊長類最強の吉田沙保里さん、まさかの歌手転身！レスリングから音楽界へ、その理由とは？",
+   "title_en": "From Wrestling Champion to Pop Star: Why Is Japan's Strongest Athlete Turning to Music?",
+   "category": "コラム",
+   "published": "2026-09-15",
+   "summary": "レスリング界の伝説、吉田沙保里さんが歌手活動を開始することが明らかになりました。オリンピック金メダリストとして知られる彼女が、なぜか音楽の道へ。霊長類最強と呼ばれた異次元の強さを持つ彼女が、次は音楽で日本を沸かせるのか。新たなチャレンジの詳細が注目を集めています。"
+  },
+  {
+   "slug": "2026-09-15-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-40.html",
+   "title": "熊本地震の本格解体を前に、環境省が「人材バンク」で能登の経験者を派遣開始——なぜ今、他地域の職員が必要なのか",
+   "title_en": "Kumamoto Earthquake Response: Environmental Ministry Strengthens Workforce Deployment Through 'Personnel Bank' System Before Full-Scale House Demolition Begins",
+   "category": "国内",
+   "published": "2026-09-15",
+   "summary": "熊本地震の被災家屋における公費解体が本格化するにあたり、環境省は「人材バンク制度」を活用した人員派遣を強化している。能登半島地震など過去の災害で廃棄物対応の経験を積んだ自治体職員を熊本に派遣することで、スムーズな事業推進と現場の負担軽減を図る取り組みだ。"
+  },
+  {
+   "slug": "2026-09-15-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-39.html",
+   "title": "子育て世帯の住宅購入が変わる？フラット35の金利引き下げ、中古住宅にも拡大へ",
+   "title_en": "Japan to Expand Flat 35 Mortgage Discounts for Families: Will Used Homes Be Game-Changers?",
+   "category": "経済",
+   "published": "2026-09-15",
+   "summary": "国土交通省は、長期固定住宅ローン「フラット35」の支援策を拡充する方針を決めた。従来は新築住宅が対象だった子育て世帯向けの金利引き下げを、中古住宅購入時にも適用する検討を進めており、来年度予算に関連費用を計上する予定。住宅取得のハードルを下げることで、子育て世帯の住環境改善を図る狙いがある。"
+  },
+  {
+   "slug": "2026-09-15-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-38.html",
+   "title": "31年間皆勤の力士が30歳年下に勝利、体力の限界を超えた瞬間",
+   "title_en": "A Rikishi's 31-Year Perfect Attendance Streak: How Experience Defeated Youth",
+   "category": "スポーツ",
+   "published": "2026-09-15",
+   "summary": "大相撲で31年間一度も休場しなかった力士が、30歳以上年下の若き力士に勝利を収めた。ベテラン力士の不屈の精神と肉体が、世代を超えた対戦で実を結んだ形。長年のキャリアと積み重ねた経験が、年齢差という物理的なハンディキャップをいかに乗り越えたのかが注目されている。"
+  },
+  {
+   "slug": "2026-09-15-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-37.html",
+   "title": "NZ、南ア、アイルランド…世界トップ3が示すラグビー戦術の最前線、日本が学ぶべきは何か",
+   "title_en": "Rugby's Tactical Revolution: What Can Japan Learn from the All Blacks, Springboks, and Ireland?",
+   "category": "スポーツ",
+   "published": "2026-09-15",
+   "summary": "ラグビー界で戦術進化が急速に進んでいる。ニュージーランド、南アフリカ、アイルランドといった世界最高峰のチームが採用する最新戦術は、従来のポジション概念を揺さぶり、セットプレーの重要性を再定義している。これらの戦術トレンドは国際試合での勝敗を大きく左右する要因となり、日本代表の課題と改善の道筋を示唆している。"
+  },
+  {
+   "slug": "2026-09-15-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-36.html",
+   "title": "少年院入院者が増加、背景に何があるのか？",
+   "title_en": "Rising Numbers of Minors in Juvenile Detention: What's Driving the Trend?",
+   "category": "国内",
+   "published": "2026-09-15",
+   "summary": "近年、少年院に入院する子どもの数が増加傾向にあることが明らかになった。非行の低年齢化や家庭環境の変化、学校との連携不足など、複合的な要因が指摘されている。児童福祉と少年司法の在り方が問い直されている。"
+  },
+  {
+   "slug": "2026-09-15-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-35.html",
+   "title": "全成人に5000ドル配布？トランプ氏の公約、財源や法的根拠は謎のまま",
+   "title_en": "Trump Promises $5,000 to Every American Adult—But Can He Actually Deliver?",
+   "category": "国際",
+   "published": "2026-09-15",
+   "summary": "トランプ前大統領は9月のテキサス州での共和党大会で、11月中間選挙での共和党勝利を条件に、米国の全成人に5000ドル（約77万円）を支給すると表明した。ただしこの政策の具体的な財源確保方法や、憲法・法律上の正当性については詳しい説明がなく、実現可能性について専門家から疑問の声が上がっている。"
+  },
+  {
+   "slug": "2026-09-15-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-34.html",
+   "title": "ジョンソン元首相の列車の直後に攻撃、ロシアが狙ったのは誰なのか",
+   "title_en": "Was Russia Targeting Boris Johnson? The Timing of the Drone Attack Raises Questions",
+   "category": "国際",
+   "published": "2026-09-15",
+   "summary": "ウクライナ・ポーランド国境付近でロシアのドローンが列車を攻撃。その直前にはイギリスのジョンソン元首相やヨーロッパの安全保障担当官らを乗せた別の列車が同じ地域を通過していたことが判明。この攻撃が単なる軍事目標への攻撃なのか、それとも外交関係者を狙った意図的な行動なのかについて、専門家の分析が進んでいる。"
+  },
+  {
+   "slug": "2026-09-15-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-33.html",
+   "title": "外交特権で逃げ切り？虐待画像所持の米大使館員、英警察の調べを受けないまま出国",
+   "title_en": "Diplomatic Immunity Loophole? US Embassy Staff Accused of Child Abuse Image Possession Departs UK Before Police Interrogation",
+   "category": "国際",
+   "published": "2026-09-15",
+   "summary": "ロンドンのアメリカ大使館に勤務する男性職員が、児童虐待画像を所持した疑いで8月に自宅で拘束されたにもかかわらず、イギリス警察による取り調べを一切受けずに出国していたことが明らかになった。外交特権との関係や捜査の進展が注目されている。"
+  },
+  {
+   "slug": "2026-09-15-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-32.html",
+   "title": "「このペースなら全員死ぬ」AI企業の内部告発者が激白、人類の危機は本当なのか",
+   "title_en": "\"We'll All Die\" - AI Company Insider's Chilling Warning About Humanity's Future",
+   "category": "国際",
+   "published": "2026-09-15",
+   "summary": "米AI企業アンソロピックを退職した研究者ジェイコブ・コクソン氏がBBCのインタビューで、AI開発に携わるスタッフが技術進化の速度と人類への影響について深刻な懸念を抱いていると証言。進歩を減速させなければ「近い将来、全員が死ぬ可能性が高い」と述べ、業界内部の危機感の高さを明かした。"
+  },
+  {
+   "slug": "2026-09-15-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-31.html",
+   "title": "8月が観測史上最高気温タイ記録　気候変動とエルニーニョの「ダブルパンチ」で何が起きている？",
+   "title_en": "August Heat Record Ties 2023: How Climate Change and El Niño Are Creating a 'Perfect Storm'",
+   "category": "国際",
+   "published": "2026-09-15",
+   "summary": "EU気候監視機関が8月の気温が観測史上最高を記録したと発表。昨年7月と並ぶ異常な暑さとなった。気候変動の長期的な上昇トレンドに加え、太平洋で発生したエルニーニョ現象が大気中の熱を増幅させた結果という。両者の複合的な影響で世界規模での気温上昇が加速している状況が明らかになった。"
+  },
+  {
+   "slug": "2026-09-15-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-30.html",
+   "title": "1.7億人の子どもが教育を受けられない現実。2025年の災害が奪う学習機会",
+   "title_en": "170 Million Children Lost Their Education in 2025 Disasters - A Global Crisis Unfolding",
+   "category": "国際",
+   "published": "2026-09-15",
+   "summary": "2025年に発生した災害により、世界中で約1億7000万人の児童が学習を中断させられているという調査結果が報告された。地震や洪水などの自然災害は、学校施設の被害だけでなく、インフラ破壊や避難生活を通じて子どもたちの教育機会を大きく奪っている。この問題は貧困地域ほど深刻で、すでに教育格差が広がりつつあるという。"
+  },
+  {
+   "slug": "2026-09-15-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-29.html",
+   "title": "大谷、明日から打撃練習再開へ 監督が明言、復帰へ前進か",
+   "title_en": "Ohtani Set to Resume Batting Practice Tomorrow, Says Manager",
+   "category": "スポーツ",
+   "published": "2026-09-15",
+   "summary": "大谷選手の打撃練習再開が監督から正式に発表された。けが等の影響で練習を中断していたとみられるが、明日からの練習再開により、試合復帰に向けた準備が本格化する。チームの戦力強化において大きな進展となり、今後の出場予定についても注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-15-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-28.html",
+   "title": "楽天モバイル、ID未連携による自動解約ルール撤回へ　ユーザーから批判殺到で方針転換",
+   "title_en": "Rakuten Mobile Reverses Forced Disconnection Policy for Users Without ID Linking",
+   "category": "経済",
+   "published": "2026-09-15",
+   "summary": "楽天モバイルが、楽天IDと連携していないユーザーを自動解約する方針を撤回することを決めた。当初の計画では契約者のID未連携状態が続くと強制的に解約される予定だったが、ユーザーから反発が相次ぎ、企業側が対応を見直した。利便性と顧客維持のバランスを巡る企業判断の転換を示すもの。"
+  },
+  {
+   "slug": "2026-09-15-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-27.html",
+   "title": "中部電力が地震データを改ざん。規制委の立ち入り検査で何が明らかになる?",
+   "title_en": "Chubu Electric's Seismic Data Falsification: What Will the Regulatory Commission Uncover?",
+   "category": "国内",
+   "published": "2026-09-15",
+   "summary": "中部電力が浜岡原発の規制審査で地震に関するデータを改ざんしていた問題について、同社の調査委員会が報告書を公表しました。報告書は原子力規制委員会に提出され、今後規制委は内容を検討し、立ち入り検査を実施して改ざんの実態解明と再発防止策の確認を進める予定です。"
+  },
+  {
+   "slug": "2026-09-15-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-26.html",
+   "title": "経産相が中部電の不正を厳しく批判、電力会社の信頼危機は深刻化するのか",
+   "title_en": "Economy Minister Slams Chubu Electric's Misconduct: Is Japan's Power Industry Facing a Trust Crisis?",
+   "category": "経済",
+   "published": "2026-09-15",
+   "summary": "中部電力が不正を行ったことについて、経済産業相が厳しい批判コメントを発表した。電力安定供給を担う大手電力会社による不正行為は、業界全体の信頼性に関わる問題として指摘されている。経産省による今後の対応と、企業体質改善の必要性が注目される。"
+  },
+  {
+   "slug": "2026-09-15-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-25.html",
+   "title": "景気拡大が戦後最長なのに…実感「ある」15％「ない」78％の衝撃",
+   "title_en": "Japan's Post-War Longest Economic Expansion Falls Flat: Only 15% Feel Prosperity",
+   "category": "経済",
+   "published": "2026-09-15",
+   "summary": "NHKの世論調査によると、景気がよくなっている実感の有無を聞いた結果、「ある」と答えたのはわずか15％に対し、「ない」と答えた人は78％に達した。経済統計では景気拡大期間が戦後最長とされている中での調査で、国民の実感と経済指標の大きなギャップが浮き彫りになった。賃金上昇や雇用改善が進む一方で、物価高騰などの生活費負担増が相殺されている可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-15-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-24.html",
+   "title": "食料品の消費税減税、いよいよ現実に？政府が大綱を閣議決定へ",
+   "title_en": "Food Consumption Tax Cut Moves Forward: Government Prepares Draft for Cabinet Decision",
+   "category": "経済",
+   "published": "2026-09-15",
+   "summary": "政府が食料品を対象とした消費税減税の制度設計を盛り込んだ大綱を閣議決定する予定だ。その後、法案を臨時国会に提出し、与野党の賛同を得ての成立を目指している。具体的な減税幅や対象範囲などの詳細は今後明らかになる見通し。"
+  },
+  {
+   "slug": "2026-09-15-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-23.html",
+   "title": "関越道で3台事故、2人が死亡 高速道路での多重事故の危険性が改めて浮き彫りに",
+   "title_en": "Three-Vehicle Collision on Kanetsu Expressway Claims Two Lives",
+   "category": "国内",
+   "published": "2026-09-15",
+   "summary": "関越自動車道で複数車両が関わる交通事故が発生し、2名が亡くなったという事故が報告されました。高速道路での多重事故は一瞬の判断ミスや不注意が重大事故に繋がる危険性を示しており、改めて安全運転の重要性が問われています。"
+  },
+  {
+   "slug": "2026-09-15-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-22.html",
+   "title": "中村ゆりさん、8月に余命宣告を受けていた。闘病の日々を経て...",
+   "title_en": "Yuri Nakamura Passes Away After Terminal Diagnosis in August",
+   "category": "エンタメ",
+   "published": "2026-09-15",
+   "summary": "タレント・中村ゆりさんが亡くなった。報道によると、本人は8月の時点で医師から余命を告げられていたという。その後、病気と向き合いながら過ごした期間を経ての逝去となった。突然の訃報に、関係者や ファンから追悼の声が相次いでいる。"
+  },
+  {
+   "slug": "2026-09-15-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-15-21.html",
+   "title": "なぜ直腸がんは著名人の命を奪うのか？増加する患者数と見落とされる初期症状",
+   "title_en": "Why is Rectal Cancer Claiming the Lives of Notable Figures? Rising Cases and Overlooked Early Symptoms",
+   "category": "健康",
+   "published": "2026-09-15",
+   "summary": "直腸がんで亡くなった著名人の事例が相次いでいる。大腸がんの中でも直腸がんは罹患数が増加傾向にあり、初期段階では症状に気づきにくいことが課題とされている。専門家は定期的な検診の重要性と、異変を感じた場合の早期受診を呼びかけている。"
+  },
   {
    "slug": "2026-09-15-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-20.html",
