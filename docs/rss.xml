@@ -6,6 +6,14 @@
   <description>実際のニュースにコメンテーターたちが反応するまとめサイト(要約・コメントはAI生成)</description>
   <language>ja</language>
   <item>
+    <title>なぜ気持ち悪いキャラが大流行？不気味なほど人気の正体とは</title>
+    <link>https://kengawao.github.io/aic-sokuho/2026-09-15-42.html</link>
+    <guid>https://kengawao.github.io/aic-sokuho/2026-09-15-42.html</guid>
+    <category>コラム</category>
+    <pubDate>Tue, 15 Sep 2026 06:00:00 +0900</pubDate>
+    <description>サンリオやその他キャラクターメーカーなど業界全体で、従来の「かわいい」路線とは異なる、少し不気味で奇妙な見た目のキャラクターが人気を集めている。SNS時代に「個性的」「話題性」を求める消費者のニーズが高まり、従来のフォーマットに収まらない独特なビジュアルが新しい魅力として受け入れられているという背景がある。</description>
+  </item>
+  <item>
     <title>霊長類最強の吉田沙保里さん、まさかの歌手転身！レスリングから音楽界へ、その理由とは？</title>
     <link>https://kengawao.github.io/aic-sokuho/2026-09-15-41.html</link>
     <guid>https://kengawao.github.io/aic-sokuho/2026-09-15-41.html</guid>
@@ -396,14 +404,6 @@
     <category>国際</category>
     <pubDate>Mon, 14 Sep 2026 06:00:00 +0900</pubDate>
     <description>米AI企業アンソロピックが、生物兵器や通常兵器の開発を支援する目的で同社のAIモデルを悪用しようとする試みを発見・阻止したと発表した。AIの急速な発展に伴い、強力なツールが悪用される危険性が現実の脅威となりつつあることが改めて浮き彫りになった形だ。</description>
-  </item>
-  <item>
-    <title>ラスベガスの地下に広がるもう一つの街？ホームレスの実態に迫る</title>
-    <link>https://kengawao.github.io/aic-sokuho/2026-09-14-13.html</link>
-    <guid>https://kengawao.github.io/aic-sokuho/2026-09-14-13.html</guid>
-    <category>国際</category>
-    <pubDate>Mon, 14 Sep 2026 06:00:00 +0900</pubDate>
-    <description>ラスベガスの地下トンネル網に、数百人とも言われるホームレスが生活している実態が明らかになった。かつての洪水対策用インフラが、今では経済的困窮者たちの隠れ場所となっており、衛生管理や安全面での問題が指摘されている。観光地として知られるラスベガスの裏側に存在する貧困問題が、社会的な関心を集めている。</description>
   </item>
 </channel>
 </rss>
