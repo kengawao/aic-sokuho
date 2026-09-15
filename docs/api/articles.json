@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1553,
+ "count": 1574,
  "articles": [
+  {
+   "slug": "2026-09-16-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-20.html",
+   "title": "35kgの金塊が突然兵庫県に降臨！犯人は聖人か、それとも…？",
+   "title_en": "Mystery Philanthropist Donates 35kg of Gold to Hyogo Prefecture—But Who? And Why?",
+   "category": "コラム",
+   "published": "2026-09-16",
+   "summary": "兵庫県に匿名で金の延べ棒35kgが寄付されるという、ドラマの中でしか起こらないような出来事が現実に。宝くじに当たったのか、昭和の映画の世界か、それとも何かの儀式か…真犯人（？）の正体は謎のままですが、受け取った側は大喜び間違いなし。日本はまだまだ心温まる話に満ちているようです。"
+  },
+  {
+   "slug": "2026-09-16-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-19.html",
+   "title": "最新鋭の目が落ちた。グローバルホークはなぜ墜落したのか？",
+   "title_en": "Japan's Advanced Eye in the Sky Falls—What Went Wrong with the Global Hawk?",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "航空自衛隊の大型無人偵察機「グローバルホーク」が15日、鳥取県沖で海上に墜落する事故が発生した。自衛隊は機体の回収と地上装置との通信履歴の分析を進めており、技術的トラブル、通信障害、操作ミスなど複数の可能性から原因特定を急いでいる。同機は高高度で長時間飛行が可能な重要な偵察資産で、今後の運用に影響が出る可能性がある。"
+  },
+  {
+   "slug": "2026-09-16-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-18.html",
+   "title": "福岡県議会『金銭授受問題』第三者委が17日設置へ。正副議長ポストめぐるお金の流れが明らかになるのか",
+   "title_en": "Fukuoka Prefectural Assembly's Money Scandal: Will an Independent Panel Finally Expose the 'Funds-for-Position' Deal?",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "福岡県議会が正副議長ポストをめぐる金銭授受問題を調査する第三者委員会を17日に設置する方針で調整を進めている。県庁側も、議員の高額な海外活動費などを調べる別の第三者委員会を近く設置予定。議会と行政双方で不透明な金銭や活動をめぐる疑惑の全容解明が進む見通し。"
+  },
+  {
+   "slug": "2026-09-16-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-17.html",
+   "title": "AI企業が自社製品の「強制停止ボタン」義務化を求める矛盾　本当に安全性を心配してるの？",
+   "title_en": "AI Companies Propose Kill Switches for Their Own Systems—But Who Really Controls Them?",
+   "category": "IT",
+   "published": "2026-09-16",
+   "summary": "AI大手アンソロピックの共同創業者がBBCの番組で、開発企業にAI搭載システムの強制停止機能（キルスイッチ）の装備を義務付けるべきだと提唱した。急速に進化するAI技術がもたらす潜在的リスクへの懸念が背景にあり、業界幹部から相次ぐ警告が注目を集めている。技術規制と産業競争力のバランスをめぐる議論が加速する中、実現可能性と実効性が問われている。"
+  },
+  {
+   "slug": "2026-09-16-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-16.html",
+   "title": "ドリカムが無断ロゴ使用に警告　なぜ今？SNS時代の権利侵害が加速",
+   "title_en": "Dream Come True Cracks Down on Unauthorized Logo Use: Why Now in the Social Media Age?",
+   "category": "エンタメ",
+   "published": "2026-09-16",
+   "summary": "人気音楽グループのドリームカムトゥルーが、自らのロゴやアート作品が無断で商品化・使用される事例が相次いでいることを受け、ファンや事業者に対して警告を発表した。SNS拡大に伴い、許可なくグッズ化やデザイン流用される事態が増加しており、同グループは著作権保護の重要性を改めて強調している。"
+  },
+  {
+   "slug": "2026-09-16-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-15.html",
+   "title": "メルカリが30周年ポケカの出品を一時禁止　転売ヤーの暴走に歯止めか",
+   "title_en": "Mercari Bans Pokemon 30th Anniversary Card Listings Amid Reselling Crisis",
+   "category": "経済",
+   "published": "2026-09-16",
+   "summary": "フリマアプリ大手のメルカリが、ポケモンカード30周年記念商品の出品を一時的に禁止する措置を取った。高騰する転売価格や大量出品による市場の混乱を受けた対応とみられる。ポケカ市場の過熱が問題視される中、プラットフォーム側の規制強化が注目される。"
+  },
+  {
+   "slug": "2026-09-16-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-14.html",
+   "title": "英国の3自治政府首長が初会合　連合王国の結束は揺らぐのか？",
+   "title_en": "Will the UK's Union Survive? Three Devolved Leaders Meet for Historic First Talks",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "イギリスを構成するウェールズ、スコットランド、北アイルランドの首長3人が、カーディフで初めて対面会談を実施した。連合王国からの離脱を志向する勢力が主導権を握るようになって以来、この3カ国の指導者が一堂に会するのは今回が初めて。憲政問題を含む、より緊密な協力体制の構築について議論が交わされた。"
+  },
+  {
+   "slug": "2026-09-16-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-13.html",
+   "title": "どうなる地球？アメリカがCO2削減規制を撤廃、化石燃料の規制緩和へ",
+   "title_en": "U.S. Scraps Coal and Gas Emissions Rules: What Does This Mean for Climate Action?",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "アメリカの環境保護局（EPA）が石炭・天然ガス火力発電所の温室効果ガス排出規制を撤廃すると発表した。この決定により、温暖化対策としての政策転換が図られることになる。国際的な気候変動対策にも影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-16-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-12.html",
+   "title": "20年間、薬を使って妻をレイプ…60件で有罪認めた英国人男性、10人以上の共犯者も",
+   "title_en": "British Man Admits to Raping Wife for Over 20 Years Using Drugs, Convicted on 60 Counts—with 10+ Accomplices Implicated",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "英マンチェスターの刑事法院で、60代のイギリス人男性が20年以上にわたって薬物を使用し、妻に気付かれないまま繰り返し性的暴行を加えたとして、計60件のレイプや性的犯罪について有罪を認めた。さらに調査により、同じ被害者に対して10人以上の男性被告が関与していることが判明し、集団での性的犯罪事件として拡大している。"
+  },
+  {
+   "slug": "2026-09-16-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-11.html",
+   "title": "北朝鮮体育相が訪日へ　アジア大会で日本と接触、その狙いは？",
+   "title_en": "North Korean Sports Minister to Visit Japan for Asian Games - What's Behind the Unusual Diplomatic Move?",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "北朝鮮の体育相がアジア大会への参加のため訪日することが明らかになった。両国の公式な高官レベルでの接触は異例であり、スポーツを通じた国際交流の一環とみられている。背景には各国のアジア大会への参加促進があるとの指摘もある。"
+  },
+  {
+   "slug": "2026-09-16-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-10.html",
+   "title": "米空軍が宇宙に兵器配備を認める　冷戦終結から30年、宇宙戦争の時代へ?",
+   "title_en": "US Air Force Admits to Deploying Weapons in Space: Welcome to Orbital Warfare?",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "米国空軍が宇宙空間への兵器配備を公式に認めた。これまで慎重だった姿勢から大きく転換し、衛星破壊兵器などの開発・配置を進める方針を明らかにした。中国やロシアの宇宙進出への対抗措置とみられ、新たな軍事領域での競争激化が懸念される。国際的な宇宙兵器規制の枠組みも問われることになりそうだ。"
+  },
+  {
+   "slug": "2026-09-16-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-9.html",
+   "title": "ロス五輪でNPB公式戦が中断？野球ファンに激震が走る理由",
+   "title_en": "Will NPB Pause Regular Season During LA Olympics? Baseball Fans React",
+   "category": "スポーツ",
+   "published": "2026-09-16",
+   "summary": "日本野球機構（NPB）が2028年のロサンゼルスオリンピック開催期間中、公式戦の一時中断を検討していることが明らかになった。五輪への選手派遣とシーズン運営のバランスを取るための措置とみられており、業界内で調整が進められている。"
+  },
+  {
+   "slug": "2026-09-16-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-8.html",
+   "title": "東海・関東甲信で警報級大雨の危機迫る、いつ・どこに注意すべき？",
+   "title_en": "Heavy rain warning looms over Tokai and Kanto-Koshin regions—what you need to know",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "気象庁の予報によると、東海地方から関東甲信地域にかけて数日以内に警報級の大雨が予想されている。土砂災害や河川の増水、浸水被害のリスクが高まっており、自治体では警戒態勢を強化。住民に対して早めの避難準備と最新の気象情報の確認を呼びかけている。この季節としては珍しい規模の降水量が見込まれている。"
+  },
+  {
+   "slug": "2026-09-16-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-7.html",
+   "title": "マンジャロで体重が激減、使用者が語る恐怖とは？",
+   "title_en": "Mounjaro Weight Loss Craze: Users Share Their Fears and Shocking Side Effects",
+   "category": "健康",
+   "published": "2026-09-16",
+   "summary": "糖尿病治療薬として開発された「マンジャロ」が、ダイエット目的での使用者の間で話題になっている。体重が急激に減少する一方で、予期しない副作用や身体の変化に戸惑う利用者の証言が上がっている。医学的な安全性と市場での実態のギャップが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-16-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-6.html",
+   "title": "なぜ子どもたちは危険な行為に走るのか？「ドパガキ」急増の背景にあるもの",
+   "title_en": "Why Are Kids Seeking Dangerous Thrills? The Rise of \"Dopamine-Chasing Youth\"",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "刺激を求めて危険な行為に及ぶ子どもたち「ドパガキ」が社会問題として注目されている。SNSの拡大やストレス社会、報酬系の脳の発達段階など、複合的な要因が指摘されている。専門家は家庭や学校での関わり方の重要性を強調している。"
+  },
+  {
+   "slug": "2026-09-16-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-5.html",
+   "title": "AIが人間より優秀なのに…マイクロソフトが「人間を優先」する理由",
+   "title_en": "Why Does Microsoft Put Humans First—Even When AI Is Smarter?",
+   "category": "IT",
+   "published": "2026-09-16",
+   "summary": "マイクロソフトが新たな行動規範を発表し、AI活用における意思決定の際には「人間を最優先にする」方針を掲げた。効率性だけでなく、倫理的な配慮が必要という姿勢を示している。これは急速に進むAI社会化への対抗措置として注目されている。"
+  },
+  {
+   "slug": "2026-09-16-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-4.html",
+   "title": "金融庁がソニー生命に立ち入り検査、何か問題が？",
+   "title_en": "Japan's Financial Watchdog Inspects Sony Life Insurance – What's the Issue?",
+   "category": "経済",
+   "published": "2026-09-16",
+   "summary": "金融庁がソニー生命に対して立ち入り検査を実施することが明らかになりました。保険業法に基づいた定期的な監督活動の一環とみられていますが、顧客保護や経営状況に関わる重要な調査となります。業界内でも注目が集まっており、検査結果によっては保険市場全体に影響を及ぼす可能性があります。"
+  },
+  {
+   "slug": "2026-09-16-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-3.html",
+   "title": "52歳・山本美憂がボクシング初勝利 なぜ元格闘家は新たな挑戦を始めたのか？",
+   "title_en": "52-Year-Old Miyou Yamamoto Scores First Boxing Victory: Why Is the Former Fighter Taking On a New Challenge?",
+   "category": "スポーツ",
+   "published": "2026-09-16",
+   "summary": "元格闘家でタレントの山本美憂が52歳でボクシングの試合に出場し、初勝利を収めた。複数のスポーツで活躍してきた彼女が、新たな舞台でも実績を残すことに成功。年齢を感じさせないパフォーマンスが話題を集めている。"
+  },
+  {
+   "slug": "2026-09-16-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-2.html",
+   "title": "家族全員が結核感染、20代女性が明かす感染経路と症状の実態",
+   "title_en": "Entire Family Infected with Tuberculosis: A 20-Something Woman's Story",
+   "category": "健康",
+   "published": "2026-09-16",
+   "summary": "結核に家族全員が感染した20代女性が、自身の体験を語るニュース。感染経路や発症までの過程、治療の実際など、結核がいまだに身近な感染症であることを改めて浮き彫りにしている。医療体制の整備が進む現代日本でも、感染リスクが存在することへの警鐘となっている。"
+  },
+  {
+   "slug": "2026-09-16-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-1.html",
+   "title": "基準地価が5年連続上昇、でも地域格差は深刻化…あなたの土地は値上がりしてる?",
+   "title_en": "Japan's Land Prices Rise for 5th Year Straight, But Is Your Property Benefiting?",
+   "category": "経済",
+   "published": "2026-09-16",
+   "summary": "国土交通省が発表した基準地価が5年連続で全国平均が上昇したことが明らかになった。都市部の回復と需要増加が主な要因だが、地方と都市部の価格差はさらに広がっており、地域によって明暗が分かれている状況が続いている。"
+  },
+  {
+   "slug": "2026-09-16-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-0.html",
+   "title": "ドコモ、34万人の個人情報を無断提供…なぜ大手キャリアでこんなことが？",
+   "title_en": "NTT Docomo Shares 340,000 Users' Personal Data Without Consent—How Did Japan's Telecom Giant Let This Happen?",
+   "category": "IT",
+   "published": "2026-09-16",
+   "summary": "NTTドコモが顧客34万人分の個人情報を本人の同意なく外部に提供していたことが明らかになった。提供先や具体的な情報内容、発覚の経緯などが焦点となっている。大手通信キャリアの個人情報管理体制が厳しく問われることになりそうだ。"
+  },
   {
    "slug": "2026-09-15-63",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-15-63.html",
