@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1574,
+ "count": 1575,
  "articles": [
+  {
+   "slug": "2026-09-16-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-21.html",
+   "title": "由伸が朗希ネタで報道陣を爆笑させた話、野球ファンが大喜び！監督のユーモアセンスが光る",
+   "title_en": "Yoshinobu's Joke About Akira Had Reporters Roaring With Laughter - Baseball Fans Love It!",
+   "category": "コラム",
+   "published": "2026-09-16",
+   "summary": "野球界の著名人・由伸が、朗希に関する冗談を言って報道陣を大爆笑させたというほのぼのなニュース。監督らしからぬユーモアセンスが光り、その場の雰囲気を一気に和ませた様子。野球界にも人間らしい温かみがあるんだなという話題です。"
+  },
   {
    "slug": "2026-09-16-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-20.html",
