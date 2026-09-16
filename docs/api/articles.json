@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1575,
+ "count": 1596,
  "articles": [
+  {
+   "slug": "2026-09-16-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-42.html",
+   "title": "おばあちゃんの味が令和の若者に刺さる理由。SNS映えしない地味飯がなぜバズる？",
+   "title_en": "Why Gen Z Is Obsessed With Grandma's Home Cooking: The Unexpected Rise of 'Unsexy' Food",
+   "category": "コラム",
+   "published": "2026-09-16",
+   "summary": "肉じゃがや筑前煮といった素朴なローカルフードが若い世代の間で注目を集めているという。派手さはないものの、素材の味わいや懐かしさ、地元の食文化を再発見する流れが背景にあるとみられている。SNS時代に意外と『地味』が光るようになった食トレンドの正体に迫る。"
+  },
+  {
+   "slug": "2026-09-16-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-41.html",
+   "title": "高校生が発見した小惑星、学校名で命名される 天文学史上でも珍しい快挙",
+   "title_en": "Japanese High School Students Discover Asteroid Named After Their School—A Rare Achievement in Astronomy",
+   "category": "科学",
+   "published": "2026-09-16",
+   "summary": "日本の高校生が小惑星の発見に成功し、その小惑星が自分たちの学校名で国際天文学連合に正式命名されたというニュース。アマチュア天文家による発見自体は珍しくありませんが、学校単位での発見・命名は極めて稀で、天文学教育の成果を示す事例として注目されています。"
+  },
+  {
+   "slug": "2026-09-16-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-40.html",
+   "title": "7連敗なのになぜ「M」が減る？阪神が直面する野球の数学的逆説",
+   "title_en": "How Can Hanshin's Magic Number Decrease Despite 7-Game Losing Streak? The Mathematical Paradox of Baseball Pennant Races",
+   "category": "スポーツ",
+   "published": "2026-09-16",
+   "summary": "阪神が7連敗を喫しても、マジックナンバー(M)が減少するという一見矛盾した現象が発生している。これは優勝チームの勝敗結果によるもの。自力で勝つだけでなく、ライバルチームの敗北がMの減少に直結する仕組みについて、野球の順位争いの複雑さが浮かび上がっている。"
+  },
+  {
+   "slug": "2026-09-16-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-39.html",
+   "title": "ランクル、ついに国内初ハイブリッド設定へ。頑丈さと燃費を両立できるのか",
+   "title_en": "Land Cruiser Goes Hybrid for Japan: Can Toyota Balance Ruggedness with Fuel Efficiency?",
+   "category": "経済",
+   "published": "2026-09-16",
+   "summary": "トヨタのランドクルーザーが国内市場向けにハイブリッドモデルを初めて設定することが明らかになった。世界的なCO2削減圧力と、高い走破性を求めるユーザーのニーズを両立させる取り組み。悪路走行性能を保ちながら燃費効率を高められるかが注目される。"
+  },
+  {
+   "slug": "2026-09-16-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-38.html",
+   "title": "NetflixがSEGA作品を次々映像化するワケ　ゲーム大手の戦略転換が加速",
+   "title_en": "Why Netflix Is Racing to Adapt SEGA Games: The Strategy Behind the Streaming Giant's Latest Gaming Push",
+   "category": "エンタメ",
+   "published": "2026-09-16",
+   "summary": "Netflixがセガの人気ゲーム作品を映像化プロジェクトとして進めている。かつてゲーム業界で存在感を持つセガが、なぜ今、大手動画配信サービスとのコンテンツ化に注力するのか。デジタル時代のゲーム企業の収益多角化戦略と、映像化による新規ファン獲得の狙いが背景にあるとみられる。"
+  },
+  {
+   "slug": "2026-09-16-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-37.html",
+   "title": "ドクターイエロー、引退へ 鉄道ファン悲鳴「あの黄色い姿は永遠だと思ってた」",
+   "title_en": "Doctor Yellow Retires: Rail Fans Mourn the End of Japan's Iconic Yellow Inspection Train",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "JR西日本がドクターイエロー（黄色い線路検測車両）の保存を決定した。同車両は東海道新幹線の安全性を確認する重要な役割を担ってきたが、新しい検測システムの導入などにより引退することになる。鉄道ファンの間では、独特の存在感を持つ車両の消失を惜しむ声が上がっている。"
+  },
+  {
+   "slug": "2026-09-16-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-36.html",
+   "title": "北朝鮮に50億円の賠償命令、韓国地裁が下す―何があった？",
+   "title_en": "South Korean Court Orders North Korea to Pay $50 Million—What Triggered This Historic Ruling?",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "韓国の地方裁判所が北朝鮮に対して50億円の賠償を命じる判決を下した。この裁定は、両国間の長年の紛争や人権問題に関連するものとみられている。ただし北朝鮮が実際に支払う可能性は極めて低く、象徴的な判決との見方が大半。南北関係が緊迫する中での司法判断として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-16-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-35.html",
+   "title": "中国、国民の海外渡航をさらに制限へ。政府統制の強化が加速",
+   "title_en": "China Tightens Grip: New Restrictions on Citizens' International Travel Spark Concerns",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "中国政府は15日、自国民の出入国に関する新しい規制を導入した。これまで以上に厳しい制限措置となり、国民の行動に対する政府統制がさらに強化されることが予想されている。背景には、経済情勢や政治的な安定維持の意図があるとみられている。"
+  },
+  {
+   "slug": "2026-09-16-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-34.html",
+   "title": "トルコで数十人拘束、LGBTQ+活動家への取り締まり激化　背景に何があるのか",
+   "title_en": "Turkey Cracks Down on LGBTQ+ Activists: What's Behind the Escalating Crackdown?",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "トルコ警察が15日、LGBTQ+活動家ら数十人を拘束したと報じられた。これは政府主導の性的少数者に関連する活動や施設への取り締まりの一環とみられている。トルコでは近年、こうした活動家への圧力が強まっているとの指摘もある。"
+  },
+  {
+   "slug": "2026-09-16-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-33.html",
+   "title": "バルト海で何が起きた？ロシア軍艦がデンマーク軍ヘリに火炎弾発射、NATO加盟国との緊張が急上昇",
+   "title_en": "What Happened in the Baltic Sea? Russian Warship Fires Flares at Danish Military Helicopter, NATO Tensions Escalate",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "バルト海でロシアの軍艦がデンマーク軍のヘリコプターに対して火炎弾2発を発射する事件が発生。デンマークのフレデリクセン首相はこの行動を「無謀」と非難し、ロシアによる威嚇と分断を目的とした挑発行為だと指摘した。NATO加盟国への直接的な危険行為として国際的な懸念が高まっている。"
+  },
+  {
+   "slug": "2026-09-16-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-32.html",
+   "title": "米国が宇宙兵器の配備を初めて認める、ロシア・中国との軍拡競争が本格化",
+   "title_en": "US Officially Admits to Deploying Space Weapons as Russia and China Accelerate Arms Race",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "アメリカ政府は地球の軌道上に宇宙兵器を配備したことを公式に認めた。同国がこうした攻撃能力を保有することを明かしたのは初めて。米軍高官は以前から、ロシアと中国が宇宙での軍事能力を急速に高めており、米国の人工衛星を破壊・妨害する技術開発を進めていると警告していた。今回の発表はそうした脅威への対抗措置として位置付けられている。"
+  },
+  {
+   "slug": "2026-09-16-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-31.html",
+   "title": "榮倉奈々が100人超に衣服差し入れ、その背景にあるものは？",
+   "title_en": "Actress Eikura Nana Donates Clothing to Over 100 People: What's Behind This Act of Kindness?",
+   "category": "エンタメ",
+   "published": "2026-09-16",
+   "summary": "女優の榮倉奈々が100人を超える人々に対して衣服の差し入れを行ったことが報じられた。この行動の詳細については明かされていないが、慈善活動やボランティア活動の一環と見られている。芸能人による社会貢献活動として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-16-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-30.html",
+   "title": "よど号事件の主犯格・赤木容疑者が死亡か　50年前のハイジャック事件、終焉へ",
+   "title_en": "Yodo-Go Hijacking Suspect Akagi Dies: 50-Year-Old Japanese Terror Case Reaches Conclusion",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "1970年に発生した日本赤軍によるよど号ハイジャック事件の主犯格とされる赤木志郎容疑者が死亡した可能性が明らかになった。北朝鮮にて消息が途絶えていた同容疑者について、新たな情報が浮上。半世紀近く続いた事件の謎が新たな局面を迎えることになる。"
+  },
+  {
+   "slug": "2026-09-16-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-29.html",
+   "title": "十勝岳の噴火リスク高まる…調査委が警告、北海道の観光地は大丈夫?",
+   "title_en": "Tokachi Volcano Eruption Risk Rises: What Does This Mean for Hokkaido Tourism?",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "北海道の十勝岳について、火山噴火予知連絡会の調査委員会が噴火の可能性が高まっていると判断したことが明らかになりました。地震活動や地殻変動などの観測データから、火山活動の活発化を確認しており、今後の動向に注視が必要とされています。地元自治体も情報収集を強化する方針です。"
+  },
+  {
+   "slug": "2026-09-16-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-28.html",
+   "title": "メルカリ株が1カ月で3割暴落…なぜ急落？投資家の信頼は戻るのか",
+   "title_en": "Mercari Stock Plummets 30% in a Month—What's Triggering the Selloff?",
+   "category": "経済",
+   "published": "2026-09-16",
+   "summary": "フリマアプリ大手のメルカリの株価が急速に下落している。この1カ月間で30%近い下げを記録し、市場で懸念が広がっている。利用者増加で成長企業として注目されてきたメルカリだが、収益性や競争環境などの課題が浮上し、投資家心理が冷え込んでいるとみられる。今後の経営方針が焦点になる。"
+  },
+  {
+   "slug": "2026-09-16-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-27.html",
+   "title": "フィジーがHIV非常事態宣言、太平洋の島国で何が起きている？",
+   "title_en": "What's Happening as Fiji Declares HIV Emergency?",
+   "category": "国際",
+   "published": "2026-09-16",
+   "summary": "太平洋の島国フィジーでHIV感染の急速な拡大を受けて、政府が非常事態宣言を発令した。医療体制が限定的な島国での感染症危機は、地域全体への懸念を高めている。感染拡大の背景や今後の対策が注目されている。"
+  },
+  {
+   "slug": "2026-09-16-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-26.html",
+   "title": "36歳・高安が横綱大の里から金星　ベテランの意地が光った一番とは",
+   "title_en": "36-Year-Old Takayasu Upsets Yokozuna Onosho with Rare Gold Star Victory",
+   "category": "スポーツ",
+   "published": "2026-09-16",
+   "summary": "大相撲で36歳のベテラン力士・高安が、横綱大の里を破る金星を獲得した。年を重ねてなお第一線で活躍する高安の実力と、大の里との力関係の変化を示す結果として注目を集めている。ベテランと若き横綱の対戦がもたらした波紋が広がっている。"
+  },
+  {
+   "slug": "2026-09-16-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-25.html",
+   "title": "日本で100歳以上が初の10万人超え。2070年には65歳以上が4割になるって、どうなる日本？",
+   "title_en": "Japan's 100+ Population Hits 1 Million for First Time. What Happens When Over 40% Are Elderly by 2070?",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "厚生労働省が発表した調査によると、日本の100歳以上の高齢者が初めて10万人を突破した。現在、日本の人口構成では65歳以上が約3割を占めており、医療の進歩と生活水準の向上により長寿化が進んでいる。さらに懸念されるのは、今後50年で高齢化率がさらに加速し、2070年までに65歳以上の割合が約4割に達すると予想されている点だ。社会保障制度や労働力確保といった課題への対応が急務となっている。"
+  },
+  {
+   "slug": "2026-09-16-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-24.html",
+   "title": "ガソリン補助金が過去最高の51円に　このままだと家計はどうなる？",
+   "title_en": "Japan's Gas Subsidy Hits Record 51 Yen Per Liter: How Long Can This Last?",
+   "category": "経済",
+   "published": "2026-09-16",
+   "summary": "政府が給油時に支給するガソリン補助金が過去最高の51円に達したことが明らかになりました。国際的な原油価格の高騰に対応する緊急措置として実施されている補助金は、1リットルあたりの支給額を段階的に引き上げており、今回が過去最高水準となっています。エネルギーコスト増加を緩和する狙いですが、補助金の財政負担増大も課題となっています。"
+  },
+  {
+   "slug": "2026-09-16-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-23.html",
+   "title": "先進国なのに…日本の男女平等は145カ国中117位。なぜこんなに低い？",
+   "title_en": "A Developed Nation Yet Behind: Why Is Japan Ranked 117th Out of 145 Countries in Gender Equality?",
+   "category": "国内",
+   "published": "2026-09-16",
+   "summary": "国際機関の調査で、日本の男女平等指数が145カ国中117位という結果が明らかになった。先進国の中では大きく後れをとっており、政治参加や経済的機会における女性の割合の低さが主な要因とされている。政府や企業での女性登用の遅れが国家競争力にも影響を与える可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-16-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-16-22.html",
+   "title": "エーザイの認知症薬、自分で注射できる？ 承認された新薬の実態",
+   "title_en": "Eisai's Dementia Drug Approved for Self-Injection: What You Need to Know",
+   "category": "健康",
+   "published": "2026-09-16",
+   "summary": "エーザイが開発した認知症治療薬が承認され、患者本人が自ら注射できる形式となることが注目されています。これまでの認知症薬と異なり、自己投与が可能な点が大きな特徴。治療の利便性向上が期待される一方で、正確な投与方法の習得や継続性など実運用面での課題も指摘されています。"
+  },
   {
    "slug": "2026-09-16-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-16-21.html",
