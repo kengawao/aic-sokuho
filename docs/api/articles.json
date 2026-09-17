@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1639,
+ "count": 1660,
  "articles": [
+  {
+   "slug": "2026-09-18-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-20.html",
+   "title": "東京・練馬区でキツネ目撃！都会のど真ん中になぜ？",
+   "title_en": "Why Are Foxes Roaming Tokyo's Nerima Ward?",
+   "category": "コラム",
+   "published": "2026-09-18",
+   "summary": "東京都練馬区でキツネが目撃され、SNSで話題に。都市部での野生動物の目撃は珍しく、住民から驚きの声が上がっている。近年、食糧不足や開発による生息地の縮小で、キツネなどの野生動物が人間の生活圏に入ってくる事例が増加傾向にあるという。"
+  },
+  {
+   "slug": "2026-09-18-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-19.html",
+   "title": "ヨルシカのキタニタツヤが活動卒業へ　バンドの転機をどう見る？",
+   "title_en": "Kitani Tatsuya Graduates from Yorushika: What Does This Mean for the Band's Future?",
+   "category": "エンタメ",
+   "published": "2026-09-18",
+   "summary": "ボーカル・ギター担当のキタニタツヤがヨルシカからの活動卒業を発表した。同バンドは2017年の結成から楽曲配信やライブパフォーマンスで独自の音楽性を確立してきたが、この決定により音楽シーンに変化をもたらす可能性がある。卒業の具体的な時期や後任メンバーに関する詳細は今後発表される予定。"
+  },
+  {
+   "slug": "2026-09-18-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-18.html",
+   "title": "アメリカ、ジャガイモ輸入解禁で日本に圧力強化 「科学的審査」との綱引きの行方は？",
+   "title_en": "US Pushes Japan to Speed Up Fresh Potato Imports – Can 'Scientific Review' Hold the Line?",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "アメリカが日本への生ジャガイモの全面輸入解禁を求め、農林水産省幹部に対して手続き加速を改めて要求したことが明らかになった。日本政府は科学的根拠に基づいた審査を重視する方針を貫いているが、通商交渉の観点からアメリカからの圧力は今後も続く見込みだ。輸入解禁には病害虫リスク管理など技術的課題が残されている。"
+  },
+  {
+   "slug": "2026-09-18-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-17.html",
+   "title": "サンマルクHDが讃岐うどんの名店「つるとんたん」を買収、外食大手の戦略転換か",
+   "title_en": "San Marc Holdings Acquires Udon Chain Tsurutontan: Strategic Diversification or Industry Consolidation?",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "ベーカリーチェーンで知られるサンマルクカフェを傘下に持つサンマルクホールディングスが、讃岐うどんの人気チェーン「つるとんたん」を買収することが明らかになった。異なる業態への事業拡大を通じて、外食業界での存在感を強化する狙いがあるとみられる。"
+  },
+  {
+   "slug": "2026-09-18-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-16.html",
+   "title": "四国に初上陸するマリオット、なぜ今この地域に選ばれたのか",
+   "title_en": "Why Marriott Chose Shikoku for Its First Regional Expansion",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "高級ホテルチェーンの米マリオット・インターナショナルが四国初となる施設の開業を発表した。同グループは世界130以上の国・地域で事業展開しており、国内でも着実に拠点を増やしている。四国エリアへの進出は、観光需要の高まりと地方創生の機運が背景にあると見られる。具体的な開業時期や立地については今後の詳細発表が予定されている。"
+  },
+  {
+   "slug": "2026-09-18-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-15.html",
+   "title": "日産スカイライン、14年ぶり新型は12月発表へ。復活する伝説セダンの正体とは",
+   "title_en": "Nissan's Legendary Skyline Returns: What to Expect From the All-New Model Debuting in December",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "日産が次世代スカイラインを12月に発表する見通しが報じられた。現行型から14年ぶりの全面刷新となる新型では、電動化技術の搭載やデザインの革新が期待されている。プレミアムセダン市場の競争激化やEV化の流れの中で、スカイラインブランドの再戦略がどのような形で示されるかが注目されている。"
+  },
+  {
+   "slug": "2026-09-18-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-14.html",
+   "title": "人口3000人の村が独立宣言？難民受け入れ反対で政府に真っ向対立",
+   "title_en": "English Village Votes for Independence Over Refugee Intake Plan",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "イギリス南部オックスフォードシャーの小さな村が、政府による難民収容施設の建設計画に反発し、住民投票でイギリスからの独立を選択した。閉鎖予定の軍事施設に1000人以上の亡命申請者を受け入れる計画に対し、地域住民が強く抵抗した形だ。この投票結果が今後どう展開するかが注目される。"
+  },
+  {
+   "slug": "2026-09-18-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-13.html",
+   "title": "トランプが利下げ要求するも全会一致で利上げ、FRBの覚悟が明らかに",
+   "title_en": "Fed Hikes Rates Despite Trump's Demands for Cuts, Showing Its Resolve",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "米連邦準備制度理事会（FRB）は16日、政策金利を0.25ポイント引き上げて3.75～4%に設定することを全会一致で決定しました。ドナルド・トランプ大統領が利下げを求める圧力がある中での決断は、インフレ抑制を最優先する姿勢を示すものです。3年以上ぶりの利上げであり、物価上昇がまだ高い水準にあるため、今後さらなる引き上げの可能性も指摘されています。"
+  },
+  {
+   "slug": "2026-09-18-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-12.html",
+   "title": "カナダ、EUの「準加盟国」入り構想　トランプ大統領は一蹴",
+   "title_en": "Canada Eyes EU 'Associate Membership'—Trump Dismisses Plan as 'Laughable'",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "欧州委員会のフォン・デア・ライエン委員長がカナダをEU初の「準加盟国」とする提案を支持した。米国との関係が悪化する中、カナダが欧州との結びつき強化を探る動き。これに対しトランプ米大統領は「笑える話だ」とコメントしており、米国の懸念が示唆されている。"
+  },
+  {
+   "slug": "2026-09-18-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-11.html",
+   "title": "北朝鮮体育相が来日へ、閣僚訪問は8年ぶり。日朝関係に変化の兆し?",
+   "title_en": "North Korean Sports Minister to Visit Japan After 8-Year Gap: Sign of Diplomatic Thaw?",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "北朝鮮の体育相が来日することが明らかになった。北朝鮮の閣僚級人物が日本を訪問するのは2016年以来、約8年ぶりとなる。この訪問は、現在冷え込んでいる日朝関係の中での異例の動きとして注目されている。体育相の来日は、東京オリンピック関連の協議や国際的なスポーツ交流が背景にあるとみられている。"
+  },
+  {
+   "slug": "2026-09-18-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-10.html",
+   "title": "英国王がAI企業幹部に直接警告「このままでいいのか」",
+   "title_en": "British Monarch Warns AI Executives: 'Are You Truly Ready for This?'",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "英国の国王がAI企業の経営幹部らと面会し、人工知能技術の急速な発展に対する懸念を直接伝えたと報じられている。規制の必要性や社会への影響について、王室の立場から問題提起がなされたもので、政府や業界に対する圧力が高まる可能性がある。"
+  },
+  {
+   "slug": "2026-09-18-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-9.html",
+   "title": "学校で声が出ない子どもたち…不安障害の実態とは？親や教師が知るべきこと",
+   "title_en": "When Children Can't Speak at School: Understanding Selective Mutism and Anxiety Disorders",
+   "category": "健康",
+   "published": "2026-09-18",
+   "summary": "学校など特定の環境で声が出なくなる症状を訴える子どもが増えている。これは不安障害の一種で、本人の努力不足ではなく神経生物学的な問題とされている。専門家は早期発見と適切な支援が重要だと指摘しており、親や教育現場での理解向上が課題となっている。"
+  },
+  {
+   "slug": "2026-09-18-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-8.html",
+   "title": "ソフトバンク、なぜ3連覇を成し遂げられたのか？経営戦略の勝因を読み解く",
+   "title_en": "How SoftBank Achieved Three Consecutive Championship Wins—Decoding the Winning Strategy",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "ソフトバンクグループが経営する事業部門が3年連続で業界トップの座を獲得した。通信事業の基盤強化とデジタルトランスフォーメーション推進、さらに顧客満足度向上への継続的な取り組みが評価されたもので、同社の競争力強化の象徴となっている。"
+  },
+  {
+   "slug": "2026-09-18-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-7.html",
+   "title": "高市早苗改造内閣、新顔・留任閣僚の布陣が判明。注目の人事はどうなった？",
+   "title_en": "Takaichi Sanae's Cabinet Reshuffle Unveiled: What Will the New Lineup Mean for Japan?",
+   "category": "国内",
+   "published": "2026-09-18",
+   "summary": "高市早苗首相による内閣改造が実施され、新たな閣僚名簿が公表されました。複数のポストで人事異動が行われ、新任の大臣が配置される一方で、留任する閣僚も存在します。経済政策や外交課題への対応を担う主要ポストの人選が注目されており、今後の政権運営に向けた陣容が整いました。"
+  },
+  {
+   "slug": "2026-09-18-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-6.html",
+   "title": "繁盛店なのになぜ売却？「つるとんたん」好調の裏に隠された事情",
+   "title_en": "Why Did 'Tsurutontan' Sell Despite Booming Business?",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "うどんチェーン「つるとんたん」を展開する企業が事業売却を決定。業績が好調だったにもかかわらず売却に踏み切った背景には、経営方針の転換や後継者問題、市場環境の変化への対応など複雑な事情があると見られている。好調企業の売却というギャップから、事業承継の課題が改めて浮かび上がった。"
+  },
+  {
+   "slug": "2026-09-18-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-5.html",
+   "title": "秋の長雨でカビが一斉繁殖？家の中の危険な場所はどこ",
+   "title_en": "Mold Outbreak During Autumn Rains: Where in Your Home Is Most at Risk?",
+   "category": "健康",
+   "published": "2026-09-18",
+   "summary": "秋口に雨が続く季節、湿度が高まることでカビが急速に増殖するという注意喚起。特に浴室やクローゼット、窓周辺などの通風性が悪い場所で繁殖しやすい。カビは呼吸器疾患やアレルギーの原因となるため、定期的な換気と除湿対策が重要とされている。"
+  },
+  {
+   "slug": "2026-09-18-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-4.html",
+   "title": "52日ぶりに九州新幹線が全線再開――熊本地震以来の課題は何だったのか",
+   "title_en": "Kyushu Shinkansen Returns to Full Operations After 52-Day Suspension",
+   "category": "国内",
+   "published": "2026-09-18",
+   "summary": "九州新幹線が52日間の部分運休を経て、全線運転を再開した。地震による被害からの復旧作業が完了し、利用者の足が戻ってくる見通しが立った。インフラの重要性と復旧体制について改めて注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-18-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-3.html",
+   "title": "台風25号はまだ遠いのに？接近前から大雨警戒、いつから注意が必要",
+   "title_en": "Typhoon 25 Still Far Away, But Heavy Rain Expected Before Arrival—When Should You Start Preparing?",
+   "category": "国内",
+   "published": "2026-09-18",
+   "summary": "台風25号が日本列島に接近する前から、大雨の危険性が高まっているという予報が出ています。台風本体がまだ遠い段階でも、周辺の湿った空気や気圧配置の影響により、事前に大雨をもたらす可能性があるとのこと。地域によっては土砂災害や浸水への対策を早めに進める必要がある見通しです。"
+  },
+  {
+   "slug": "2026-09-18-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-2.html",
+   "title": "子宮移植で出産した女性、医学史に刻まれた瞬間に何を思う",
+   "title_en": "Uterus Transplant Success in US: What Do New Mothers Think?",
+   "category": "科学",
+   "published": "2026-09-18",
+   "summary": "米国で子宮移植による出産が相次いでいる。生まれつき子宮がない女性たちが、移植によって妊娠・出産を実現するという医学の進展。従来は不可能とされた道が開かれ、当事者たちは人生の選択肢が広がった喜びを語っている。一方で、免疫抑制療法の長期的リスクや倫理的課題も浮上している。"
+  },
+  {
+   "slug": "2026-09-18-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-1.html",
+   "title": "日銀が金利1.25％へ引き上げ決定へ、物価対策で利上げペース加速…家計への影響は?",
+   "title_en": "Bank of Japan to Raise Policy Rate to 1.25% as Inflation Risks Mount—What Does This Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "日銀の金融政策決定会合で、政策金利を1.25％程度に引き上げることが見通されています。物価の大幅な上昇リスクに対抗するため、これまでより速いペースで利上げを進める方針です。消費者ローンや住宅ローンの金利上昇につながる可能性があり、家計への波及効果が注目されます。"
+  },
+  {
+   "slug": "2026-09-18-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-0.html",
+   "title": "食料品の消費税減税は実現するのか？第2次高市内閣が年末の重要課題に挑む",
+   "title_en": "Will Japan's Food Tax Cut Actually Happen? Takashichi's New Cabinet Faces Year-End Challenge",
+   "category": "国内",
+   "published": "2026-09-18",
+   "summary": "高市総理大臣が17日に内閣改造を実施し、第2次改造内閣を発足させました。重要政策を担当する閣僚は留任させる一方で、7名の初入閣者を専門性重視で起用しています。年末に向けた食料品の消費税減税に関する法案審議が重要な課題となっており、この新体制でどこまで政策推進できるかが注目されています。"
+  },
   {
    "slug": "2026-09-17-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-42.html",
