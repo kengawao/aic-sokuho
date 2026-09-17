@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1618,
+ "count": 1639,
  "articles": [
+  {
+   "slug": "2026-09-17-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-42.html",
+   "title": "トンツカタン森本が改名？芸人の名前変更、一体何が起きてる…",
+   "title_en": "Wait, Morimoto from Tontsukatan is Changing His Name? What's Going On?",
+   "category": "コラム",
+   "published": "2026-09-17",
+   "summary": "お笑いコンビ・トンツカタンの森本が改名を発表した。芸能界でも珍しい決断に注目が集まっている。改名の背景には何があるのか、ネット上では様々な推測が飛び交っている状況だ。"
+  },
+  {
+   "slug": "2026-09-17-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-41.html",
+   "title": "横浜高・織田翔希がプロ志望届提出へ　高卒で即戦力となる才能は評価される？",
+   "title_en": "Yokohama High's Oda Shoki Declares Pro Baseball Ambitions: Can High School Graduates Succeed in the Majors?",
+   "category": "スポーツ",
+   "published": "2026-09-17",
+   "summary": "横浜高校の織田翔希選手がプロ野球志望届を提出することが明らかになった。同校からのプロ志望届提出は注目を集める決断で、スカウト評価や進路の決定にいたった背景が関心事となっている。高卒でのプロ入りは選手キャリアの重要な分岐点であり、育成と戦力化のバランスが問われる局面だ。"
+  },
+  {
+   "slug": "2026-09-17-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-40.html",
+   "title": "NHK大河ドラマの描写に異議、2市が指摘する史実とのズレ",
+   "title_en": "NHK's Historical Drama Faces Criticism: Two Municipalities Challenge Historical Accuracy",
+   "category": "エンタメ",
+   "published": "2026-09-17",
+   "summary": "NHK大河ドラマの放送内容について、舞台となった複数の自治体が史実との相違を指摘している。具体的には人物描写や歴史的事件の経緯などで、地元に伝わる記録や研究と異なる表現があるという。地域側は制作サイドとの情報共有不足を問題視しており、今後の対応や視聴者への周知の在り方が論点となっている。"
+  },
+  {
+   "slug": "2026-09-17-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-39.html",
+   "title": "SBIがライブドア買収、あの「堀江vs孫正義」の因縁に決着か",
+   "title_en": "SBI Acquires Livedoor: Will This Deal End Two Decades of Tech Rivalry?",
+   "category": "経済",
+   "published": "2026-09-17",
+   "summary": "SBIホールディングスがライブドアを買収することが明らかになった。2000年代初頭、堀江貴文率いるライブドアと孫正義のソフトバンクが激しく対立した歴史的背景がある中での今回の買収は、IT業界の変遷を象徴する出来事。経営統合によるシナジー効果への期待が高まる。"
+  },
+  {
+   "slug": "2026-09-17-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-38.html",
+   "title": "福澤克雄氏が助監督に暴力か 助監督が骨折していた",
+   "title_en": "Prominent Director Accused of Breaking Assistant Director's Bone",
+   "category": "スポーツ",
+   "published": "2026-09-17",
+   "summary": "映画監督・福澤克雄氏が、スタッフの助監督に対して暴力を振るい、骨折させていたことが明らかになった。事件の詳細や背景については現在調査中とのこと。業界での暴力事案が相次ぐ中、指導や叱責の在り方についても改めて問われることになりそうだ。"
+  },
+  {
+   "slug": "2026-09-17-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-37.html",
+   "title": "ツタンカーメン墓の奥にもう1つの王墓？エジプト考古学史上最大級の大発見の可能性",
+   "title_en": "Hidden Chamber Near Tutankhamun's Tomb May Contain Another Ancient Egyptian King's Burial",
+   "category": "科学",
+   "published": "2026-09-17",
+   "summary": "エジプトのツタンカーメン王墓に隣接する奥の空間から、別の王墓の存在を示す痕跡が検出された。最新の探査技術により、これまで未発見だった古代王朝の埋葬室の可能性が浮上。実現すれば、3000年以上前の重要な歴史的遺物が新たに発見される可能性があり、古代エジプト研究に大きな影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-17-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-36.html",
+   "title": "ネパール土石流、行方不明6150人に　被災地の救助活動は進むのか",
+   "title_en": "Nepal Landslide Claims 6,150 Missing: Will Rescue Operations Keep Up?",
+   "category": "国際",
+   "published": "2026-09-17",
+   "summary": "ネパールで発生した大規模な土石流により、6150人の行方不明者が報告されている。豪雨による地盤の崩落が原因とみられ、被災地では捜索救助活動が急ピッチで進められている。インフラ損壊や医療体制の不備など、復旧にはしばらく時間がかかる見通し。国際的な人道支援も検討されている。"
+  },
+  {
+   "slug": "2026-09-17-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-35.html",
+   "title": "北欧の安定国家・スウェーデンで何が起きた？首相辞意で政権交代へ",
+   "title_en": "What's Happening in Sweden? Prime Minister Steps Down as Government Shifts",
+   "category": "国際",
+   "published": "2026-09-17",
+   "summary": "スウェーデンの首相が辞意を表明し、政権交代が確定した。北欧の民主主義モデルとされてきた同国で、政治的な転機を迎えることになる。背景には移民問題や経済政策をめぐる政治的対立があるとみられている。"
+  },
+  {
+   "slug": "2026-09-17-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-34.html",
+   "title": "トランプ氏がFRBに利下げ要求、市場はどう反応する？",
+   "title_en": "Trump Demands Fed Rate Cuts—What Does This Mean for Markets?",
+   "category": "国際",
+   "published": "2026-09-17",
+   "summary": "米国の政治指導者がアメリカ連邦準備制度（FRB）に対して、迅速な利下げを要求する発言をしたとのこと。経済情勢や金融政策の判断について、政治的圧力がかかっている状況を反映しています。この要求がFRBの独立性にどう影響するか、また金融市場にどのような波及効果をもたらすかが注視されています。"
+  },
+  {
+   "slug": "2026-09-17-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-33.html",
+   "title": "子ども8人含む21人が犠牲に…ガザで戦争損傷の建物が倒壊、何が起きたのか",
+   "title_en": "Building Collapse in Gaza Kills 21, Including 8 Children—What Caused This Tragedy?",
+   "category": "国際",
+   "published": "2026-09-17",
+   "summary": "パレスチナ・ガザ地区で16日未明、イスラエル軍の攻撃で以前から損傷していた建物が突然倒壊し、避難民21人が死亡した。犠牲者の約4割が子どもという悲劇的な事態に。既に脆弱な状態にあった建造物が、戦闘の継続によってついに耐えきれなくなったとみられている。"
+  },
+  {
+   "slug": "2026-09-17-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-32.html",
+   "title": "衛星画像が捉えた衝撃　イランの攻撃で米軍拠点に深刻な被害か",
+   "title_en": "Satellite Images Reveal Serious Damage at US Military Bases From Iranian Attack",
+   "category": "国際",
+   "published": "2026-09-17",
+   "summary": "中東に展開するアメリカの複数の軍事施設がイランの攻撃により大きな被害を受けたことが、衛星写真から明らかになった。CBSが入手した画像では、建物の破壊や施設の損傷が映っており、被害の規模がこれまでの報告より深刻である可能性が指摘されている。米国とイランの緊張関係が一層高まる状況となっている。"
+  },
+  {
+   "slug": "2026-09-17-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-31.html",
+   "title": "妻を失った悔恨か、それとも執念か…元夫が店で従業員を刺した真意",
+   "title_en": "Tragic Workplace Violence: What Drove an Ex-Husband to Attack an Innocent Employee?",
+   "category": "国内",
+   "published": "2026-09-17",
+   "summary": "店舗で働く従業員が刃物で刺される事件が発生し、被害者が死亡した。警察の調べにより、元夫が関与していたとして逮捕された。元夫と被害者の間には何らかの人間関係があったとみられ、事件の背景には家庭内トラブルが存在していた可能性が指摘されている。現在、動機や詳細な事実関係について捜査が進められている。"
+  },
+  {
+   "slug": "2026-09-17-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-30.html",
+   "title": "学費以外にこんなに？親たちが悲鳴を上げる「隠れ教育費」の実態",
+   "title_en": "Beyond Tuition: Japan's 'Hidden Education Costs' Are Rising Every Year",
+   "category": "国内",
+   "published": "2026-09-17",
+   "summary": "学校教育にかかる費用が、授業料以外の項目で年々増加している実態が明らかになった。塾や習い事、学用品、修学旅行費など、家計に直結する負担が無視できない水準に達しており、教育格差の拡大を招く懸念も指摘されている。家庭の経済状況によって子どもの学習機会に大きな差が生じる問題が深刻化している。"
+  },
+  {
+   "slug": "2026-09-17-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-29.html",
+   "title": "AI生成物の著作権、法廷で激突…識者が示す「予想外の落とし穴」",
+   "title_en": "AI-Generated Works Face Legal Crossroads: Experts Warn of Unforeseen Consequences",
+   "category": "IT",
+   "published": "2026-09-17",
+   "summary": "生成AIによって作られた著作物の著作権や法的扱いをめぐる裁判が注目を集めている。専門家からは、現行法では想定されていなかった問題が多数存在する懸念が指摘されており、判例の積み重ねと法整備の重要性を指摘する声が上がっている。AIの急速な普及に法制度が追いついていない実態が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-17-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-28.html",
+   "title": "浜岡原発データ改ざん問題、なぜ内部通報は機能しなかったのか？規制委が重点検査へ",
+   "title_en": "Why Did Chubu Electric's Internal Whistleblower System Fail? Regulatory Commission to Conduct Intensive Inspections",
+   "category": "国内",
+   "published": "2026-09-17",
+   "summary": "中部電力が浜岡原発の審査で地震想定データを改ざんしていた問題で、原子力規制委員会は中部電力の報告書を受けて、社内通報制度の不備や情報共有体制の欠陥などを立ち入り検査で重点的に調べることを決定。隠蔽や改ざんだけでなく、それを食い止められなかった組織の体質そのものが審査の対象となる。"
+  },
+  {
+   "slug": "2026-09-17-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-27.html",
+   "title": "日銀が金利1.25％へ引き上げ、あなたの家計と貯金はどうなる？",
+   "title_en": "Japan's Central Bank to Raise Interest Rates to 1.25%—What Does It Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-17",
+   "summary": "日銀は17日から金融政策決定会合を開催し、18日に政策金利を現在の水準から1.25％程度へ引き上げることを最終判断する見通しです。物価上昇への警戒を強める形で、利上げのペースを加速させる決定となる可能性があります。金利引き上げは預金金利の上昇につながる一方、住宅ローンや企業の借入コストも増加することが予想されます。"
+  },
+  {
+   "slug": "2026-09-17-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-26.html",
+   "title": "ソフトバンク3年連続優勝でついに22回目　パ・リーグの絶対王者は本当に倒せないのか",
+   "title_en": "SoftBank Wins Third Consecutive Pacific League Championship: Is the Hawks Really Unstoppable?",
+   "category": "スポーツ",
+   "published": "2026-09-17",
+   "summary": "プロ野球パ・リーグでソフトバンクホークスが優勝を決めました。これで3年連続、そして球団史上22回目のリーグ優勝となります。圧倒的な強さで連覇を続けるソフトバンクは、パ・リーグの支配的地位をさらに確固たるものにしました。"
+  },
+  {
+   "slug": "2026-09-17-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-25.html",
+   "title": "なぜ今年のインフル早期流行？専門家が指摘する意外な理由",
+   "title_en": "Why Is Flu Season Starting Early This Year? Experts Reveal Surprising Factors",
+   "category": "健康",
+   "published": "2026-09-17",
+   "summary": "今シーズンのインフルエンザが例年より早期に流行し始めている。感染症の専門家によると、コロナ禍での行動制限緩和に伴う人流増加、免疫低下層の拡大、ワクチン接種率の低下などが複合的に作用しているとされている。また気候変動による季節パターンの変化も指摘されており、今後さらなる流行拡大の可能性が懸念されている。"
+  },
+  {
+   "slug": "2026-09-17-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-24.html",
+   "title": "東京都がインフルエンザ注意報を発表、この冬の流行シーズン突入か",
+   "title_en": "Tokyo Issues Influenza Alert as Winter Flu Season Approaches",
+   "category": "健康",
+   "published": "2026-09-17",
+   "summary": "東京都がインフルエンザに関する注意報を発表しました。気温の低下とともにインフルエンザの患者数が増加傾向を見せており、都は都民に対して予防接種やマスク着用、手洗いなどの基本的な感染対策の徹底を呼びかけています。本格的な流行シーズンを前に、医療機関でも対応準備が進められています。"
+  },
+  {
+   "slug": "2026-09-17-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-23.html",
+   "title": "個人金融資産が過去最高の2519兆円に　でも「自分は貧乏」なのはなぜ？",
+   "title_en": "Japan's Personal Financial Assets Hit Record 2.5 Quadrillion Yen—But Why Do People Still Feel Poor?",
+   "category": "経済",
+   "published": "2026-09-17",
+   "summary": "日本の個人金融資産が過去最高の2519兆円に達したことが明らかになった。株価上昇や円安による資産評価の増加が主な要因とみられている。しかし一方で、資産の大部分が高齢層に偏っており、若年層の資産形成が進まない構造的な問題も指摘されている。"
+  },
+  {
+   "slug": "2026-09-17-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-22.html",
+   "title": "内閣支持率44%で過去最低を更新、政治の危機的状況とは",
+   "title_en": "Cabinet Support Rating Hits Historic Low at 44% - What Went Wrong?",
+   "category": "国内",
+   "published": "2026-09-17",
+   "summary": "時事通信の最新世論調査で、内閣支持率が44%に低下し過去最低を記録しました。経済政策への不安、政治資金問題など複数の課題が重なり、国民の信頼が揺らいでいます。今後の政策転換や説明責任の強化が求められる状況となっています。"
+  },
   {
    "slug": "2026-09-17-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-21.html",
