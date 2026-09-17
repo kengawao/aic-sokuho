@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1617,
+ "count": 1618,
  "articles": [
+  {
+   "slug": "2026-09-17-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-17-21.html",
+   "title": "青山通りの街路樹からキクラゲ？ 都会のど真ん中で見つかった『謎の生物』の正体",
+   "title_en": "Mystery Fungi on Aoyama Avenue: Did Tokyo's Luxury Shopping Street Just Become a Mushroom Hotspot?",
+   "category": "コラム",
+   "published": "2026-09-17",
+   "summary": "東京の一等地・青山通りの街路樹にキクラゲが発生しているという目撃情報が話題に。取材班が現地を調査したところ、都市部の樹木に突然現れたこの珍しい光景。都会と自然の予想外な接点が明らかになった。"
+  },
   {
    "slug": "2026-09-17-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-17-20.html",
