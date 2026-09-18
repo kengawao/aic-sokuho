@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1660,
+ "count": 1681,
  "articles": [
+  {
+   "slug": "2026-09-18-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-41.html",
+   "title": "Suicaの新キャラ投票が大盛り上がり！あなたは推し活する？それとも冷笑する？",
+   "title_en": "Suica's New Character Vote Sparks Massive Excitement: Are You Joining the Fandom or Rolling Your Eyes?",
+   "category": "コラム",
+   "published": "2026-09-18",
+   "summary": "交通系ICカードの定番・Suicaが新キャラクター投票を実施し、ユーザーから大きな反響を呼んでいます。ペンギンのキャラが長年愛されてきた中、新たなキャラ候補が登場。推し活文化の波がついに交通カードにも到達したこの現象、私たちの消費行動にどのような変化をもたらすのでしょうか。"
+  },
+  {
+   "slug": "2026-09-18-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-40.html",
+   "title": "祖母への愛が新種発見に。深海で見つかった甲殻類、その名前の由来は?",
+   "title_en": "A grandson's love: New crustacean species named after his grandmother discovered in the deep sea",
+   "category": "科学",
+   "published": "2026-09-18",
+   "summary": "研究者が深海で発見した新種の甲殻類が、自身の祖母の名にちなんで命名されたというニュース。分類学における命名の慣例と、研究者の個人的な思いが交わる珍しいケースとして注目を集めている。自然界にはまだ多くの未発見種が存在することを改めて示す事例となっている。"
+  },
+  {
+   "slug": "2026-09-18-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-39.html",
+   "title": "柳田悠岐、40歳での現役続行を表明 ソフトバンク最強打者は「まだやれる」",
+   "title_en": "Yuki Yanagita to Continue Playing at 40: SoftBank's Star Batter Says 'I've Still Got It'",
+   "category": "スポーツ",
+   "published": "2026-09-18",
+   "summary": "ソフトバンクホークスの柳田悠岐選手が来季も現役を続行することを明らかにした。日本を代表する打者として知られる柳田は、加齢に伴うパフォーマンス低下を懸念する声もある中での継続宣言。チームの戦力維持とベテラン選手の活躍の可能性について、ファンや野球関係者から注目を集めている。"
+  },
+  {
+   "slug": "2026-09-18-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-38.html",
+   "title": "坂本勇人、2472安打で長嶋茂雄超え―日本野球史に新たな記録者",
+   "title_en": "Sakamoto Hayabusa Breaks Nagashima Shigeo's Legacy with 2,472 Career Hits",
+   "category": "スポーツ",
+   "published": "2026-09-18",
+   "summary": "読売ジャイアンツの坂本勇人選手が、通算2472安打を達成して長嶋茂雄氏の記録を更新した。長嶋氏は日本プロ野球を代表する名選手で、その記録更新は日本野球史における大きなマイルストーンとなる。坂本選手の粘り強い打撃と長年の活動がこの偉業を支えている。"
+  },
+  {
+   "slug": "2026-09-18-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-37.html",
+   "title": "東京ゲームショウになぜ過去最高の混雑？業界人も予想外だった理由",
+   "title_en": "Why Did Tokyo Game Show Hit Record-Breaking Crowds? Industry Insiders Were Caught Off Guard",
+   "category": "エンタメ",
+   "published": "2026-09-18",
+   "summary": "東京ゲームショウが記録的な混雑に見舞われている。背景には、新作ゲーム発表の集中、人気IPの大型展示、そしてコロナ禍後の業界活動再開に伴う需要の反動がある。会場のキャパシティを上回る来場者で、入場制限や待機列の大幅な遅延が発生している状況だ。"
+  },
+  {
+   "slug": "2026-09-18-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-36.html",
+   "title": "B&ZAI本高が国際論文誌で受賞、日本の研究開発がついに世界で認められたのか？",
+   "title_en": "B&ZAI Motohiro Wins International Journal Award: Has Japanese R&D Finally Gained Global Recognition?",
+   "category": "科学",
+   "published": "2026-09-18",
+   "summary": "B&ZAI本高が国際的に権威のある論文誌から受賞した。日本国内ではまだあまり知られていないが、この分野の研究コミュニティでは注目を集めている。受賞内容は同社の革新的な研究成果が国際的な評価基準を満たしたことを示すもので、今後の産業応用への期待も高まっている。"
+  },
+  {
+   "slug": "2026-09-18-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-35.html",
+   "title": "ヘンリー王子が帰国後初めて公の場に。3年ぶりの王妃との再会は実現するのか？",
+   "title_en": "Prince Harry's First Public Appearance Since Moving to America: Will He Finally Reconcile with the Queen?",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "アメリカでの生活を続けるヘンリー王子が、帰国後初めて公式な場に姿を現した。王室を離脱してから数年が経過する中での公の場への登場は、王妃をはじめとした王室との関係修復を示唆するものとして注目を集めている。"
+  },
+  {
+   "slug": "2026-09-18-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-34.html",
+   "title": "気候変動が山を動かす？ネパール土石流、科学者が「気候が原因の可能性」と指摘",
+   "title_en": "Climate Change Moving Mountains? Scientists Link Nepal Landslide to Global Warming",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "ネパールと中国・チベット国境で先月発生した大規模土石流について、国際的な科学者グループが気候変動との関連性を示す分析結果を発表した。地球温暖化による氷河融解や降水パターンの変化が引き金になった可能性が高いという。ネパール政府はこの知見を根拠に、国連の気候変動基金への支援要請を検討している。"
+  },
+  {
+   "slug": "2026-09-18-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-33.html",
+   "title": "177人の民間人が犠牲に…国連が米国のイラン空爆を「戦争犯罪」と認定した理由",
+   "title_en": "UN Report: US Airstrikes on Iran Constitute 'War Crimes' — 177 Civilians Dead Including Schoolchildren",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "国連の人権専門家グループが、米国によるイランでの2度の空爆について戦争犯罪に該当する合理的根拠があると報告した。最低177人の民間人、特に小学校の児童を含む一般市民が殺害されたとされている。同時にイラン当局による1月の反政府デモ弾圧も人道に対する罪と結論付けられた。国際人権法違反をめぐる対立構図が改めて浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-18-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-32.html",
+   "title": "北朝鮮のサイバー攻撃、世界で17億円の被害　どうやって防ぐ？",
+   "title_en": "North Korea's Cyber Attacks Cause $170 Million in Global Damages—How Can We Defend?",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "北朝鮮によるサイバー攻撃により、世界規模で約17億円の被害が報告された。このニュースは、国家規模のサイバー脅威がいかに深刻であるかを示すものとなっており、政府機関から民間企業まで幅広い対象が狙われている。セキュリティ強化の必要性が改めて浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-09-18-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-31.html",
+   "title": "米大統領が習氏訪米で異例の厚遇へ、米中関係の転機となるか",
+   "title_en": "U.S. President Plans Unprecedented Welcome for Xi Jinping's Visit: A Turning Point in U.S.-China Relations?",
+   "category": "国際",
+   "published": "2026-09-18",
+   "summary": "アメリカの大統領が中国の習近平国家主席の訪米時に異例の厚い待遇を予定していることが報じられた。米中間の緊張が高まる中での異例の対応は、両国関係の重要な転換点となる可能性がある。経済や安全保障など複数の分野での対話を通じた関係構築の意思が示されている。"
+  },
+  {
+   "slug": "2026-09-18-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-30.html",
+   "title": "「小さな森の家」CM問題、消費者庁が不当表示を指摘　実際の内容との違いは？",
+   "title_en": "Consumer Affairs Agency Questions \"Small Forest House\" CM Claims: What's the Truth?",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "消費者庁が「小さな森の家」のテレビCMについて不当表示に該当する可能性を指摘した。商品の実際の特性や効能と、CM上での表現内容に乖離があるとみられ、景品表示法違反の疑いで調査が進められている。企業側の対応が注目される。"
+  },
+  {
+   "slug": "2026-09-18-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-29.html",
+   "title": "家事分担、なぜ進まない？男性の家事時間が女性の半分以下という現実",
+   "title_en": "Why Isn't Housework Divided Equally? Japan's Gender Gap in Domestic Labor",
+   "category": "国内",
+   "published": "2026-09-18",
+   "summary": "日本における家事負担の男女格差が依然として大きいことが問題となっている。女性が家事にかける時間は男性の数倍に及ぶとの調査結果が示す中、この不平等を解消するには意識改革だけでなく、働き方改革や社会全体のサポート体制構築が急務であることが指摘されている。"
+  },
+  {
+   "slug": "2026-09-18-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-28.html",
+   "title": "村上宗隆32号3ラン炸裂！本拠地が大歓声に包まれた瞬間",
+   "title_en": "Murakamis 32nd Homer Electrifies Home Crowd: A Clutch 3-Run Blast",
+   "category": "スポーツ",
+   "published": "2026-09-18",
+   "summary": "ヤクルトの村上宗隆選手が本拠地での試合で32号となる3ランホームランを放ちました。本拠地での爆発的な活躍は地元ファンを沸かせ、チームの勢いを作る重要な一打となりました。シーズン後半に向けて攻撃陣の中核を担う活躍が期待されます。"
+  },
+  {
+   "slug": "2026-09-18-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-27.html",
+   "title": "100年ぶりの新種ネコ発見…どこで見つかった？",
+   "title_en": "New Cat Species Discovered After Over 100 Years—Where Was It Found?",
+   "category": "科学",
+   "published": "2026-09-18",
+   "summary": "100年以上ぶりに新しいネコの種が発見されました。この発見は動物学の世界で大きな話題となっており、野生動物の多様性について改めて注目が集まっています。詳細な生態や分布地域については、今後の研究で明らかになっていく見通しです。"
+  },
+  {
+   "slug": "2026-09-18-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-26.html",
+   "title": "岩田明子さんが難病診断されるまで何が起きていたのか",
+   "title_en": "What Happened Before Akiko Iwata Received Her Rare Disease Diagnosis",
+   "category": "健康",
+   "published": "2026-09-18",
+   "summary": "著名な人物・岩田明子さんが難病と診断されるまでの経過が明かされた。初期症状から診断確定までの医療経験を通じて、難病の早期発見の重要性や医療現場での課題が浮き彫りになった。本人の発言から、症状の複雑さと診断の困難さが伺える重要なケーススタディとして注目されている。"
+  },
+  {
+   "slug": "2026-09-18-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-25.html",
+   "title": "連休前のインフル流行、今年の注意点は？医師が警告する感染拡大の理由",
+   "title_en": "Is Your Holiday at Risk? Flu Surge Before Long Break Sparks Health Warnings",
+   "category": "健康",
+   "published": "2026-09-18",
+   "summary": "連休を控えた時期にインフルエンザの流行が拡大しているとして、医療機関が注意を呼びかけている。人の移動が増える連休期間中に感染がさらに広がる可能性があり、基本的な予防対策の徹底や早期の医療受診が重要とされている。特に高齢者や小児など重症化リスクが高い層への対応が急がれている状況だ。"
+  },
+  {
+   "slug": "2026-09-18-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-24.html",
+   "title": "首相、来週米大統領と会談へ調整中―日米関係の今後に注目",
+   "title_en": "Japanese PM Set to Meet US President Next Week—What's on the Table?",
+   "category": "国内",
+   "published": "2026-09-18",
+   "summary": "日本の首相がアメリカの大統領と来週の会談に向けて調整を進めていることが明らかになった。両国の首脳会談は二国間関係の重要事項や国際情勢について協議する予定。タイミング的に経済連携や安保問題などが議題となる可能性がある。"
+  },
+  {
+   "slug": "2026-09-18-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-23.html",
+   "title": "iPhone18Pro、21万9800円から。過去最高の価格設定に『買えない』の声",
+   "title_en": "iPhone 18 Pro Now Costs ¥219,800: Consumers Say 'Can't Afford It'",
+   "category": "IT",
+   "published": "2026-09-18",
+   "summary": "アップルが新型iPhone18Proを発表し、販売価格が21万9800円からとなることが明らかになった。前世代モデルと比較して価格が引き上げられており、スマートフォン市場における高級化の傾向が一層加速している。性能向上とAI機能の強化が新モデルの特徴とされているが、消費者からは購入への懸念の声も上がっている。"
+  },
+  {
+   "slug": "2026-09-18-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-22.html",
+   "title": "コメ価格が2年ぶりに2000円台突破…農家は喜んでいいの？",
+   "title_en": "Rice Prices Hit 2-Year High of 2,000 Yen per 60kg: Should Farmers Celebrate?",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "コメの卸売価格が2年ぶりに60kg当たり2000円を超える水準まで上昇した。作況不良や需要の変化が背景にあるとみられるが、この価格上昇が消費者負担の増加につながる可能性や、農業経営への影響など複雑な懸念も浮上している。"
+  },
+  {
+   "slug": "2026-09-18-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-18-21.html",
+   "title": "31年ぶりの高水準1.25%へ引き上げ　日銀の利上げで家計と企業の負担はどうなる？",
+   "title_en": "Japan's Central Bank Raises Interest Rates to 1.25% for First Time in 31 Years—What Happens Now?",
+   "category": "経済",
+   "published": "2026-09-18",
+   "summary": "日本銀行が金融政策決定会合で政策金利を1.0%から1.25%に引き上げることを決定した。物価上昇への対策として広く予想されていた利上げで、この水準は1995年以来31年ぶりとなる。今後、住宅ローンや企業融資の金利上昇につながる可能性があり、家計と企業経営への影響が注視されている。"
+  },
   {
    "slug": "2026-09-18-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-20.html",
