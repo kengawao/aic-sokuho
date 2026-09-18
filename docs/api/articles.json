@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1681,
+ "count": 1702,
  "articles": [
+  {
+   "slug": "2026-09-19-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-20.html",
+   "title": "つぶやきシロー、令和でも現役だった　あの懐かしキャラは今どうしてる？",
+   "title_en": "Tsubuyaki Shiro Still Active in the Reiwa Era: Whatever Happened to That Nostalgic Comedy Legend?",
+   "category": "コラム",
+   "published": "2026-09-19",
+   "summary": "1990年代から2000年代に活躍したお笑いタレント・つぶやきシローが、現在も芸能界で活動を続けていることが話題に。かつての「つぶやきネタ」で一世を風靡した彼が、どのような形で今を過ごしているのか、懐かしさと意外性が交錯する発見として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-19-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-19.html",
+   "title": "アジア大会の演出になぜ豊臣秀吉？歴史的配慮で抗議殺到",
+   "title_en": "Why Was Toyotomi Hideyoshi Included in the Asian Games? Historical Controversy Erupts",
+   "category": "国際",
+   "published": "2026-09-19",
+   "summary": "アジア大会の開会式や関連行事で豊臣秀吉が登場人物として扱われたことに対し、秀吉の朝鮮出兵の歴史を理由に抗議が相次いでいる。アジア各国の参加国からも懸念の声が上がっており、大会運営側の歴史認識と演出方針が議論となっている。国際スポーツイベントにおける地政学的配慮の難しさが浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-09-19-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-18.html",
+   "title": "富士急ハイランド、27年夏に新大型コースター投入へ　国内テーマパークの新作ラッシュが加速",
+   "title_en": "Fuji-Q Highland to Launch New Mega Coaster by Summer 2027 as Japan's Theme Parks Compete for Post-Pandemic Growth",
+   "category": "エンタメ",
+   "published": "2026-09-19",
+   "summary": "富士急ハイランドが2027年夏に新しい大型コースターの導入を発表した。同園は近年、絶叫マシンの刷新に注力しており、今回の新設備は老朽化した既存アトラクションの更新計画の一環。国内のテーマパーク業界では、コロナ後の需要回復を背景に大型投資が相次いでおり、競合施設との差別化を図る動きが活発化している。"
+  },
+  {
+   "slug": "2026-09-19-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-17.html",
+   "title": "日販がAnthropicに書籍大量販売へ、AI学習データ化で出版業界が転換点",
+   "title_en": "Japan's Major Book Distributor Nippan in Landmark Deal with Anthropic: What It Means for Publishing and AI",
+   "category": "経済",
+   "published": "2026-09-19",
+   "summary": "日本最大級の取次会社である日販がAI企業Anthropicに対して、大量の書籍データを販売する取り組みを進めているとされている。これはAIの学習データとしての活用が目的で、出版業界とAI業界の連携が進む象徴的な事例。著作権や適切な対価配分などの課題が浮上する中、業界全体の構造変化が加速している。"
+  },
+  {
+   "slug": "2026-09-19-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-16.html",
+   "title": "住宅ローン市場で大手銀行・地銀が存在感を強める理由とは？競争構図に変化",
+   "title_en": "Why Are Major Banks and Regional Banks Dominating the Housing Loan Market? Market Dynamics Shifting",
+   "category": "経済",
+   "published": "2026-09-19",
+   "summary": "住宅ローン市場において大手銀行と地方銀行の存在感が高まっている。低金利環境の継続やデジタル化対応、顧客サービスの差別化など、各行が競争を激化させている背景が明らかになった。特に地銀も独自の営業戦略で市場シェア拡大を図っており、業界全体の構造的な変化が進行している。"
+  },
+  {
+   "slug": "2026-09-19-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-15.html",
+   "title": "皇室の養子縁組、成立時に新しい儀式が必要？宮内庁が検討開始",
+   "title_en": "New Imperial Ritual? Palace Considers Ceremony for Adoption into Imperial Family",
+   "category": "国内",
+   "published": "2026-09-19",
+   "summary": "皇室における養子縁組の成立に際して、新たな儀式の導入を検討する動きが出ている。現在のところ養子縁組の成立時には特定の皇室儀式が存在せず、宮内庁が皇籍取得の重要性に見合った儀式のあり方を協議している。皇位継承の課題が高まる中、皇族身分の変動を象徴する儀式の構築が検討されている。"
+  },
+  {
+   "slug": "2026-09-19-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-14.html",
+   "title": "アメリカがイランに譲歩？中東紛争7ヶ月目、国連総会でのビザ発給認める",
+   "title_en": "Did America Just Back Down? US Issues Visas to Iran for UN General Assembly as Conflict Enters Month 7",
+   "category": "国際",
+   "published": "2026-09-19",
+   "summary": "アメリカ政府がイラン代表団の国連総会出席を認め、ビザを発給することを決定した。中東での紛争が長期化する中での決断となっている。これは外交的な姿勢の変化を示唆するもので、国連という国際舞台でのイランとの対話の可能性を示唆しており、今後の中東情勢に影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-19-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-13.html",
+   "title": "ガソリン代、また上がるのか…サウジアラビアの石油危機が日本の物価に直撃する可能性",
+   "title_en": "Will Gas Prices Spike Again? Middle East Oil Crisis Threatens Global Inflation",
+   "category": "国際",
+   "published": "2026-09-19",
+   "summary": "イエメンの反政府勢力フーシ派とサウジアラビアの紛争激化により、世界のエネルギー価格が急騰している。石油産業に大きな混乱が生じており、これが世界経済に新たなインフレショックをもたらすのではないかと懸念が広がっている。BBCの検証チームが、この情勢の背景と世界経済への影響を分析した。"
+  },
+  {
+   "slug": "2026-09-19-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-12.html",
+   "title": "グリーンランドの管理権をアメリカに？トランプ大統領の衝撃発表、デンマークとの合意の真相は",
+   "title_en": "Trump's Greenland Power Grab: What Does US 'Permanent Management' Actually Mean?",
+   "category": "国際",
+   "published": "2026-09-19",
+   "summary": "トランプ米大統領がSNS投稿で、デンマークの自治領グリーンランドの安全保障について、米国に恒久的な管理権を与える合意がデンマークとグリーンランド間で成立したと発表した。北極圏の戦略的重要性が高まる中での発表で、国際的な関心が集まっている。"
+  },
+  {
+   "slug": "2026-09-19-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-11.html",
+   "title": "南アで女性殺害が止まらない 9人目の遺体発見、背景にあるものは？",
+   "title_en": "Murder Spree Against Women in South Africa: 9th Body Found—What's Behind This Crisis?",
+   "category": "国際",
+   "published": "2026-09-19",
+   "summary": "南アフリカで女性を狙った殺害事件が相次いでおり、9人目の遺体が発見された。同国は長年にわたりジェンダーに基づく暴力が社会問題となっており、警察による捜査と並行して、根本的な原因への対策が求められている。"
+  },
+  {
+   "slug": "2026-09-19-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-10.html",
+   "title": "ウクライナ戦争の傷痕、ロシア下院選に180人超の帰還兵が立候補",
+   "title_en": "Over 180 War Veterans Run for Russian Parliament, Bearing Scars of Ukraine Conflict",
+   "category": "国際",
+   "published": "2026-09-19",
+   "summary": "ロシアの下院選挙にウクライナでの戦闘経験を持つ帰還兵180人以上が立候補している。前線での戦闘を経験した兵士たちが政治参加を志すことで、戦争が国内の政治構図にも影響を及ぼしている実態が浮き彫りになっている。この動きは、長期化する紛争がロシア社会に深刻な影響を与えていることを示唆している。"
+  },
+  {
+   "slug": "2026-09-19-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-9.html",
+   "title": "都市部の豪雨で水が逆流？内水氾濫の被害が急増、国交省が年内に対策発表へ",
+   "title_en": "Urban Flooding Crisis: When Heavy Rain Overwhelms City Drains, Japan Takes Action",
+   "category": "国内",
+   "published": "2026-09-19",
+   "summary": "千葉県などで相次ぐ内水氾濫の被害を受けて、国土交通省が有識者検討会を設置しました。都市部での集中豪雨時に、排水が追いつかず浸水する内水氾濫への対策について、年内をめどに方針をまとめる予定です。気候変動に伴う局地的な豪雨増加への対応が急務となっています。"
+  },
+  {
+   "slug": "2026-09-19-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-8.html",
+   "title": "日銀が突然『レートチェック』を実施、円安けん制か？ドル円相場に異変",
+   "title_en": "Bank of Japan Conducts 'Rate Check' to Monitor Yen Weakness - Intervention Coming?",
+   "category": "経済",
+   "published": "2026-09-19",
+   "summary": "ニューヨーク外国為替市場で短時間に円買いが進む場面があり、日銀が銀行のディーラーに取り引き水準などを確認する「レートチェック」を実施したことが判明した。これは円安進行をけん制する日銀の動きを示唆している。市場では日銀の為替介入の可能性についても注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-19-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-7.html",
+   "title": "日銀、利上げペース加速で金融緩和終焉へ？景気冷え込みのジレンマ",
+   "title_en": "BOJ Accelerates Rate Hikes Amid Inflation Fight: Can Economic Growth Survive?",
+   "category": "経済",
+   "published": "2026-09-19",
+   "summary": "日銀が物価上昇対策として利上げのペースを加速させることを決定しました。世界的なインフレ懸念が高まる中での判断ですが、同時に国内景気への悪影響も懸念されており、今後の追加利上げをどう進めるかは極めて難しい局面を迎えています。金融引き締めと景気維持のバランス問題が注目されています。"
+  },
+  {
+   "slug": "2026-09-19-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-6.html",
+   "title": "早産児の母親を救った「母乳の代替品」、ドナーミルクとは何か?",
+   "title_en": "What is Donor Milk? The Lifeline Helping Premature Infants and Their Mothers",
+   "category": "健康",
+   "published": "2026-09-19",
+   "summary": "早産で生まれた子どもの成長を支えるために、ドナーミルク（寄付された母乳）が活用される事例が注目を集めている。通常の粉ミルクでは得られない免疫成分や栄養が含まれており、特に低体重児や免疫機能が未発達な新生児にとって重要な役割を果たしている。母親の負担軽減と子どもの健康維持の両面で効果が期待されている。"
+  },
+  {
+   "slug": "2026-09-19-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-5.html",
+   "title": "今冬は暖冬確定？エルニーニョ現象が続く中、あなたの冬の過ごし方は変わる",
+   "title_en": "Will This Winter Be Unusually Warm? El Niño Effect Expected to Continue in Japan",
+   "category": "科学",
+   "published": "2026-09-19",
+   "summary": "気象庁の予報によると、エルニーニョ現象の継続に伴い、今冬は平年より気温が高くなる暖冬が予想されている。太平洋の海水温の上昇がこの現象を引き起こしており、全国的に暖かい冬になる可能性が高い。暖冬による農業や電力需給、感染症対策など、社会全体への影響が注視されている。"
+  },
+  {
+   "slug": "2026-09-19-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-4.html",
+   "title": "日銀が利上げに踏み切った今、あなたの貯金・ローンはどうなる?",
+   "title_en": "Japan's Rate Hike: How Will It Affect Your Wallet?",
+   "category": "経済",
+   "published": "2026-09-19",
+   "summary": "日本銀行が金利引き上げを実施したことで、国民の生活に大きな影響が及ぼされようとしています。貯金の利息は増える一方で、住宅ローンなどの借入金の負担は重くなります。今後の経済動向と個人の資産管理について、正しい理解と対策が求められる局面を迎えています。"
+  },
+  {
+   "slug": "2026-09-19-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-3.html",
+   "title": "iPhone18Pro修理代が最大15万円？Appleの修理費は本当に高すぎるのか",
+   "title_en": "iPhone 18 Pro Repair Costs Up to $1,000: Is Apple's Service Really That Expensive?",
+   "category": "IT",
+   "published": "2026-09-19",
+   "summary": "iPhone18Proの修理代が最大15万円に達することが報じられ、ユーザーから懸念の声が上がっている。高性能化に伴う部品コストの増加やディスプレイ交換時の費用が主な要因とみられる。スマートフォン修理費の適正価格について、業界内でも議論が続いている。"
+  },
+  {
+   "slug": "2026-09-19-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-2.html",
+   "title": "大谷翔平の苦悩、ド軍同僚2人が明かす〜何が彼を苦しめているのか",
+   "title_en": "Shohei Ohtani's Hidden Struggles: Dodgers Teammates Speak Out",
+   "category": "スポーツ",
+   "published": "2026-09-19",
+   "summary": "ロサンゼルス・ドジャースの大谷翔平選手について、チームメイトの2人が彼の現在の心理状態や葛藤について語った。大谷の抱える課題や周囲の支援体制など、シーズン中の実態が明らかにされている。"
+  },
+  {
+   "slug": "2026-09-19-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-1.html",
+   "title": "円が急騰、政府日銀が円買い介入の構え…このまま円高が続くとどうなる？",
+   "title_en": "Yen Surges as Japan's Government and Central Bank Prepare Market Intervention—What Happens Next?",
+   "category": "経済",
+   "published": "2026-09-19",
+   "summary": "円相場が急速に上昇する局面で、政府と日本銀行が円買い介入の準備を整えていることが報じられた。円高が急進すると輸出企業の収益性が低下し、経済全体に悪影響を及ぼす可能性があるため、当局が市場の過度な変動に対応する構えを見せている状況。為替市場の動向が注視されている。"
+  },
+  {
+   "slug": "2026-09-19-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-19-0.html",
+   "title": "台風21号、21日夕方〜夜に関東最接近か　どうなる?交通への影響",
+   "title_en": "Typhoon No. 21 to Make Closest Approach to Kanto Region on Evening of 21st - What's in Store?",
+   "category": "国内",
+   "published": "2026-09-19",
+   "summary": "台風21号が21日の夕方から夜間にかけて関東地方に最も接近する見通しだ。関東周辺では強風や大雨が予想され、交通機関への影響も懸念される。気象庁は最新の進路予測を発表しており、住民に対して警戒を呼びかけている。"
+  },
   {
    "slug": "2026-09-18-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-18-41.html",
