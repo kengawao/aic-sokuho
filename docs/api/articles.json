@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1722,
+ "count": 1743,
  "articles": [
+  {
+   "slug": "2026-09-20-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-20.html",
+   "title": "クジラさん、台風が来たから撤去延期？自然界のタイミングの悪さに笑うしかない",
+   "title_en": "Stranded Whale Removal Postponed Due to Approaching Typhoon – Nature's Timing at Its Worst",
+   "category": "コラム",
+   "published": "2026-09-20",
+   "summary": "海に漂着したクジラが撤去されずにそのままになっている。理由は台風が接近しているから。作業員たちも「今は危険すぎて近づけない」という判断らしい。つまりクジラも台風も待ってくれない自然界の都合で、ただただ浜辺に取り残されている状態が続いているという、なんともシュールな状況が発生している。"
+  },
+  {
+   "slug": "2026-09-20-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-19.html",
+   "title": "身長180cm超の選手が「足を伸ばせない」　日本のアジア大会選手村が国際基準を下回る問題",
+   "title_en": "Tall Athletes Can't Stretch Their Legs: Japan's Asia Games Athlete Village Sparks International Criticism",
+   "category": "スポーツ",
+   "published": "2026-09-20",
+   "summary": "愛知県で開幕するアジア競技大会の選手村に用意された木造コンテナ型宿舎が批判を浴びている。数千人の選手が利用する施設だが、長身の選手からはベッドのサイズが不十分で足を伸ばせないという指摘が相次いでいる。国際大会の宿泊施設として十分な設計がされていなかった可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-20-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-18.html",
+   "title": "代替フロンの排出削減、環境省が補助金で事業者支援へ。実は温暖化への影響は想像以上に深刻？",
+   "title_en": "Japan's Environment Ministry Pushes Forward with Subsidies to Cut Hydrofluorocarbon Emissions - Is the Impact More Severe Than We Thought?",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "環境省が代替フロン排出削減に向けた新たな対策を発表。エアコンや冷蔵庫の冷媒として広く使用されている代替フロンは、地球温暖化への影響が指摘されており、これまでのフロン対策では十分でないことが明らかになってきた。環境省は対策に取り組む事業者に対して補助金を交付することで、削減を加速させる方針を決めた。"
+  },
+  {
+   "slug": "2026-09-20-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-17.html",
+   "title": "中国でタケノコの違法加工が摘発、当局が大量押収。何が問題だったのか？",
+   "title_en": "Illegal bamboo shoot processing busted in China—what actually happened?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "中国当局がタケノコの違法な加工・流通に関わる事件を摘発し、大量のタケノコを押収した。違法加工の内容や背景については詳細が明かされていないが、食品衛生基準の違反や不正な添加物使用など、消費者の安全に関わる問題が指摘されている。中国での食品管理の課題が改めて浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-09-20-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-16.html",
+   "title": "中日・福敬登が今季限りで退団、なぜ若き才能は去るのか？",
+   "title_en": "Why Did Chunichi Dragons' Fukutoshi Kei Leave? The Untold Story Behind Early Departures in Japanese Baseball",
+   "category": "スポーツ",
+   "published": "2026-09-20",
+   "summary": "中日ドラゴンズの福敬登選手が今季限りで退団することが発表された。入団から数年の間に期待と現実のギャップに直面したとみられ、球団の育成方針や本人の適性などが議論の対象となっている。ドラフト上位指名選手の退団は珍しく、プロ野球界全体の課題を映す出来事として注目されている。"
+  },
+  {
+   "slug": "2026-09-20-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-15.html",
+   "title": "障害者雇用で労災認定、ビジネスモデルに問題あり？企業責任と法的境界線が問われる",
+   "title_en": "Workers' Compensation Ruling Exposes Legal Gray Zone in Disability Employment Business",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "障害者の就労支援を手がける事業所での労働災害について、労災認定がなされるケースが増えている。支援対象者の保護と事業の採算性のバランス、さらには雇用契約上の曖昧さが課題として浮上。障害者雇用を巡る法的責任と実務上の課題が改めて注目されている。"
+  },
+  {
+   "slug": "2026-09-20-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-14.html",
+   "title": "衛星写真で判明、イランの攻撃で米軍基地が深刻な被害　偵察機も大破",
+   "title_en": "Satellite Photos Reveal Extensive Damage to US Military Base from Iranian Strikes",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "中東の米軍施設がイランによる攻撃で広範な被害を受けたことが、CBSが入手した衛星写真で明らかになった。破壊された偵察機、押しつぶされたトレーラー、大きく損傷した建物など、攻撃の深刻さを示す画像が複数確認されている。被害の全容把握や今後の対応が注目される。"
+  },
+  {
+   "slug": "2026-09-20-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-13.html",
+   "title": "カナダがEU「準加盟国」へ？温かい言葉の裏で確約ナシ、本当に実現するのか",
+   "title_en": "Canada as EU's First \"Associate Member\"? Warm Words Don't Equal Concrete Commitment",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "欧州委員会のフォン・デア・ライエン委員長がカナダをEU初の準加盟国とする計画を支持し、カナダのカーニー氏も好意的に応じた。しかし専門家からは、この構想の実現可能性や他国への波及効果は不透明という指摘が相次いでいる。実現には多くの課題が残されたままだ。"
+  },
+  {
+   "slug": "2026-09-20-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-12.html",
+   "title": "EU、15歳未満のSNS利用を全面制限へ。日本は対応する？",
+   "title_en": "EU Bans Under-15s from Social Media. What Will Japan Do?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "欧州連合が加盟国全体でSNSの利用年齢制限を導入する計画を発表。15歳未満の子どもはアカウント開設ができなくなり、15歳以上のみが利用可能となる見込み。オンライン上での児童保護と安全性向上を目的とした規制で、今後新法の成立が予定されている。"
+  },
+  {
+   "slug": "2026-09-20-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-11.html",
+   "title": "マクロン大統領が警告、ロシアのハイブリッド攻撃が欧州で激化…一体どうなる?",
+   "title_en": "Macron Warns of Escalating Russian Hybrid Attacks on Europe—What Happens Next?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "フランスのマクロン大統領は、ロシアによる欧州諸国に対するハイブリッド攻撃の脅威が急速に高まっていると警告した。サイバー攻撃、情報操作、インフラ狙い等の多面的な脅威が同時進行しており、フランスも直接的な標的になっているとしている。欧州全体での防御体制強化が急務という見方が広がっている。"
+  },
+  {
+   "slug": "2026-09-20-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-10.html",
+   "title": "サウジ首都がまた狙われた。フーシ派の攻撃能力、どこまで脅威なのか",
+   "title_en": "Houthis Target Saudi Capital Again: How Much of a Real Threat Are They?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "イエメンの反政府勢力フーシ派が、サウジアラビアの首都リヤドへの攻撃を実行したと主張しました。同派は近年、ドローンやミサイルを用いた越境攻撃を繰り返しており、中東地域の緊張が高まっています。サウジ側の防衛体制と国際社会の対応が注視されています。"
+  },
+  {
+   "slug": "2026-09-20-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-9.html",
+   "title": "人気アイドル『timelesz』メンバー逮捕 傷害容疑で活動休止に、ファンから衝撃の声",
+   "title_en": "Popular Idol Group Member Arrested for Assault: 'timelesz' Faces Activity Hiatus",
+   "category": "エンタメ",
+   "published": "2026-09-20",
+   "summary": "人気アイドルグループ『timelesz』のメンバー・猪俣周杜容疑者（25）が、都内で知人女性に暴力を振るい怪我を負わせたとして傷害の疑いで逮捕されました。同容疑者は18日夜の事件で身柄を確保され、グループは活動休止となる見通しです。所属事務所の対応が注視されています。"
+  },
+  {
+   "slug": "2026-09-20-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-8.html",
+   "title": "向井慧が熱愛宣言、相手は誰？",
+   "title_en": "Satoshi Mukai Declares 'Passionate Romance' - But Who's the Mystery Partner?",
+   "category": "エンタメ",
+   "published": "2026-09-20",
+   "summary": "お笑いコンビ・ナインティナインの向井慧が、自身の恋愛について「めちゃくちゃ熱愛です」とコメントした。詳細な相手の情報は明かされていないが、このストレートな発言が話題を呼んでいる。芸能界での恋愛報道が相次ぐ中、本人が積極的に言及する姿勢が注目されている。"
+  },
+  {
+   "slug": "2026-09-20-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-7.html",
+   "title": "日本ラグビー、7年ぶりPNC優勝！アジア太平洋の頂点奪還で何が変わった？",
+   "title_en": "Japan Rugby's Comeback: First PNC Title in 7 Years—What Changed?",
+   "category": "スポーツ",
+   "published": "2026-09-20",
+   "summary": "日本ラグビー代表がパシフィック・ネーションズカップで7年ぶりの優勝を果たしました。この大会は太平洋地域の強豪国が集う重要な国際試合で、日本の勝利はアジア太平洋地域での存在感向上を示すものです。今後のワールドカップに向けた選手育成や戦術面での進化が評価されており、日本ラグビーの復権を象徴する快挙となりました。"
+  },
+  {
+   "slug": "2026-09-20-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-6.html",
+   "title": "トランプ大統領が「AIフォース」創設宣言…AIの安全性問題は本当に解決するのか？",
+   "title_en": "Trump Launches 'AI Force' to Combat AI Threats—But Will It Actually Work?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "米国のトランプ大統領がAIの危険性に対抗するため「AIフォース」という新組織の創設を発表しました。AIの開発と安全性をめぐる議論が世界的に高まる中での動きです。具体的な構成や運用方法はまだ明らかになっていませんが、AI規制の在り方について新たな論点を投げかけています。"
+  },
+  {
+   "slug": "2026-09-20-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-5.html",
+   "title": "電動車いす転落で34人が死亡、10年間で何が起きているのか",
+   "title_en": "34 Deaths from Electric Wheelchairs Over 10 Years: What's Really Happening?",
+   "category": "健康",
+   "published": "2026-09-20",
+   "summary": "過去10年間で電動車いすが用水路や側溝に転落し、乗っていた高齢者が死亡する事故が34件報告されている。製品評価技術基盤機構（NITE）が注意喚起を行っており、高齢化社会における移動支援機器の安全性が問題となっている。転落メカニズムや予防対策の重要性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-20-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-4.html",
+   "title": "AIの誤情報が米軍を揺さぶった？ 何が起きたのか",
+   "title_en": "How AI Misinformation Caught the U.S. Military Off Guard",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "米軍がAIシステムによって生成された誤情報に一時的に対応を迫られる事態が発生。詳細は限定的だが、軍事作戦や判断にAIを活用する現代における情報セキュリティの脆弱性が浮き彫りになった。専門家からは、AIが生成する偽情報への対策強化の必要性を指摘する声が上がっている。"
+  },
+  {
+   "slug": "2026-09-20-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-3.html",
+   "title": "日米首脳、NYで激突へ 22日の会談で何が決まる?",
+   "title_en": "US-Japan Summit in NYC on the 22nd: What Will Be Decided?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "日本とアメリカの首脳が22日にニューヨークで会談を開く予定だ。両国間の重要な政策課題や経済協力について協議される見通し。国際的な緊張情勢が高まる中での開催となり、両国の連携強化が焦点となる可能性がある。"
+  },
+  {
+   "slug": "2026-09-20-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-2.html",
+   "title": "肺がんとの闘病から看取る、健康診断の重要性とは",
+   "title_en": "What We Learn from the Battle Against Lung Cancer: The Critical Role of Early Screening",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "著名人が肺がんで逝去されたことが報じられました。本人の長期間の闘病を経ての訃報となります。肺がんは日本人のがん死亡原因の上位を占める疾患であり、早期発見と定期的な健康管理の重要性が改めて注目されています。"
+  },
+  {
+   "slug": "2026-09-20-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-1.html",
+   "title": "生後7日の新生児が命の危機…医師の判断が分かれた難しい決断とは",
+   "title_en": "Newborn Faces Life-Threatening Crisis at 7 Days Old—What Prompted the Emergency Surgery Decision?",
+   "category": "健康",
+   "published": "2026-09-20",
+   "summary": "新生児が出生直後わずか7日で重篤な状態に陥り、緊急手術を受けたというニュース。親の判断と医学的対応について注目が集まっています。このような新生児の急変は珍しくなく、早期発見と迅速な医療介入がいかに重要かを改めて示す事例として報道されています。"
+  },
+  {
+   "slug": "2026-09-20-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-0.html",
+   "title": "21日に関東直撃か、大型で強い台風21号の最新情報",
+   "title_en": "Typhoon No. 21 Set to Hit Kanto Region on the 21st - What You Need to Know",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "大型で強い台風21号が21日に関東地方に最も接近することが予想されています。進路や勢力の詳細については気象庁の最新情報を確認する必要がありますが、関東地域の住民は暴風や大雨への備えが急務となっています。早めの対策が被害軽減につながるため、防災情報のこまめな確認が重要です。"
+  },
   {
    "slug": "2026-09-19-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-19-40.html",
