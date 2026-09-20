@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1743,
+ "count": 1764,
  "articles": [
+  {
+   "slug": "2026-09-20-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-41.html",
+   "title": "カメラ50台の秘密兵器！遊園地が仕掛けた『自動撮影作戦』が想像以上に上手くいってる件",
+   "title_en": "50 Cameras, One Genius Plan: How This Theme Park's Auto-Photo System is Breaking the Internet",
+   "category": "コラム",
+   "published": "2026-09-20",
+   "summary": "某遊園地にカメラ50台を設置し、来園者を自動撮影するサービスが好評を博しているとのこと。スマートフォンの自撮り文化が定着する中、プロの角度で撮ってくれるこのシステムは、まさに現代人の欲望をビシッと射抜いた商売。SNS映え時代の勝ち組ビジネスモデルと言えそうだ。"
+  },
+  {
+   "slug": "2026-09-20-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-40.html",
+   "title": "カバディ漫画が日本代表にほぼ読まれている？ニッチスポーツ漫画化の可能性を探る",
+   "title_en": "Why Are Japanese Kabaddi Players Reading This Manga? The Untapped Potential of Niche Sports in Pop Culture",
+   "category": "エンタメ",
+   "published": "2026-09-20",
+   "summary": "インドの伝統スポーツ・カバディを題材にした漫画が、日本代表選手の間で高い認知度を持つようになったという報道。マイナースポーツの普及啓発ツールとして漫画メディアの影響力が注目される一方で、作品の認知度と競技の発展にどの程度の相関があるのか、実際の競技人口拡大につながるかが課題となっている。"
+  },
+  {
+   "slug": "2026-09-20-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-39.html",
+   "title": "iPhone Duoを仕事で買ったら経費にできる？税務署の判断は意外と厳しい",
+   "title_en": "Can You Write Off iPhone Duo as a Business Expense? Tax Authorities Are Stricter Than You Think",
+   "category": "経済",
+   "published": "2026-09-20",
+   "summary": "折りたたみスマートフォン「iPhone Duo」を業務用として購入した場合、経費計上できるかどうかが税務上の判断ポイントになる。プライベート兼用か業務専用かの線引きや、実際の使用実績の証明が求められるため、単に「仕事で使う」という理由だけでは認められないリスクがある。中小企業経営者や個人事業主は注意が必要。"
+  },
+  {
+   "slug": "2026-09-20-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-38.html",
+   "title": "銭湯の廃業が加速、でも地域によって生き残り率が全然違う理由",
+   "title_en": "Japan's Public Bathhouses Face Extinction—But Why Do Some Regions Still Thrive?",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "昭和の時代には全国に数千軒あった銭湯が急速に減少している。しかし衰退のペースは地域によって大きく異なり、都市部と地方、あるいは地域コミュニティの結びつきの強さなどが影響していることが明らかになった。銭湯文化の継承と地域の課題を考える上で重要な指摘だ。"
+  },
+  {
+   "slug": "2026-09-20-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-37.html",
+   "title": "懐かしの「美味しんぼ」になぜ今アニメ化？ グルメ漫画の第二波が来ているのか",
+   "title_en": "Why Is 'Oishinbo' Getting a New Anime Now? A Classic Manga's Second Coming",
+   "category": "エンタメ",
+   "published": "2026-09-20",
+   "summary": "1983年の連載開始から40年以上愛される「美味しんぼ」が新作アニメ化される。かつてのアニメ放映から時間が経った今、なぜこのタイミングでの制作なのか。グルメ作品の人気復興、配信サービスの拡大、原作の豊富なストック活用など、複数の背景要因が指摘されている。懐かしさだけでなく、現代の視聴環境とマッチした再評価が進んでいるようだ。"
+  },
+  {
+   "slug": "2026-09-20-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-36.html",
+   "title": "墜落した空自の無人偵察機、一部が回収される 今後の運用にどう影響する？",
+   "title_en": "JSDF Reconnaissance Drone Partially Recovered After Crash - What Does It Mean for Future Operations?",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "航空自衛隊の無人偵察機が墜落した事案で、機体の一部が回収されたことが報じられた。無人機の運用拡大が進む自衛隊において、事故原因の究明と安全対策の強化が急務となっている。今回の回収により、機体の状態確認と事故原因の解明が進むと見られる。"
+  },
+  {
+   "slug": "2026-09-20-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-35.html",
+   "title": "トランプ大統領『弾薬は足りてる』と言ってたのに、国防総省の監察官が真逆の報告書を公開",
+   "title_en": "Trump Said Ammo Supplies Were Fine, but Pentagon Inspector General Just Contradicted Him",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "米国防総省の監察総監がイランとの紛争に関連して、アメリカの弾薬備蓄が不足し供給に遅れが生じているとの報告書を発表した。トランプ大統領がこれまで弾薬不足を繰り返し否定してきたのに対し、政府機関の公式報告が矛盾する内容を示したもので、国防体制の実態に関する議論が高まっている。"
+  },
+  {
+   "slug": "2026-09-20-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-34.html",
+   "title": "なぜ21世紀のインドネシアで奴隷制が？島の闇を告発",
+   "title_en": "Modern Slavery in Indonesia: How Is This Still Happening in the 21st Century?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "インドネシアの島々で現代奴隷制の実態が明らかになった。貧困層が借金返済のため長時間労働を強いられ、実質的に自由を奪われている状況が報告されている。国際的な人権団体による調査で、労働搾取の深刻さが浮き彫りになり、インドネシア政府への改善要求が高まっている。"
+  },
+  {
+   "slug": "2026-09-20-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-33.html",
+   "title": "報道の自由か秩序か？ホワイトハウスがCNN記者の証を没収、米国で議論沸騰",
+   "title_en": "Freedom of Press Under Scrutiny: White House Revokes CNN Reporter's Credentials",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "ホワイトハウスがCNNの記者に対して取材証を没収する措置を取ったことが報道されました。この決定は米国の報道の自由と言論の自由に関わる重要な問題として注目を集めており、メディア各社からの反発や議論が生じています。政府とメディアの関係をめぐる根本的な緊張が浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-09-20-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-32.html",
+   "title": "ウクライナがなぜ今、日本に首脳会談を要請？東欧情勢の転換点か",
+   "title_en": "Why Is Ukraine Seeking a Summit with Japan Now? A Turning Point in Eastern European Strategy?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "ウクライナ政府が日本との首脳会談を要請したことが報じられた。ロシアによる侵攻が続く中、ウクライナは国際的な支援拡大を目指して動いており、日本はG7の一員として重要なパートナーと位置づけられている。この会談実現により、日本の対ウクライナ支援がさらに強化される可能性が高まっている。"
+  },
+  {
+   "slug": "2026-09-20-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-31.html",
+   "title": "トランプ大統領がAIの名称変更を提案、その真意とは？",
+   "title_en": "Why Is the US President Proposing to Rename 'AI'?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "米国の大統領がAI（人工知能）の名称を変更することを提案した。現在の「AI」という表記に対して、別の呼び方を導入すべきだという主張で、その背景にはAI技術の発展に伴う社会的・政治的な配慮がある可能性が指摘されている。この提案がどのような影響をもたらすのかについて関心が集まっている。"
+  },
+  {
+   "slug": "2026-09-20-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-30.html",
+   "title": "総人口の3割が高齢者に。働く高齢者は943万人で過去最多、日本の構図が急速に変わっている",
+   "title_en": "Japan's Population Shift: 1 in 3 Now Elderly, With 9.43 Million Seniors Still in the Workforce",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "敬老の日である21日、総務省の最新統計で65歳以上の高齢者が総人口の29.6％に達し、過去最高を記録したことが明らかになった。同時に就業している高齢者の数も943万人と過去最高水準となり、少子高齢化に伴い高齢者が労働力の中核として機能する現状が浮き彫りになった。この急速な人口構成の変化は社会保障制度や労働市場に大きな影響を与えようとしている。"
+  },
+  {
+   "slug": "2026-09-20-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-29.html",
+   "title": "3歳男児が意識不明の重体…福岡で軽自動車とバイク3台の多重衝突事故 なぜ子どもが巻き込まれたのか",
+   "title_en": "3-Year-Old in Critical Condition After Multi-Vehicle Crash in Fukuoka — What Caused the Collision?",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "福岡市西区の県道で20日午前、軽自動車とバイク3台が関わる多重衝突事故が発生した。事故の現場付近にいた3歳の男児がバイクと衝突し、意識不明の重体となっている。警察は現在、事故に至った経緯や原因について詳しく調査を進めており、安全運転の重要性が改めて問われている。"
+  },
+  {
+   "slug": "2026-09-20-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-28.html",
+   "title": "父と同じ大腸がんに…闘病する男性が語る「遺伝リスク」と向き合う覚悟",
+   "title_en": "Son Faces Father's Disease: How One Man Confronts Hereditary Colorectal Cancer",
+   "category": "健康",
+   "published": "2026-09-20",
+   "summary": "父親が大腸がんで闘病した経験を持つ男性が、自身も同じ大腸がんと診断されたことを公表。家族歴がある場合のがんリスクや、早期発見の重要性、そして患者として直面する心理的・身体的な課題について語った。専門家も遺伝性要因と生活習慣の両方への対策を指摘している。"
+  },
+  {
+   "slug": "2026-09-20-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-27.html",
+   "title": "北朝鮮がまたミサイル発射、今度はEEZ外に落下か—何が変わった？",
+   "title_en": "North Korea Fires Missiles Again—Why This Time Outside Japan's EEZ?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "北朝鮮が再びミサイルを発射し、落下地点が日本の排他的経済水域（EEZ）外だったと見られている。今回の発射は従来と異なる軌道や性能を示唆する可能性があり、防衛当局が詳しく分析を進めている。朝鮮半島の緊張状態は依然として継続中。"
+  },
+  {
+   "slug": "2026-09-20-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-26.html",
+   "title": "日本女子バレー、台湾を撃破して4強確定！パリ五輪への道が現実味を帯びてきた",
+   "title_en": "Japan's Women's Volleyball Team Defeats Taiwan and Secures Spot in Final Four",
+   "category": "スポーツ",
+   "published": "2026-09-20",
+   "summary": "バレーボール女子日本代表が台湾を破り、4強入りを決めた。この勝利により、パリオリンピック出場への道が大きく前進した。日本の安定した攻撃力と守備力が、強敵との試合で遺憾なく発揮された形となり、チーム内の結束も高まっているようだ。"
+  },
+  {
+   "slug": "2026-09-20-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-25.html",
+   "title": "AIに反論されると判断が変わる？道徳問題で3割が意見を翻す",
+   "title_en": "When AI Argues Back: 30% of People Change Their Moral Stance",
+   "category": "IT",
+   "published": "2026-09-20",
+   "summary": "人間が道徳的な問題について判断する際、AIからの反論を受けると約3割の人が当初の判断を変えることが分かった。研究では、異なる倫理的観点から論理的に反論するAIの説得力が明らかになり、人間の意思決定がいかに外部からの意見に影響されやすいかが浮き彫りになった。AIが人間の思考プロセスに与える影響についての議論が深まる可能性がある。"
+  },
+  {
+   "slug": "2026-09-20-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-24.html",
+   "title": "トランプ氏がAI専門部隊「AIフォース」創設へ　米国のAI戦略はどう変わる？",
+   "title_en": "Trump Announces New 'AI Force': What Does This Mean for U.S. AI Dominance?",
+   "category": "国際",
+   "published": "2026-09-20",
+   "summary": "トランプ氏が新たにAI専門部隊「AIフォース」の創設を発表した。これは米国の人工知能戦略を強化する動きで、政府主導でAI開発・運用を一元化する狙いがあるとみられる。国防やセキュリティ分野での競争力強化が背景にあり、中国など他国との技術競争が激化する中での対抗措置と位置づけられる。"
+  },
+  {
+   "slug": "2026-09-20-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-23.html",
+   "title": "65歳以上が3人に1人近く…日本の高齢化、ついに節目を超える",
+   "title_en": "Japan's Elderly Now 1 in 3: Nation Hits Record 29.6% Over-65 Population",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "総務省の統計によると、日本国内の65歳以上の高齢者の割合が29.6%に達し、過去最高を更新しました。これは国民のおよそ3人に1人が高齢者という計算になります。少子化と平均寿命の伸びが続く中、社会保障制度や労働力の確保といった課題がより深刻化することが予想されています。"
+  },
+  {
+   "slug": "2026-09-20-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-22.html",
+   "title": "妊娠発覚と同時にがん告知、それでも母になることを選んだ理由",
+   "title_en": "Diagnosed with Cancer During Pregnancy: Why She Chose to Become a Mother",
+   "category": "健康",
+   "published": "2026-09-20",
+   "summary": "妊娠中にがんが発覚した女性の闘病と出産の記録。医学的に困難とされた状況の中で、治療と妊娠継続の選択肢について悩み、新しい命を授かることを決断。出産後、親として人生を全うする姿が取材されている。"
+  },
+  {
+   "slug": "2026-09-20-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-20-21.html",
+   "title": "台風、21日午後が最大の正念場。出かけるなら今のうち？",
+   "title_en": "Typhoon Peak Expected This Afternoon—Is It Still Safe to Go Out?",
+   "category": "国内",
+   "published": "2026-09-20",
+   "summary": "台風の影響で21日午後が雨風のピークを迎えるとの予報が出ている。この時間帯は外出の危険性が高まるため、事前の準備や行動予定の変更が推奨されている。気象庁などからは厳重な警戒を呼びかけており、ライフラインへの影響も懸念されている。"
+  },
   {
    "slug": "2026-09-20-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-20.html",
