@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1764,
+ "count": 1785,
  "articles": [
+  {
+   "slug": "2026-09-21-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-20.html",
+   "title": "引退から一転、活動再開！希良梨の『やっぱやめます宣言』に世間「え、マジで？」",
+   "title_en": "Plot Twist: Idol Announces Comeback After Last Year's Retirement – Internet Confused",
+   "category": "コラム",
+   "published": "2026-09-21",
+   "summary": "昨年に引退を発表していた希良梨が、突如として活動を再開することを明らかにした。芸能界では引退後の動きが話題になることもあるが、今回の再開劇は関係者や ファンの間で賛否両論が飛び交っている。人生設計の変更は誰にでもあるものだが、公の発表を伴う場合の難しさが浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-09-21-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-19.html",
+   "title": "深夜の突然の異変…千葉・佐倉で山の土砂が住宅を襲う、窓割れる事態に",
+   "title_en": "Sudden Landslide at Midnight: Hillside Collapses Near Chiba Home, Shattering Windows",
+   "category": "国内",
+   "published": "2026-09-21",
+   "summary": "千葉県佐倉市の六崎地区で午前1時半頃、裏山からの土砂崩れが発生。住民の自宅外壁近くまで土砂が流出し、窓ガラスが割れるなどの被害が出た。警察と消防が現場で対応。地盤の不安定性や降雨の影響が考えられ、周辺の地滑りリスク再検討が急務となっている。"
+  },
+  {
+   "slug": "2026-09-21-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-18.html",
+   "title": "決勝戦なのに練習できない？バスケ韓国代表を襲った本大会直前のトラブル",
+   "title_en": "No Practice on Finals Day: What Went Wrong with South Korea Basketball's Pre-Game Preparation?",
+   "category": "スポーツ",
+   "published": "2026-09-21",
+   "summary": "バスケットボールの国際大会で韓国代表チームが決勝戦当日に練習ができないという異例の事態が発生した。会場確保や日程調整の問題が背景にあるとみられ、本番直前の準備不足が懸念される。こうした大会運営上の課題が競技環境にどう影響するかが注目されている。"
+  },
+  {
+   "slug": "2026-09-21-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-17.html",
+   "title": "東京のゲンジボタル7割が「外来種」？　都市部の生態系が急速に変わっている",
+   "title_en": "Are Tokyo's Fireflies Really 'Native'? 70% Turn Out to Be Imports",
+   "category": "科学",
+   "published": "2026-09-21",
+   "summary": "東京都内で観察されるゲンジボタルの約7割が、他の地域から移入された個体またはその子孫であることが明らかになった。都市開発による生息地の喪失と、保全活動での人為的な放流が混在する中で、地域固有の遺伝的多様性が失われつつある。ホタルを通じて見える、都市生態系の複雑な課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-21-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-16.html",
+   "title": "90分間ひたすら石を磨き続ける人たち タイパ重視の時代になぜ？",
+   "title_en": "Why Are People Spending 90 Minutes Polishing Stones in the Age of Time Efficiency?",
+   "category": "コラム",
+   "published": "2026-09-21",
+   "summary": "効率重視の現代社会で、あえてタイムパフォーマンス（タイパ）を無視して石を磨き続ける人々が注目を集めている。90分という長時間をかけて一つの作業に没頭するこの行為は、単なる趣味にとどまらず、瞑想的な効果やストレス軽減を求める新しいウェルネストレンドとして認識されつつある。デジタルデトックスの一種としても機能しているようだ。"
+  },
+  {
+   "slug": "2026-09-21-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-15.html",
+   "title": "油揚げに職人名を記載する狙いとは？老舗食品メーカーの戦略に注目",
+   "title_en": "Why Are Japanese Oil Producers Printing Artisan Names on Packages?",
+   "category": "経済",
+   "published": "2026-09-21",
+   "summary": "油揚げなどの食品パッケージに製造職人の名前を記載する取り組みが広がっている。これは単なる表示ではなく、職人の技術や経験を可視化し、消費者との信頼関係を構築する戦略だ。食品の品質向上と職人技術の継承、ブランド価値向上を同時に実現する新しいマーケティング手法として注目されている。"
+  },
+  {
+   "slug": "2026-09-21-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-14.html",
+   "title": "フランスの美術館からルノワール作品2点が盗難、印象派の傑作が消えた",
+   "title_en": "Masterpieces Vanish: Renoir Paintings Stolen from Southern French Museum",
+   "category": "国際",
+   "published": "2026-09-21",
+   "summary": "フランス南部の美術館で、印象派の巨匠ピエール＝オーギュスト・ルノワールの絵画2点が盗まれた。同館での盗難事件は稀で、美術品の盗難は世界的に深刻な問題となっている。現在のところ、盗まれた作品の詳細や犯人に関する情報は明らかになっていない。当局による捜査が進められている。"
+  },
+  {
+   "slug": "2026-09-21-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-13.html",
+   "title": "マレーシアで日本人が詐欺拠点で拘束？現地での邦人トラブルが急増中",
+   "title_en": "Japanese National Detained at Alleged Fraud Operation in Malaysia - Is Your Country Next?",
+   "category": "国際",
+   "published": "2026-09-21",
+   "summary": "マレーシアで詐欺拠点と疑われる施設に関連して、日本人が拘束される事件が発生しました。国際的な詐欺グループの摘発が世界規模で進む中、東南アジアを拠点とした犯罪ネットワークが注目を集めています。外務省も邦人に対して注意喚起を強化しており、海外での関与に対するリスク認識が高まっています。"
+  },
+  {
+   "slug": "2026-09-21-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-12.html",
+   "title": "トランプ氏がCNNら3社を「即刻締め出し」　メディアとの対立、今度はどうなる？",
+   "title_en": "Trump Bans CNN and Two Other Networks from White House: What Happens Next?",
+   "category": "国際",
+   "published": "2026-09-21",
+   "summary": "トランプ米大統領がCNN、MS NOW、ポリティコの3つの報道機関をホワイトハウスから即刻締め出すと発表した。同氏はこれまでも不都合な報道をする媒体との衝突を繰り返してきたが、今回の措置はメディアへの統制姿勢をさらに強めるもの。言論の自由とメディアアクセスをめぐる議論が改めて浮上している。"
+  },
+  {
+   "slug": "2026-09-21-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-11.html",
+   "title": "トランプ政権がICC制裁検討か？国際刑事裁判所が金融システムから締め出される可能性",
+   "title_en": "Trump Administration May Impose Sweeping Sanctions on ICC, Potentially Cutting It Off From Global Financial Systems",
+   "category": "国際",
+   "published": "2026-09-21",
+   "summary": "トランプ政権がICC（国際刑事裁判所）に対して広範な制裁措置の実施を検討していると、米有力紙が報じた。実施されれば、ICCが世界の金融システムの大部分から締め出される可能性があるという。背景には、米国とICCの関係悪化があるとみられる。"
+  },
+  {
+   "slug": "2026-09-21-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-10.html",
+   "title": "首相が国連初演説でICC言及へ、何が狙い？",
+   "title_en": "Japan's PM Set to Address UN for First Time: What's the ICC Strategy?",
+   "category": "国際",
+   "published": "2026-09-21",
+   "summary": "日本の首相が国連総会で初めて演説を行い、国際刑事裁判所（ICC）への言及が焦点となっている。ウクライナ情勢やロシアの国際法違反に関連する議論が予想され、日本の外交姿勢がどのように表現されるかが注目されている。国際社会における法の支配の重要性をどう強調するかが鍵となる。"
+  },
+  {
+   "slug": "2026-09-21-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-9.html",
+   "title": "エド・シーランがガザ問題で沈黙を破った理由 アーティストの社会発言は必要か？",
+   "title_en": "Ed Sheeran Breaks Silence on Gaza: Should Musicians Take Political Stands?",
+   "category": "エンタメ",
+   "published": "2026-09-21",
+   "summary": "イギリスの人気シンガーソングライターであるエド・シーランが、ガザ情勢に関する自身の立場を明確に表明した。著名人の社会的問題への発言姿勢について関心が集まっており、音楽業界でも意見表明のあり方が問われている。"
+  },
+  {
+   "slug": "2026-09-21-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-8.html",
+   "title": "鍵山優真が来季復帰を明言、どうなる？日本フィギュアスケート界の期待と課題",
+   "title_en": "Figure Skater Kagiyama Yuma Confirms Season Return – What's Next for Japan's Ice Skating Scene?",
+   "category": "スポーツ",
+   "published": "2026-09-21",
+   "summary": "フィギュアスケートの鍵山優真選手が、来季への復帰を正式に表明した。一時的な離脱期間を経ての復帰となり、ファンや関係者から注目が集まっている。国内トップ選手の動向は、日本スケート界全体の競技力強化にも大きな影響を与える見通しだ。"
+  },
+  {
+   "slug": "2026-09-21-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-7.html",
+   "title": "沢村一樹が『救命病棟24時』院長役で復帰へ　懐かしドラマの新展開に視聴者期待",
+   "title_en": "Sawamura Ikki to Lead 'ER 24' Revival as Hospital Director—Fans Buzz Over Iconic Drama's Return",
+   "category": "エンタメ",
+   "published": "2026-09-21",
+   "summary": "人気医療ドラマ『救命病棟24時』の新シリーズで、俳優の沢村一樹が院長役として出演することが明らかになった。同ドラマは1999年の放送開始以来、複数のシリーズが制作されており、今回の新展開により既存ファンと新規視聴者の双方から注目が集まっている。沢村一樹の院長キャラクターがどのように物語に影響を与えるかが焦点となる。"
+  },
+  {
+   "slug": "2026-09-21-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-6.html",
+   "title": "ツッコミ名手・中田ボタンさん死去 お笑い界が失った「相方を活かす職人」",
+   "title_en": "Death of Nakata Button: The Master Straight Man Who Made Comedy Shine",
+   "category": "エンタメ",
+   "published": "2026-09-21",
+   "summary": "漫才コンビ「中田カウボーイ」のツッコミ担当として活躍した中田ボタンさんが亡くなった。相方の中田カウボーイとのボケツッコミで知られ、正確で鮮烈なツッコミで数多くの笑いを生み出してきた。お笑い界の貴重な人材の喪失となる。"
+  },
+  {
+   "slug": "2026-09-21-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-5.html",
+   "title": "Anthropicがアクセンチュアと提携、AI活用の加速へ",
+   "title_en": "Anthropic Partners with Accenture to Accelerate Enterprise AI Adoption",
+   "category": "IT",
+   "published": "2026-09-21",
+   "summary": "AI企業のAnthropicが大手コンサルティング企業アクセンチュアとの戦略的提携を発表しました。この提携により、エンタープライズ向けのAI導入支援やコンサルティングサービスの提供が強化されます。両社の協力により、企業レベルでの大規模言語モデル活用が加速することが期待されています。"
+  },
+  {
+   "slug": "2026-09-21-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-4.html",
+   "title": "損保ジャパンが「望まない転勤廃止」へ、大手保険会社の働き方改革が本格化",
+   "title_en": "Sompo Japan Abolishes Unwanted Transfers: How Japanese Insurance Giants Are Reshaping Employment",
+   "category": "経済",
+   "published": "2026-09-21",
+   "summary": "損保ジャパンが社員の望まない転勤を廃止する方針を発表した。本人の希望を尊重する人事制度への転換により、働き方改革を推し進める。大手保険会社による人材確保と働き方改革の取り組みが加速する動きとして注目されている。"
+  },
+  {
+   "slug": "2026-09-21-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-3.html",
+   "title": "ニアジョイ藤沢がバセドウ病公表、闘病と仕事の両立は可能なのか",
+   "title_en": "Can Niajoy Fujisawa Balance Graves' Disease Treatment with Entertainment Career?",
+   "category": "エンタメ",
+   "published": "2026-09-21",
+   "summary": "ニアジョイ藤沢がバセドウ病であることを公表した。この甲状腺ホルモン異常による疾患は、適切な治療と管理で日常生活や職業活動を継続することが可能とされている。公表により、同じ症状で悩む人への啓発効果も期待される。"
+  },
+  {
+   "slug": "2026-09-21-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-2.html",
+   "title": "眼鏡を拾おうとして…16歳少年が川で亡くなった悲劇、何が起きたのか",
+   "title_en": "16-Year-Old Dies Attempting to Retrieve Glasses from River—A Preventable Tragedy",
+   "category": "国内",
+   "published": "2026-09-21",
+   "summary": "川で眼鏡を落とした16歳の少年が、それを拾おうとして川に入った際に溺水し、亡くなるという痛ましい事故が発生しました。一瞬の判断が取り返しのつかない結果につながった事例として、水の事故の危険性が改めて浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-09-21-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-1.html",
+   "title": "台風25号、21日午後から関東直撃へ　レベル4警報が示す危険度とは",
+   "title_en": "Typhoon No. 25 to Make Direct Hit on Kanto Region From Afternoon of Sept 21 - Understanding the Level 4 Alert",
+   "category": "国内",
+   "published": "2026-09-21",
+   "summary": "大型で強い台風25号が関東甲信や伊豆諸島に接近している。すでに一部地域ではレベル4の危険警報が発令されており、大雨や暴風が急速に強まる見込み。21日午後以降の接近に向けて、厳重な警戒が呼びかけられている。"
+  },
+  {
+   "slug": "2026-09-21-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-21-0.html",
+   "title": "台風21号、21日午後に関東最接近へ　あなたの地域は大丈夫？",
+   "title_en": "Typhoon 21 to Make Closest Approach to Kanto on the 21st—Is Your Area Safe?",
+   "category": "国内",
+   "published": "2026-09-21",
+   "summary": "台風21号が21日午後に関東地方に最も接近することが予想されている。気象当局は暴風や大雨への警戒を呼びかけており、外出や交通機関の乱れが懸念される。最新の進路予測と警戒ポイントをまとめた。"
+  },
   {
    "slug": "2026-09-20-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-20-41.html",
