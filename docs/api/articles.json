@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1785,
+ "count": 1806,
  "articles": [
+  {
+   "slug": "2026-09-22-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-20.html",
+   "title": "1頭しかいない新種ネコが発見される。ボリビアの森で『え、お前新種だったの？』状態",
+   "title_en": "New Cat Species Discovered in Bolivia—Except There's Only One. 'Wait, You Were a Different Species All Along?'",
+   "category": "コラム",
+   "published": "2026-09-22",
+   "summary": "南米ボリビアの森林で発見された斑点模様の小型ネコが新種と確認された。飼い猫ほどのサイズで、似たような見た目の野生ネコ科動物が複数いたため、これまで別の種と混同されていたという。現在、確認されている個体は1頭だけという、なんとも地味だが歴史的な瞬間である。"
+  },
+  {
+   "slug": "2026-09-22-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-19.html",
+   "title": "アジア大会の運営トラブル相次ぐ、次回開催国に何が問題だったのか",
+   "title_en": "Asian Games Hit by Multiple Operational Failures—What Went Wrong and What's Next?",
+   "category": "スポーツ",
+   "published": "2026-09-22",
+   "summary": "アジア大会で運営面の問題が複数発生し、大会の円滑な進行に支障をきたしている。施設の準備不足、スケジュール調整の混乱、競技ルールの解釈違いなど、多岐にわたる課題が浮上しており、今後のアジア大会開催地選定や準備体制の在り方について議論を呼んでいる。"
+  },
+  {
+   "slug": "2026-09-22-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-18.html",
+   "title": "ベーグル専門店なのに「別のパン」が大人気？VIVANTの予想外の経営戦略",
+   "title_en": "Why Is a Bagel-Focused Shop's OTHER Bread More Popular?",
+   "category": "経済",
+   "published": "2026-09-22",
+   "summary": "東京を中心に展開するベーグル専門店「VIVANT」で、看板商品のベーグルよりも別のパン商品が高い人気を集めているという。専門店としてのアイデンティティと、顧客ニーズのギャップが浮き彫りになった形だ。店舗の販売実績データから見える、パンの専門化時代における新たな課題と可能性について注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-22-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-17.html",
+   "title": "NHKが戸別訪問営業を外部委託で再開へ　批判の声と現実的ニーズの間で揺れる",
+   "title_en": "NHK Returns to Door-to-Door Fundraising via Outsourcing: Between Public Criticism and Operational Necessity",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "NHKが一度中止していた受信料徴収の戸別訪問営業を、外部委託の形で再開する方針を決めた。営業職員による強引な勧誘や個人情報管理の不備が批判を呼び中止に至った経緯がある中、効率的な徴収方法として復活させる判断。視聴者からは懸念の声が上がる一方で、業務効率化の必要性も指摘されている。"
+  },
+  {
+   "slug": "2026-09-22-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-16.html",
+   "title": "GTOの生徒役オーディションが注目される理由 実力派俳優の登竜門になってる？",
+   "title_en": "Why GTO's Student Role Auditions Are Becoming a Major Career Launchpad",
+   "category": "エンタメ",
+   "published": "2026-09-22",
+   "summary": "人気ドラマ『GTO』の生徒役オーディションが業界内外で話題を集めている。このオーディションを経験した出演者の多くがその後の活動で成功事例を生み出しており、単なる脇役ポストではなく、演技力をアピールできる重要な機会として認識されつつある。配役の質の高さと若手育成の観点から、その価値が再評価されている。"
+  },
+  {
+   "slug": "2026-09-22-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-15.html",
+   "title": "富士山頂で転倒相次ぐ危機？混雑時の安全性を初検証へ",
+   "title_en": "Is Japan's Mt. Fuji Too Crowded? Safety Study Underway After Fall Concerns",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "富士山頂付近の混雑による転倒事故の懸念が高まる中、関係機関が安全性の検証に乗り出すことが分かった。登山者の増加に伴い、狭い山頂エリアでの密集状態が常態化。特に天気の良い日には多数の登山者が殺到し、転倒やけがのリスクが指摘されている。調査では実際の混雑度合いや転倒事故の現状、安全対策の有効性などが検討される見込み。"
+  },
+  {
+   "slug": "2026-09-22-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-14.html",
+   "title": "メルツ首相「大惨事」なのに続投？ドイツ極右AfDの台頭でCDU大敗、その真相は",
+   "title_en": "Merz Admits 'Catastrophe' Yet Stays On: Why Germany's CDU Lost to Far-Right AfD",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "ドイツでベルリンとメクレンブルク・フォアポンメルン州の議会選挙が行われ、メルツ首相率いるCDUが極右政党AfDに敗れる見通しとなった。先週のザクセン・アンハルト州選挙でも同様の結果だったが、メルツ首相は「大惨事」と認めつつも首相続投の意向を表明。ドイツ政治の混迷の深刻さが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-22-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-13.html",
+   "title": "ドイツ極右政党、州議会選で再び勝利　EU内での右傾化の波は止まるのか",
+   "title_en": "German Far-Right Party Wins Again: Can Europe's Rightward Shift Be Stopped?",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "ドイツで実施された州議会選挙で、極右政党が再び大きな成果を上げた。EUの経済大国であるドイツでこうした政治動向が続くことは、ヨーロッパ全体の政治状況に影響を与える可能性がある。移民政策や経済格差への不満が、有権者の投票行動を左右しているとみられている。"
+  },
+  {
+   "slug": "2026-09-22-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-12.html",
+   "title": "イラン、米国との戦闘終結を条件付きで提案か　7つの条件の内容は？",
+   "title_en": "Iran Proposes Seven Conditions to US for Ending Conflict: What Are They?",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "イランが米国に対して戦闘終結に向けた7つの条件を伝達したと報じられている。中東地域の緊張緩和を目指した外交的な動きとみられるが、条件の具体的内容や実現可能性については不明な部分が多い。両国の対立が続く中での重要な交渉局面となる可能性がある。"
+  },
+  {
+   "slug": "2026-09-22-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-11.html",
+   "title": "朝鮮半島の緊張高まる…非武装地帯で韓国兵が地雷で負傷、北との関係悪化か",
+   "title_en": "South Korean Soldier Injured by Land Mine in DMZ as Peninsula Tensions Rise",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "韓国軍の兵士が非武装地帯（DMZ）内で地雷に接触し負傷する事案が発生した。地雷が北朝鮮側からのものなのか、老朽化した既設地雷なのかは調査中だが、朝鮮半島の緊張状況を示す事態として注視されている。韓国政府は原因究明に乗り出し、必要に応じた対応を検討している。"
+  },
+  {
+   "slug": "2026-09-22-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-10.html",
+   "title": "中国軍トップ2人を処分、習近平体制で何が起きているのか",
+   "title_en": "China Removes Top Military Officials—What's Really Happening in Xi Jinping's Leadership?",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "中国の習近平指導部が軍制服組の幹部2人に対して処分を下したことが明らかになった。詳細は公式発表では限定的だが、軍内部での権力調整や規律強化の動きとみられている。中国軍は近年、反腐敗キャンペーンと組織再編を進めており、指導部による統制強化の一環と考えられる。"
+  },
+  {
+   "slug": "2026-09-22-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-9.html",
+   "title": "映画ちいかわが158億円突破、なぜ小さなキャラが大きな興収を生み出せたのか",
+   "title_en": "Why Did 'Chiikawa' Smash 158 Million Dollars at the Box Office? The Rise of Twitter's Smallest Star",
+   "category": "エンタメ",
+   "published": "2026-09-22",
+   "summary": "映画『ちいかわ』が興行収入158億円を突破した。X（旧Twitter）発祥で、ゆるいタッチながら深い世界観を持つこのキャラクターは、子どもから大人までの広い年層に支持され、関連グッズの売上も好調だ。アニメ映画市場で新たな成功事例として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-22-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-8.html",
+   "title": "YOSHIKIが26年ぶりに月9ドラマ出演へ　X JAPANの伝説的ドラマーが俳優業に復帰",
+   "title_en": "YOSHIKI Returns to Drama After 26 Years: X JAPAN Legend Takes on Fuji TV's Prime-Time Slot",
+   "category": "エンタメ",
+   "published": "2026-09-22",
+   "summary": "X JAPANのドラマー・YOSHIKIが、26年ぶりにフジテレビの月9ドラマに出演することが発表された。彼の俳優業登場は四半世紀以上ぶりとなり、音楽活動と並行しての挑戦が注目を集めている。詳細な役柄や放送時期についてはまだ明かされていないが、ファンの間では期待と驚きの声が広がっている。"
+  },
+  {
+   "slug": "2026-09-22-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-7.html",
+   "title": "40歳・長友佑都が大怪我…現役続行は？サッカー界に激震",
+   "title_en": "Yuto Nagatomo, 40, Suffers Major Injury: What's Next for Japanese Football Legend?",
+   "category": "スポーツ",
+   "published": "2026-09-22",
+   "summary": "日本代表の歴史的左サイドバック・長友佑都選手が大怪我を負った。40歳という年齢での重傷は、今後のキャリアに大きな影響を与える可能性がある。長年第一線で活躍してきたベテラン選手の急転直下の事態に、ファンやメディアからは心配の声が上がっている。"
+  },
+  {
+   "slug": "2026-09-22-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-6.html",
+   "title": "中高年男性の耳毛がやたら太く伸びるワケ 加齢とホルモン変化の関係",
+   "title_en": "Why Do Middle-Aged Men's Ear Hair Grow Thicker and Longer? The Science Behind It",
+   "category": "健康",
+   "published": "2026-09-22",
+   "summary": "加齢に伴い、中高年男性の耳毛が太く長く伸びるようになる現象について、医学的な背景を解説する記事。男性ホルモンの影響や毛髪サイクルの変化、皮膚の老化との関連性が指摘されており、多くの男性が経験する悩みの科学的根拠が明らかになってきている。"
+  },
+  {
+   "slug": "2026-09-22-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-5.html",
+   "title": "17歳・大橋信が100m平泳ぎで金メダル獲得。若き才能が日本競泳界を揺さぶる",
+   "title_en": "17-Year-Old Noboru Ohashi Wins Gold in 100m Breaststroke: Japanese Swimming's Rising Star",
+   "category": "スポーツ",
+   "published": "2026-09-22",
+   "summary": "17歳の大橋信選手が100m平泳ぎで金メダルを獲得した。若年層からの急速な台頭と、今後の競泳界への影響が注目されている。この快挙は、日本の水泳競技における世代交代の兆しとも言え、東京五輪以降の強化体制がいかに効果を発揮しているかを示す結果となった。"
+  },
+  {
+   "slug": "2026-09-22-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-4.html",
+   "title": "なでしこ、3試合で20得点の圧倒的火力でグループステージ首位通過！",
+   "title_en": "Nadeshiko Japan Dominates Group Stage with 20 Goals in 3 Matches, Tops Group",
+   "category": "スポーツ",
+   "published": "2026-09-22",
+   "summary": "日本女子サッカー代表「なでしこジャパン」がグループステージで3試合を戦い、20得点という驚異的な得点数を記録して首位での通過を決めた。圧倒的な攻撃力を見せた日本は、今後のトーナメント進出に向けて強気で挑むことになる。"
+  },
+  {
+   "slug": "2026-09-22-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-3.html",
+   "title": "48年ぶりの頂点へ。女子バレーが金メダル王手、あの伝説の時代から何が変わった？",
+   "title_en": "Japan Women's Volleyball Eyes Gold After 48 Years. What Changed Since the Legend?",
+   "category": "スポーツ",
+   "published": "2026-09-22",
+   "summary": "日本女子バレーボールが国際大会で48年ぶりとなる金メダル獲得まであと一歩の状況まで到達した。1976年のモントリオールオリンピック以来となる頂点奪取を目指す。現在の代表チームの躍進により、かつての栄光の時代が甦る可能性が高まっている。"
+  },
+  {
+   "slug": "2026-09-22-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-2.html",
+   "title": "目黒区の住宅街で擁壁が突然崩れる　近隣住民に衝撃走る",
+   "title_en": "Retaining Wall Collapses in Meguro Ward, Tokyo - Residents in Shock",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "東京都目黒区の住宅街で擁壁が崩落する事態が発生しました。崩れた擁壁は周辺の建物や道路に影響を与える可能性があり、現在状況確認と安全対策が進められています。経年劣化や地盤の影響が原因として考えられており、同様の事例に対する関心が高まっています。"
+  },
+  {
+   "slug": "2026-09-22-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-1.html",
+   "title": "神奈川県が自衛隊に災害派遣要請、何が起きている？",
+   "title_en": "What's Happening in Kanagawa? Prefecture Requests SDF Disaster Dispatch",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "神奈川県が自衛隊に対して災害派遣を要請した。具体的な災害の詳細は明らかになっていないが、県内で何らかの緊急事態が発生し、通常の災害対応では対応しきれない状況に至ったものと考えられる。自衛隊による迅速な支援体制の構築が期待される。"
+  },
+  {
+   "slug": "2026-09-22-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-0.html",
+   "title": "台風25号、大島町の警報レベルが引き下げ　記録的大雨は収束へ",
+   "title_en": "Typhoon No. 25 Alert Downgraded in Oshima: From Level 5 to Level 4 as Extreme Rainfall Subsides",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "台風25号の影響で関東と伊豆諸島は記録的な大雨に見舞われました。大島町に発令されていた最も危険なレベル5の土砂災害特別警報は、9月21日午後11時にレベル4の土砂災害危険警報へと引き下げられ、状況が改善に向かっていることが示されています。土砂崩れなどの危険性は依然存在しています。"
+  },
   {
    "slug": "2026-09-21-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-21-20.html",
