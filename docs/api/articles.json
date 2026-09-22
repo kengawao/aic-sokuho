@@ -2,8 +2,198 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1806,
+ "count": 1825,
  "articles": [
+  {
+   "slug": "2026-09-22-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-39.html",
+   "title": "松岡修造がまさかの西川貴教フェス登場？熱血テニスプレイヤーがステージで何をするのか気になるんだが",
+   "title_en": "Will Shūzō Matsuoka Actually Perform at T.M.Revolution's Festival? The Internet is Buzzing",
+   "category": "コラム",
+   "published": "2026-09-22",
+   "summary": "テニスの鬼才・松岡修造が、T.M.Revolution の西川貴教がプロデュースするフェスティバルに出演することが明かされた。テニス界のレジェンドがフェスのステージに立つという予想外の展開に、ネット上では驚きと期待の声が相次いでいる。二人のコラボレーションがどんな化学反応を起こすのか注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-22-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-38.html",
+   "title": "日本の不動産会社が大英図書館を改造？ロンドンの知の殿堂に何が起きるのか",
+   "title_en": "Japanese Real Estate Firm Redesigns the British Library—What's Really Changing?",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "日本の不動産開発企業がイギリスの大英図書館敷地内での大規模再開発事業に参画し、着工式が行われました。プロジェクトでは図書館の拡張スペースのほか、研究機能を備えた複合施設の建設が進められます。国際的な文化施設の再生に日本企業が関わることで、建築・不動産分野における日本の技術力の海外展開が注目されます。"
+  },
+  {
+   "slug": "2026-09-22-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-37.html",
+   "title": "渋谷の人流が減少、若者の足が遠のいているのか？",
+   "title_en": "Is Shibuya Losing Its Appeal to Young People? Location Data Tells the Story",
+   "category": "経済",
+   "published": "2026-09-22",
+   "summary": "渋谷の人流データを分析した結果、かつての「若者の街」としての集客力に変化が見られているという。スマートフォンの位置情報データやセンサー情報から、特定の時間帯・曜日での来街者数の推移を追うことで、消費行動のトレンドシフトが浮き彫りになっている。原宿や新宿といった他の繁華街との比較も含め、都市集客の再編成が進行中だ。"
+  },
+  {
+   "slug": "2026-09-22-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-36.html",
+   "title": "春の新学期で自転車事故が急増、なぜ上級生になると危険が増すのか",
+   "title_en": "Spring School Season Brings Spike in Bicycle Accidents—Why Do Older Students Face Greater Risks?",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "新学年を迎える春の時期に自転車事故が増加する傾向が報告されている。進級に伴う行動範囲の拡大や気の緩み、交通ルール習熟度のばらつきが要因として指摘されている。識者からは、学校と家庭が連携した安全教育の強化や、自転車の定期的な点検・整備の重要性が提唱されており、事故防止に向けた対策の必要性が高まっている。"
+  },
+  {
+   "slug": "2026-09-22-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-35.html",
+   "title": "副首都構想に6道府県6政令市が名乗り上げ　東京一極集中の打破となるか",
+   "title_en": "Six Prefectures and Six Major Cities Bid for Japan's New Sub-Capital Status",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "政府が推進する副首都構想に対し、6つの道府県と6つの政令市が誘致意欲を示した。東京への過度な経済・行政機能の集中を緩和する目的で掲げられた構想だが、候補地選定の基準や実現可能性をめぐって議論が続いている。地方分権と国家機能の分散がテーマとなり、各地域の成長戦略にも影響を与えそうだ。"
+  },
+  {
+   "slug": "2026-09-22-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-34.html",
+   "title": "アジア大会の現地で記者が感じた違和感とは？取材現場の実態",
+   "title_en": "What's Bothering Asia Games Reporters on the Ground?",
+   "category": "スポーツ",
+   "published": "2026-09-22",
+   "summary": "アジア大会の取材に現地入りした記者が、競技会場やメディア対応の場で予想外の状況に直面しているという。組織委員会の対応、施設の整備状況、報道環境など、実際に現地にいるからこそ気づく課題や課題が浮き彫りになっているようだ。スムーズな大会運営が期待される中、裏側での実務的な問題が注目される。"
+  },
+  {
+   "slug": "2026-09-22-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-33.html",
+   "title": "ワシントンに『軍事凱旋門』構想、トランプ氏が発表　狙撃手とドローン配置予定",
+   "title_en": "Trump Proposes Military Monument: Armed Guardhouse Shaped Like Arc de Triomphe",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "トランプ米大統領は、ワシントンDCに建設予定の凱旋門について、単なる記念碑ではなく軍事複合施設として機能させると表明した。軍事装備の保管庫となり、狙撃手やドローンを配置できる設計を目指すという。歴史的建造物と防衛機能を兼備させる異例の構想が注目を集めている。"
+  },
+  {
+   "slug": "2026-09-22-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-32.html",
+   "title": "中国軍トップ2人が党籍はく奪　昇進便宜で巨額賄賂受け取り",
+   "title_en": "Top Chinese Military Officials Stripped of Party Membership Over Massive Bribes and Promotion Favors",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "中国共産党は、中国人民解放軍の制服組トップなどを務めた高級幹部2人に対し、党籍をはく奪する処分を決定した。両者は他人の昇進に便宜を図る見返りに、巨額の金銭を受け取るなど重大な規律違反を行ったとされている。中国軍内部の腐敗問題が改めて浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-09-22-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-31.html",
+   "title": "報道の自由が脅かされている？CNNら米メディアが記者証没収で政権を提訴",
+   "title_en": "Press Freedom Under Fire: CNN and Major US Media Sue Administration Over Credential Revocation",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "CNNなど米国の主要メディアが、記者証を没収された問題で米政権を相手に提訴した。報道の自由と取材活動の制限をめぐる法的争いが激化している。米国内では表現の自由と政府権限のバランスをめぐる議論が加熱しており、この訴訟の行方が注目されている。"
+  },
+  {
+   "slug": "2026-09-22-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-30.html",
+   "title": "ウクライナの過去最大規模ドローン攻撃、モスクワの製油所と住宅直撃　戦況はどこへ向かう？",
+   "title_en": "Ukraine's Record-Breaking Drone Assault Strikes Moscow Refineries and Homes—Where Does This Conflict Go From Here?",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "ウクライナがモスクワ地域に対し19日夜から20日にかけて過去最大規模のドローン攻撃を実施。モスクワ市内の主要な石油精製施設と首都近郊の集合住宅が直撃を受けた。ロシア側の防空体制をすり抜けた大規模攻撃で、エネルギーインフラと民間施設の両方が被害を受けた形となっている。"
+  },
+  {
+   "slug": "2026-09-22-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-29.html",
+   "title": "台風25号で神奈川・千葉で2人死亡、4人不明…22日も捜索続く",
+   "title_en": "Typhoon No. 25 Claims 2 Lives in Kanagawa and Chiba, 4 Still Missing as Search Continues",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "台風25号に伴う大雨の影響で、神奈川県と千葉県で土砂崩れが複数発生しました。50代と60代の男性2人が死亡し、現在4人の行方不明が報告されています。警察と消防は22日以降も捜索活動を継続する予定です。被災地の安全確保が急務となっています。"
+  },
+  {
+   "slug": "2026-09-22-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-28.html",
+   "title": "ロシア与党、下院選で過去最多議席獲得へ…その背景にあるものは？",
+   "title_en": "Russia's Ruling Party Set to Secure Record Number of Seats in Parliament—What's Behind It?",
+   "category": "国際",
+   "published": "2026-09-22",
+   "summary": "ロシアの与党が下院選挙で過去最多となる議席数を獲得する見通しが報じられた。ウクライナ情勢の影響を受ける中での選挙結果となり、国際的な関心が集まっている。プーチン政権の安定性と今後のロシア政治の方向性を占う重要な選挙となっている。"
+  },
+  {
+   "slug": "2026-09-22-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-27.html",
+   "title": "大山の9回サヨナラ弾で阪神がM10に！劇的な逆転劇に球場は大歓声",
+   "title_en": "Yamakura's Dramatic Walk-Off Homer Cuts Magic Number to 10 for the Hanshin Tigers",
+   "category": "スポーツ",
+   "published": "2026-09-22",
+   "summary": "阪神タイガースの大山悠輔選手が9回裏の決勝点となるサヨナラホームランを放ち、チームを劇的な勝利に導いた。この勝利により阪神はマジックナンバーを10に縮めた。残り試合で着々とポイントを重ねるチームの勢いが続いている。"
+  },
+  {
+   "slug": "2026-09-22-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-26.html",
+   "title": "猪俣周杜容疑者の広告が次々削除…企業はなぜ素早く対応するのか",
+   "title_en": "Why Are Companies Rushing to Pull Ads Linked to Suspect Inomata?",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "猪俣周杜容疑者に関連する広告が複数の企業によって削除される事態が相次いでいます。事件の報道に伴い、企業イメージへの影響を懸念した広告主が次々と掲載広告の取り下げを決定。ブランドレピュテーション管理の重要性が改めて浮き彫りになる形となっています。"
+  },
+  {
+   "slug": "2026-09-22-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-25.html",
+   "title": "野党党首がウクライナ訪問、玉木氏が初の政治家訪問を実現―日本の対応に大きな転機か",
+   "title_en": "Opposition Leader Tamaki Becomes First Japanese Politician to Visit Ukraine During Ongoing Conflict",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "国民民主党の玉木雄一郎代表がウクライナを訪問し、野党党首としては初めての現地入りを果たした。ロシアの侵攻が続く中での訪問で、ゼレンスキー大統領との会談を通じて日本の支援姿勢を示すとともに、野党としての外交的役割を果たす意図が背景にあるとみられる。"
+  },
+  {
+   "slug": "2026-09-22-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-24.html",
+   "title": "レアアース依存脱却へ政府が本腰 中国頼みの重要資源、代替研究を強化",
+   "title_en": "Japan Shifts Away From China: Government Ramps Up Research on Alternative Critical Minerals",
+   "category": "経済",
+   "published": "2026-09-22",
+   "summary": "政府が重要鉱物資源の代替材料開発に向けた研究体制の強化に乗り出す。電子機器やエネルギー産業で不可欠なレアアースなど戦略的資源について、中国への過度な依存から脱却するため、国内企業と研究機関の連携を推進する取り組みが加速される見通し。サプライチェーン安定化が急務となっている。"
+  },
+  {
+   "slug": "2026-09-22-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-23.html",
+   "title": "原田夏希、第4子出産していた 仕事と育児の両立に注目集まる",
+   "title_en": "Actress Harada Natsuki Gave Birth to Fourth Child: Balancing Career and Motherhood",
+   "category": "エンタメ",
+   "published": "2026-09-22",
+   "summary": "女優の原田夏希が第4子を出産していたことが明らかになった。すでに3人の子どもを育てながら、現在も女優として活動を続けている。大型連続ドラマや映画など多くの作品に出演する中での出産・育児と仕事の両立が、育児世代の女性から共感を呼んでいる。"
+  },
+  {
+   "slug": "2026-09-22-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-22.html",
+   "title": "コロナ自宅待機1年半で自死が労災認定　長期孤立が招いた悲劇",
+   "title_en": "COVID-19 Home Isolation for 18 Months Leads to Worker's Death Recognized as Workplace Injury",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "新型コロナウイルスの感染により自宅待機を余儀なくされた労働者が、約1年半の長期孤立生活の末に自死に至ったケースが労災として認定された。感染防止と心身の健康維持のバランスが問題となり、長期隔離の精神的影響の深刻さが改めて浮き彫りになった事例として注目されている。"
+  },
+  {
+   "slug": "2026-09-22-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-22-21.html",
+   "title": "台風による土砂崩れで相次ぐ死傷者、なぜ被害は拡大するのか",
+   "title_en": "Why Do Typhoon-Related Landslides Keep Claiming Lives? Japan's Disaster Risk",
+   "category": "国内",
+   "published": "2026-09-22",
+   "summary": "台風の影響による土砂崩れが複数地域で発生し、2人の死亡が確認された。降雨による地盤の緩みが主な原因とみられており、当該地域では引き続き警戒が呼びかけられている。気象庁は土砂災害の危険度が高まっている地域に対して注意を促している。"
+  },
   {
    "slug": "2026-09-22-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-20.html",
