@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1846,
+ "count": 1866,
  "articles": [
+  {
+   "slug": "2026-09-23-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-19.html",
+   "title": "キツネさん、玄関にモグラをプレゼント…これって愛情表現？それとも脅迫？",
+   "title_en": "Fox Leaves Mole at Your Doorstep: A Gift or a Warning?",
+   "category": "コラム",
+   "published": "2026-09-23",
+   "summary": "住宅の玄関先にキツネがモグラを置いていく現象が報告されている。野生動物の行動心理について、専門家の間でも議論が分かれており、狩りの成功を示す行動なのか、それとも別の理由があるのか注目が集まっている。人間とキツネの共生について考える機会となっている。"
+  },
+  {
+   "slug": "2026-09-23-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-18.html",
+   "title": "GLAYのチラシに『仮タイトル』そのまま掲載　プロの確認体制はどうなってる？",
+   "title_en": "GLAY's Flyer Mistake: How Did a 'Temporary Title' Get Printed and Distributed?",
+   "category": "エンタメ",
+   "published": "2026-09-23",
+   "summary": "ロックバンド・GLAYの宣伝チラシに、制作過程で使用していた『仮タイトル』がそのまま印刷・配布されてしまうミスが発生した。本来は最終決定されたタイトルが掲載されるべきだったが、データ確認段階での誤りにより、テンポラリーな表記が世に出てしまった事態。音楽業界における品質管理プロセスの問題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-23-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-17.html",
+   "title": "地方キャバクラが直面する『四重苦』とは？業界が悲鳴",
+   "title_en": "What is the 'Quadruple Crisis' Facing Rural Hostess Clubs?",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "地方のキャバクラ業界が深刻な経営危機に直面している。人口減少による客足の減少、若い従業員の確保難、新型コロナ後の営業制限、そして賃金上昇圧力という四つの課題が同時に押し寄せている。都市部との経営環境の格差が拡大し、廃業を余儀なくされる店舗も増加している状況だ。"
+  },
+  {
+   "slug": "2026-09-23-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-16.html",
+   "title": "とび職の倒産が過去最多ペース、建設業の何が変わった？",
+   "title_en": "Why Are Japan's Structural Steel Workers Facing Record Bankruptcies?",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "建設労働者の中でも高い技能を要するとび職の企業倒産が過去最多のペースで増加している。人手不足や労務単価の上昇、下請け構造の圧迫など、建設業全体が抱える構造的問題が顕在化。職人世代の高齢化と若年層の就業減少も重なり、業界の持続可能性が問われている状況だ。"
+  },
+  {
+   "slug": "2026-09-23-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-15.html",
+   "title": "世界ランク8位がまさかの敗北、275位の選手に何が起きたのか",
+   "title_en": "World No. 8 Suffers Shocking Upset to Rank 275 Player - What Happened?",
+   "category": "スポーツ",
+   "published": "2026-09-23",
+   "summary": "卓球の国際大会で、世界ランキング8位の選手が275位の選手に敗れるという番狂わせが発生した。格上と格下の実力差が顕著なはずの卓球界において、このような逆転劇は極めて稀な出来事である。短期的なコンディション低下や相手選手の戦術的な対応などが要因として考えられ、卓球競技の予測不可能性を改めて浮き彫りにした。"
+  },
+  {
+   "slug": "2026-09-23-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-14.html",
+   "title": "「歴史の目撃者の義務」ダイアナ元妃の弟がチャールズ国王批判を正当化、回顧録で何を語った?",
+   "title_en": "\"A Duty as a Historical Witness\": Princess Diana's Brother Defends Royal Criticism Over Upcoming Memoir",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "ダイアナ元妃の弟であるスペンサー伯爵が、近著でチャールズ英国王を批判したことについてBBCの単独インタビューで言及。批判は「歴史の目撃者としての義務」だったと主張している。22日発売予定の回顧録『白鳥の歌：ダイアナ、私の姉』には、王妃の死にまつわる複数の問題提起が含まれるとみられ、その内容の一部はすでに報道されている。"
+  },
+  {
+   "slug": "2026-09-23-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-13.html",
+   "title": "NATO加盟国リトアニア、ロシア攻撃に「降伏しない」と宣言　避難計画も策定中",
+   "title_en": "\"We Will Never Surrender,\" Says Lithuania as NATO Ally Prepares for Russian Threat",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "バルト三国の一つリトアニアのシンケヴィチュウス首相がBBCのインタビューで、ロシアの脅威に備えて国家レベルの避難計画を進めていることを明かした。同国はロシアの飛び地カリーニングラードと国境を接するNATO加盟国であり、有事の際も「降伏はしない」との強い姿勢を示している。"
+  },
+  {
+   "slug": "2026-09-23-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-12.html",
+   "title": "イラン大統領が国連総会に出席、米国との協議再開のチャンスは本物か？",
+   "title_en": "Will Iran's UN General Assembly Attendance Open the Door to US Negotiations?",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "ニューヨークで開催中の国連総会にイランの大統領が出席することで、長年対立してきた米国との協議再開の可能性が浮上している。米国側はイランの姿勢次第で交渉に応じる意思を示しており、核問題をめぐる膠着状態の突破口となるか、今後の動向が注視されている。"
+  },
+  {
+   "slug": "2026-09-23-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-11.html",
+   "title": "トランプ、グリーンランドに米軍基地設置で合意へ～北極圏戦略が急加速",
+   "title_en": "Trump Moves Forward with US Military Base in Greenland – Arctic Strategy Escalates",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "トランプ大統領がデンマーク領グリーンランドへのアメリカ軍基地設置を盛り込んだ協定に署名した。過去にグリーンランドの領有意欲を示していたトランプ氏だが、今回は軍事拠点の設置という実質的な影響力確保に動いた。北極圏をめぐる米ロの戦略競争が背景にあるとみられている。"
+  },
+  {
+   "slug": "2026-09-23-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-10.html",
+   "title": "米大統領がICCからの脱退を国連で呼びかけ、国際司法機関の在り方が揺らぐ",
+   "title_en": "U.S. President Urges ICC Withdrawal at UN, Threatening International Justice System",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "米国の大統領が国連総会でICC（国際刑事裁判所）からの脱退を各国に呼びかけた。これは米国の同盟国にも離脱を促す異例の声明であり、国際的な司法体制の行方に波紋が広がっている。背景には、米国とICCの間で生じた政治的対立があるとみられている。"
+  },
+  {
+   "slug": "2026-09-23-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-9.html",
+   "title": "水害後の片付けで危険な落とし穴とは？知らないと大怪我も",
+   "title_en": "Hidden Dangers Lurking After Floods: What You Need to Know About Safe Cleanup",
+   "category": "国内",
+   "published": "2026-09-23",
+   "summary": "台風や豪雨による水害の後、被災地では片付けや復旧作業が本格化する。しかし焦って進めると、感染症やケガなど思わぬ危険に見舞われる可能性がある。専門家は適切な防具の装着や衛生管理、無理のない作業ペースなど、安全作業の重要性を強調している。"
+  },
+  {
+   "slug": "2026-09-23-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-8.html",
+   "title": "カウコン、ついにNetflixで世界同時配信へ　日本の年末イベントが国境を超える",
+   "title_en": "Johnny's Countdown Concert Goes Global: Netflix Brings Japan's Iconic Year-End Event to the World",
+   "category": "エンタメ",
+   "published": "2026-09-23",
+   "summary": "Johnny & Associatesの大型イベント「カウントダウンコンサート」がNetflixで世界同時配信されることが決定した。従来は日本国内での放送に限定されていたが、ストリーミング配信により海外のファンも同時に視聴できるようになる。国内アーティストの大型企画の国際展開が加速している。"
+  },
+  {
+   "slug": "2026-09-23-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-7.html",
+   "title": "田口淳之介が年下一般女性と結婚　芸能界の恋愛観も変わる？",
+   "title_en": "Former KAT-TUN Member Atsunori Taguchi Weds Non-Celebrity Woman: What's Next?",
+   "category": "エンタメ",
+   "published": "2026-09-23",
+   "summary": "元KAT-TUNの田口淳之介が年下の一般女性と結婚したことが報じられた。芸能人と一般人の結婚は珍しくないが、田口の場合はこれまでの報道との関係で注目が集まっている。結婚を機に新たなキャリアの展開も期待される。"
+  },
+  {
+   "slug": "2026-09-23-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-6.html",
+   "title": "大食い動画が次々と収益停止に…YouTubeの判断基準は何が変わったのか？",
+   "title_en": "Why Are YouTube Mukbang Videos Losing Revenue? What Changed in the Platform's Policies?",
+   "category": "エンタメ",
+   "published": "2026-09-23",
+   "summary": "大食いをテーマにしたYouTube動画の収益が相次いで停止される事態が発生している。プラットフォーム側の規制強化の背景には、視聴者の健康懸念や倫理的な問題提起があるとみられる。コンテンツクリエイターと動画サイトの間で、表現の自由と責任のバランスをめぐる議論が加速している。"
+  },
+  {
+   "slug": "2026-09-23-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-5.html",
+   "title": "なぜ若者はInstagramの『親友リスト』機能に殺到するのか？SNS大手から「仲間内」へシフト",
+   "title_en": "Why Are Young Users Flocking to Instagram's 'Close Friends' List? The Shift From Major Platforms to Intimate Communities",
+   "category": "IT",
+   "published": "2026-09-23",
+   "summary": "大規模なSNSプラットフォームから、より小規模で限定的なコミュニティへのユーザーシフトが加速している。InstagramやTikTokの親友・グループ機能の利用が増える一方、公開投稿の減少傾向が見られる。プライバシー志向の高まりと、不特定多数への情報発信よりも「信頼できる仲間内での繋がり」を重視する利用者が増えているという背景が指摘されている。"
+  },
+  {
+   "slug": "2026-09-23-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-4.html",
+   "title": "退職代行サービス、1年で2割が営業停止へ 急成長業界に何が起きている？",
+   "title_en": "Resignation Assistance Services Face Steep Decline: Are 20% Going Out of Business in One Year?",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "労働者の退職手続きを代行するサービスが急速に普及している一方で、1年間で約2割の事業者が営業を停止している実態が明らかになった。業界の急成長に伴い、法的問題やサービス品質のばらつき、顧客トラブルなど様々な課題が浮上しており、市場の淘汰が進んでいるとみられる。"
+  },
+  {
+   "slug": "2026-09-23-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-3.html",
+   "title": "米大統領が突然「AI」の名前変更を宣言　新呼称「SI」に統一へ、何が変わる？",
+   "title_en": "US President Orders Rebranding of 'AI' to 'SI'—What Actually Changes?",
+   "category": "IT",
+   "published": "2026-09-23",
+   "summary": "米国の大統領がAI（人工知能）の呼称を「SI」に改める大統領令を発表した。この改称には、現在のAI技術の実態をより正確に反映させるという政策的背景があるとみられる。今後、政府機関や産業界での用語統一が進むと予想される一方、既存のAI関連企業や研究機関への影響についても注目が集まっている。"
+  },
+  {
+   "slug": "2026-09-23-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-2.html",
+   "title": "3歳の娘が白血病と診断、親としてどう向き合う？闘病から見える大切なこと",
+   "title_en": "A 3-Year-Old's Battle with Leukemia: What Her Fight Teaches Us About Family and Life Priorities",
+   "category": "コラム",
+   "published": "2026-09-23",
+   "summary": "幼い子どもが白血病という重い病と闘う姿は、親や周囲にどんな影響をもたらすのか。医学的な治療の進展がある一方で、患者本人と家族が経験する心理的・社会的な課題は多い。子どもの回復力と家族の絆から、人生の優先順位を改めて考えさせられるストーリーが注目を集めている。"
+  },
+  {
+   "slug": "2026-09-23-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-1.html",
+   "title": "朝から焼酎を飲んで運転？68歳容疑者の信じられない言い分に怒りの声",
+   "title_en": "68-Year-Old Driver Admits Drinking Shochu Before Fatal Crash That Killed 3-Year-Old Child",
+   "category": "国内",
+   "published": "2026-09-23",
+   "summary": "福岡市で発生した飲酒運転による多重衝突事故で、3歳男児が犠牲となった。逮捕された68歳のドライバーは、事故当日の朝に焼酎を飲んでいたことを認めている。警察は飲酒運転と断定し、捜査を進めている。この痛ましい事故は、飲酒運転の危険性と厳罰化の必要性を改めて浮き彫りにした。"
+  },
+  {
+   "slug": "2026-09-23-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-0.html",
+   "title": "台風25号で関東が壊滅状態に…千葉・神奈川で7人死亡、5人不明の大惨事",
+   "title_en": "Typhoon No. 25 Devastates Kanto Region: 7 Dead, 5 Missing in Chiba and Kanagawa",
+   "category": "国内",
+   "published": "2026-09-23",
+   "summary": "台風25号による記録的な大雨で、関東地方と伊豆諸島で甚大な被害が発生した。千葉県と神奈川県では合計7人が死亡し、5人の行方が不明となっている。土砂災害や河川の氾濫による浸水被害が広範囲で報告されており、住宅被害も急速に増加している状況にある。"
+  },
   {
    "slug": "2026-09-22-60",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-22-60.html",
