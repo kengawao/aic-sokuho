@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1887,
+ "count": 1908,
  "articles": [
+  {
+   "slug": "2026-09-24-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-20.html",
+   "title": "イラン首都でUFO目撃情報が大拡散！ついに宇宙人が降りてくるのか、それとも…？",
+   "title_en": "UFO Spotted Over Tehran? The Internet Can't Stop Speculating—Aliens or Just Hype?",
+   "category": "コラム",
+   "published": "2026-09-24",
+   "summary": "イラン・テヘランの上空でUFOのような飛行物体が目撃され、SNS上で話題沸騰中。目撃者による動画や画像が次々とアップロードされ、その正体をめぐって議論が白熱している。果たしてこれは本物のUFOなのか、それとも別の理由があるのか…"
+  },
+  {
+   "slug": "2026-09-24-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-19.html",
+   "title": "落とし物が迷子になる時代は終わり？警視庁も注目するシール型追跡システムの正体",
+   "title_en": "Is the Era of Lost Items Finally Over? Tokyo Startup's Seal-Based Tracking System Attracts Police Attention",
+   "category": "IT",
+   "published": "2026-09-24",
+   "summary": "東京のスタートアップが、持ち主を特定できるシールを使った落とし物返却システムを開発。従来の落とし物管理では返却に時間がかかる課題があったが、このシール技術により迅速な返却が可能になると期待されている。警視庁など公的機関との連携も予定されており、年々増加する落とし物問題の解決策として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-24-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-18.html",
+   "title": "中国代表の主将が日本へ？バレー界の国際化が加速する背景",
+   "title_en": "Why Is China's Volleyball Captain Joining a Japanese Club?",
+   "category": "スポーツ",
+   "published": "2026-09-24",
+   "summary": "バレーボール女子の中国代表主将が、日本の富山県のクラブチームへの加入を決めた。国際的に活躍する選手の日本リーグ入りは、アジア圏での人材流動化を示すものとみられる。中国からの有力選手獲得は、日本のバレーボール競技レベルの向上と同時に、アジア各国のバレー界における国力競争の新たな局面を象徴している。"
+  },
+  {
+   "slug": "2026-09-24-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-17.html",
+   "title": "iPhone18Proは見た目で前作と見分けつく？デザイン変更点まとめ",
+   "title_en": "Can You Spot the Difference? iPhone 18 Pro vs Previous Generation Design Changes",
+   "category": "IT",
+   "published": "2026-09-24",
+   "summary": "新型iPhone18Proの外観デザインについて、先代モデルとの違いを解説した記事。カメラモジュールの配置変更やベゼル幅の調整、背面素材の質感など、細かな改善点が施されている。大幅なリデザインではなく、段階的な進化の形式をとっているもよう。"
+  },
+  {
+   "slug": "2026-09-24-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-16.html",
+   "title": "JCOMネット接続障害から復旧も、利用者から不安の声が絶えない理由は？",
+   "title_en": "JCOM Declares Network Outage Restored, but Users Remain Skeptical—Why?",
+   "category": "IT",
+   "published": "2026-09-24",
+   "summary": "大手ケーブルテレビ事業者のJCOMが、広範囲に及んだネット接続障害の復旧を発表しました。この障害は多くの利用者に影響を与えましたが、復旧後も利用者からは再発への懸念や通信品質への不信感が上がっています。障害の原因究明と今後の対策について、利用者と企業側の間に温度差が生じている状況が見られます。"
+  },
+  {
+   "slug": "2026-09-24-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-15.html",
+   "title": "なぜANA機は『重大インシデント』と認定されたのか？脱出成功も業界に波紋",
+   "title_en": "Why Was the ANA Plane Classified as a 'Serious Incident'? Safe Evacuation Raises Industry Concerns",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "ANAの航空機が重大インシデントとして認定されました。乗客の脱出が実施されたこのケースは、安全基準の観点から重要な事例として扱われています。航空事故調査委員会などの関係機関が事案を分析する中で、運航安全や機体の状態、乗務員対応などが詳細に検証される見通しです。"
+  },
+  {
+   "slug": "2026-09-24-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-14.html",
+   "title": "米大手メディア3社がトランプ政権を提訴、テレビ局が一斉に「プール取材」中止に",
+   "title_en": "Trump Administration Sued by Major US Networks Over Press Ban; Media Outlets Abandon 'Pool' Coverage",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "トランプ政権がホワイトハウスでの取材を禁止したことに対し、CNNやMS NOW、ポリティコの報道3社が提訴を表明。この発表を受けて、米主要テレビ局は大統領関連行事の代表取材制度である「プール」取材を取りやめた。言論の自由をめぐる対立が、メディア側の集団行動へと発展した形。"
+  },
+  {
+   "slug": "2026-09-24-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-13.html",
+   "title": "イスラエルが国連での『やゆ』動画公開、何が問題なのか？",
+   "title_en": "Israel Posts UN Video Mocking Member States—What's at Stake?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "イスラエル政府が国連加盟国に対して動画を通じた批判的メッセージを発信したとされるニュース。パレスチナ情勢をめぐる国際的な対立の中で、イスラエルが国連での立場や各国の態度に対して異議を唱える形で、動画というメディアを活用した外交戦略を展開している。国連での議論の激化が背景にあるとみられている。"
+  },
+  {
+   "slug": "2026-09-24-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-12.html",
+   "title": "米大統領がCNN記者に激怒、質問中に威圧的態度？民主主義の危機か",
+   "title_en": "US President Intimidates CNN Reporter During Press Conference—Democracy at Risk?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "米国の大統領がメディア対応の際、質問を試みたCNN記者に対して威圧的な態度を示したと報道されている。報道の自由とメディアの役割をめぐる議論が再び浮上。米国内では大統領とマスコミの関係性について様々な見方が存在している。"
+  },
+  {
+   "slug": "2026-09-24-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-11.html",
+   "title": "高市首相の国連演説で中国が猛反発、その理由は？",
+   "title_en": "Why Did China Slam Japan's PM Over Her UN Speech?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "高市早苗首相が国連で行った演説の内容をめぐり、中国が強く反発している。演説では台湾問題や安全保障に関する日本の立場が示されたとみられ、中国側は日本の姿勢に対して公式に抗議。東アジアの緊張関係がさらに高まる可能性がある。"
+  },
+  {
+   "slug": "2026-09-24-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-10.html",
+   "title": "マスク氏が習主席を『偉大な指導者』と称賛？テスラCEOの発言の真意とは",
+   "title_en": "Did Elon Musk Really Call Xi Jinping a 'Great Leader'? What's Really Behind the Remarks?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "イーロン・マスク氏が習近平中国主席について『偉大な指導者』とのコメントを発表した。テスラの中国市場での事業展開や、米中関係の複雑な背景を考慮した発言と見られる。マスク氏の政治的なスタンスと実業家としての利害関係が交錯する形での発言が注目を集めている。"
+  },
+  {
+   "slug": "2026-09-24-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-9.html",
+   "title": "全日空機が那覇空港で緊急脱出　エンジントラブルで乗客3人けが",
+   "title_en": "ANA Aircraft Safely Evacuates at Naha Airport Following Engine Trouble",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "23日夜、全日空の旅客機が離陸直後にエンジンのトラブルが発生し、那覇空港に緊急着陸した。乗客は脱出用シューターを使って急いで脱出し、その際に3人が軽いけがを負った。運輸安全委員会が事故の原因究明に当たっている。"
+  },
+  {
+   "slug": "2026-09-24-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-8.html",
+   "title": "砂漠が花園に変身？エルニーニョがもたらした奇跡、チリで何が起きているのか",
+   "title_en": "Desert Blooms After Decades: What Happens When El Niño Transforms Earth's Driest Landscape?",
+   "category": "科学",
+   "published": "2026-09-24",
+   "summary": "エルニーニョ現象の影響により、普段ほとんど雨が降らないチリのアタカマ砂漠に異例の降雨がもたらされた。この水分が砂漠に眠っていた種子を発芽させ、一帯が花畑へと変貌。数十年ぶりともいわれる珍しい現象が起きており、気象パターンの変化が生態系に及ぼす影響を改めて浮き彫りにしている。"
+  },
+  {
+   "slug": "2026-09-24-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-7.html",
+   "title": "社員寮・社宅が急増中、企業が力を入れる理由は？",
+   "title_en": "Why Are Companies Expanding Employee Housing Benefits?",
+   "category": "経済",
+   "published": "2026-09-24",
+   "summary": "企業が社員寮や社宅の整備を拡大させている動きが活発化している。賃金上昇が難しい中で、住宅支援を通じた福利厚生の充実で人材確保や定着率向上を狙う企業が増えているとみられる。働き方改革やテレワーク導入に伴う生活スタイルの変化も、この傾向に影響を与えている。"
+  },
+  {
+   "slug": "2026-09-24-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-6.html",
+   "title": "DNA型が一致していなかった？飯塚事件、死刑執行後の3度目の再審請求へ",
+   "title_en": "DNA Mismatch Discovered: Iizuka Case Moves Toward Third Retrial After Execution",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "1992年に福岡県飯塚市で発生した幼い女の子2人の殺害事件で、すでに死刑執行済みの元死刑囚について、弁護団が新たなDNA鑑定の不一致を理由に3度目の再審請求を準備している。警察の鑑定で犯人と元死刑囚のDNA型が一致していなかったという新証拠が浮上し、事件の真実究明に向けた法的な動きが加速している。"
+  },
+  {
+   "slug": "2026-09-24-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-5.html",
+   "title": "体操女子団体で銀メダル、杉原選手が感涙…日本体操勢の激動の舞台裏",
+   "title_en": "Japanese Women's Gymnastics Team Secures Silver, Sugihara Moved to Tears",
+   "category": "スポーツ",
+   "published": "2026-09-24",
+   "summary": "体操の国際大会で日本女子団体が銀メダルを獲得した。チームの一員である杉原選手は、メダル獲得の喜びと達成感から思わず涙を流した。厳しい練習と競争を乗り越えた選手たちの想いが、その涙に込められていた。日本体操界の現在地を示す結果として注目を集めている。"
+  },
+  {
+   "slug": "2026-09-24-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-4.html",
+   "title": "首相がゼレンスキー大統領と初会談 ウクライナ情勢で何が話し合われた？",
+   "title_en": "Japanese PM Meets Zelensky for First Time: What's on the Table?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "日本の首相がウクライナのゼレンスキー大統領と初めての会談を行った。ロシアによる侵攻が続く中、両国の関係強化や国際的な協力体制について意見交換が行われたとみられている。この会談は日本の外交戦略において重要な一歩となる。"
+  },
+  {
+   "slug": "2026-09-24-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-3.html",
+   "title": "首相が米大統領との会談で何を成果としたのか？日米関係の今後を左右する",
+   "title_en": "What Did Japan's PM Really Achieve in US Meeting? And What's Next for Japan-US Relations?",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "日本の首相が米国大統領との会談を実施し、その成果について記者会見で強調した。会談では両国間の重要な合意や協力体制の強化が話し合われたと報告されている。具体的な政策内容や今後の日米関係への影響については、今後の詳細な発表が待たれる状況となっている。"
+  },
+  {
+   "slug": "2026-09-24-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-2.html",
+   "title": "大谷、2番DHでついに戻ってきた。どうなる?ドジャース打線の変化",
+   "title_en": "Ohtani Returns as #2 DH: How Will This Change the Dodgers' Lineup?",
+   "category": "スポーツ",
+   "published": "2026-09-24",
+   "summary": "ロサンゼルス・ドジャースの大谷翔平選手がスタメンに復帰することが発表された。今回は2番DH（指定打者）としての起用となる。これまでの出場機会制限から徐々に調整を進めてきた大谷だが、今回の復帰でドジャース打線の攻撃力がどう変わるのかが注目されている。"
+  },
+  {
+   "slug": "2026-09-24-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-1.html",
+   "title": "会社役員が従業員に刺される事態に…職場の人間関係がここまで悪化するのはなぜ？",
+   "title_en": "Why Did Workplace Conflict Escalate to Violence? The Shocking Case of an Executive Stabbed by Employees",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "ある企業の役員が従業員により刺される事件が発生し、役員は重体に陥った。逮捕された従業員らの動機や背景には職場での深刻なトラブルがあったとみられている。経営層と労働者の対立が極端な形で表面化したこのケースから、職場環境の劣化と暴力的衝突に至る経路が問われている。"
+  },
+  {
+   "slug": "2026-09-24-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-0.html",
+   "title": "習近平氏がついに米国到着、トランプ氏自ら出迎え—米中首脳会談の行方は?",
+   "title_en": "Xi Jinping Arrives in the US as Trump Personally Welcomes Him—What's Next for US-China Relations?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "中国の習近平指導部がアメリカに到着し、トランプ前大統領が出迎えた。米中関係は貿易摩擦や地政学的緊張が続く中での首脳級の直接接触。両国の関係改善に向けた動きか、それとも駆け引きの開始か、今後の会談内容が注目されている。"
+  },
   {
    "slug": "2026-09-23-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-40.html",
