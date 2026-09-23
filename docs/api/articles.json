@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1866,
+ "count": 1887,
  "articles": [
+  {
+   "slug": "2026-09-23-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-40.html",
+   "title": "波田陽区が子どもに「芸人やめて」と言われた件、親としての本音がジワジワくるｗｗｗ",
+   "title_en": "Comedian Hatada Yoko Reveals His Child Doesn't Want Him to Be a Performer—A Parent's Honest Struggle",
+   "category": "コラム",
+   "published": "2026-09-23",
+   "summary": "お笑い芸人・波田陽区が、自分の子どもから「芸人はやめてほしい」と思われていることを明かした。親としてのプライドと現実のギャップに直面する波田の心情が話題に。果たして芸人の子どもが感じる葛藤とは何なのか、笑いの背後にある家族の絆について考えさせられるエピソードである。"
+  },
+  {
+   "slug": "2026-09-23-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-39.html",
+   "title": "「キューアグ」なぜ急速に注目集める？衝動買いが起きる理由を専門家が解説",
+   "title_en": "What's Behind the 'Cuag' Frenzy? Why Impulse Buying Surges for This Product",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "SNSやメディアで話題の「キューアグ」という商品やサービスが、消費者の間で衝動的な購買行動を引き起こしているとして注目を集めている。心理学的なメカニズムやマーケティング戦略の効果により、特に若年層を中心に急速な広がりを見せている実態が明らかになりつつある。"
+  },
+  {
+   "slug": "2026-09-23-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-38.html",
+   "title": "中国選手の名前をなぜ日本語読みで実況？放送局の判断基準に議論沸騰",
+   "title_en": "Why Are Chinese Athletes' Names Read in Japanese? Sports Broadcasting Standards Under Scrutiny",
+   "category": "スポーツ",
+   "published": "2026-09-23",
+   "summary": "国際大会の実況中継で、中国選手の名前を漢字の日本語読みで呼ぶ放送が話題になっている。中国語の正式な読みではなく日本語読みを採用する理由について、視聴者から疑問の声が上がっており、放送局の基準や国際スポーツ中継における表記ルールが問われている。"
+  },
+  {
+   "slug": "2026-09-23-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-37.html",
+   "title": "戸田球場の最後は雨で試合なし？燕2軍、歴史の舞台から静かに幕",
+   "title_en": "Last Game at Toda Stadium Ends in Rainout: Swallows' Second Team Era Concludes",
+   "category": "スポーツ",
+   "published": "2026-09-23",
+   "summary": "東京ヤクルトスワローズの2軍が本拠地としていた戸田球場で、最終試合がノーゲームで終了したことが報じられた。天候不良による中止だったとみられ、長年使用された球場での活動に幕が下りることになった。球団の施設変更や2軍運営の変化を背景にした動きとして注目される。"
+  },
+  {
+   "slug": "2026-09-23-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-36.html",
+   "title": "コンビニおにぎりはなぜ売れなくなった？専門店が急成長できる理由",
+   "title_en": "Why Are Evolved Onigiri Specialty Shops Thriving While Convenience Store Rice Balls Decline?",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "従来のおにぎりの概念を覆す「進化系おにぎり専門店」が注目を集めている。高級食材の使用、創意工夫した具材の組み合わせ、丁寧な製造工程といった付加価値により、コンビニ商品との差別化に成功。食のニーズが多様化する中、専門性を突き詰めることで新たな市場を開拓している動きが広がっている。"
+  },
+  {
+   "slug": "2026-09-23-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-35.html",
+   "title": "大手広告代理店を外した理由は？アジア大会が示す「発注構造の変化」",
+   "title_en": "Why Asia Games Ditched Major Ad Agencies: A Shift in Event Procurement Structure",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "アジア大会の運営において、従来は大手広告代理店が独占してきた企画・運営業務を見直し、複数の事業者や地域密着型企業を採用する動きが広がっている。これまでの「系列化」から脱却し、透明性やコスト効率化を求める機運が高まり、業界全体の構造改革を促す契機となっている。"
+  },
+  {
+   "slug": "2026-09-23-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-34.html",
+   "title": "米軍のカリブ海空爆が「人道に対する罪」？ 国連報告者が国際法違反を指摘",
+   "title_en": "UN Reporter Says US Military Airstrikes in Caribbean May Constitute 'Crimes Against Humanity'",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "国連の人権・対テロ特別報告者ベン・ソール氏は、米軍がカリブ海などで麻薬密輸船を標的とした空爆を実施していることについて、国際法違反であり人道に対する罪に該当する可能性があると報告した。公式な調査や法的手続きを経ずに実行される作戦の合法性が問われている。"
+  },
+  {
+   "slug": "2026-09-23-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-33.html",
+   "title": "習近平がアメリカへ出発、トランプとの2回目首脳会談へ　米中関係はどこへ向かう?",
+   "title_en": "Xi Jinping Departs for U.S. Summit With Trump: Will the Second Meeting This Year Change U.S.-China Relations?",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "中国の習近平国家主席が23日午後、専用機でアメリカへ向けて北京を出発しました。今回の訪問は国賓としての公式訪問で、アメリカ到着後はトランプ大統領との首脳会談が予定されています。この会談は今年2度目となり、米中関係の現状と今後の方向性について協議される見通しです。"
+  },
+  {
+   "slug": "2026-09-23-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-32.html",
+   "title": "トランプ大統領がバーナム英首相を「取引できる相手」と評価も、チャゴス合意には「ひどい」と批判",
+   "title_en": "Trump Calls UK PM Sunak a 'Dealmaker,' but Blasts Chagos Islands Agreement as 'Terrible'",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "トランプ米大統領とバーナム英首相が22日に初めて対面会談を実施した。トランプ氏はバーナム首相を交渉相手として評価する一方で、イギリスが昨年モーリシャスとの間で合意したインド洋チャゴス諸島の主権移譲については強く異議を唱えた。米英関係の新局面での意見相違が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-23-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-31.html",
+   "title": "米国がグリーンランドに軍事基地2カ所建設へ　北極圏での戦略拠点化が加速",
+   "title_en": "US to Build 2 Military Bases in Greenland as Arctic Becomes Strategic Battleground",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "アメリカとデンマークが北極圏のグリーンランドの防衛協定に署名しました。協定によりアメリカは新たに2つの軍事基地をグリーンランドに建設することが認められました。一方、グリーンランドはデンマークの自治領としての地位は変わらず、デンマークの主権が再確認される内容となっています。北極圏での米国の戦略的プレゼンス強化が進む動きです。"
+  },
+  {
+   "slug": "2026-09-23-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-30.html",
+   "title": "トランプ氏が国連演説でイランへの再攻撃を示唆、「壊滅か交渉か重大決断」",
+   "title_en": "Trump Hints at Iran Military Strike in UN Speech, Says He Faces 'Major Decision'",
+   "category": "国際",
+   "published": "2026-09-23",
+   "summary": "トランプ米大統領は国連総会でイランに対する強硬姿勢を改めて示唆した。イランへの再攻撃と和平交渉という二つの選択肢の間で重大な決断を迫られていると述べ、国際社会に対して米国の強力な対抗姿勢をアピール。中東情勢の緊張化が懸念される中、具体的な方針は明かされていない。"
+  },
+  {
+   "slug": "2026-09-23-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-29.html",
+   "title": "非正規雇用の急増、本当に企業のせい？識者が語る「国と企業の責任分界線」",
+   "title_en": "Who's to Blame for Japan's Precarious Labor Boom? Experts Weigh In",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "日本の非正規雇用者数が増加し続ける中、その責任がどこにあるのかについて専門家らが議論を展開。企業による採用方針の転換、政府の労働政策、規制緩和の流れなど複数の要因が指摘されており、単純に一方の責任とは言えない構図が浮かび上がっている。今後の雇用制度改革に向けた課題が改めて問われている。"
+  },
+  {
+   "slug": "2026-09-23-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-28.html",
+   "title": "小林悠が現役引退を決意、妻は1週間泣き続けた――選手生命を終わらせた理由とは",
+   "title_en": "Soccer Star Kobayashi Yu Announces Retirement as Wife Cries for a Week Over Uncertain Future",
+   "category": "スポーツ",
+   "published": "2026-09-23",
+   "summary": "プロサッカー選手の小林悠が現役引退を決断した。妻は子どもの将来や家計への不安から1週間にわたって涙したという。キャリアの終わりに直面する中での家族の葛藤、そして夫婦で乗り越えた決断までの道のりが明かされている。長年の活動を支えた家族との向き合い方が注目されている。"
+  },
+  {
+   "slug": "2026-09-23-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-27.html",
+   "title": "TOPIX大改革、来月から銘柄が大幅入れ替え。時価総額重視で日本企業は本当に変わるのか？",
+   "title_en": "TOPIX Overhaul Begins Next Month: Will Market Cap-Focused Reform Really Boost Japanese Corporate Value?",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "東京証券取引所がTOPIXの構成銘柄選定ルールを見直し、来月から大幅な入れ替えが実施されます。時価総額が大きい企業がより選ばれやすくなるこの改革により、日本企業全体で企業価値向上の取り組みが加速するかどうかが注目されています。市場構造の変化が投資戦略にも影響を及ぼす可能性があります。"
+  },
+  {
+   "slug": "2026-09-23-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-26.html",
+   "title": "新宿駅前ビルで火災発生、煙を吸った利用客が体調不良に",
+   "title_en": "Fire Breaks Out at Building in Front of Shinjuku Station, Multiple People Report Health Issues",
+   "category": "国内",
+   "published": "2026-09-23",
+   "summary": "23日夜、JR新宿駅前のビルの7階から煙が発生し、消火活動が続いている。火災が発生した7階には飲食店が営業していたとのこと。東京消防庁の調べによれば、煙を吸入した複数の人物が体調不良を訴えているという。現在のところ詳細な被害状況は明らかになっていない。"
+  },
+  {
+   "slug": "2026-09-23-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-25.html",
+   "title": "SF漫画が現実に？光学迷彩の開発成功、あの技術はどこまで来た",
+   "title_en": "From Manga to Reality: Has Optical Camouflage Finally Been Achieved?",
+   "category": "科学",
+   "published": "2026-09-23",
+   "summary": "SF作品の題材としてよく描かれてきた光学迷彩技術が、実際に開発されたというニュース。漫画の影響を受けた研究者たちが、光を屈折させることで対象物を透明に見せる技術の実現に成功。完全な透明化にはまだ課題が残るものの、防衛やセキュリティ分野での応用が期待されている。"
+  },
+  {
+   "slug": "2026-09-23-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-24.html",
+   "title": "なぜ今年のインフル急増？「長引く雨」が感染拡大の意外な原因に",
+   "title_en": "Why Is Flu Spreading Faster This Year? Prolonged Rain May Be an Unexpected Factor",
+   "category": "健康",
+   "published": "2026-09-23",
+   "summary": "今年のインフルエンザの拡大が例年より深刻化している背景に、長引く雨の影響が指摘されている。雨が多い時期は外出が減少し、人々が屋内に集中することで接触機会が増加。加えて、湿度変化による気道粘膜への影響やウイルス生存期間の延長など、気象条件とウイルス拡散のメカニズムが複合的に作用しているとみられる。専門家は今後の気象動向と感染対策の継続が重要だと強調している。"
+  },
+  {
+   "slug": "2026-09-23-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-23.html",
+   "title": "池江璃花子が明かした悔恨「私が足を引っ張ってしまった」リレー銀メダルの重圧",
+   "title_en": "Rikako Ikee Opens Up About Relay Disappointment: \"I Let My Team Down\"",
+   "category": "スポーツ",
+   "published": "2026-09-23",
+   "summary": "競泳のリレーで銀メダルを獲得した池江璃花子選手が、自身のパフォーマンスについて言及。チームの期待に応えられなかった悔しさと、他の選手へ申し訳ない気持ちを率直に語った。プレッシャーの中での自己評価と、アスリートの心理的負担が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-23-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-22.html",
+   "title": "金利上昇で住宅購入が加速？駆け込み需要の実態に迫る",
+   "title_en": "Rising Interest Rates Trigger a Rush to Buy Homes Before Prices Go Up",
+   "category": "経済",
+   "published": "2026-09-23",
+   "summary": "金利上昇の局面で、住宅購入の駆け込み需要が発生しているという報告があります。金利が今後さらに上がるのではないかという懸念から、購入タイミングを早める購入者が増加している状況が見られ、不動産市場に新たな動きが生まれています。"
+  },
+  {
+   "slug": "2026-09-23-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-21.html",
+   "title": "高市首相がICCに言及、国連演説で何を語ったのか",
+   "title_en": "What Did PM Takaichi Say About the ICC at the UN?",
+   "category": "国内",
+   "published": "2026-09-23",
+   "summary": "高市早苗首相が国連演説で国際刑事裁判所（ICC）に言及し、国際秩序に関する日本の立場を表明しました。ウクライナ情勢や国際法の遵守をめぐる議論の中で、日本がICCの役割をどう評価しているかが注目されています。"
+  },
+  {
+   "slug": "2026-09-23-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-23-20.html",
+   "title": "行方不明の6歳児、離島で遺体として発見 捜索活動の経過と残された謎",
+   "title_en": "Missing 6-Year-Old Found Deceased on Remote Island: Investigation Underway",
+   "category": "国内",
+   "published": "2026-09-23",
+   "summary": "行方不明になっていた6歳の児童が、離島で遺体として発見された。当局は身元確認と死因究明のための調査を進めている。地域の捜索活動が難航する中での発見となり、事件の全容解明が急がれている状況だ。"
+  },
   {
    "slug": "2026-09-23-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-23-19.html",
