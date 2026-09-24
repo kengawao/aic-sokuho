@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1908,
+ "count": 1909,
  "articles": [
+  {
+   "slug": "2026-09-24-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-21.html",
+   "title": "5万匹のウナギが一斉脱獄！印旛沼の『ウナギ版ショーシャンクの空に』が起きていた",
+   "title_en": "50,000 Eels Make Great Escape Near Lake Inba: Nature's Aquatic Prison Break",
+   "category": "コラム",
+   "published": "2026-09-24",
+   "summary": "千葉県の印旛沼近くで、ウナギの養殖施設から約5万匹のウナギが流出するという事態が発生。台風や大雨による増水が原因とみられています。地元民は『まさかのウナギ逃亡劇』に驚嘆。今後、野生化したウナギが沼にどう影響するのかが懸念されています。"
+  },
   {
    "slug": "2026-09-24-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-20.html",
