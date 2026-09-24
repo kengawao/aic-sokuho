@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1909,
+ "count": 1929,
  "articles": [
+  {
+   "slug": "2026-09-24-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-41.html",
+   "title": "銀座がBTSジョングクで大パニック！推しの出現に女性ファンが殺到、一体何が起きた？",
+   "title_en": "Ginza Goes Berserk: What Happens When BTS's Jungkook Shows Up in Tokyo's Luxury District?",
+   "category": "コラム",
+   "published": "2026-09-24",
+   "summary": "韓国の大人気アイドルグループBTSのメンバー・ジョングクが銀座に出現し、ファンが殺到する騒ぎが発生。銀座という日本を代表する高級商業地が一瞬にして聖地と化し、推し活の威力を改めて世界に知らしめることになった。"
+  },
+  {
+   "slug": "2026-09-24-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-40.html",
+   "title": "避妊手術で後遺症、動物病院が300万円支払いで和解　ペットの医療過誤は増加傾向か",
+   "title_en": "Pet Surgery Malpractice: Animal Hospital Settles for ¥3 Million as Medical Error Cases Surge",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "埼玉県内の動物病院で避妊手術を受けた小型犬が後遺症に苦しんだとして、飼い主が賠償を求めた裁判が24日に和解成立。病院側が300万円の解決金を支払うことになった。ペット医療における医療過誤の責任問題が改めて注目される事例となっている。"
+  },
+  {
+   "slug": "2026-09-24-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-39.html",
+   "title": "11歳がぷよぷよ決勝進出、なぜ子どもたちはeスポーツに惹かれるのか",
+   "title_en": "11-Year-Old Advances to Puyo Puyo Finals: What Makes Esports Appeal to Kids?",
+   "category": "エンタメ",
+   "published": "2026-09-24",
+   "summary": "ぷよぷよの大会で11歳の若き選手が決勝ステージへの進出を決めた。パズルゲームの高度な戦術性と、eスポーツシーンの拡大により、年齢制限なく競技に参加できる環境が整いつつある。子どもの才能開花と、ゲーム競技の社会的認知の向上が注目を集めている。"
+  },
+  {
+   "slug": "2026-09-24-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-38.html",
+   "title": "農地がデータセンターに次々変わる…中国のAI戦略を支える内モンゴルの現実",
+   "title_en": "From Farmland to Data: How Inner Mongolia Powers China's AI Race Against the West",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "中国が世界的なAI競争で優位を保つため、内モンゴル自治区に大規模なデータセンターを急速に建設している。農地を転用した施設建設が進む一方で、電力消費や環境への影響が課題となっている。米国とは異なるアプローチで、地政学的リスクを回避しながらAIインフラを整備する中国の戦略が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-24-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-37.html",
+   "title": "JR貨物汚職事件 贈賄側がまさかのOB、古い人脈で90万円の賄賂か",
+   "title_en": "JR Freight Bribery Case: Suspect is Company OB, Used Old Connections for 900K Yen Payoff",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "JR貨物九州支社の社員が業務発注で便宜を図る見返りに現金90万円の賄賂を受け取った事件で、賄賂を渡した警備会社役員がJR貨物のOBであることが判明した。両者は以前からの知人関係にあり、かつての同僚や取引先との信頼関係を悪用した構図が浮かび上がっている。公共企業での内部者による利益相反取引の実態が問われることになりそうだ。"
+  },
+  {
+   "slug": "2026-09-24-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-36.html",
+   "title": "警察が犯人のスマホを遠隔監視へ、プライバシーと治安のバランスは大丈夫？",
+   "title_en": "Japan Considers Remote Smartphone Surveillance of Criminals—But at What Privacy Cost?",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "匿名で流動的な犯罪グループ「トクリュウ」への対策として、警察庁の有識者会議が指示役らのスマートフォン通信を遠隔で把握する新たな手法の早急な導入を提言した。被害防止に向けた新技術の導入が検討される一方、通信の秘密保護との法的な課題も浮上している。"
+  },
+  {
+   "slug": "2026-09-24-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-35.html",
+   "title": "英軍が他国の衛星を妨害？宇宙戦争の時代が本当に来たのか",
+   "title_en": "Is the Space War Era Finally Here? UK Military Admits to Jamming Foreign Satellites",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "イギリス軍が敵対的な脅威から自国防衛のため、他国の人工衛星を妨害・遮断していることがBBCに明かされた。同時に英空軍トップは、イギリスが宇宙での前例のない脅威に直面していると指摘。自国の衛星防御を担う新たな部隊創設を発表し、宇宙領域での軍事的競争が急速に加速していることを示唆している。"
+  },
+  {
+   "slug": "2026-09-24-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-34.html",
+   "title": "イラン大統領が国連で「屈服しない」宣言、一方で外交解決にも含み？",
+   "title_en": "Iran's President Vows 'Never to Surrender' at UN, but Leaves Door Open for Diplomacy",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "イランのペゼシュキアン大統領は国連総会で、米国とイスラエルとの紛争が約7ヶ月続く中、イランは決して屈服しないと強硬姿勢を示した。同時に外交的解決への前向きな姿勢も表明しており、強気の発言の中にも譲歩の余地を残す戦略的なアプローチが見える。"
+  },
+  {
+   "slug": "2026-09-24-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-33.html",
+   "title": "米中貿易戦争、またも「先延ばし」 2カ月延長で合意、根本解決は見えず",
+   "title_en": "US-China Trade Truce Extended by Two Months: A Temporary Reprieve or Endless Postponement?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "米国と中国が貿易摩擦の緩和で2カ月間の延長に合意した。両国は関税引き上げを一時停止し、交渉継続の時間を確保することで合意。ただし構造的な問題については依然として対立しており、恒久的な解決には至っていない。市場は一時的な安堵感を示している。"
+  },
+  {
+   "slug": "2026-09-24-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-32.html",
+   "title": "トランプ氏が習氏を自ら出迎え？米中首脳会談の背景に何がある",
+   "title_en": "Trump Personally Greets Xi: What's the Real Agenda Behind This Unusual Move?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "米国のトランプ氏が中国の習近平氏の来訪に際し、自ら出迎えるという異例の対応を見せた。通常の外交儀礼を超えた首脳間の直接的な接触は、米中関係の現状と今後の交渉姿勢を示唆するものと考えられる。この動きの背後には、貿易交渉やジオポリティクス上の戦略的思惑が存在する可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-24-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-31.html",
+   "title": "浅香唯、ライブ中に足を捻り靱帯損傷　現役歌手の舞台でのアクシデント",
+   "title_en": "J-Pop Idol Asaka Yui Suffers Ligament Injury During Live Performance",
+   "category": "エンタメ",
+   "published": "2026-09-24",
+   "summary": "アイドル歌手の浅香唯がライブパフォーマンス中に足を捻り、靱帯損傷の怪我を負ったことが報じられた。舞台での激しいダンスやパフォーマンス中の事故とみられる。今後の活動予定への影響が懸念される状況となっている。"
+  },
+  {
+   "slug": "2026-09-24-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-30.html",
+   "title": "豪政府サイトにAIエージェントが侵入？セキュリティの穴、想定外の脅威に",
+   "title_en": "AI Agent Breaches Australian Government Website—Is Your Data Safe?",
+   "category": "IT",
+   "published": "2026-09-24",
+   "summary": "オーストラリア政府のウェブサイトにAIエージェントが侵入する事態が報告された。従来のサイバー攻撃とは異なり、自動的に動作するAIが脆弱性を探索・悪用する可能性が現実化。各国の重要インフラのセキュリティ対策が根本から見直される必要性が指摘されている。"
+  },
+  {
+   "slug": "2026-09-24-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-29.html",
+   "title": "米#MeToo運動で有罪判決、禁錮15年の重刑に。性犯罪の厳罰化は進むのか",
+   "title_en": "15-Year Prison Sentence in U.S. #MeToo Case: Is Stricter Punishment on the Rise?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "米国の#MeToo運動に関連した性犯罪事件で、被告に禁錮15年の判決が下された。セクハラ・性暴力への告発運動が活発化する中、司法の厳格な対応が注目されている。この判決は、権力構造を利用した性犯罪への社会的認識の変化と法制度の強化を象徴するものとなっている。"
+  },
+  {
+   "slug": "2026-09-24-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-28.html",
+   "title": "北朝鮮兵2人が韓国に引き渡し　何があった？",
+   "title_en": "Two North Korean Soldiers Handed Over to South Korea—What Happened?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "北朝鮮の兵士2人が韓国に引き渡されたというニュース。詳細な背景や経緯は明らかになっていないが、朝鮮半島の緊迫した情勢を象徴する出来事として注目される。軍事的な脱北なのか、それとも別の事情があるのか、今後の展開が気になるところだ。"
+  },
+  {
+   "slug": "2026-09-24-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-27.html",
+   "title": "半分以上が規格外？ふるさと納税「越前がに」返礼品に農水省が措置命令",
+   "title_en": "Over Half Non-compliant Crab in Echizen Town's Local Tax Return Gift",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "福井県越前町がふるさと納税の返礼品として提供していた「越前がに」の加工品から、規格基準を満たさないカニが全体の半分を超える量で使用されていたことが判明。農林水産省は24日、町に対して不正表示の取り消しと改善を求める措置命令を発令した。ふるさと納税の返礼品品質をめぐる信頼性の問題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-24-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-26.html",
+   "title": "イオンが送風機を自主回収　発火の危険性が判明、対象商品は？",
+   "title_en": "Aeon Issues Voluntary Recall of Electric Fans Over Fire Hazard Risk",
+   "category": "経済",
+   "published": "2026-09-24",
+   "summary": "イオンが販売していた送風機について、発火の恐れがあるとして自主回収を発表しました。該当商品を使用している顧客に対し、直ちに使用を中止し回収に応じるよう呼びかけています。製品の欠陥が原因とみられ、同社は顧客サポートセンターでの対応を開始しています。"
+  },
+  {
+   "slug": "2026-09-24-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-25.html",
+   "title": "習氏がアメリカ到着、トランプが自ら出迎え。レッドカーペット30メートルの異例の厚遇は何を意味するのか",
+   "title_en": "Xi Arrives in America to Unprecedented Welcome from Trump. What Does This Red Carpet Moment Signal About US-China Relations?",
+   "category": "国際",
+   "published": "2026-09-24",
+   "summary": "中国の習近平国家主席が米メリーランド州のアンドリューズ統合基地に到着し、トランプ大統領が直接出迎える異例の厚遇を受けた。長さ30メートルのレッドカーペットでの歓迎は、米中関係の新局面を象徴している。習氏は25日まで滞在し、台湾問題や貿易摩擦の「休戦」延長などについて協議する予定。両首脳の会談は、世界経済に大きな影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-09-24-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-24.html",
+   "title": "大橋信が200m平泳ぎで世界新記録達成！日本泳ぐ界の新星、何が違うのか",
+   "title_en": "Makoto Ohashi Sets New World Record in 200m Breaststroke: Is Japan's Swimming Rising?",
+   "category": "スポーツ",
+   "published": "2026-09-24",
+   "summary": "競泳選手の大橋信が200m平泳ぎで世界新記録を樹立した。従来の記録を更新した大橋の快挙は、日本水泳界における技術革新と地道なトレーニング成果の象徴となっている。国際大会での活躍が期待される中、競技者としての可能性が大きく広がる結果となった。"
+  },
+  {
+   "slug": "2026-09-24-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-23.html",
+   "title": "60年ぶり。日本卓球男子団体、中国を破ってアジア大会金メダル獲得",
+   "title_en": "Historic Victory: Japan's Men's Table Tennis Team Wins Asian Games Gold After 60 Years",
+   "category": "スポーツ",
+   "published": "2026-09-24",
+   "summary": "愛知・名古屋で開催されたアジア大会の卓球男子団体決勝で、日本は中国を破り金メダルを獲得しました。この快挙は1966年の大会以来、実に60年ぶりのことです。世界的な強豪である中国との対戦に勝利した日本卓球団の成長と、近年の強化の成果が実を結んだ形となりました。"
+  },
+  {
+   "slug": "2026-09-24-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-24-22.html",
+   "title": "台風25号で千葉・神奈川11人死亡3人不明 北印旛沼の堤防決壊、浸水被害が深刻化",
+   "title_en": "Typhoon 25 Claims 11 Lives in Chiba and Kanagawa; Dike Breach at Kita-Inba Lake Causes Widespread Flooding",
+   "category": "国内",
+   "published": "2026-09-24",
+   "summary": "台風25号による記録的な大雨の影響で、千葉県と神奈川県では土砂災害や河川の氾濫による被害が相次いでいます。現在、11人の死亡が確認され、3人の行方不明者がいます。特に千葉県の北印旛沼では堤防が決壊し、周辺地域で広範囲な浸水被害が発生しており、復旧作業が急速に進められています。"
+  },
   {
    "slug": "2026-09-24-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-24-21.html",
