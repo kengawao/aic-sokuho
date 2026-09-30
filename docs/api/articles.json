@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1950,
+ "count": 1970,
  "articles": [
+  {
+   "slug": "2026-09-30-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-40.html",
+   "title": "クマさん、なぜ車にタックル？道路での激突事件、犯人の真意が謎すぎる",
+   "title_en": "Why Did the Bear Keep Charging at the Car? The Mysterious Motivation Behind the Road Incident",
+   "category": "コラム",
+   "published": "2026-09-30",
+   "summary": "道路を歩いていたクマが車に複数回突進し、車両に破損を与える事件が発生。野生動物の思いがけない行動に、地域住民も運転手も大混乱。クマ側の動機や背景について、専門家の見方も分かれているようだ。"
+  },
+  {
+   "slug": "2026-09-30-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-39.html",
+   "title": "11歳でウーマン・グランドマスター、イギリス少女が史上最年少記録を更新。天才チェスプレイヤーの台頭が意味すること",
+   "title_en": "11-Year-Old British Chess Prodigy Becomes Youngest Woman Grandmaster Ever—What This Means for the Game",
+   "category": "スポーツ",
+   "published": "2026-09-30",
+   "summary": "イギリスの11歳の少女チェス選手が、女性プレイヤーの最高位タイトル「ウーマン・グランドマスター」を獲得し、史上最年少記録を塗り替えた。この快挙は国際チェス界でも極めて珍しく、若年層からの才能育成やジェンダー別タイトル制度の現状を改めて問う事例となっている。"
+  },
+  {
+   "slug": "2026-09-30-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-38.html",
+   "title": "長時間労働なのに給与満足度はOECD最下位レベル　日本の教員『働き方改革』はなぜ進まない？",
+   "title_en": "Japanese Teachers Work Long Hours but Earn Less Satisfaction Than OECD Average—Why Isn't Reform Taking Hold?",
+   "category": "国内",
+   "published": "2026-09-30",
+   "summary": "OECD調査によると、日本の教員は国際的に見ても労働時間が著しく長い一方で、給与や勤務条件への満足度がOECD平均を大きく下回っていることが判明した。長時間労働の割に報酬が低く、職業としての魅力が低下している実態が浮き彫りになっており、教育現場の人材確保や質低下への懸念が高まっている。"
+  },
+  {
+   "slug": "2026-09-30-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-37.html",
+   "title": "常陸大宮市長が「核のごみ」受け入れ判断へ、30日表明―文献調査の先に何がある？",
+   "title_en": "Will Hitachi-Omiya City Accept Nuclear Waste Study? Decision Looms on September 30th",
+   "category": "国内",
+   "published": "2026-09-30",
+   "summary": "茨城県常陸大宮市の鈴木定幸市長が、高レベル放射性廃棄物の最終処分地選定に向けた「文献調査」の受け入れ可否を9月30日に表明する見通しが報じられた。文献調査は処分地の適性を科学的に評価する第一段階であり、受け入れは市と国の協議開始を意味する。地域活性化への期待がある一方で、最終処分地化への懸念から市民の賛否が分かれている。"
+  },
+  {
+   "slug": "2026-09-30-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-36.html",
+   "title": "中国が「テクノロジー観光」に本気？AI工場やEV施設が観光地化する狙いとは",
+   "title_en": "China's New Tourism Strategy: Why Are Tech Factories Becoming Tourist Attractions?",
+   "category": "国際",
+   "published": "2026-09-30",
+   "summary": "中国が最先端のテクノロジー企業施設を観光資源として活用する「テクノロジー観光」を推進している。AI開発拠点や電動車の生産工場、スマートシティなど、通常は産業施設である場所を観光客に公開し、国家の技術力をアピール。経済効果と国家イメージ向上の両立を狙う新しい観光戦略として注目されている。"
+  },
+  {
+   "slug": "2026-09-30-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-35.html",
+   "title": "スマホで野菜が育つ時代、実際に取材してわかった意外な課題とは",
+   "title_en": "The Reality Behind 'Smartphone Farming': What On-Site Coverage Reveals About the Gaps",
+   "category": "経済",
+   "published": "2026-09-30",
+   "summary": "スマートフォンで栽培管理ができる「スマホ農場」が注目を集めている。IoT技術を活用して、温度・湿度・光量などをリアルタイム監視し、初心者でも効率的に野菜を栽培できるというもの。しかし実際の運用現場では、通信環境の不安定性やセンサー故障時の対応、データ解釈の難しさなど、理想と現実のギャップが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-09-30-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-34.html",
+   "title": "セルビア大統領が突然辞任、1年以上続いた市民デモの結果か—バルカン半島で何が起きている？",
+   "title_en": "Serbian President Steps Down After Year-Long Student Protests—What's Happening in the Balkans?",
+   "category": "国際",
+   "published": "2026-09-30",
+   "summary": "セルビアのアレクサンダル・ヴチッチ大統領が27日に辞任を表明した。学生らが主導する抗議活動が1年以上続いており、政府の汚職疑惑に対する国民の不信感が急速に高まっていた。年内には議会選と大統領選が実施される予定で、セルビア政治の転換点となる可能性がある。"
+  },
+  {
+   "slug": "2026-09-30-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-33.html",
+   "title": "ウクライナの名門科学アカデミーがドローン攻撃で被害、職員は窓から避難",
+   "title_en": "Russia's Drone Strike Targets Kyiv's Prestigious Science Academy; Staff Forced to Evacuate Through Windows",
+   "category": "国際",
+   "published": "2026-09-30",
+   "summary": "ウクライナの首都キーウにある国立科学アカデミーが28日、ロシアのドローン攻撃を受けた。BBCの外交担当編集委員が現地から報告した。この歴史的建造物への攻撃により、建物内にいた人々が窓からの避難を余儀なくされるなど、被害の深刻さが伝わっている。攻撃がウクライナの文化遺産や研究機関にも及んでいることが浮き彫りになった。"
+  },
+  {
+   "slug": "2026-09-30-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-32.html",
+   "title": "イランが米国に間接協議で何を要求？核合意交渉が動き始めた",
+   "title_en": "What is Iran Demanding from the US? Indirect Nuclear Talks Show Signs of Progress",
+   "category": "国際",
+   "published": "2026-09-30",
+   "summary": "イランと米国が間接協議を通じて交渉を進めている。イラン側が米国に対して具体的な要求を伝達したことが明らかになった。核合意をめぐる交渉の進展が期待される中、両国の対立構図がどう変わるかが注視されている。"
+  },
+  {
+   "slug": "2026-09-30-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-31.html",
+   "title": "北朝鮮『韓国の自作自演』と主張　地雷爆発事件で両国が対立",
+   "title_en": "North Korea Denies Landmine Incident as 'South Korean False Flag Operation'",
+   "category": "国際",
+   "published": "2026-09-30",
+   "summary": "北朝鮮は韓国との非武装地帯で発生した地雷爆発事件について、韓国側の自作自演であると主張した。この事件は韓国兵士の負傷に繋がったもので、韓国側は北朝鮮による意図的な行為と見なしている。両国の主張が対立する中、国際社会の注視が集まっている。"
+  },
+  {
+   "slug": "2026-09-30-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-30.html",
+   "title": "山本裕典が結婚、相手は一般女性 俳優の私生活に注目集まる",
+   "title_en": "Actor Yusuke Yamamoto Ties the Knot with Non-Celebrity Woman",
+   "category": "エンタメ",
+   "published": "2026-09-30",
+   "summary": "俳優の山本裕典が結婚したことを発表した。相手は一般女性とのこと。山本は過去のドラマ・映画で活躍してきたが、プライベートはあまり公開していなかった。今回の結婚発表により、ファンからの反応や今後の活動への関心が高まっている。"
+  },
+  {
+   "slug": "2026-09-30-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-29.html",
+   "title": "ChatGPTの親会社OpenAI、新型AI「GPT-6.1 アストラ」の公開を中止　安全上の理由とは？",
+   "title_en": "OpenAI Shelves GPT-6.1 Astra: Why the ChatGPT Creator is Pumping the Brakes on its Latest AI",
+   "category": "IT",
+   "published": "2026-09-30",
+   "summary": "ChatGPTを開発した米OpenAIが、新型AIモデル「GPT-6.1 アストラ」の公開を見送ることを発表しました。同社は安全上の懸念を理由に挙げており、開発したAIをすべて世に出すわけではないという方針が改めて示された形です。AIの性能向上と安全性のバランスをどう取るかが業界全体の課題となっています。"
+  },
+  {
+   "slug": "2026-09-30-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-28.html",
+   "title": "過去最大317万人減少…日本の人口危機はもう他人事ではない",
+   "title_en": "Japan's Population Crisis: A Record 3.17 Million Decline in Just 5 Years",
+   "category": "国内",
+   "published": "2026-09-30",
+   "summary": "2025年国勢調査の確定値が発表され、日本の総人口は1億2297万人となりました。5年前の2020年調査比で約317万人の減少となり、統計開始以来最大の減少幅を記録。この急速な人口減少は、労働力不足や社会保障制度への影響など、経済・社会構造全体に大きな波紋をもたらしています。"
+  },
+  {
+   "slug": "2026-09-30-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-27.html",
+   "title": "なぜ同じアトピーなのに症状が全然違う？免疫細胞の差が答えかもしれない",
+   "title_en": "Why Does Atopic Dermatitis Vary So Much Between Patients? Immune Cells May Hold the Answer",
+   "category": "健康",
+   "published": "2026-09-30",
+   "summary": "アトピー性皮膚炎の症状の重さや現れ方に大きな個人差があるのは、特定の免疫細胞の働き方の違いが関係している可能性が明らかになった。同じ病気でも患者ごとに免疫反応のパターンが異なることで、重症度や治療への反応性が変わるという新たな知見は、より個別化された治療法の開発につながる可能性がある。"
+  },
+  {
+   "slug": "2026-09-30-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-26.html",
+   "title": "34歳で脳梗塞、介護が必要なのに保険が使えない？若年患者を襲う制度の壁",
+   "title_en": "Stroke at 34: Young Patients Fall Through Cracks in Japan's Care System",
+   "category": "健康",
+   "published": "2026-09-30",
+   "summary": "40歳未満の若年層が脳梗塞などで要介護状態になった場合、介護保険が適用されず医療費と介護費用の負担が重くのしかかる問題が指摘されている。高齢者向けに設計された現行制度では、働き盛りの患者とその家族が深刻な経済難に直面する実態が明らかになった。制度改革を求める声が高まっている。"
+  },
+  {
+   "slug": "2026-09-30-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-25.html",
+   "title": "SpaceXのスターシップついに地球周回軌道到達！次はどこへ？",
+   "title_en": "SpaceX's Starship Finally Reaches Orbital Altitude—What's Next?",
+   "category": "科学",
+   "published": "2026-09-30",
+   "summary": "SpaceXが開発している大型ロケット「スターシップ」が地球周回軌道への到達に成功した。同機は火星への有人探査ミッションや大型衛星打ち上げなどを想定した次世代宇宙輸送システムとして注目されており、この達成は宇宙産業にとって大きなマイルストーンとなる。商用宇宙旅行の拡大やNASAとの協力プロジェクトへの道が開かれた可能性がある。"
+  },
+  {
+   "slug": "2026-09-30-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-24.html",
+   "title": "人生の最期、どう決める？4学会が示した生命維持治療の新しい指針",
+   "title_en": "How Should We End Life-Sustaining Care? Four Medical Societies Release New Guidelines",
+   "category": "健康",
+   "published": "2026-09-30",
+   "summary": "日本の医学関連4学会が、終末期医療における生命維持治療の終了に関する新たな指針を発表しました。高齢化社会が進む中、患者本人の意思尊重や家族との相談のあり方を明確化し、医療現場での判断基準を統一することを目指しています。本人の願いと医学的現実のバランスをどう取るかが焦点となっています。"
+  },
+  {
+   "slug": "2026-09-30-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-23.html",
+   "title": "イープラス、1463件の個人情報漏えい。あなたのチケット購入履歴は大丈夫？",
+   "title_en": "eplus Leaks 1,463 Customer Records—Is Your Ticket Purchase History Safe?",
+   "category": "IT",
+   "published": "2026-09-30",
+   "summary": "チケット販売大手のイープラスが、顧客の個人情報1463件の漏えいを発表した。漏えいした情報には氏名や住所、メールアドレスなどが含まれている。同社は被害者への通知と再発防止策の強化を進めているが、大手企業での大規模情報漏えいは利用者の信頼に大きな影響を与えることが懸念される。"
+  },
+  {
+   "slug": "2026-09-30-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-22.html",
+   "title": "娘が熱中症で寝たきりに…父が訴える『予防できたはずの tragedy』",
+   "title_en": "Father's Heartbreaking Appeal: Daughter Left Bedridden After Heatstroke",
+   "category": "健康",
+   "published": "2026-09-30",
+   "summary": "猛暑の影響で熱中症患者が急増する中、一人の父親が娘の熱中症発症とその後遺症について訴えている。適切な対応がなされていたら防げたかもしれない事態が生じており、家族の人生が大きく変わってしまった状況が明かされている。熱中症の危機的な状況と予防対策の重要性が改めて問題視されている。"
+  },
+  {
+   "slug": "2026-09-30-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-09-30-21.html",
+   "title": "明日の八丈島、台風直撃へ 準備は間に合う?",
+   "title_en": "Typhoon Set to Hit Hachijo Island Tomorrow—Is There Time to Prepare?",
+   "category": "国内",
+   "published": "2026-09-30",
+   "summary": "気象情報によると、台風が明日にも八丈島をはじめとする地域に直撃する見込みとなっています。暴風や大雨による被害が懸念される中、住民は今後の気象情報の確認と事前準備が急務となっています。各地域の防災機関では警戒態勢を強化している状況です。"
+  },
   {
    "slug": "2026-09-30-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-20.html",
