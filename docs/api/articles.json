@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1970,
+ "count": 1991,
  "articles": [
+  {
+   "slug": "2026-10-01-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-20.html",
+   "title": "象界の大物「マック」が逝く…王子動物園で何があった？",
+   "title_en": "Farewell to Mac the Elephant: What Happened at Oji Zoo?",
+   "category": "コラム",
+   "published": "2026-10-01",
+   "summary": "兵庫県の王子動物園で長年愛されていたアジアゾウの「マック」が死亡した。同園の象として多くの来園者に親しまれ、象舎の象徴的存在だったマックの訃報に、動物園ファンから悲しみの声が上がっている。詳細な死因や年齢については公式発表を待つ状況。"
+  },
+  {
+   "slug": "2026-10-01-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-19.html",
+   "title": "液晶パネル大手JDIが茂原工場を売却へ――日本の産業転換の象徴か",
+   "title_en": "JDI's Factory Sale Marks Japan's Shift from LCD to Semiconductors",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "経営再建を進めるジャパンディスプレイが、昨年11月に生産終了した千葉県茂原工場を長野県の半導体部品メーカーに売却することを決定した。液晶市場の縮小に伴う構造改革の一環で、遊休資産の活用を図る狙い。半導体需要の高まりを背景に、異業種への施設転用が進む産業再編の動きを示している。"
+  },
+  {
+   "slug": "2026-10-01-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-18.html",
+   "title": "あなたの声は法的に守られる？初めて「人格権」と認めた裁判所の判断",
+   "title_en": "Is Your Voice Legally Protected? Court Recognizes Voice as Symbol of Personality for the First Time",
+   "category": "国内",
+   "published": "2026-10-01",
+   "summary": "声が個人の人格を象徴する重要な要素として初めて司法が認定した。これまで法的に明確な保護がなかった声について、裁判所が人格権の侵害に該当する可能性を判断。声の無断使用や模倣による被害について、法的救済の道が開かれる可能性が高まった。デジタル化やAI技術の進展により、音声の複製・利用が容易になる時代背景も関連している。"
+  },
+  {
+   "slug": "2026-10-01-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-17.html",
+   "title": "核のゴミ捨て場、茨城で進む？常陸大宮市が文献調査を容認",
+   "title_en": "Japan's Nuclear Waste May Find a Home in Ibaraki — One Small Step Forward",
+   "category": "国内",
+   "published": "2026-10-01",
+   "summary": "茨城県常陸大宮市が高レベル放射性廃棄物（核ごみ）の最終処分地選定に向けた文献調査に応じることを容認した。経済産業省による調査第一段階で、市内の地質・地盤データなど既存資料を分析するもの。最終処分地の決定には至らないが、プロセスの進展は国のエネルギー政策上重要な転機となる。"
+  },
+  {
+   "slug": "2026-10-01-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-16.html",
+   "title": "東北大学、世界大学ランキングで躍進？国内有数の研究機関がいま注目される理由",
+   "title_en": "Tohoku University Rises in Global Rankings: What's Driving This Japanese Research Hub's Success?",
+   "category": "国内",
+   "published": "2026-10-01",
+   "summary": "世界的な大学評価機関による最新ランキングで、東北大学が高い評価を獲得し、注目を集めている。研究力や国際競争力の強化に向けた取り組みが評価される一方、日本の高等教育の国際的地位をめぐる議論も浮上している。東北大がどのような分野で評価されたのか、そして国内外の大学との競争状況について関心が高まっている。"
+  },
+  {
+   "slug": "2026-10-01-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-15.html",
+   "title": "なぜ今？明治大がアラスカ先住民の遺骨を返還、日本の大学の対応が問われる",
+   "title_en": "Why Now? Meiji University Returns Alaska Native Remains, Raising Questions About Japan's Academic Responsibility",
+   "category": "国内",
+   "published": "2026-10-01",
+   "summary": "明治大学がアラスカの先住民の遺骨を返還することが報じられた。同大が保管していた人骨資料をアラスカ州の先住民コミュニティに返却する動きで、欧米の大学では先住民遺骨の返還が加速している中、日本の学術機関でも同様の対応が求められる事例として注目されている。文化的・倫理的な課題として、日本の博物館や大学の資料管理のあり方が改めて検討される契機となる可能性がある。"
+  },
+  {
+   "slug": "2026-10-01-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-14.html",
+   "title": "ロシアのデータセンター攻撃が日常生活を麻痺させる？ゼレンスキー大統領が警告",
+   "title_en": "Russia's Data Center Attacks Threaten to Paralyze Ukraine's Daily Life, Zelenskyy Warns",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "ウクライナのゼレンスキー大統領は、ロシアがデータセンターやインターネットプロバイダーへの攻撃を急増させていると述べた。単なる軍事目標ではなく、一般市民の生活基盤を破壊することで最大限の混乱を引き起こすことが狙いだとしている。電力やインターネット通信といった日常生活に必須なインフラが標的にされており、国家レベルの情報戦としての側面も浮かぶ。"
+  },
+  {
+   "slug": "2026-10-01-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-13.html",
+   "title": "欧州自動車業界、戦争特需で復活なるか？再軍備の波に乗る各メーカーの戦略",
+   "title_en": "Can Military Spending Save Europe's Struggling Automakers?",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "経営難に直面する欧州の自動車メーカーが、各国の防衛費拡大に目をつけている。ウクライナ情勢の緊迫化に伴い、欧州各国が軍事費を増やす中、自動車業界は防衛関連産業への転換を模索し、業界全体の活性化を狙う動きが加速している。低迷する乗用車市場から防衛分野への事業シフトが、業界救済となるか注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-01-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-12.html",
+   "title": "タイの大雨被害、24人死亡で収まらず…空港の荷物まで取り残される事態に",
+   "title_en": "Thailand's Downpours Leave 24 Dead, Now Stranding Baggage at Bangkok Airport",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "タイ全域で大雨による洪水・浸水被害が拡大し、これまでに24人の死亡が確認されました。被害は人命だけに留まらず、首都バンコク近郊の空港では一部航空会社で荷物の受け取りが困難になるなど、交通・物流システムにも深刻な影響が及んでいます。復旧見通しはまだ立っていない状況です。"
+  },
+  {
+   "slug": "2026-10-01-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-11.html",
+   "title": "日本から返還されたパンダ、中国で公開へ　日中友好の象徴が新たな一歩",
+   "title_en": "Giant Panda Returns to China: A New Chapter in Japan-China Friendship",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "日本の動物園で飼育されていたパンダが中国に返還され、中国国内の施設で一般公開されることが明らかになった。パンダは長年日本で親しまれてきたが、繁殖プログラムの一環として母国に帰ることになった。この返還は両国の友好関係を象徴する出来事として注目されている。"
+  },
+  {
+   "slug": "2026-10-01-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-10.html",
+   "title": "ウクライナ侵攻で露呈した通信網の脆弱性、防御策強化が急務に",
+   "title_en": "Ukraine War Exposes Communication Infrastructure Vulnerabilities; Nations Rush to Strengthen Defenses",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "ウクライナへの侵攻を受けて、通信インフラの防御が国際的な課題として浮上している。サイバー攻撃や物理的な破壊に対する耐性の強化、バックアップ体制の構築など、紛争地域における通信網の維持が戦略的に重要であることが明らかになった。各国が自国の通信基盤の堅牢化と有事対応の整備を急いでいる。"
+  },
+  {
+   "slug": "2026-10-01-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-9.html",
+   "title": "米大統領がAIの呼び方を「SI」に統一？ 略称変更の狙いは何か",
+   "title_en": "U.S. Administration Rebands AI as 'SI': What's the Strategy Behind the Name Change?",
+   "category": "IT",
+   "published": "2026-10-01",
+   "summary": "米国の大統領が人工知能（AI）の新しい名称として「SI」を公式に採用する大統領令に署名しました。従来の「AI」という表記から統一的な呼び方へ変更することで、国際競争力の強化や技術政策の明確化を図る意図があるとみられています。この動きは、急速に発展するAI産業での米国の主導権維持戦略の一環として注目されています。"
+  },
+  {
+   "slug": "2026-10-01-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-8.html",
+   "title": "近藤美月が金メダル獲得！柔道日本勢の第1号、その快挙の背景は",
+   "title_en": "Mizuki Kondo Wins Gold: Japan's First Medal in Judo - What's Behind This Historic Achievement?",
+   "category": "スポーツ",
+   "published": "2026-10-01",
+   "summary": "柔道の近藤美月選手が金メダルを獲得し、大会における日本勢の第1号となった。この成績は日本柔道界の期待を背負った重要な結果となり、今後の選手の活躍にも弾みがつく可能性が高い。近藤選手の実力と努力が実を結んだ形となっている。"
+  },
+  {
+   "slug": "2026-10-01-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-7.html",
+   "title": "西武渋谷店が87年の歴史に幕、閉店初日は入り口に長蛇の列",
+   "title_en": "Seibu Shibuya Flagship Store Closes After 87 Years, Swarms of Nostalgic Customers Flock to Final Day",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "西武渋谷店が閉店を迎え、営業最終日は多くの客が訪れ入り口が大混雑となった。同店は1937年の開業から87年間、渋谷の顔として地域を支えてきたが、百貨店業界の構造的な変化と消費行動の多様化により営業を終了することになった。閉店に際して買い物や別れを惜しむ客で賑わった。"
+  },
+  {
+   "slug": "2026-10-01-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-6.html",
+   "title": "ニデック5646億円の赤字って…どうしてこんなことに？光学機器大手の経営危機",
+   "title_en": "Nidec's 564.6 Billion Yen Loss: How Did This Precision Optics Giant Fall So Hard?",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "光学機器大手のニデックが2025年度決算で5646億円の赤字を計上することが明らかになった。同社は眼鏡レンズやカメラ部品など精密光学製品で知られていたが、市場環境の悪化や需要減少により深刻な経営危機に直面している。今後の事業再編や経営体制の立て直しが急務となっている。"
+  },
+  {
+   "slug": "2026-10-01-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-5.html",
+   "title": "セコマで個人情報が第三者に丸見え？流出規模はどこまで広がるのか",
+   "title_en": "Seicomart Personal Data Exposed to Unauthorized Users: How Wide Is the Breach?",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "コンビニチェーン・セイコーマートで顧客の個人情報が第三者によって閲覧可能な状態になっていたことが判明。氏名、連絡先、購買履歴などが不正アクセスされた可能性があり、同社が詳細を調査中。多くのユーザーが被害を受けた可能性があるとみられる。"
+  },
+  {
+   "slug": "2026-10-01-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-4.html",
+   "title": "TBS謝罪、福澤克雄監督のパワハラ問題 なぜ大手放送局で相次ぐのか",
+   "title_en": "TBS Apologizes Over Director Fukuzawa Katsuo's Workplace Harassment: A Pattern in Japan's Broadcasting Industry?",
+   "category": "エンタメ",
+   "published": "2026-10-01",
+   "summary": "TBSが福澤克雄監督によるパワハラ問題について謝罪を発表した。番組制作現場での不適切な言動が明らかになり、放送局としての管理体制が問われている。業界内での指導方法や職場環境の改善が急務となっており、今後の再発防止策が注目される。"
+  },
+  {
+   "slug": "2026-10-01-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-3.html",
+   "title": "麻生氏が土地3カ所を資産報告せず、政治家の資産公開ルールはザル状態？",
+   "title_en": "Aso Failed to Report 3 Land Parcels: Is Japan's Political Asset Disclosure System Full of Loopholes?",
+   "category": "国内",
+   "published": "2026-10-01",
+   "summary": "麻生太郎氏が保有する土地3カ所について、政治資金規正法に基づく資産報告書に記載していなかったことが判明した。政治家の資産公開制度の透明性や実効性をめぐって改めて議論となっており、同様の事例がほかの政治家にも存在する可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-10-01-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-2.html",
+   "title": "10月の値上げ品目が過去最多レベル　3153品目って、もう食卓から何も逃げられない？",
+   "title_en": "Over 3,000 Food Products Hit Price Hikes in October—Has Inflation Finally Reached Everything on Your Grocery List?",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "10月の飲食料品値上げが3153品目に達し、記録的な水準となっています。人件費や原材料費の上昇、円安の影響などが背景にあり、消費者の家計への負担がさらに増す状況。スーパーの棚を見ても値上げの表示が目立つようになり、日常の買い物でも価格上昇を実感する消費者が急増しています。"
+  },
+  {
+   "slug": "2026-10-01-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-1.html",
+   "title": "2025年度の介護費用が過去最大に。あなたの親の介護費用はいくらかかる？",
+   "title_en": "Japan's Long-Term Care Costs Hit Record High in 2025. Are You Prepared?",
+   "category": "国内",
+   "published": "2026-10-01",
+   "summary": "2025年度の介護費用が高齢化に伴い過去最高を記録することが見通されている。日本の高齢化率の上昇に伴い、介護サービス利用者の増加と介護職員不足による処遇改善加算の拡大が要因とされている。今後の社会保障制度維持と個人の介護資金計画が急務となっている。"
+  },
+  {
+   "slug": "2026-10-01-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-0.html",
+   "title": "BRAHMANのTOSHI-LOW、がん公表 ロックシーンに衝撃",
+   "title_en": "BRAHMAN's TOSHI-LOW Announces Cancer Diagnosis, Shocking Rock Community",
+   "category": "エンタメ",
+   "published": "2026-10-01",
+   "summary": "ロックバンド・BRAHMANのボーカル、TOSHI-LOW氏ががんであることを公表した。同氏は日本のロックシーンを代表するアーティストの一人として活動してきた。公表のタイミングや今後の活動については、ファンや業界関係者から注視されている。"
+  },
   {
    "slug": "2026-09-30-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-09-30-40.html",
