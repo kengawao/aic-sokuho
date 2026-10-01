@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 1991,
+ "count": 2012,
  "articles": [
+  {
+   "slug": "2026-10-01-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-41.html",
+   "title": "ハチミツ二郎が会見開いたら笑いが止まらないｗ これって営業活動なの？それとも本気なの？",
+   "title_en": "Honey Jiro Holds Press Conference That Can't Stop Laughing - Is This Marketing Genius or Just Fun?",
+   "category": "コラム",
+   "published": "2026-10-01",
+   "summary": "ハチミツ二郎が会見を開催。その際の雰囲気がとにかく和やかで、終始笑いが絶えなかったとのこと。真面目な会見というより、楽しい雰囲気に包まれていたようだ。ハチミツというテーマと本人のキャラクターが相まって、独特の会見となった模様。"
+  },
+  {
+   "slug": "2026-10-01-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-40.html",
+   "title": "三島由紀夫が米出版社に何度も手紙を送った理由—40通の直筆書簡が明かす文豪の執念",
+   "title_en": "Lost Letters Reveal Yukio Mishima's Relentless Push for International Recognition—40 Handwritten Notes to American Publishers",
+   "category": "エンタメ",
+   "published": "2026-10-01",
+   "summary": "戦後日本を代表する作家・三島由紀夫がアメリカの出版社編集者に宛てて英語で書いた直筆の手紙40通以上が新たに発見された。手紙からは、自作の海外での評価に強い関心を持ち、国際的な認知度向上に向けて積極的に動いていた三島の姿が浮かび上がる。ノーベル文学賞への思いなども綴られており、三島の野心的な活動を示す貴重な資料となっている。"
+  },
+  {
+   "slug": "2026-10-01-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-39.html",
+   "title": "メス33頭、オス1頭。サル山の「超メス社会」に何が起きているのか",
+   "title_en": "One Male, 33 Females: What's Happening in This Monkey Mountain's Extreme Gender Imbalance?",
+   "category": "科学",
+   "published": "2026-10-01",
+   "summary": "動物園のサル山で、極端に歪んだ性比を持つ群れが観察されている。メス33頭に対してオス1頭という「超メス社会」では、通常と異なる社会構造や行動パターンが生まれているという。この異常な状況がどのように発生し、群れの動態にどう影響しているのか、専門家の関心を集めている。"
+  },
+  {
+   "slug": "2026-10-01-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-38.html",
+   "title": "黒いキツネ『ギンギツネ』が日本で撮影される？ネットで話題の謎の映像を徹底検証",
+   "title_en": "Black Fox Footage Sparks Debate: Is This Really a Silver Fox (Black Morph)?",
+   "category": "科学",
+   "published": "2026-10-01",
+   "summary": "日本国内で黒いキツネの映像が撮影され、ネット上で『ギンギツネ』ではないかと話題になっている。ギンギツネは希少なキツネの黒化型で、通常の赤いキツネとは異なる遺伝的特性を持つ。今回撮影された映像の真正性や、日本でのギンギツネ目撃情報の実態について、専門家の見方も含めて注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-01-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-37.html",
+   "title": "映画『オデッセイ』の火星シーンで天候描写が現実と異なる？科学考証を検証",
+   "title_en": "Does 'The Martian' Get Mars Weather Right? A Scientific Analysis of Hollywood's Red Planet",
+   "category": "エンタメ",
+   "published": "2026-10-01",
+   "summary": "火星を舞台にした映画『オデッセイ』の天候表現が、実際の火星環境とどの程度乖離しているのかを検証する記事。砂嵐のスケール感や大気圧の違いなど、科学的な視点から映画の表現の正確さと、エンタメとしての演出のバランスについて考察している。"
+  },
+  {
+   "slug": "2026-10-01-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-36.html",
+   "title": "ニデック経営危機、なぜ光学機器大手が『再生不透明』に陥ったのか",
+   "title_en": "Nidec's Crisis Deepens: Why This Optical Powerhouse Faces an Uncertain Recovery",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "精密光学機器メーカーのニデックが経営難に直面している。不透明な経営状況の中で、事業の再構築や立て直しの見通しが立たないという状況が報じられた。同社は長年、業界で競争力を保ってきたが、市場環境の変化や経営判断の遅れなど複合的な要因が経営危機につながったとみられている。投資家や取引先の間で先行き懸念が高まっている。"
+  },
+  {
+   "slug": "2026-10-01-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-35.html",
+   "title": "米中首脳が24日ワシントンで対面　世界の二大国が話し合った内容は？",
+   "title_en": "Xi and Trump Meet Face-to-Face in Washington: What's Really at Stake?",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "中国の習近平国家主席とアメリカのトランプ大統領が24日、ワシントンで直接会談を実施した。両国の緊張関係が続く中での対面会議となり、BBCの中国特派員が今回の会談の意義と背景について解説している。世界経済に大きな影響を与える両大国の関係が注目を集めている。"
+  },
+  {
+   "slug": "2026-10-01-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-34.html",
+   "title": "1700億円の秘密資金を隠蔽？マンチェスター・シティーが全容疑で有罪認定、サッカー界に激震",
+   "title_en": "Manchester City Guilty on All Financial Rule Violations: Over £830 Million in Hidden Funding Exposed",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "英プレミアリーグは29日、マンチェスター・シティーが2009年から2018年にかけて、リーグの財務規則に違反していたと発表した。同クラブはパートナー企業との偽装契約により、8億3000万ポンド以上の秘密資金調達を隠していたという。複数の違反容疑で全て有罪と認定され、サッカー界での大型スキャンダルとなった。"
+  },
+  {
+   "slug": "2026-10-01-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-33.html",
+   "title": "87歳女性が70年の自宅から強制退去……スペイン住宅危機、政府が緊急対策",
+   "title_en": "87-Year-Old Woman Forced From Home of 70 Years as Spain Grapples With Housing Crisis",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "スペインの左派連立政権が賃借人の強制退去を一時的に停止する新たな住宅対策を承認した。マドリードで87歳の女性が70年以上住んだ自宅からの立ち退きを強いられた事件が引き金となり、住宅危機に対する国民の抗議活動が拡大。政府は急速な家賃高騰に対応する必要に迫られ、今回の措置に踏み切った。スペインの住宅問題の深刻化を象徴する事例となっている。"
+  },
+  {
+   "slug": "2026-10-01-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-32.html",
+   "title": "アフリカの大国モロッコが初の女性首相誕生へ。その背景にあるものは？",
+   "title_en": "Morocco Sets Historic Milestone: What Does Its First Female Prime Minister Mean for North Africa?",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "モロッコで初めて女性首相が誕生することになりました。新任の首相は組閣を進める予定で、この人事は中東北アフリカ地域における女性政治家の登用推進の動きを象徴しています。モロッコの政治体制や社会情勢の変化を反映した注目すべき人事といえます。"
+  },
+  {
+   "slug": "2026-10-01-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-31.html",
+   "title": "20年の戦いに終止符？米軍がイラクでのIS掃討作戦を正式終了",
+   "title_en": "U.S. Military Ends Combat Mission Against ISIS in Iraq After 20-Year Fight",
+   "category": "国際",
+   "published": "2026-10-01",
+   "summary": "米軍がイラクにおけるイスラム国（IS）との戦闘任務を正式に終了すると発表しました。2014年のIS台頭以来、中東での長期軍事作戦に区切りがつくことになります。ただし完全撤退ではなく、イラク軍への訓練・助言支援は継続される見通しで、地域の安定化に向けた課題は残されています。"
+  },
+  {
+   "slug": "2026-10-01-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-30.html",
+   "title": "Yahoo!きっず終了へ「子どもの検索はどうなる?」12月4日サービス終了決定",
+   "title_en": "Yahoo! Kids Shutting Down on December 4: What's Next for Child-Safe Web Browsing?",
+   "category": "IT",
+   "published": "2026-10-01",
+   "summary": "Yahoo!が提供していた子ども向けポータルサイト「Yahoo!きっず」が2024年12月4日をもってサービス終了することが発表されました。同サイトは安全性に配慮した子ども向けの検索機能やゲーム、学習コンテンツなどを提供していましたが、スマートフォンの普及やコンテンツ環境の変化に伴い、サービス継続が困難になったとみられます。"
+  },
+  {
+   "slug": "2026-10-01-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-29.html",
+   "title": "懐かしすぎる漫画が35年ぶり復活？『おぼっちゃまくん』が令和に帰ってくる理由",
+   "title_en": "Classic 80s Comedy Manga 'Obotchaman' Returns After 35 Years—Why Now?",
+   "category": "エンタメ",
+   "published": "2026-10-01",
+   "summary": "1980年代に連載され、多くの読者に愛された漫画『おぼっちゃまくん』が35年ぶりに復活することが発表された。昭和のギャグ漫画として一世を風靡した作品が、なぜ今になって再始動するのか、その背景には懐かしのコンテンツへの関心の高まりや、新たなメディア展開の可能性があると考えられている。"
+  },
+  {
+   "slug": "2026-10-01-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-28.html",
+   "title": "トヨタが祝日勤務の見直しに動く　業界の『当たり前』が変わる?",
+   "title_en": "Toyota Takes On Japan's Auto Industry Holiday Work Culture",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "トヨタ自動車が祝日勤務を含む業界慣行の見直しに着手することが明らかになった。製造業では祝日の稼働が常態化していたが、同社の動きは労働環境の改善と人材確保を狙ったものとみられる。自動車業界全体に波及する可能性もあり、業界慣行の転換点となるか注目される。"
+  },
+  {
+   "slug": "2026-10-01-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-27.html",
+   "title": "ポケモン×スタバコラボ、なぜこんなに人気？限定商品を求める行列の裏側",
+   "title_en": "Why Is Pokémon × Starbucks Collab Creating Such a Frenzy? Inside the Craze for Limited-Edition Items",
+   "category": "エンタメ",
+   "published": "2026-10-01",
+   "summary": "ポケモンとスターバックスのコラボレーション商品が大きな話題となり、販売店に希望者が殺到している。限定商品やオリジナルデザインのグッズなどが用意されており、ファンの購買意欲が高まっているようだ。このようなキャラクターとの異業種コラボが、消費者の購買行動にどのような影響を与えているのかが注目される。"
+  },
+  {
+   "slug": "2026-10-01-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-26.html",
+   "title": "千葉県民は警戒が必要？台風接近で関東の雨量がヤバいことになる可能性",
+   "title_en": "Is Chiba Prefecture in Danger? Heavy Rain from Approaching Typhoon Could Turn Into a Disaster",
+   "category": "国内",
+   "published": "2026-10-01",
+   "summary": "台風が関東地方に接近する見通しが示され、特に千葉県では大雨による被害が懸念されている。気象情報によると、進路によっては記録的な降雨量となる可能性があり、土砂災害や浸水のリスクが高まる恐れがある。各自治体は警戒情報を発令し、住民に対して事前準備や避難の呼びかけを強化している。今後の気象情報の更新に注視する必要がある状況となっている。"
+  },
+  {
+   "slug": "2026-10-01-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-25.html",
+   "title": "日銀短観、大企業製造業が6期連続改善…でも本当に景気回復してる？",
+   "title_en": "Japan's Manufacturing Sentiment Improves for 6th Straight Quarter—But Is the Recovery Really Here?",
+   "category": "経済",
+   "published": "2026-10-01",
+   "summary": "日銀が発表した企業短期経済観測調査で、大企業製造業の景気判断指数がプラス24ポイントとなり、3ヶ月前から2ポイント上昇した。これで6期連続の改善となり、製造業の景況感が着実に改善している傾向が示された。"
+  },
+  {
+   "slug": "2026-10-01-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-24.html",
+   "title": "オリックス野上士耀さん突然死 19歳の若き才能を失った野球界",
+   "title_en": "19-Year-Old Orix Player Shio Nogami Passes Away: Baseball World in Mourning",
+   "category": "スポーツ",
+   "published": "2026-10-01",
+   "summary": "プロ野球オリックス・バファローズに所属していた野上士耀さんが亡くなったことが報じられた。19歳という若年での突然の訃報に、野球界からも悲しみの声が上がっている。死因や詳細な状況については公式発表待ちの状況。今後、野球界全体に与える影響が注視されている。"
+  },
+  {
+   "slug": "2026-10-01-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-23.html",
+   "title": "AI企業が「人類存亡危機」警告　何が起きている？",
+   "title_en": "AI Company Warns of 'Existential Risk to Humanity' — What's Really Happening?",
+   "category": "IT",
+   "published": "2026-10-01",
+   "summary": "AI開発企業のアンソロ社が、人工知能技術が人類の存亡を脅かす可能性について警告を発表した。同社は技術の急速な進化に伴う潜在的なリスクに対し、業界全体での対策強化の必要性を主張している。こうした警告は業界内でも議論が分かれており、AI安全性とイノベーションのバランスについての関心が高まっている。"
+  },
+  {
+   "slug": "2026-10-01-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-22.html",
+   "title": "声優の生成AI動画請求が棄却、でも問題はこれからか",
+   "title_en": "Voice Actor's AI Video Lawsuit Dismissed—But Is This Really The End?",
+   "category": "エンタメ",
+   "published": "2026-10-01",
+   "summary": "生成AI技術を使用した声優の映像作品をめぐる裁判で、声優側の請求が棄却される判断が下されました。本件は、急速に進化するAI技術と著作権・肖像権の保護という現代的な課題の狭間で、法的判断がどのように行われているのかを示す事例となっています。デジタル時代のクリエイター保護と技術発展のバランスについて、改めて問い直す契機となる可能性があります。"
+  },
+  {
+   "slug": "2026-10-01-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-21.html",
+   "title": "年内にAI行動計画、日本も本気出すのか？ 高性能AI普及へ政府が動く",
+   "title_en": "Japan Finally Moves to Boost AI: Government Launches Action Plan by Year-End",
+   "category": "IT",
+   "published": "2026-10-01",
+   "summary": "政府が高性能AIの普及を推進するため、年内に行動計画の策定を発表した。急速に進むAI技術の発展に対応し、日本企業の競争力強化と社会実装の加速を目指すもの。具体的な支援策や規制枠組みの構築が検討されている。"
+  },
   {
    "slug": "2026-10-01-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-20.html",
