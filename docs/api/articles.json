@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2013,
+ "count": 2034,
  "articles": [
+  {
+   "slug": "2026-10-02-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-20.html",
+   "title": "ウイカが辞書に喧嘩を売った結果ｗｗｗ「泣き寝入り」が削除される大騒動",
+   "title_en": "Uika Just Pwned the Dictionary and Won ー A Word Gets Deleted",
+   "category": "コラム",
+   "published": "2026-10-02",
+   "summary": "タレントのウイカが、ある辞書の表現に異を唱えたことが話題に。自身の経験や主張を基に、特定の言葉の定義や使われ方に疑問を投げかけ、その結果が辞書の改訂につながるという珍事が発生。芸能人の一声が言葉の世界にまで影響を及ぼす時代が来たのか、と話題騒然。"
+  },
+  {
+   "slug": "2026-10-02-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-19.html",
+   "title": "建設業の人手不足、年末までに解決策？高市首相が成長戦略で本気度を試される",
+   "title_en": "Japan's Construction Labor Crisis: Can PM Takashii's Year-End Policy Deliver Real Solutions?",
+   "category": "経済",
+   "published": "2026-10-02",
+   "summary": "高市総理大臣は成長戦略の実行に向けて、建設分野が直面する深刻な人手不足問題に取り組む指示を出しました。関係省庁に検討を進めるよう命じ、年末までに具体的な対応策をまとめた政策パッケージの策定を目指しています。建設業界は労働環境の改善や処遇向上が課題とされてきました。"
+  },
+  {
+   "slug": "2026-10-02-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-18.html",
+   "title": "子どもと接する仕事なのに性犯罪歴が確認されない日本、ついにDBS導入へ",
+   "title_en": "Japan Finally Implements DBS: Why Did It Take So Long to Check for Child-Related Sex Crimes?",
+   "category": "国内",
+   "published": "2026-10-02",
+   "summary": "こども家庭庁が、子どもと関わる職業従事者の性犯罪歴の有無を確認する「日本版DBS」制度の開始を前に、事業者向けの相談窓口を開設した。情報管理や運用方法などの不明な点に対応する。欧米諸国では既に導入されている制度で、日本でも導入により、児童虐待やわいせつ行為の防止が期待される。"
+  },
+  {
+   "slug": "2026-10-02-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-17.html",
+   "title": "精密機器大手ニデック、上場維持の危機？株価低迷で何が起きているのか",
+   "title_en": "Nidec's Listing at Risk: Can Japan's Precision Optics Giant Survive Market Headwinds?",
+   "category": "経済",
+   "published": "2026-10-02",
+   "summary": "精密光学機器メーカーのニデックが上場維持基準をクリアできるかが焦点となっている。株価の低迷や市場環境の変化により、上場企業として求められる基準達成が困難になりつつあるとみられている。業界内での競争激化と経営戦略の転換が求められる局面を迎えている。"
+  },
+  {
+   "slug": "2026-10-02-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-16.html",
+   "title": "青森・秋田・岩手の地銀3行が統合協議へ、地方銀行再編の波が東北到来",
+   "title_en": "Three Regional Banks in Tohoku Region to Pursue Merger Talks, Banking Consolidation Wave Reaches Northeast Japan",
+   "category": "経済",
+   "published": "2026-10-02",
+   "summary": "青森銀行、秋田銀行、岩手銀行の東北地方の3地方銀行が経営統合に向けた協議を開始することが報じられた。低金利環境の長期化と人口減少による経営環境の悪化に対応するための戦略的な経営統合で、地域経済の拠点を守りながら経営基盤を強化する狙いがある。地方銀行業界では経営統合の動きが加速しており、今後の地域金融再編の重要な事例となる可能性が高い。"
+  },
+  {
+   "slug": "2026-10-02-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-15.html",
+   "title": "静岡で果樹カメムシに警報発令、農家はどう対策する?",
+   "title_en": "Shizuoka Issues Alert Over Fruit Tree Stink Bugs—What's the Farm Strategy?",
+   "category": "国内",
+   "published": "2026-10-02",
+   "summary": "静岡県が果樹に被害をもたらすカメムシ類に対して警報を発令した。ブドウやナシなどの果樹の商品価値を著しく低下させるこの害虫の発生が予測より多くなる見通しのため、農家に防除の徹底を呼びかけている。適切な時期での農薬散布や物理的な防除方法の組み合わせが重要とされている。"
+  },
+  {
+   "slug": "2026-10-02-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-14.html",
+   "title": "ネタニヤフ首相の国連演説中に複数国が抗議退席　中東情勢の深刻化を象徴する場面に",
+   "title_en": "Netanyahu's UN Speech Defended Israeli Military Operations as Multiple Countries Staged Walkout Protest",
+   "category": "国際",
+   "published": "2026-10-02",
+   "summary": "イスラエルのネタニヤフ首相は国連総会で中東地域での軍事作戦を強く擁護し、戦いの継続を宣言した。演説中、複数の国の代表団がこれに抗議して次々と退席する異例の事態が発生。国際舞台での分裂と対立の深さが改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-02-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-13.html",
+   "title": "英空軍基地近くで5人逮捕、バーナム首相がイラン関与を示唆も本国は強く反論",
+   "title_en": "UK Prime Minister Suggests Iranian Involvement in RAF Base Arrest, Tehran Denies Claims",
+   "category": "国際",
+   "published": "2026-10-02",
+   "summary": "英イングランド南西部の空軍基地付近で9月27日に逮捕された男性5人について、バーナム英首相は30日の声明でイランの関与を示唆した。5人はテロ準備と爆発物関連法違反の疑いで逮捕されたが、その後保釈されている。一方、イラン政府はこの指摘を強く否定し、「筋違いだ」と反論している。"
+  },
+  {
+   "slug": "2026-10-02-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-12.html",
+   "title": "致死量の薬物注射2回でも死なず…米テネシア州の死刑執行、何が起きたのか",
+   "title_en": "Prisoner Survives Two Lethal Injections in Tennessee Execution: What Went Wrong?",
+   "category": "国際",
+   "published": "2026-10-02",
+   "summary": "米テネシア州で9月30日に実施された死刑執行で、異例の事態が発生した。死刑囚に対し致死量の薬物が2度にわたって注射されたにもかかわらず、心臓の鼓動が続いたため、死刑囚は病院に搬送されたという。死刑執行プロセスの問題が改めて浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-10-02-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-11.html",
+   "title": "スイスの氷河が「壊滅的」に減少、このままだと農業や発電にヤバいことになるんじゃ？",
+   "title_en": "Swiss Glaciers Hit Record Melting: Could This Threaten Europe's Water and Power Supply?",
+   "category": "国際",
+   "published": "2026-10-02",
+   "summary": "スイスの氷河が2026年に記録的な減少を経験したことが判明した。科学者らは、この傾向が今後数十年続けば、農業用水や水力発電、さらには輸送に必要な水資源の供給に深刻な影響を与える可能性があると指摘している。グローバルな気候変動が欧州の水資源にもたらす長期的なリスクが顕在化しつつある。"
+  },
+  {
+   "slug": "2026-10-02-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-10.html",
+   "title": "春以降で最大規模…ロシアがウクライナのエネルギーインフラ攻撃、11州が夜間に襲撃される",
+   "title_en": "Russia Launches Largest-Scale Attack on Ukraine's Energy Infrastructure Since Spring, Striking 11 States at Night",
+   "category": "国際",
+   "published": "2026-10-02",
+   "summary": "ウクライナのコレツキー首相は9月30日、ロシアが同国のエネルギーインフラに対して春以降最大規模の攻撃を実施したと発表した。キーウと周辺地域を中心に、夜間に11州が攻撃対象となり、住宅やインフラ、民間企業、鉄道など広範な施設が被害を受けた。冬季の到来を控える中、国民の生活に深刻な影響が懸念される。"
+  },
+  {
+   "slug": "2026-10-02-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-9.html",
+   "title": "timelesz メンバーが涙の謝罪　一体何があった？",
+   "title_en": "What Happened? Timelesz Member Apologizes in Tears",
+   "category": "エンタメ",
+   "published": "2026-10-02",
+   "summary": "人気グループ・timeszのメンバーが公の場で涙ながらに謝罪する事態が発生。ファンや業界関係者の間で大きな話題となっている。詳細な背景や原因については現在調査中だが、グループの今後の活動に影響を与える可能性も指摘されている。公式声明の発表が期待されている。"
+  },
+  {
+   "slug": "2026-10-02-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-8.html",
+   "title": "9月の雨、東日本で統計史上最多を記録 何が起きた？",
+   "title_en": "Record-Breaking September Rainfall in Eastern Japan: What Caused It?",
+   "category": "国内",
+   "published": "2026-10-02",
+   "summary": "9月の降水量が東日本地域で観測史上最大となったことが明らかになった。台風や秋雨前線の影響が重なり、記録的な降雨をもたらしたもの。農業や交通への影響が懸念されており、気象庁は今後の気象パターン変化への注視を呼びかけている。"
+  },
+  {
+   "slug": "2026-10-02-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-7.html",
+   "title": "バレー元代表・大友愛さんが離婚発表 プロ選手の「第二の人生」どうなる?",
+   "title_en": "Former Japan Volleyball Star Ai Otomo Announces Divorce: What's Next for Athletes' Second Act?",
+   "category": "スポーツ",
+   "published": "2026-10-02",
+   "summary": "日本バレーボール女子代表の元選手・大友愛さんが離婚を発表した。現役時代は国際大会での活躍で知られ、引退後も注目を集めていた。プロアスリートのセカンドキャリアと私生活のバランスについて、改めて関心が高まっている。"
+  },
+  {
+   "slug": "2026-10-02-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-6.html",
+   "title": "フラット35の金利が過去最高の3.830%に…住宅ローン利用者に何が起きている?",
+   "title_en": "Japan's Flat 35 Fixed-Rate Mortgage Hits Record 3.830% - What Does This Mean for Homebuyers?",
+   "category": "経済",
+   "published": "2026-10-02",
+   "summary": "長期固定金利型住宅ローン「フラット35」の金利が3.830%まで上昇し、過去最高水準に達した。日銀の金融政策転換や市場金利の上昇が背景にあると考えられる。これにより、新規で住宅ローンを組む層への負担増加が懸念される一方、既に固定金利を確保した層との格差が広がることになる。"
+  },
+  {
+   "slug": "2026-10-02-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-5.html",
+   "title": "食料品の消費減税法案、概要が判明。家計はどうなる？",
+   "title_en": "Food Tax Cut Bill Details Revealed: What Does It Mean for Your Wallet?",
+   "category": "経済",
+   "published": "2026-10-02",
+   "summary": "政府が検討中の食料品を対象とした消費減税法案の概要が明らかになりました。この法案は生活必需品である食料品の税負担を軽減することを目的としており、低所得世帯の家計を支援する狙いがあります。具体的な減税対象品目や実施時期、財源確保の方法などが論点となっており、今後の国会審議が注目されています。経済界からの期待と財政への懸念が入り混じった反応が出ています。"
+  },
+  {
+   "slug": "2026-10-02-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-4.html",
+   "title": "伊東四朗、来年6月で芸能活動引退へ　70年超のキャリアに幕",
+   "title_en": "Legendary Comedian Shiro Ito Announces Retirement Next June After 70+ Years in Entertainment",
+   "category": "エンタメ",
+   "published": "2026-10-02",
+   "summary": "日本を代表するコメディアンの伊東四朗が、来年6月で芸能活動からの引退を発表した。70年を超える長きにわたる芸能人生を終える決断だ。テレビやラジオで活躍してきた彼の退職は、昭和から令和にかけて日本のエンタメシーンを支えてきた大物の時代が変わることを象徴している。"
+  },
+  {
+   "slug": "2026-10-02-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-3.html",
+   "title": "スイスの氷河が5年で2割消失…「アルプスの白い峰々」が危機的状況に",
+   "title_en": "Swiss Glaciers Shrinking at Alarming Rate: One-Fifth Lost in Just Five Years",
+   "category": "国際",
+   "published": "2026-10-02",
+   "summary": "スイスの氷河が過去5年間で20%もの面積を失ったことが明らかになった。温暖化による気温上昇が加速し、アルプス地域の氷河融解が深刻化している。この速度は過去の融解ペースを大きく上回っており、水資源やハイドロパワー、観光産業への影響が懸念されている。"
+  },
+  {
+   "slug": "2026-10-02-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-2.html",
+   "title": "出産費用、全額無償化へ動く…厚労省が12月までにルール決定、何が変わる?",
+   "title_en": "Japan Plans Free Childbirth: What's Changing with New Healthcare Insurance Coverage?",
+   "category": "国内",
+   "published": "2026-10-02",
+   "summary": "厚生労働省が出産無償化の実現に向けた検討会を立ち上げました。基本的な出産費用を公的医療保険で全額賄う制度設計について議論を開始し、12月までに具体案をまとめる予定です。対象となる医療施設の基準設定など、実現に向けた課題について検討が進められています。"
+  },
+  {
+   "slug": "2026-10-02-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-1.html",
+   "title": "森保ジャパンがエクアドルをPK戦で撃破！W杯への道、着々と前進",
+   "title_en": "Japan's Morimatsu Squad Advances: Victory Over Ecuador in Thrilling Penalty Shootout",
+   "category": "スポーツ",
+   "published": "2026-10-02",
+   "summary": "森保一監督率いる日本代表がエクアドル代表とのマッチアップでPK戦の末に勝利を収めた。激しい戦いの中、両チームは90分間で決着がつかず、延長戦を経てペナルティキックによる決着となった。この勝利は日本代表にとって重要な3ポイントを意味し、今後の国際試合での順位争いに大きく影響する結果となった。"
+  },
+  {
+   "slug": "2026-10-02-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-02-0.html",
+   "title": "錦織圭、涙のプロ引退　日本テニス界の象徴が人生の幕を下ろす",
+   "title_en": "Kei Nishikori Retires with Tears, Closing a Career That Changed Japanese Tennis",
+   "category": "スポーツ",
+   "published": "2026-10-02",
+   "summary": "日本を代表するテニスプレイヤー・錦織圭が現役を引退することが明らかになった。長年にわたる怪我との戦いを経て、プロとしての人生に終止符を打つ。グランドスラム準優勝など輝かしい成績を残した錦織は、日本テニス界の国際的プレゼンスを大きく高めた。現役最後の試合では涙をみせ、テニス人生への思いを表現した。"
+  },
   {
    "slug": "2026-10-01-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-42.html",
