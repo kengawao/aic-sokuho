@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2012,
+ "count": 2013,
  "articles": [
+  {
+   "slug": "2026-10-01-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-01-42.html",
+   "title": "マックの顔が「ドナルド」から「ロナルド」に改名？あのキャラクターに何が起きた",
+   "title_en": "McDonald's Iconic Clown Gets a Name Change: From Donald to Ronald – Here's What's Happening",
+   "category": "コラム",
+   "published": "2026-10-01",
+   "summary": "マクドナルドの象徴的キャラクター「ドナルド」が「ロナルド」への改名を検討しているとの報道。数十年ぶりの大規模な変更となり、ファンや業界関係者から様々な反応が上がっている。ブランドリニューアルの狙いと、あのオレンジ色のクラウンの今後が注目を集めている。"
+  },
   {
    "slug": "2026-10-01-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-01-41.html",
