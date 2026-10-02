@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2056,
+ "count": 2076,
  "articles": [
+  {
+   "slug": "2026-10-03-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-19.html",
+   "title": "阪神、あと1勝で日本一へ。巨人の敗北が引き寄せた優勝の瞬間",
+   "title_en": "Hanshin Tigers One Win Away from Clinching the Pennant as Giants Fall to Swallows",
+   "category": "スポーツ",
+   "published": "2026-10-03",
+   "summary": "セ・リーグの優勝争いで、阪神タイガースの優勝マジックナンバーが「1」に短縮されました。2位の巨人がヤクルトに敗れたことで進展。阪神はあと1勝、または他チームの敗北により日本シリーズへの出場が確定します。今シーズンの激しい優勝争いは大詰めを迎えています。"
+  },
+  {
+   "slug": "2026-10-03-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-18.html",
+   "title": "堤防決壊時に避難情報がバラバラ？千葉・印旛沼で露呈した自治体間の対応格差",
+   "title_en": "Evacuation Alerts Differ by Municipality After Inba-numa Levee Breach in Chiba",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "千葉県印旛沼の堤防決壊に伴う浸水被害で、周辺自治体の避難情報発表基準が統一されていないことが判明した。NHKの取材によると、避難呼びかけのタイミングや基準が自治体ごとに異なっており、住民の安全確保に支障が生じる可能性が指摘されている。県では今後、基準の統一化に向けた対応を進める方針。"
+  },
+  {
+   "slug": "2026-10-03-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-17.html",
+   "title": "78年続いた韓国検察庁が廃止へ。独立した「公수처(公捜処)」に移行、何が変わる？",
+   "title_en": "South Korea's 78-Year-Old Prosecutor General's Office Dissolved: What Changes With the New Independent Agency?",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "韓国の検察庁が78年の歴史を終え、新たに独立した機関「公捜処（公共수사처）」へ移行することが決定した。検察の強大な権限を制限し、司法制度の改革を目指す取り組みで、捜査権と公訴権の分離が実施される。韓国の司法体制に大きな変化をもたらす改革であり、権力機構の抑制と均衡を目指す国家的課題となっている。"
+  },
+  {
+   "slug": "2026-10-03-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-16.html",
+   "title": "職場で吹き出す人への嫌がらせ「フキハラ」が急増中？ハラスメント認識の境界線はどこ",
+   "title_en": "\"Fukihara\" Harassment: When Coughs Become Workplace Conflict—Where's the Line?",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "職場で咳やくしゃみなどで吹き出す行為に対し、不快感を示したり非難したりする「フキハラ」が問題化している。生理現象への過度な指摘が、被害者の心理的負担になるケースが報告されており、ハラスメント認識の曖昧さと職場のコミュニケーション問題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-03-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-15.html",
+   "title": "東北3地銀、2028年4月統合へ動く　地方金融再編の波は加速するのか",
+   "title_en": "Three Tohoku Regional Banks Agree to Merger by April 2028: Will Japanese Regional Finance Consolidation Accelerate?",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "東北地方の地域銀行3行が2028年4月の統合に向けて協議を開始することが報じられた。地方銀行は人口減少や低金利環境による経営圧迫が続く中、経営統合による経営効率化と経営基盤強化を目指す動き。この統合が実現すれば、地方金融機関の再編加速につながる可能性がある。"
+  },
+  {
+   "slug": "2026-10-03-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-14.html",
+   "title": "ガザ復興に3500億円投じるも、早くも「遅延」の報告？トランプ平和評議会の行方は",
+   "title_en": "Can Trump's $2.45 Billion Gaza Reconstruction Plan Overcome Early Delays?",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "トランプ米大統領が主導するガザ地区和平計画の実行機関である平和評議会が、約24億5000万ドル規模の復興計画を発表した。しかし評議会の一員で大統領義理の息子であるクシュナー氏は、プロジェクトが複数の理由で各種の遅延に直面していることを認めている。壮大な構想の実現に向け、早くも課題が浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-10-03-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-13.html",
+   "title": "150人乗せた旅客機で何が起きたのか？操縦士が同僚を刺して墜落図ったか",
+   "title_en": "What Happened on That Flight? Pilot Allegedly Stabbed Colleague and Attempted to Crash Plane with 150 Aboard",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "ドバイからイスラエルへ向かっていたUAE旅客機が30日、サウジアラビアの空港に緊急着陸した。イスラエルのネタニヤフ首相によると、操縦士の一人が別の操縦士を刃物で刺し、航空機を墜落させようとしたとされている。乗客約150人の大半がイスラエル人だったが、全員無事だと報じられた。航空機内での暴力行為の詳細はまだ明らかになっていない。"
+  },
+  {
+   "slug": "2026-10-03-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-12.html",
+   "title": "100人以上の英国人研究者が知らぬ間にスパイ活動に協力？MI5が異例の警告",
+   "title_en": "Over 100 British Researchers Unknowingly Aided Chinese Spying, MI5 Warns",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "英国情報局保安部（MI5）が、同国の研究機関に属する100人以上の学者が中国のスパイ活動に意図せず加担していたと警告。中国の情報機関と関係があるとされるフロント企業「中国通用技術研究院（CGTRI）」との関係継続は、外国国家援助罪での起訴対象となる可能性を指摘し、大学と研究者に対し関係断絶を促している。"
+  },
+  {
+   "slug": "2026-10-03-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-11.html",
+   "title": "プーチン、カリーニングラード防衛で「あらゆる兵器使用」と宣言　西側への警告か脅迫か",
+   "title_en": "Putin Threatens to Use 'All Available Weapons' to Defend Kaliningrad Enclave—Is It Defense or Coercion?",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "ロシアのプーチン大統領は、バルト海沿岸の飛び地領土カリーニングラードが直接攻撃を受けた場合、利用可能なすべての兵器で防衛すると表明した。西側諸国がロシアの2029～2030年の戦争準備を指摘したことへの返答だと主張。プーチン氏は脅迫ではなく防衛姿勢の表明と強調している。"
+  },
+  {
+   "slug": "2026-10-03-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-10.html",
+   "title": "英イラン二重国籍者を新たに逮捕、英空軍基地近くのテロ準備事件で容疑者は計何人に？",
+   "title_en": "Sixth Terror Suspect Arrested in UK Air Base Plot: Dual British-Iranian National in Custody",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "イギリスの空軍基地周辺でテロ行為の準備と爆発物関連法違反の疑いで複数人が逮捕された事件で、対テロ警察は新たにイギリスとイランの二重国籍を持つ男性を容疑者として逮捕したと発表した。既に逮捕されていた5人に加えての追加逮捕となり、事件の全容解明が進む中、国家安全保障に関わる重大な懸念が示唆されている。"
+  },
+  {
+   "slug": "2026-10-03-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-9.html",
+   "title": "台風27号、4日に小笠原接近へ　高波警戒が必要な理由とは",
+   "title_en": "Typhoon No. 27 Approaching Ogasawara Islands on October 4th—What You Need to Know",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "南海上を北上中の台風27号は、今後発達しながら進行し、4日には小笠原近海に到達する見込みです。小笠原諸島では高波による被害が懸念されており、気象情報の確認と事前準備が重要となります。島民や訪問予定者は最新情報の確認が呼びかけられています。"
+  },
+  {
+   "slug": "2026-10-03-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-8.html",
+   "title": "津市火災で4人が遺体で見つかる、子ども4人と連絡取れず　何が起きたのか",
+   "title_en": "Four Bodies Found in Mie Prefecture House Fire; Four Children Still Missing",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "2日午後、三重県津市で住宅1棟が全焼する火事が発生した。焼け跡から4人が遺体で見つかったほか、住人の38歳男性と知人の43歳女性がけがをした。事件直後、住宅に関係していたとみられる子ども4人と連絡が取れていない状態が続いており、警察と消防が行方不明者の捜索と火災原因の調査を進めている。"
+  },
+  {
+   "slug": "2026-10-03-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-7.html",
+   "title": "プルデンシャル生命に業務停止命令へ　社員による顧客詐欺で金融庁が重い処分検討",
+   "title_en": "Prudential Life Insurance Faces Business Suspension as FSA Investigates Employee Fraud",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "プルデンシャル生命の社員らが顧客から不正に金銭を受け取っていた問題で、金融庁が新規の保険募集業務停止を命じる方向で検討していることが明らかになった。巨額の不適切な金銭受領が確認されており、金融機関に対する信頼を損なわせる重大な違反行為として、当局が厳しい姿勢で対応する構えを見せている。"
+  },
+  {
+   "slug": "2026-10-03-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-6.html",
+   "title": "千葉の海岸にまたクジラが？相次ぐ目撃に専門家も注目",
+   "title_en": "Whales Keep Appearing Off Chiba's Coast—What's Really Happening?",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "千葉県の海岸で複数回にわたってクジラが目撃され、地元住民や観光客から驚きの声が上がっている。海洋生物の専門家は、近年の海水温の変化や食料となるプランクトンの移動パターンの変動が影響している可能性を指摘。クジラの沿岸接近が珍しくなくなりつつある現象について、生態系の変化を示唆するシグナルとして注視する動きが広がっている。"
+  },
+  {
+   "slug": "2026-10-03-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-5.html",
+   "title": "愛犬の散歩中に要注意！白い毒キノコに接触した場合、どうすればいい？",
+   "title_en": "White Poisonous Mushrooms and Your Dog: What Should You Do If Your Pet Gets Exposed During a Walk?",
+   "category": "健康",
+   "published": "2026-10-03",
+   "summary": "秋から冬にかけて、公園や野山に生える白い毒キノコが犬の散歩時に危険だという注意喚起が広がっている。犬が誤って食べたり触れたりすると中毒症状を起こす可能性があり、獣医師らは飼い主に対して散歩ルートの確認と愛犬の行動管理の重要性を指摘している。万が一接触した場合の対応方法についても周知が急がれている。"
+  },
+  {
+   "slug": "2026-10-03-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-4.html",
+   "title": "プーチン大統領が日本の軍備増強に懸念表明、その真意は？",
+   "title_en": "Putin Expresses Concern Over Japan's Military Buildup: What's Behind It?",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "ロシアのプーチン大統領が日本の防衛力強化に対して懸念を表明した。岸田政権が防衛費の増額や防衛三文書の改定を進める中での発言であり、ウクライナ情勢や東アジアの地政学的緊張が背景にあるとみられる。日本とロシアの外交関係にも影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-10-03-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-3.html",
+   "title": "なでしこジャパン、北朝鮮を撃破し3連覇達成！世界の壁をどう越える？",
+   "title_en": "Nadeshiko Japan Defeats North Korea to Secure Three-Peat Victory—Can They Break Through Global Competition?",
+   "category": "スポーツ",
+   "published": "2026-10-03",
+   "summary": "なでしこジャパンが国際大会で北朝鮮との難しい試合に勝利し、3連覇を成し遂げた。アジアの強豪国を相手に粘り強い試合展開で切り抜け、日本女子サッカーの層の厚さと実力を証明する結果となった。次のステップに向けた課題と期待が高まっている。"
+  },
+  {
+   "slug": "2026-10-03-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-2.html",
+   "title": "佐川急便が宅配便13%値上げへ　あなたの荷物代金はいくら上がる？",
+   "title_en": "Sagawa Express Raises Delivery Fees by Average 13% – How Much Will Your Shipping Cost Increase?",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "佐川急便が宅配便の料金を平均13%引き上げることを発表した。燃料費の高騰や人件費の増加、労働環境の改善に伴うコスト増加が理由とされている。値上げは今後の配送料金に反映される見通しで、利用者の家計負担が増加する可能性がある。他の大手配送業者の動向も注視される状況だ。"
+  },
+  {
+   "slug": "2026-10-03-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-1.html",
+   "title": "紀州ドンファン遺言、最高裁が有効判断　妻との相続争いはどうなる？",
+   "title_en": "Japan's Top Court Validates \"Kishu Don Juan's\" Will - What Happens to the Inheritance Now?",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "資産家・紀州ドンファンこと野崎幸助氏の遺言について、最高裁が有効性を認める判断を下しました。妻との相続をめぐる法的争いが決着し、遺言に基づいた資産配分が進むことになります。この判決は相続問題における遺言の有効性に関わる重要な司法判断として注目されています。"
+  },
+  {
+   "slug": "2026-10-03-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-0.html",
+   "title": "久保建英と福原遥が結婚発表、サッカーと芸能界の枠超えた恋愛ゴール",
+   "title_en": "Japanese Soccer Star Kubo Takefusa Marries Actress Fukuhara Haruka in Surprise Announcement",
+   "category": "エンタメ",
+   "published": "2026-10-03",
+   "summary": "サッカー日本代表の久保建英選手と女優の福原遥が結婚を発表した。異なる業界で活躍する二人の電撃結婚は、多くのファンに衝撃を与えている。久保選手は現在レアル・ソシエダに所属し、福原はテレビドラマや映画で活躍している。今後の活動継続についての詳細は明かされていない。"
+  },
   {
    "slug": "2026-10-02-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-02-42.html",
