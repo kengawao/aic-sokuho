@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2097,
+ "count": 2118,
  "articles": [
+  {
+   "slug": "2026-10-03-61",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-61.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-61.html",
+   "title": "伊東四朗、報道陣40人の集団襲来に「驚いた」→その理由が面白すぎるwww",
+   "title_en": "Shiro Ito Expresses Surprise at 40 Reporters Gathering—But Why? 😂",
+   "category": "コラム",
+   "published": "2026-10-03",
+   "summary": "伝説の喜劇人・伊東四朗が、突然40人もの報道陣に囲まれて「驚いた」とコメント。何か大変なことが起きたのかと思いきや、その理由は意外にもほのぼの。大物芸人でも報道の多さには戸惑うらしく、ネット上では「こんなに集まるんだ」「むしろ驚く方が自然では」という反応が続出している。"
+  },
+  {
+   "slug": "2026-10-03-60",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-60.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-60.html",
+   "title": "40年間、姿を隠してきた「幻のモグラ」が白神山地で初めて確認される",
+   "title_en": "\"Phantom Mole\" Species Confirmed for First Time in Shirakami Mountains After 40 Years",
+   "category": "科学",
+   "published": "2026-10-03",
+   "summary": "青森県と秋田県にまたがる白神山地で、これまで存在が確認されていなかった希少なモグラの一種が初めて発見されました。この種は学名は知られていながら、実際の生息が長年不明だったため「幻のモグラ」と呼ばれていました。調査チームが野生個体を捕獲・確認したことで、生態系調査に新たな知見をもたらします。"
+  },
+  {
+   "slug": "2026-10-03-59",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-59.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-59.html",
+   "title": "子ども版NISAで落とし穴？親が見落としやすい3つの注意点を専門家が警告",
+   "title_en": "Junior NISA Pitfalls: Three Critical Warnings Parents Are Missing",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "2024年から始まった「こどもNISA」は子どもの資産形成に有効だが、専門家は制度を正しく理解せず利用する親が多いと指摘。払出制限や運用期間、税務申告など実務面での注意点が十分周知されていない実態が明らかになった。"
+  },
+  {
+   "slug": "2026-10-03-58",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-58.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-58.html",
+   "title": "マンション販売の「ワニの口」って何？不動産業界の知られざる用語の真実",
+   "title_en": "What Is the \"Crocodile Mouth\" in Apartment Sales? Inside Real Estate Industry's Hidden Crisis",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "不動産業界で使われる隠語「ワニの口」とは、マンション販売において売上と経費のバランスが悪化する危機的状況を指す。価格競争の激化や建設コスト上昇により、利益率が急速に縮小する現象を動物の口が開く様子になぞらえた業界用語。消費者の購買行動と販売事業者の経営危機の関係性が注目されている。"
+  },
+  {
+   "slug": "2026-10-03-57",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-57.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-57.html",
+   "title": "家事分担が『見える化』で変わる？市の実験で夫婦円満の新手法が検証中",
+   "title_en": "Can an App Solve Household Chore Inequality? Japanese City Tests 'Visible' Chore Sharing",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "自治体がアプリを使って家事分担の状況を可視化する実験を開始した。夫婦間で誰がどの程度の家事を担当しているかをデータ化し、話し合いの材料にすることで、家事負担の不平等を減らすことが目的。スマートフォンで記録・共有できる仕組みにより、曖昧になりやすい家事分担を客観的に把握し、より公平な役割分担につなげる狙いがある。"
+  },
+  {
+   "slug": "2026-10-03-56",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-56.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-56.html",
+   "title": "1回の放送に2カ月？「充電旅」の制作現場で何が起きているのか",
+   "title_en": "Why Does One Episode of 'Charging Journey' Take 2 Months to Produce?",
+   "category": "エンタメ",
+   "published": "2026-10-03",
+   "summary": "テレビ番組「充電旅」の1回分の放送制作に約2カ月の期間を要していることが明らかになった。通常のバラエティ番組と比較して長期の制作期間が必要とされる理由として、ロケ地での撮影準備や編集作業の複雑さなどが指摘されている。視聴者の期待値が高まる一方で、制作スタッフの負担についても業界内で議論が生まれている。"
+  },
+  {
+   "slug": "2026-10-03-55",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-55.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-55.html",
+   "title": "北朝鮮ミサイル700km以上を飛行、韓国軍が確認—何を狙っているのか",
+   "title_en": "North Korea's 700km+ Missile Flight Detected—What's the Real Intention?",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "韓国軍は北朝鮮が700キロメートル以上の距離を飛行するミサイルを発射したことを確認した。詳細な発射時期や飛行ルートについては現在分析中だが、このような長距離ミサイルの発射は朝鮮半島の軍事緊張をさらに高める動きとして注視されている。国際社会への挑戦的な行動として受け止められている。"
+  },
+  {
+   "slug": "2026-10-03-54",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-54.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-54.html",
+   "title": "フランス全土で5000人逮捕、デモ激化の背景は何か",
+   "title_en": "France's Nationwide Protests Escalate: 5,000 Arrests and Counting",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "フランス各地で大規模なデモが激化し、逮捕者が5000人に達した。社会的不満や政治的対立が深刻化している状況が報告されている。デモの原因や政府対応、今後の動向が注視されている。"
+  },
+  {
+   "slug": "2026-10-03-53",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-53.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-53.html",
+   "title": "トランプ氏の「輸出禁止」脅迫の直後、G7が石油1億バレル放出で合意　価格高騰にようやく動く",
+   "title_en": "G7 Agrees to Release 100 Million Barrels After Trump's Export Ban Threat",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "G7は4ヶ月間で計1億バレルの石油備蓄を国際エネルギー機関を通じて市場に放出することに合意した。高騰し続ける燃料価格の抑制が目的。この発表はアメリカのトランプ大統領がディーゼル燃料の輸出禁止を示唆した直後のタイミングで行われた。マクロン仏大統領が会議後に発表している。"
+  },
+  {
+   "slug": "2026-10-03-52",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-52.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-52.html",
+   "title": "米中間選挙の争点は物価高にあり。インフレ長期化が投票行動を左右する",
+   "title_en": "Inflation Takes Center Stage in U.S. Midterm Elections as Prices Refuse to Fall",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "米国の中間選挙において、長引く物価上昇がこれまでにない影響力を持つ争点となっている。インフレが家計を圧迫し続ける中で、有権者の経済不安が深まり、与党への不満が高まっているという背景がある。候補者たちは物価対策をめぐる政策競争を繰り広げており、この経済問題が選挙結果を大きく左右する可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-10-03-51",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-51.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-51.html",
+   "title": "キーウの橋が次々と…ロシアの執拗な攻撃で首都機能は大丈夫？",
+   "title_en": "Is Kyiv's Critical Bridge Infrastructure Under Threat? Russia's Relentless Attacks Explained",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "ロシア軍がウクライナの首都キーウ市内の川に架かる複数の橋を相次いで攻撃している。これにより通行止めが発生し、市民の移動手段が制限されるなど日常生活への影響が広がっている。インフラの破壊を通じた都市機能の麻痺を狙った戦術とみられ、今後の影響拡大が懸念されている。"
+  },
+  {
+   "slug": "2026-10-03-50",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-50.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-50.html",
+   "title": "秋のクマ出没が増える？東北の『どんぐり』豊作予想で専門家も注視",
+   "title_en": "Will This Autumn's Bear Sightings Spike? NHK Warns of Oak Acorn Bumper Crop in Northeast",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "冬眠を控えた秋はクマの活動が活発化する季節。NHKが都道府県の調査をまとめたところ、クマの重要な栄養源となるどんぐりの実りが東北地方で豊作予想されているという。豊かな食料があるとクマの行動パターンも変わる可能性があり、今秋の出没状況が注視されている。"
+  },
+  {
+   "slug": "2026-10-03-49",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-49.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-49.html",
+   "title": "食品消費税1%に引き下げたら家計は本当に助かるのか？賛成派と反対派の主張を整理",
+   "title_en": "Would Cutting Food Tax to 1% Really Help Japanese Households? Pros and Cons Explained",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "食品にかかる消費税を現在の10%から1%に引き下げる案について、政界や経済界で議論が活発化している。引き下げによる家計負担の軽減効果を期待する声がある一方で、税収減による財政悪化や実現可能性を疑問視する意見も多い。実際の減税効果がどの程度になるのか、専門家の間でも見方が分かれている。"
+  },
+  {
+   "slug": "2026-10-03-48",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-48.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-48.html",
+   "title": "日本サッカー男子、韓国に敗れ銀メダル 決勝戦で何が起きたのか",
+   "title_en": "Japan Men's Soccer Falls to South Korea in Final: What Went Wrong?",
+   "category": "スポーツ",
+   "published": "2026-10-03",
+   "summary": "サッカー男子の国際大会決勝戦で、日本代表が韓国に敗北し銀メダルとなった。試合内容や得失点、今後の課題など、敗戦の詳細が注目を集めている。日本は準優勝という成績に終わり、金メダル獲得という目標達成はならなかった。"
+  },
+  {
+   "slug": "2026-10-03-47",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-47.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-47.html",
+   "title": "e-Taxで他人の税情報が丸見え？システムの重大な欠陥が発覚",
+   "title_en": "Security Flaw Exposes Taxpayers' Private Information on Japan's e-Tax System",
+   "category": "IT",
+   "published": "2026-10-03",
+   "summary": "国税庁の電子申告システム「e-Tax」で、ログイン後に他人の税務情報が一時的に画面に表示される不具合が確認された。個人情報の漏洩につながる可能性があり、利用者の間で不安が広がっている。国税庁は原因の究明と対策を急いでいる。"
+  },
+  {
+   "slug": "2026-10-03-46",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-46.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-46.html",
+   "title": "肥満学会がマンジャロ使用に声明を発表　医学的見地から何が問題なのか",
+   "title_en": "Japanese Obesity Society Issues Statement on Manjaro Use: What Are the Medical Concerns?",
+   "category": "健康",
+   "published": "2026-10-03",
+   "summary": "糖尿病治療薬として開発されたマンジャロの肥満対策への使用について、日本肥満学会が公式声明を出しました。医学的根拠や安全性、適切な使用方法に関する学会の見解が注目されています。美容目的での使用が広がる中、専門家による指針の必要性が高まっています。"
+  },
+  {
+   "slug": "2026-10-03-45",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-45.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-45.html",
+   "title": "23階から転落しそうになった女性、母の迅速な通報で一命取りとめ",
+   "title_en": "Mother's Quick Emergency Call Saves Woman from Falling off 23rd Floor Building",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "高層ビルの23階で、転落の危機に直面した女性が母親の通報により救助された事案が報告されている。母親が「転落しそう」と119番通報し、救急隊の迅速な対応が人命救助につながったもの。高い場所での危機的状況において、周囲の人間による早期発見と通報がいかに重要かを示すケースとなっている。"
+  },
+  {
+   "slug": "2026-10-03-44",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-44.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-44.html",
+   "title": "ダイエット薬で救急搬送相次ぐ…医師も警告「食事制限との併用が危険」",
+   "title_en": "Diet Drug Crisis: Patients Rushed to Hospitals Over Dangerous Rapid Weight Loss",
+   "category": "健康",
+   "published": "2026-10-03",
+   "summary": "肥満症や糖尿病の治療薬がダイエット目的で無断使用され、過度な食事制限と組み合わせることで重篤な健康被害が発生している。日本肥満学会は救急搬送される患者が増加していることを受け、医学的根拠のない使用は極めて危険だとして公式声明で注意喚起した。医師の指導なしの乱用が深刻な問題となっている。"
+  },
+  {
+   "slug": "2026-10-03-43",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-43.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-43.html",
+   "title": "Appleが急遽MacOS修正へ、AI機能のセキュリティ問題が浮上か",
+   "title_en": "Apple Rushes MacOS Security Patch Amid AI Feature Risk Concerns",
+   "category": "IT",
+   "published": "2026-10-03",
+   "summary": "Appleが自社のMacOSに対してセキュリティ修正を急いで実施することが報じられている。背景には、同社が強化しているAI機能に関連するリスク対策の必要性が指摘されている。具体的な脆弱性の詳細は明らかになっていないが、AI統合機能の展開に伴い、ユーザーデータの保護やシステム安全性の強化が急務となっているようだ。"
+  },
+  {
+   "slug": "2026-10-03-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-42.html",
+   "title": "流産後の休養、現状では足りない？女性たちの声から見える制度の課題",
+   "title_en": "Is Post-Miscarriage Leave Enough? Women's Voices Highlight Gaps in Support",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "流産を経験した女性から、現在の休養期間では心身の回復に不十分だという声が上がっている。肉体的な回復だけでなく、心理的なサポートの必要性や職場復帰への不安など、多角的な課題が浮かび上がっている。妊娠喪失後の適切なケアのあり方について、医療現場と社会全体での対応の改善が求められている。"
+  },
+  {
+   "slug": "2026-10-03-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-41.html",
+   "title": "阪神がセ・リーグ連覇で球団史上初の快挙達成！あの暗黒時代から何が変わったのか",
+   "title_en": "Hanshin Tigers Achieve Back-to-Back Central League Titles: A First in Franchise History",
+   "category": "スポーツ",
+   "published": "2026-10-03",
+   "summary": "阪神タイガースがセ・リーグの連覇を達成し、球団史上初の偉業を成し遂げた。昨年のリーグ優勝に続く2年連続の栄冠となり、チーム内の結束やコーチング体制の強化、若手選手の成長などが優勝に貢献したとみられている。長く低迷が続いていた球団の蘇生を象徴する出来事となっている。"
+  },
   {
    "slug": "2026-10-03-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-40.html",
