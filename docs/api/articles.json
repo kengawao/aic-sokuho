@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2118,
+ "count": 2139,
  "articles": [
+  {
+   "slug": "2026-10-04-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-20.html",
+   "title": "ハワイの絶景アーチが突然消える…SNS映えスポットの終焉に観光客から悲鳴",
+   "title_en": "Hawaii's Iconic Sea Arch Collapses – Instagram's Favorite Backdrop Disappears Overnight",
+   "category": "コラム",
+   "published": "2026-10-04",
+   "summary": "ハワイ島の有名な海食アーチが崩落してしまいました。これまで多くの観光客に愛されていた自然の造形美が、地球の営みの前では無常だということを改めて教えてくれます。自然は常に変化し続けるものだということを痛感させられるニュースですね。"
+  },
+  {
+   "slug": "2026-10-04-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-19.html",
+   "title": "現職市長の産休取得、なぜ日本で議論になる？タイム誌選出の川田翔子市長が投げかけた問い",
+   "title_en": "Why Did Japan's Mayor Taking Maternity Leave Become a National Debate?",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "京都府八幡市の川田翔子市長（36）が、日本の現職首長として初めて産休を取得し、米誌タイムの「次世代の100人」に選ばれた。出生率低下に直面する日本において、選挙で選ばれた公職者が出産で休暇を取るべきかをめぐり、全国的な議論が生じている。国家元首から市町村長まで、公職と育児の両立をどう考えるかという根本的な問題提起となっている。"
+  },
+  {
+   "slug": "2026-10-04-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-18.html",
+   "title": "しゃぶ葉の「横取り問題」、なぜ今？配膳システムの裏側",
+   "title_en": "Why Is Shabu-leaf Tackling 'Dish-Snatching' Now? Inside the All-You-Can-Eat Problem",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "焼肉・しゃぶしゃぶチェーン「しゃぶ葉」が、配膳時の横取り問題への対策に乗り出す。テーブルに運ばれた料理を他のテーブルの客が持ち去る迷惑行為に対し、運用ルールやシステムの見直しを検討しているという。食べ放題業態ならではのトラブル対応が注目されている。"
+  },
+  {
+   "slug": "2026-10-04-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-17.html",
+   "title": "イスラム教徒13億人の胃袋を掴め　日本企業がハラル食品で急速展開する理由",
+   "title_en": "Japan's Food Industry Eyes 1.3 Billion Muslim Consumers: Why Companies Are Racing to Get Halal Certified",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "ムスリム向けの認証食品「ハラル」に対応する日本企業が増加している。イスラム圏の人口増加と経済成長、訪日観光客の増加を背景に、食品メーカーや飲食企業がこの市場に本格参入。認証取得や商品開発を進め、新たなビジネス機会を狙っている動きが活発化している。"
+  },
+  {
+   "slug": "2026-10-04-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-16.html",
+   "title": "米国産ジャガイモの輸入解禁、なぜ今「前倒し」の声が上がっているのか",
+   "title_en": "Why Is There a Push to Accelerate US Potato Imports to Japan?",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "米国産ジャガイモの日本への輸入が解禁される見通しの中で、予定より前倒しで実現させるべきという議論が浮上している。長年の植物検疫協議を経ての解禁であり、農業関係者から期待と懸念が入り混じった声が上がっている。国内ジャガイモ産業への影響を見据えつつ、消費者の選択肢拡大と輸入食品の多様化がもたらす経済効果が注視されている。"
+  },
+  {
+   "slug": "2026-10-04-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-15.html",
+   "title": "副首都の条件、実は4道府県が既に達成していた 政府要件の詳細が初公開",
+   "title_en": "Four Prefectures Already Meet Requirements for Sub-Capital Status, Government Criteria Revealed",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "政府が副首都となるための要件を初めて公開し、現在4つの道府県がその条件を満たしていることが明らかになった。副首都構想は地方分散と地域活性化の切り札として注目されているが、実現には法的整備や財政支援など多くの課題が残されている。どの地域が候補となるのか、今後の動向が注目される。"
+  },
+  {
+   "slug": "2026-10-04-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-14.html",
+   "title": "致死量の薬物を2度注射されても死ななかった？米死刑囚の生存、テネシー州が全死刑執行を停止",
+   "title_en": "Death Row Inmate Survives Lethal Injection Twice in Tennessee: State Halts All Executions",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "アメリカ・テネシー州で実施された死刑執行において、致死薬物を2回注射された死刑囚が生き残り、病院で重体治療を受けている事態が発生。弁護団がこの異常事態を明らかにしたことで、州知事は年内の全死刑執行を即座に停止する方針を決定。死刑制度の安全性と人道性をめぐる議論が再燃している。"
+  },
+  {
+   "slug": "2026-10-04-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-13.html",
+   "title": "コーネル大学レイプ事件、被害者がネット民の「身元特定」攻撃で精神崩壊状態に",
+   "title_en": "Cornell Rape Case: Victim 'Under Attack' as Internet Sleuths Attempt to Unmask Her Identity",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "2024年、米ニューヨーク州のコーネル大学で発生した集団レイプ疑いの事件について、被害女性の弁護士が声明を発表した。インターネット上の有志らが被害者を特定しようとする動きが活発化しており、その過程で女性が度重なる攻撃にさらされているという。弁護士によると、被害者は現在精神的に不安定な状態に置かれているとのこと。デジタル時代における被害者保護の課題が改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-04-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-12.html",
+   "title": "87歳女性の強制立ち退きも救えない…スペイン議会が住宅危機対策を否決、サンチェス政権ピンチ",
+   "title_en": "Spain's Housing Crisis Deepens: Parliament Rejects Government's Emergency Measures as 87-Year-Old Faces Eviction",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "スペイン議会は住宅危機対策として左派連立政権が提示した施策を否決した。87歳の女性が強制立ち退きの危機に直面するなど深刻な住宅問題を抱える同国だが、対策が通らない状況に。この決定はサンチェス首相にとって大きな打撃となり、総選挙の前倒し実施を求める圧力が高まっている。"
+  },
+  {
+   "slug": "2026-10-04-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-11.html",
+   "title": "死刑執行が失敗に終わった理由は？米国で相次ぐ「失敗例」の背景",
+   "title_en": "Why Did a U.S. Death Penalty Execution Fail? The Growing Crisis in Capital Punishment",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "米国で死刑囚の執行が失敗に終わり、被害者の母親が落胆の声をあげた。医学的な手続きの複雑さや薬物調達の困難さから、死刑執行が思わぬ形で失敗するケースが増えている。これは米国内の死刑制度をめぐる議論を再燃させ、法的・倫理的な課題を浮き彫りにしている。"
+  },
+  {
+   "slug": "2026-10-04-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-10.html",
+   "title": "トランプ氏が自嘲的発言で焦り？中間選挙を前に揺らぐ支持基盤",
+   "title_en": "Is Trump's Self-Deprecating Humor a Sign of Midterm Jitters?",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "米国の中間選挙が近づく中、トランプ前大統領が自嘲的な発言を繰り返しているという。通常の強気な姿勢とは異なるこの変化について、政治アナリストからは選挙戦況への焦りを示唆する指摘が出ている。党内基盤の結集と支持層維持の両立に苦慮する状況が浮かび上がっている。"
+  },
+  {
+   "slug": "2026-10-04-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-9.html",
+   "title": "久保建英、福原遥との結婚を語る「どのような心境で取材に応じたのか」",
+   "title_en": "Kubo Takefusa Speaks Out on Marriage to Hara Hao: What Was He Thinking?",
+   "category": "エンタメ",
+   "published": "2026-10-04",
+   "summary": "サッカー選手の久保建英がタレント・福原遥との結婚について初めて取材に応じた。二人の馴れ初めや結婚に至るまでの経緯、今後の活動方針などについて語られたもようだ。ファンからは祝福の声が上がる一方で、公開された発言の内容に注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-04-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-8.html",
+   "title": "米大統領が2000万人に90ドル給付へ　狙いは何？",
+   "title_en": "US President to Provide $90 Payment to 20 Million Citizens—What's the Strategy?",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "アメリカの大統領が2000万人の国民を対象に、1人あたり90ドルの給付金を支給することを表明した。この施策の背景には、経済格差の縮小や生活支援の強化といった政策目標があると見られている。実施時期や対象者の詳細については、今後の発表が注目される。"
+  },
+  {
+   "slug": "2026-10-04-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-7.html",
+   "title": "M-1グランプリのエントリー数が過去最多の1万2663組に。お笑い芸人志望者の熱が止まらない",
+   "title_en": "M-1 Grand Prix Reaches Record-Breaking 12,663 Entries: The Unstoppable Dream of Japanese Stand-up Comedy",
+   "category": "エンタメ",
+   "published": "2026-10-04",
+   "summary": "M-1グランプリへのエントリー数が過去最高を更新し、1万2663組となったことが明らかになった。吉本興業による統計によると、昨年度を上回る応募があり、若手芸人たちの参加意欲の高さが浮き彫りになっている。経済的な不確実性が増す中でも、芸人志望者の数は増え続けているという状況だ。"
+  },
+  {
+   "slug": "2026-10-04-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-6.html",
+   "title": "全顧客の情報が流出？ABOHOUSEに何が起きたのか",
+   "title_en": "ABAHOUSE Data Breach: What Happened to All Customer Information?",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "ファッションブランドのABAHOUSEが全顧客の個人情報漏えいの可能性について発表した。サイバー攻撃により、氏名や住所、電話番号などの顧客データが流出した可能性があるとのこと。同社は被害者への通知と対応を急いでいる。"
+  },
+  {
+   "slug": "2026-10-04-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-5.html",
+   "title": "米政府のAIが『都合の悪い質問』を拒否…透明性と検閲のボーダーライン",
+   "title_en": "U.S. Government AI Refuses 'Inconvenient Questions': Where's the Line Between Safety and Censorship?",
+   "category": "IT",
+   "published": "2026-10-04",
+   "summary": "米政府が開発・導入しているAIシステムが、特定の質問に対して回答を拒否していることが判明した。政策批判や感応的なテーマに関する問い合わせが制限されており、AIの透明性と政府の説明責任をめぐる議論が新たに浮上している。"
+  },
+  {
+   "slug": "2026-10-04-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-4.html",
+   "title": "薬の飲み間違いが急増、9月がなぜ最多？",
+   "title_en": "Why September Records the Highest Number of Drug Overdose Accidents",
+   "category": "健康",
+   "published": "2026-10-04",
+   "summary": "薬の過剰摂取に関連した事故報告が9月に最多となったことが明らかになった。季節の変わり目における体調不良の増加や、複数の薬を併用する高齢者の増加などが背景にあるとみられている。医療機関では適切な服用方法の指導強化を呼びかけている。"
+  },
+  {
+   "slug": "2026-10-04-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-3.html",
+   "title": "阪神V2達成も監督が涙で「苦しかった」　優勝の裏にあった葛藤とは",
+   "title_en": "Hanshin Tigers Manager Sheds Tears After 2nd Consecutive Championship Victory: \"It Was Grueling\"",
+   "category": "スポーツ",
+   "published": "2026-10-04",
+   "summary": "阪神タイガースが2年連続の優勝を果たした。しかし達成時の監督のコメントは喜びだけではなく、「苦しかった」との言葉が印象的だった。シーズンを通じた厳しい戦いと、それでも優勝まで辿り着いた道のりが、監督の複雑な感情を生み出したようだ。昨シーズンの優勝経験を経ての2連覇という重圧の中での達成となった。"
+  },
+  {
+   "slug": "2026-10-04-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-2.html",
+   "title": "村上宗隆がPS1号で雄たけび確信弾！ヤクルトの若き主砲の成長ぶりがヤバい",
+   "title_en": "Murakamis First Home Run of Season Brings the House Down - Yakult's Young Star Shows True Confidence",
+   "category": "スポーツ",
+   "published": "2026-10-04",
+   "summary": "ヤクルトスワローズの村上宗隆選手がパーソナルシーズン初となる1号ホームランを放った。自信に満ちた打撃で確信を持って放つ一撃となり、球場を沸かせた。今季の活躍を象徴する一本となりそうだ。"
+  },
+  {
+   "slug": "2026-10-04-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-1.html",
+   "title": "サザン関口氏の会社が5.8億円申告漏れ　税務調査で判明、どうなる？",
+   "title_en": "Southern All Stars Member's Company Faces ¥580 Million Tax Deficiency - What Happens Next?",
+   "category": "エンタメ",
+   "published": "2026-10-04",
+   "summary": "サザンオールスターズの関口和之氏が代表を務める会社が、税務調査により約5.8億円の申告漏れを指摘されたことが明らかになった。追徴課税の詳細は現在調査中とのこと。著名アーティストの経営する企業での申告漏れ事案として注目を集めている。"
+  },
+  {
+   "slug": "2026-10-04-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-0.html",
+   "title": "那覇で遺体発見、米兵を強殺容疑で逮捕　日米関係に再び波紋",
+   "title_en": "U.S. Serviceman Arrested in Naha Murder Case; Concerns Over U.S.-Japan Relations Deepen",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "沖縄県那覇市で発見された遺体事件で、米軍関係者の男が強盗殺人容疑で逮捕された。事件の詳細はまだ明らかになっていない部分も多いが、米軍人による犯罪としてニュースとなっている。沖縄地域の米軍基地問題との関連性についても注視されている。"
+  },
   {
    "slug": "2026-10-03-61",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-61.html",
