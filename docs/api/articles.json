@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2076,
+ "count": 2097,
  "articles": [
+  {
+   "slug": "2026-10-03-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-40.html",
+   "title": "綾瀬はるか、天然発言で会場大爆笑→本人も気づかず続ける地獄絵図ｗｗｗ",
+   "title_en": "Haruka Ayase's Innocent Slip-Up Sends Audience Into Hysterics—And She Has No Idea",
+   "category": "コラム",
+   "published": "2026-10-03",
+   "summary": "イベント会場で綾瀬はるかが繰り出した予想外の発言が話題に。本人は至って真面目なのに、その純粋さゆえのボケっぷりが観客を沸かせたという。天然キャラとして知られる彼女の面目躍如といった出来事となり、SNS上でも「あるある」「天然最強説」との声が相次いでいる。"
+  },
+  {
+   "slug": "2026-10-03-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-39.html",
+   "title": "テスラ販売台数2.1%減…「税制優遇廃止の駆け込み需要」の反動ここまで大きいのか",
+   "title_en": "Tesla Sales Drop 2.1% — How Much Is the EV Tax Credit \"Rush-Buy\" Backlash Really Hitting Them?",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "テスラの直近3か月間の新車販売台数が前年同期比で2.1%減少した。昨年、米国でEV購入税制優遇の廃止を控え駆け込み需要が発生していた反動が大きいとみられる。EV市場全体の成長鈍化と、競争激化による価格下落が同社の販売見通しに影響を与えている状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-03-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-38.html",
+   "title": "小園ら戦力外通告の真意は？移籍市場での再評価が始まる",
+   "title_en": "Will Kozono Thrive After Waiver? The Real Value of Released Players in the Transfer Market",
+   "category": "スポーツ",
+   "published": "2026-10-03",
+   "summary": "プロ野球で戦力外通告を受けた小園らの選手について、移籍市場での評価が注目されている。年俸削減や成績不振による判断の一方で、他球団からの需要や本人の適性を踏まえた再スタートの可能性が議論されている。放出側の評価と獲得側の評価にギャップが生じるケースが多く、選手のセカンドキャリアの明暗を分ける重要な局面となる。"
+  },
+  {
+   "slug": "2026-10-03-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-37.html",
+   "title": "スガキヤがドムドム子会社化、ラーメン×ハンバーガーの異業種統合が狙うものは?",
+   "title_en": "Sugakiya Acquires Mos Burger Rival Domdom: What Does the Fast Food Merger Strategy Signal?",
+   "category": "経済",
+   "published": "2026-10-03",
+   "summary": "愛知県を中心に展開するラーメンチェーン「スガキヤ」が、ハンバーガーチェーン「ドムドム」を子会社化することが明らかになった。スガキヤはドムドムの親会社から株式を取得し、経営統合を進める見通し。異なる業態の飲食チェーンが一つの傘下に入ることで、相乗効果を狙うとみられる。"
+  },
+  {
+   "slug": "2026-10-03-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-36.html",
+   "title": "日本人の3割が縦書き文章と無縁の生活に…デジタル化で古典や手紙が消滅危機",
+   "title_en": "Japanese Vertical Writing on Brink of Extinction as 30% Have No Daily Contact",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "国語教育に関する調査で、縦書き文章に触れる機会が「ない」と答えた人が約3割に上ることが判明した。スマートフォンやパソコンの普及でデジタルテキストが横書き主流となり、古典作品や手書き手紙といった縦書き文化の接触機会が急速に減少している実態が浮き彫りになった。特に若い世代ほど傾向が顕著で、日本語文化の継承における課題として指摘されている。"
+  },
+  {
+   "slug": "2026-10-03-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-35.html",
+   "title": "上司を『さん』呼びが増加、敬語文化に異変 背景に何がある?",
+   "title_en": "The Rise of 'San' Honorifics for Bosses: Is Japanese Workplace Culture Flattening?",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "職場で上司を『さん』付けで呼ぶ傾向が増えているという調査結果が注目されている。従来は『部長』『課長』といった役職呼びが一般的だったが、フラットな組織文化やジェネレーション交代により呼称のルールが変わりつつある。この現象は企業風土や世代間のコミュニケーション意識の変化を象徴している。"
+  },
+  {
+   "slug": "2026-10-03-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-34.html",
+   "title": "ウクライナ支援ルートが狙われた？ポーランドのスターリンク基地局火災は『破壊工作』",
+   "title_en": "Was This Sabotage? Poland Flags Starlink Fire as Possible Russian Hybrid Attack",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "ポーランド中部のスターリンク基地局で発生した火災について、同国副首相が意図的な破壊工作だと指摘した。この施設はウクライナなど東欧諸国へのインターネット接続を担う重要なインフラ。ロシアによるハイブリッド攻撃の可能性が懸念され、デンマークなども警戒を強めている。"
+  },
+  {
+   "slug": "2026-10-03-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-33.html",
+   "title": "なぜ女性職員は交代させられた？エッフェル塔トップが辞任へ、宗教団体訪問での差別問題が波紋",
+   "title_en": "How Did Female Staff Get Replaced? Eiffel Tower CEO to Resign Over Religious Group Visit Controversy",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "パリのエッフェル塔をヒンドゥー教団体が訪問した際、女性職員が男性職員に交代させられていたことが判明した。この対応が宗教的配慮と性差別のはざまで批判を集め、運営会社のトップが辞任する見通しとなった。フランスの政教分離原則との対立も指摘されている。"
+  },
+  {
+   "slug": "2026-10-03-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-32.html",
+   "title": "フランスの高校生が学校封鎖、火災も発生…一体何に怒ってるのか？",
+   "title_en": "What Are French High School Students Protesting About? School Lockdowns and Fires Erupt",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "フランス各地の高校で生徒たちによる抗議活動が相次いでいる。学校の封鎖や火災まで発生するなど事態が深刻化している。西部ナントでは1日に高校2校で火災が報告されるなど、緊張が高まっている。BBC特派員が背景にある問題を掘り下げるリポートを配信している。"
+  },
+  {
+   "slug": "2026-10-03-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-31.html",
+   "title": "操縦士が同僚を刺して乗っ取り？ネタニヤフ首相が語る機内襲撃事件の衝撃",
+   "title_en": "Israeli Pilot Attempted Plane Hijacking After Stabbing Colleague: Netanyahu Reveals Radicalization Background",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "ドバイからテルアヴィヴへ向かっていたUAEの旅客機が緊急着陸した事件で、ネタニヤフ首相は同僚操縦士を刺して機を乗っ取ろうとした容疑者について、捜査の過程で「イスラム過激派の思想教育」を受けていた可能性が浮上していることを明かした。航空機乗っ取りを防いだ乗務員らの対応が注目される中、容疑者の思想背景が事件の重要な焦点となっている。"
+  },
+  {
+   "slug": "2026-10-03-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-30.html",
+   "title": "韓国が「追加措置」警告、ウクライナとの外交対立が激化か",
+   "title_en": "South Korea Warns of 'Additional Measures' Against Ukraine Over Disclosure of North Korean POWs",
+   "category": "国際",
+   "published": "2026-10-03",
+   "summary": "ウクライナのゼレンスキー大統領が国連総会で、捕虜にした北朝鮮兵2人をソウルに移送したと公表したことに対し、韓国の李大統領が猛反発。公式な謝罪がなければ追加措置を講じると警告した。両国間の外交問題に発展する可能性が出ている。"
+  },
+  {
+   "slug": "2026-10-03-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-29.html",
+   "title": "機長刺した副操縦士がなぜ乗務禁止に？航空業界の安全対策に穴があった",
+   "title_en": "Why Did a First Officer Stab the Captain? Japan's Aviation Safety Under Scrutiny",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "副操縦士が機長を刺すという異常事態が発生し、その後の対応として過去の乗務が禁止されることになった。航空業界では乗務員の適性審査や心身の健康管理が厳格に行われているが、今回の事件は既存の安全システムの課題を浮き彫りにした。今後、乗務員の精神状態のモニタリングやスクリーニング手法の強化が検討されることになりそうだ。"
+  },
+  {
+   "slug": "2026-10-03-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-28.html",
+   "title": "台風27号が小笠原に接近へ、なぜこの時期の高波は危険なのか",
+   "title_en": "Typhoon No. 27 Approaching Ogasawara Islands: Why Should We Be Concerned About High Waves?",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "日本南方海上の大型で強い台風27号が今後発達しながら北上し、週明けに東京の小笠原諸島に最も接近する見込みです。4日以降、高波による被害に警戒が必要な状況となっており、気象庁からは今後の情報提供に注視するよう呼びかけられています。"
+  },
+  {
+   "slug": "2026-10-03-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-27.html",
+   "title": "4人死亡の津火災、住人男性と知人女性は出火時不在だった？ 残された疑問とは",
+   "title_en": "What Happened During the Mie Fire? Homeowner and Guest Were Absent When Blaze Started",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "三重県津市で2日に発生した住宅火災により、焼け跡から4人の遺体が発見された。警察の調べで、この住宅の住人である38歳の男性と知人女性は、火災発生当時に家にいなかったことが判明。家には子ども4人を含む複数人がいたとみられ、出火原因の特定と家族関係の詳細な調査が進められている。"
+  },
+  {
+   "slug": "2026-10-03-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-26.html",
+   "title": "北海道・旭岳で今季初冠雪　秋の訪れを告げる白い峰",
+   "title_en": "Early Snow on Asahidake: Winter's Arrival Announced in Hokkaido",
+   "category": "国内",
+   "published": "2026-10-03",
+   "summary": "北海道の旭岳で今季初めての冠雪が観測されました。秋が深まるにつれて高い山々から雪が降り始める季節がやってきたことを示しており、これは北海道の気象の転換点となります。今後、気温の低下とともに冬への準備が本格化していくことが予想されます。"
+  },
+  {
+   "slug": "2026-10-03-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-25.html",
+   "title": "相次ぐ情報漏えい、識者が「異様」と指摘…何が起きているのか",
+   "title_en": "Data Breaches Surge: Experts Call Situation 'Abnormal'—What's Really Happening?",
+   "category": "IT",
+   "published": "2026-10-03",
+   "summary": "複数の組織で情報漏えいが相次いでいることについて、専門家が異例の事態だと指摘している。セキュリティ対策の不備やシステムの脆弱性、あるいは組織的な問題が背景にある可能性が指摘されており、今後の対策強化が急務となっている状況が報じられている。"
+  },
+  {
+   "slug": "2026-10-03-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-24.html",
+   "title": "バレー男子日本、死闘を制して決勝へ！あの強豪を撃破した瞬間とは",
+   "title_en": "Japan's Volleyball Men Advance to Finals After Thrilling Match - Can They Claim Gold?",
+   "category": "スポーツ",
+   "published": "2026-10-03",
+   "summary": "バレーボール男子日本代表が激しい試合を繰り広げ、決勝進出を決めた。接戦を制した日本は、これまでの練習成果を存分に発揮し、対戦相手に対して粘り強いプレーで優位性を示した。決勝進出により、さらなる上位成績を目指す道が開かれた。"
+  },
+  {
+   "slug": "2026-10-03-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-23.html",
+   "title": "久保建英と福原遥が結婚発表、Xでの反応は？ファン・アンチ・有名人の本音が続々",
+   "title_en": "Kubo Takefusa & Fukuhara Haruka's Wedding Announcement: What's Everyone Saying on X?",
+   "category": "エンタメ",
+   "published": "2026-10-03",
+   "summary": "サッカー選手の久保建英と女優の福原遥が結婚を発表し、SNS上で大きな話題となっている。ファンからの祝福の声が多く寄せられる一方で、様々な意見が交わされており、Xでのリアルな反応が注目を集めている。お二人の今後の活動についても関心が高まっている。"
+  },
+  {
+   "slug": "2026-10-03-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-22.html",
+   "title": "ミヤネ屋、20年の歴史に幕 昼の情報番組の時代は終わるのか？",
+   "title_en": "End of an Era: 'Miyane-ya' Closes After 20 Years—Is Daytime TV News Dead?",
+   "category": "エンタメ",
+   "published": "2026-10-03",
+   "summary": "日本テレビの長寿情報番組「ミヤネ屋」が最終回を迎え、20年の歴史に幕を閉じた。宮根誠司とともに平日昼間の視聴者に親しまれてきた同番組は、情報番組の形態や視聴者のメディア利用の変化を象徴する終焉となった。放送終了に伴い、番組の遺産と昼間の地上波テレビの今後について改めて注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-03-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-21.html",
+   "title": "阪神、ついにM1で球団初連覇へ あと3日で歴史が動く",
+   "title_en": "Hanshin Tigers on Brink of Historic Back-to-Back Championship",
+   "category": "スポーツ",
+   "published": "2026-10-03",
+   "summary": "阪神タイガースが昨シーズンに続く連覇を目前に控えている。マジックナンバーが1に縮小し、あと3日程度での優勝が確実視されている。球団の歴史において連覇の達成は初めてのことであり、ファンの期待が高まっている。"
+  },
+  {
+   "slug": "2026-10-03-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-03-20.html",
+   "title": "福原遥の結婚に芸能界が祝福ラッシュ、同世代タレントからの温かいコメント相次ぐ",
+   "title_en": "Haruka Fukuhara's Marriage Receives Widespread Congratulations from Entertainment Industry",
+   "category": "エンタメ",
+   "published": "2026-10-03",
+   "summary": "女優の福原遥が結婚を発表し、芸能界から祝福のコメントが相次いでいる。共演者や同世代のタレント、先輩女優たちから温かいメッセージが届いており、業界内での信頼と人望の厚さがうかがえる。結婚報告は大きな話題を呼んでいる。"
+  },
   {
    "slug": "2026-10-03-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-03-19.html",
