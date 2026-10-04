@@ -2,8 +2,198 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2139,
+ "count": 2158,
  "articles": [
+  {
+   "slug": "2026-10-04-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-39.html",
+   "title": "第一ライフG従業員情報漏えい、どの個人データが流出した？",
+   "title_en": "Dai-ichi Life Group Employee Data Breach: What Personal Information Was Exposed?",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "大手生命保険グループの第一ライフガーディアンで従業員の個人情報が漏えいした可能性が浮上。流出した情報の範囲や原因、対応状況についての詳細が注目されている。大手金融機関での情報管理体制が改めて問われることになりそうだ。"
+  },
+  {
+   "slug": "2026-10-04-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-38.html",
+   "title": "通算1試合で引退、プロ野球最短記録？ロッテ一條力真の衝撃デビュー・アウト",
+   "title_en": "Pro Baseball's Shortest Career: Lotte Rookie Retires After Just One Game",
+   "category": "スポーツ",
+   "published": "2026-10-04",
+   "summary": "千葉ロッテマリーンズの一條力真選手がわずか1試合での現役引退を表明した。プロ野球における異例の短さでの引退劇は、選手の適性判断やキャリア形成の問題を改めて浮き彫りにしている。育成選手から昇格した若手がどのような経緯で引退決断に至ったのか、その背景が注目されている。"
+  },
+  {
+   "slug": "2026-10-04-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-37.html",
+   "title": "猪俣氏の突然の契約解除、取締役会決定の背景に何があったのか",
+   "title_en": "Why Did the Board Decide to Terminate Inomata's Contract? The Lack of Transparency Raises Questions",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "取締役会が猪俣氏との契約解除を決定した。詳細な理由については明かされていないが、経営方針の相違や内部ガバナンスの問題がある可能性が指摘されている。この決定は企業の透明性や説明責任に関する議論を呼んでいる。"
+  },
+  {
+   "slug": "2026-10-04-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-36.html",
+   "title": "日清の「出前一丁」が香港で別物に進化？ローカライズの極致に迫る",
+   "title_en": "How Maruchan's 'Demae Ramen' Evolved Into a Completely Different Product in Hong Kong",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "日清食品の「出前一丁」は香港で独自の進化を遂げている。グローバル展開する食品ブランドが現地の嗜好に合わせ、味わいやパッケージなどを大きく変化させた事例として注目されている。東アジアのラーメン文化の多様性と、ブランド戦略における地域適応の重要性が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-04-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-35.html",
+   "title": "高専卒がいま企業に求められている理由 大卒よりも即戦力？",
+   "title_en": "Why Japanese Companies Are Now Competing for National Institute of Technology Graduates",
+   "category": "経済",
+   "published": "2026-10-04",
+   "summary": "高等専門学校（高専）の卒業生に対する企業の採用ニーズが高まっている。実践的な技術教育を受けた人材が、製造業やIT企業から注目されており、採用枠の拡大や給与面での優遇も進みつつある。人口減少に伴う人材不足と、即戦力となる技術人材への需要増が背景にあるとみられる。"
+  },
+  {
+   "slug": "2026-10-04-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-34.html",
+   "title": "100人以上のイスラエル人入植者が襲撃、イスラエル軍に護衛される中でパレスチナ人一家の帰宅を妨害",
+   "title_en": "Over 100 Israeli Settlers Attack Palestinian Village While Israeli Military Escorts Them; Family Blocked from Returning Home",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "ヨルダン川西岸地区でイスラエル人入植者100人以上がパレスチナ人の村を襲撃し、数週間前に占拠された自宅への帰宅を試みるパレスチナ人一家を妨害した。イスラエル軍が入植者に護衛されている状況が確認されており、占領地域での紛争がエスカレートしている。"
+  },
+  {
+   "slug": "2026-10-04-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-33.html",
+   "title": "刺された機長、乗客を死なせないと決心　ドバイ発テルアビブ便の緊急着陸事件",
+   "title_en": "Stabbed Captain Fights Back: \"I Won't Let Others Die\" - Dramatic Emergency Landing in Saudi Arabia",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "UAEのドバイからイスラエルへ向かう旅客機で、副操縦士が機長を刺す事件が発生。機長はコックピットを脱出して乗客に助けを求め、乗客らが対応。飛行機はサウジアラビアの空港に緊急着陸した。インド人である機長は後にモディ首相とのビデオ通話で、乗客と乗員の安全を守ることを最優先に対処したと語った。"
+  },
+  {
+   "slug": "2026-10-04-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-32.html",
+   "title": "北朝鮮のミサイルにAI導入？最新兵器の実態はいかに",
+   "title_en": "North Korea's New Missile Features AI? What Experts Say About the Threat",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "北朝鮮が発射したミサイルにAI技術が導入されているとみられることが明らかになった。精密誘導や目標追跡などの機能が強化された可能性があり、国防関係者の間で懸念が広がっている。朝鮮半島の軍事バランスに影響を与える可能性があるとして、専門家からは注視が必要だという指摘も出ている。"
+  },
+  {
+   "slug": "2026-10-04-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-31.html",
+   "title": "ドイツがウクライナに2400億円追加支援へ　欧州の結束姿勢を改めて表明",
+   "title_en": "Germany to Provide Additional $1.8 Billion in Ukraine Support as Europe Strengthens Resolve",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "ドイツがウクライナへの軍事・経済支援を拡大する方針を発表した。2400億円相当の追加支援パッケージを近く実施する見通し。ロシアによる侵攻が長期化する中、欧州主要国としての責任を果たす狙いがあるとみられる。"
+  },
+  {
+   "slug": "2026-10-04-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-30.html",
+   "title": "鈴井貴之が脳梗塞診断を受けた？現在の状況と今後の活動は",
+   "title_en": "Takayuki Suzui Diagnosed with Stroke: What's Next for the TV Producer?",
+   "category": "エンタメ",
+   "published": "2026-10-04",
+   "summary": "テレビ番組の制作や出演で活躍していた鈴井貴之が、脳梗塞の診断を受けたことが報じられた。本人の反応や医学的な詳細については現在確認中だが、ファンや業界関係者から心配の声が上がっている。今後の活動予定や回復状況が注目されている。"
+  },
+  {
+   "slug": "2026-10-04-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-29.html",
+   "title": "沖縄で米兵の飲酒運転相次ぐ。なぜ繰り返される？",
+   "title_en": "Why Do DUI Incidents Involving US Military Personnel Keep Happening in Okinawa?",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "沖縄県内で米軍基地に所属する兵士による飲酒運転事件が複数件報告されている。地元の安全懸念が高まる中、防止策の実効性が問われている。米軍側の対応と日本側の対応のギャップも指摘されており、基地周辺地域の安全確保が課題となっている。"
+  },
+  {
+   "slug": "2026-10-04-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-28.html",
+   "title": "夫婦の性行為は『義務』か『権利』か？ 法学者が示した意外な見解",
+   "title_en": "Is Marital Sex an 'Obligation' or a 'Right'? Legal Scholars Challenge Traditional Views",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "夫婦間の性行為について、法学者が興味深い見解を示した。従来の「夫婦義務説」に対し、近年の家族法の研究では個人の身体自由や同意の重要性を重視する傾向が強まっている。婚姻関係と個人の権利のバランスをどう考えるかが、現代の家族観の変化を反映していると指摘されている。"
+  },
+  {
+   "slug": "2026-10-04-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-27.html",
+   "title": "片山さつき財務相に事前運動の疑い、選挙ルール違反か？",
+   "title_en": "Finance Minister Katayama Under Fire for Alleged Illegal Pre-election Campaign Activities",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "片山さつき財務相が選挙の事前運動に該当する疑いが報じられている。政治活動と選挙運動の線引きをめぐる問題で、関係者から指摘が上がっているもよう。現職大臣の動向として関心が集まっており、今後の説明が注視されている。"
+  },
+  {
+   "slug": "2026-10-04-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-26.html",
+   "title": "日本3年連続ノーベル賞受賞なるか？10月5日から発表開始",
+   "title_en": "Will Japan Achieve Three Consecutive Nobel Prize Wins? Announcements Begin October 5th",
+   "category": "科学",
+   "published": "2026-10-04",
+   "summary": "2024年のノーベル賞受賞者の発表が10月5日から始まる。日本は2022年の平和賞、2023年の生理学・医学賞と化学賞に続き、3年連続での受賞が期待されている。今年の受賞者がどの分野から出るのか、国内の研究者からも注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-04-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-25.html",
+   "title": "ブラジル大統領選、決選投票へ？現職と左派候補の激戦が続く",
+   "title_en": "Brazil's Presidential Election Heading to Runoff? Tight Race Between Incumbent and Left-Wing Candidate",
+   "category": "国際",
+   "published": "2026-10-04",
+   "summary": "ブラジルの大統領選挙で、現在行われている投票の結果次第では決選投票（決戦投票）が実施される可能性が高まっている。複数の候補者が支持を集めており、初回投票で過半数を獲得する候補者がいない見込みとなっているため、上位2名による決選投票の公算が大きい状況だ。"
+  },
+  {
+   "slug": "2026-10-04-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-24.html",
+   "title": "米海兵隊員が強盗殺人で逮捕も「否認」　那覇ホテル事件、死因は窒息と判明",
+   "title_en": "U.S. Marine Arrested for Hotel Murder Denies Charges as Autopsy Reveals Asphyxiation",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "沖縄の那覇市内のホテルで女性が殺害され所持品を奪われた事件で、駐留するアメリカ海兵隊の20歳上等兵が強盗殺人容疑で逮捕された。警察の調査により、女性の死因は首を圧迫されたことによる窒息だったことが判明。しかし容疑者は容疑を否認しており、今後の捜査が焦点となる。"
+  },
+  {
+   "slug": "2026-10-04-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-23.html",
+   "title": "日経新聞がサイバー攻撃被害…大手メディアも無関係ではない現実",
+   "title_en": "Even Major Media Giants Fall Victim to Cyberattacks: Nikkei's Warning",
+   "category": "IT",
+   "published": "2026-10-04",
+   "summary": "日本経済新聞社がサイバー攻撃の被害を受けたことが明らかになった。大手新聞社というセキュリティ意識が高いはずの企業でも、標的型攻撃に対応する難しさが浮き彫りになった形。情報を扱う企業だからこそ、より高度な攻撃に狙われるリスクがあり、業界全体での対策強化が急務となっている。"
+  },
+  {
+   "slug": "2026-10-04-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-22.html",
+   "title": "3人の子どもを育てる27歳が乳がん診断、若年層での発症増加の現実",
+   "title_en": "27-Year-Old Mother of Three Diagnosed with Breast Cancer: Rising Trend in Young Patients",
+   "category": "健康",
+   "published": "2026-10-04",
+   "summary": "3人の子どもを育てる27歳の母親が乳がんと診断されたというニュース。若い世代での乳がん発症は珍しいケースとされてきたが、近年は診断技術の向上や生活習慣の変化に伴い、若年層での罹患例が増えているとの指摘もある。本人の治療と育児の両立、経済的負担、心理的サポートなど、若い患者が直面する課題が注目を集めている。"
+  },
+  {
+   "slug": "2026-10-04-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-04-21.html",
+   "title": "踏切で15歳が列車にはねられ死亡…遮断器がなかった現場で何が起きたのか",
+   "title_en": "15-Year-Old Killed at Railroad Crossing Without Safety Gates—What Went Wrong?",
+   "category": "国内",
+   "published": "2026-10-04",
+   "summary": "踏切で15歳の少年が列車にはねられ亡くなる事故が発生しました。この踏切には遮断器と警報機が設置されていなかったことが分かっており、安全対策の不備が指摘されています。事故の詳しい経緯や安全基準について関係機関が調査を進めています。"
+  },
   {
    "slug": "2026-10-04-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-20.html",
