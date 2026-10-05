@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2180,
+ "count": 2201,
  "articles": [
+  {
+   "slug": "2026-10-06-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-20.html",
+   "title": "初音ミク公式が「KAITO」について見解発表→ネットが大騒ぎ「結局どういうことなんだよ」",
+   "title_en": "Miku's Official Account Breaks Silence on KAITO: Internet Loses It Over Vague Statement",
+   "category": "コラム",
+   "published": "2026-10-06",
+   "summary": "初音ミク関連の公式が、同じクリプトン・フューチャー・メディア発のボーカロイドキャラ「KAITO」について公式見解を示した。ファンの間で長年議論されてきた話題に対する正式な発表とあって、SNS上ではさっそく様々な反応が上がっている。ボーカロイド文化とファンダムの関係性が改めて注目されている。"
+  },
+  {
+   "slug": "2026-10-06-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-19.html",
+   "title": "東海汽船・山崎社長が辞任へ、引責。伊豆諸島の交通を支える企業で何が起きたのか",
+   "title_en": "Tokkai Kisen President Yamashita Steps Down Over Leadership Responsibility—What's at Stake for Izu Islands?",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "離島航路の主要事業者である東海汽船の山崎社長が辞任することになった。引責による退任であり、企業経営に関わる何らかの問題や責任が背景にあるとみられる。伊豆諸島の交通を担う重要な企業の経営トップ交代は、地域経済や利用者にも影響を及ぼす可能性がある。"
+  },
+  {
+   "slug": "2026-10-06-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-18.html",
+   "title": "日本の卓球・松島輝空が世界ランク1位に　意外な経歴の持ち主が何を成し遂げたのか",
+   "title_en": "Japan's Matsushima Teraku Reaches World Ranking No. 1 in Table Tennis: What Has This Unexpected Player Achieved?",
+   "category": "スポーツ",
+   "published": "2026-10-06",
+   "summary": "卓球の松島輝空選手が世界ランキング1位に到達したことが報じられた。国際卓球連盟のランキングシステムで、日本選手がトップポジションを獲得するのは極めて稀な快挙。技術面での進化と国際大会での実績積み重ねが評価された形で、今後の世界卓球選手権やオリンピックでの活躍が期待される。"
+  },
+  {
+   "slug": "2026-10-06-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-17.html",
+   "title": "プロ野球、ついにカラーバット解禁へ。なぜいま規制が緩和される？",
+   "title_en": "Why Is Japan's Pro Baseball Finally Opening the Door to Colored Bats?",
+   "category": "スポーツ",
+   "published": "2026-10-06",
+   "summary": "日本野球機構がプロ野球で使用可能なバットの色に関する規制を緩和し、従来の木製バット特有の色に限らず、カラーバットの使用を認める方針を示した。これまで統一感や伝統の維持を理由に制限されてきたが、国際大会対応やファン層拡大の観点から解禁に至った。実装時期や具体的な色制限については今後さらに協議される見通し。"
+  },
+  {
+   "slug": "2026-10-06-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-16.html",
+   "title": "連載再開が難しい状況に？『H×H』作者が心身不調で仕事制限、連載再開時期は未定に",
+   "title_en": "Author of 'Hunter x Hunter' Faces Ongoing Health Challenges, Serialization Timeline Remains Unclear",
+   "category": "エンタメ",
+   "published": "2026-10-06",
+   "summary": "人気漫画『ハンター×ハンター』の作者・冨樫義博氏が心身の不調により、仕事量を制限せざるを得ない状況にあることが報じられた。長期休載中の同作について、今後の連載再開時期は不透明な状況となっている。読者からは復帰を望む声が上がる一方で、作者の健康を優先すべきとの意見もある。"
+  },
+  {
+   "slug": "2026-10-06-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-15.html",
+   "title": "防災訓練が「退屈な時間」から脱却か？VR・シミュレーション活用で実践的対応を習得",
+   "title_en": "Are Boring Disaster Drills About to Change? VR and Simulation-Based Training Aims to Build Real Crisis Response",
+   "category": "国内",
+   "published": "2026-10-06",
+   "summary": "従来の防災訓練の課題を解決する新しいアプローチが広がっている。VRやシミュレーター技術を活用した「没入型」訓練により、参加者が実際の災害状況をより実感的に体験できるようになった。単なる避難動作の練習ではなく、判断力や対応能力を養うことが狙いで、災害時の死傷者減少に向けた効果が期待されている。"
+  },
+  {
+   "slug": "2026-10-06-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-14.html",
+   "title": "ブラジル大統領選、決選投票へ…前回の混乱から何が変わった？",
+   "title_en": "Brazil's Presidential Runoff: What's Changed Since Last Time?",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "ブラジルの大統領選挙が決選投票に進むことが決定した。初回投票の結果、候補者間の得票差が想定より接近しており、10月の決選投票で最終的な大統領が決まることになる。政治的対立が深まるなか、投票制度の透明性や選挙管理体制が注目を集めている。"
+  },
+  {
+   "slug": "2026-10-06-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-13.html",
+   "title": "中国と北朝鮮を結ぶ新大橋がいよいよ開通へ　経済・外交にどんな影響が？",
+   "title_en": "New Bridge Connecting China and North Korea Set to Open Soon: What's the Real Impact?",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "中国と北朝鮮を結ぶ新しい橋の開通が近いことが明らかになった。既存の橋に加え、新たなインフラが整備されることで、両国間の経済交流や物資輸送がさらに活発化する見通し。国際的な経済制裁の影響下での両国関係の深化を象徴する動きとして注目されている。"
+  },
+  {
+   "slug": "2026-10-06-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-12.html",
+   "title": "トランプ、AI統括する『超知能タスクフォース』発足…クレイトン情報長官が指揮",
+   "title_en": "Trump Launches 'Superintelligence Task Force' to Oversee US AI Strategy Under Clayton",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "トランプ米大統領がAI政策を統括する新たなタスクフォースの創設を発表。クレイトン国家情報長官がトップを務める。アメリカが国家レベルでAI戦略を強化する動きとみられ、今後の政策方針が注目される。"
+  },
+  {
+   "slug": "2026-10-06-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-11.html",
+   "title": "フランス高校生が教育改革で大暴動、最大500校休校に。機動隊との衝突激化で何が起きてるのか",
+   "title_en": "French High School Students Stage Major Protests Over Education: 500 Schools Face Closures as Clashes with Police Intensify",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "フランスで教育環境の改善を求める高校生らの抗議活動が先月から続いており、最近は学生と機動隊の衝突が激化している。これを受けてジェフレ教育相は、週明けの5日に全国の最大500校が全校または一部休校になると発表した。抗議の規模と影響が急速に拡大している状況。"
+  },
+  {
+   "slug": "2026-10-06-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-10.html",
+   "title": "ドイツ首相の電撃訪問中も容赦なく…ロシアがキーウの橋を4日連続攻撃",
+   "title_en": "Even as German Chancellor Visits, Russia Relentlessly Pounds Kyiv's Bridges for Fourth Straight Day",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "ウクライナの首都キーウで、ロシア軍のドローン攻撃により主要な橋が4日連続で標的にされている。重要インフラへの攻撃が激化する中、ドイツのメルツ首相はウクライナへの支持を示すため、危険が続く状況下での電撃訪問を決行。戦闘が続く現地への西側指導者の訪問は、ウクライナへの継続的な支援の意志を象徴している。"
+  },
+  {
+   "slug": "2026-10-06-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-9.html",
+   "title": "薬剤師が悲鳴…カスハラの実態とは？医療現場で何が起きている",
+   "title_en": "Japanese Pharmacists Cry Out: The Hidden Crisis of Customer Harassment in Healthcare",
+   "category": "国内",
+   "published": "2026-10-06",
+   "summary": "医療現場で働く薬剤師が顧客からの迷惑行為「カスハラ」に悩まされているという問題が浮上。不当な要求や暴言、過度なクレームなど、薬局での労働環境が悪化しているとされている。背景には医療に対する理解不足や社会的ストレスの増加があると指摘される。"
+  },
+  {
+   "slug": "2026-10-06-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-8.html",
+   "title": "日本代表、ニュージーランドを2-1で撃破！東京での強化試合で見えた課題と収穫",
+   "title_en": "Japan's National Team Edges Past New Zealand 2-1: What the Win Reveals About Future Prospects",
+   "category": "スポーツ",
+   "published": "2026-10-06",
+   "summary": "サッカー日本代表が5日夜、東京のMUFGスタジアムでニュージーランド代表と対戦し、2対1で競り勝った。この強化試合は両国の実力を測る重要な一戦となり、日本代表は接戦を制することで次の大会に向けた課題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-06-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-7.html",
+   "title": "沖縄のホテルで女性殺害、米海兵隊員を逮捕——容疑否認も事態は深刻化",
+   "title_en": "U.S. Marine Arrested in Fatal Robbery of Woman in Okinawa Hotel — Denies Charges",
+   "category": "国内",
+   "published": "2026-10-06",
+   "summary": "沖縄県警は、那覇市のホテルで女性を殺害して所持品を奪ったとして、米海兵隊員を強盗殺人容疑で逮捕した。事件は3日に発生し、4日に発表された。容疑者は調べに対して容疑を否認しているとのことだが、今後の捜査で真相が明らかになる見通し。"
+  },
+  {
+   "slug": "2026-10-06-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-6.html",
+   "title": "森保ジャパン、15年ぶりキリンカップ優勝の衝撃　W杯への手応えは？",
+   "title_en": "Moriasu's Japan Wins Kirin Cup After 15 Years: A Sign of Things to Come Before the World Cup?",
+   "category": "スポーツ",
+   "published": "2026-10-06",
+   "summary": "森保一監督率いる日本代表がキリンカップサッカーで15年ぶりの優勝を果たした。親善試合とはいえ、国際大会での優勝は代表チームの調整段階での大きな成果。W杯に向けたチーム構築の進捗を示す結果となり、今後の国際試合での期待値が高まっている。"
+  },
+  {
+   "slug": "2026-10-06-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-5.html",
+   "title": "シャウエッセン、実質値上げへ　あの国民的ソーセージに何が起きた？",
+   "title_en": "Schauessen Hikes Prices: What's Happening to Japan's Beloved Sausage?",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "人気ソーセージブランド・シャウエッセンが実質的な値上げを発表した。内容量の削減や価格調整を通じた値上げとみられ、食品メーカーの相次ぐ値上げラッシュの一環。消費者の家計負担がさらに増す可能性があり、日常的な食卓の変化が避けられない状況となっている。"
+  },
+  {
+   "slug": "2026-10-06-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-4.html",
+   "title": "勤務医を諦めた母親の決断。子どもの不登校で人生が変わった親たちの現実",
+   "title_en": "When a Doctor's Career Ends: How a Child's School Refusal Changed Everything",
+   "category": "国内",
+   "published": "2026-10-06",
+   "summary": "子どもの不登校を機に、キャリアを断念せざるを得なかった勤務医の母親の葛藤を描くニュース。医療現場の多忙さと家庭との両立が難しい実態、親としての選択肢の限界、そして社会的なサポート体制の不足などが浮き彫りになる。仕事と子育てのジレンマに直面する多くの親たちの共感を呼ぶ事例として注目されている。"
+  },
+  {
+   "slug": "2026-10-06-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-3.html",
+   "title": "ノーベル生理医学賞、米独の3人が受賞。日本人は何年ぶりの受賞逃す？",
+   "title_en": "Nobel Prize in Physiology or Medicine Goes to Three Researchers from US and Germany—When Will Japan Claim Victory Again?",
+   "category": "科学",
+   "published": "2026-10-06",
+   "summary": "2024年のノーベル生理医学賞が米国と独国の3人の研究者に授与されることが決定した。受賞者たちの研究は生命科学分野で重要な貢献をもたらしたと評価されている。日本の研究者の受賞は今年は叶わず、世界の科学界の最高峰の栄誉は欧米の研究陣によって占められることになった。"
+  },
+  {
+   "slug": "2026-10-06-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-2.html",
+   "title": "人手不足で倒産する企業が過去最多に　あなたの給料が上がらない本当の理由",
+   "title_en": "Record-Breaking Business Closures Due to Labor Shortage: Why Your Salary Isn't Rising",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "2024年上半期において、人手不足を直接的な原因とした企業倒産が過去最高を記録した。深刻な労働力不足により、経営を継続できない事業者が急増している状況が明らかになった。この傾向は業界全体に波及し、雇用環境と経済全体に大きな影響を与えている可能性がある。"
+  },
+  {
+   "slug": "2026-10-06-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-1.html",
+   "title": "焼肉きんぐ1078万人分の顧客情報流出　あなたのデータは大丈夫？",
+   "title_en": "Yakiniku King Data Breach Affects 10.78 Million Customers - Is Your Information Safe?",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "人気焼肉チェーン「焼肉きんぐ」が大規模な情報流出事件に見舞われた。流出した個人情報は1078万人分に及び、氏名や電話番号、メールアドレスなどが含まれている可能性がある。同社は既に流出の事実を確認し、顧客への通知と被害拡大防止に向けた対応を進めている。情報セキュリティの強化が急務となっている。"
+  },
+  {
+   "slug": "2026-10-06-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-0.html",
+   "title": "塩野義が米バイオ企業を買収へ、日本の製薬大手がグローバル競争に本腰？",
+   "title_en": "Shionogi's US Biotech Acquisition: Is Japan's Pharma Giant Getting Serious About Global Competition?",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "塩野義製薬が米国のバイオ医薬品企業の買収を発表した。国内市場の成熟化に対応し、革新的な医薬品開発を強化する狙い。M&Aを通じた海外進出により、グローバル製薬企業への転換を加速させる戦略とみられる。"
+  },
   {
    "slug": "2026-10-05-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-21.html",
