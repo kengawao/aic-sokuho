@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2158,
+ "count": 2179,
  "articles": [
+  {
+   "slug": "2026-10-05-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-20.html",
+   "title": "アジア大会、まさかの終幕がマツケンサンバ？スポーツの最後は踊りで決まりなのか",
+   "title_en": "The Asian Games Closing Ceremony Ended With Matsuden Samba—Because Why Not Celebrate With Retro Dance Moves?",
+   "category": "コラム",
+   "published": "2026-10-05",
+   "summary": "アジア大会の閉会式でマツケンサンバが披露され、盛大に幕を閉じたとのこと。厳粛なスポーツ大会の終わりが、あの懐かしの楽曲と踊りで彩られるという、なんとも日本らしいオチに。正統派の閉会式を想像していた人は、予想外の展開に思わず笑顔になったに違いない。"
+  },
+  {
+   "slug": "2026-10-05-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-19.html",
+   "title": "武豊、凱旋門賞12度目の挑戦も及ばず。競馬史上最高峰への道はなぜこんなに険しいのか",
+   "title_en": "Why Does One of Japan's Racing Legends Keep Falling Short at the Arc de Triomphe? Takeshi Takemoto's 12th Attempt Ends in Disappointment",
+   "category": "スポーツ",
+   "published": "2026-10-05",
+   "summary": "日本競馬界の大物騎手・武豊が、フランスで開催される凱旋門賞に12度目の挑戦を行ったが、優勝を逃した。凱旋門賞は世界的に最も権威ある競馬レースの一つであり、日本馬・日本騎手による優勝は極めて稀である。武豊の執念の挑戦が実らず、競馬ファンの間で惜しむ声が上がっている。"
+  },
+  {
+   "slug": "2026-10-05-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-18.html",
+   "title": "台風27号が小笠原直撃へ、なぜ高波警戒が重要？",
+   "title_en": "Why Is Typhoon 27 a Serious Threat to the Ogasawara Islands?",
+   "category": "国内",
+   "published": "2026-10-05",
+   "summary": "大型で非常に強い台風27号が6日にかけて東京の小笠原近海を北上する予報が出ている。気象庁は特に高波への警戒を呼びかけており、小笠原諸島周辺の船舶運航や海岸利用者に対して注意が必要な状況となっている。台風の進路や勢力の詳細な推移に注視が必要だ。"
+  },
+  {
+   "slug": "2026-10-05-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-17.html",
+   "title": "台風25号で寸断された内房線、わずか一区間で折り返し運転再開へ　なぜ全線復旧ではなく限定的な再開に？",
+   "title_en": "Uchibo Line Partially Restored After Typhoon 25, But Why Not Full Service? The Gap in Damage Reveals Regional Vulnerability",
+   "category": "国内",
+   "published": "2026-10-05",
+   "summary": "台風25号の大雨被害でJR内房線の運転が見合わせられている中、線路被害の程度に差が出ている。木更津駅と長浦駅の間の区間は線路への損傷がなかったことが判明し、10月5日から折り返し運転を開始した。他の区間の被害状況と復旧見通しについては、さらなる調査が続いている状況。"
+  },
+  {
+   "slug": "2026-10-05-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-16.html",
+   "title": "オリックス、シーズン中盤でコーチ2人が退団へ　采配に変化は？",
+   "title_en": "Orix Buffaloes Announce Two Coaches' Departures Mid-Season: How Will Strategy Shift?",
+   "category": "スポーツ",
+   "published": "2026-10-05",
+   "summary": "オリックス・バファローズがコーチ2人の退団を発表した。球団の編成方針の転換やコーチング体制の見直しが背景にあるとみられる。現在の戦績と今後の采配体制がどう変わるのか、ファンからは戦力への影響を懸念する声も上がっている。シーズン中盤でのコーチ人事異動は珍しく、球団内部の何らかの方針転換を示唆している可能性がある。"
+  },
+  {
+   "slug": "2026-10-05-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-15.html",
+   "title": "満州アヘンスクワッド、なぜいま映像化？歴史冒険譚がアニメ化決定",
+   "title_en": "Manchurian Opium Squad Anime Adaptation: Why Now? Historical Adventure Novel Gets Green Light",
+   "category": "エンタメ",
+   "published": "2026-10-05",
+   "summary": "戦前の満州を舞台にした歴史冒険小説『満州アヘンスクワッド』がアニメ化されることが発表された。複雑な時代背景を持つこの作品が、どのように映像化されるのか、また歴史的背景をどう描くのかが注目されている。ニッチながらコアなファンを持つ本作の映像化は、歴史冒険ジャンルの新展開として期待と議論を呼んでいる。"
+  },
+  {
+   "slug": "2026-10-05-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-14.html",
+   "title": "戦地の上空にドローン……BBCが捉えた、イエメン紛争の現在地",
+   "title_en": "Above the War Zone: BBC Documents the Houthi Drone Threat in Yemen's Frontline",
+   "category": "国際",
+   "published": "2026-10-05",
+   "summary": "BBCがイエメンの内戦紛争地帯への異例の取材許可を得た。フーシ派が運用するドローンが頭上を飛行する最前線での取材に成功し、激化する紛争の実態を映像で記録。西側大手メディアの戦地取材としては極めて珍しく、紛争地帯の生々しい状況が国際社会に伝えられることになった。"
+  },
+  {
+   "slug": "2026-10-05-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-13.html",
+   "title": "死刑執行失敗で州矯正局長が辞任　米国で何が起きたのか",
+   "title_en": "What Went Wrong? State Prison Chief Resigns Over Failed Execution",
+   "category": "国際",
+   "published": "2026-10-05",
+   "summary": "米国で死刑執行の失敗を受け、州矯正局長が責任を取って辞任した。執行手続きの過程で問題が生じ、適切な対応ができなかったとされている。この事態は、米国における死刑制度の運用体制や透明性をめぐる議論を改めて浮き彫りにしている。死刑存廃をめぐる長年の論争に新たな局面をもたらす可能性がある。"
+  },
+  {
+   "slug": "2026-10-05-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-12.html",
+   "title": "機長が語った副操縦士襲撃の一部始終…コックピット内で何が起きたのか",
+   "title_en": "Captain's Account: The Harrowing Moments Inside the Cockpit During Co-Pilot Attack",
+   "category": "国際",
+   "published": "2026-10-05",
+   "summary": "航空機内で副操縦士が機長に襲いかかるという緊迫した事態が発生。事件後のインタビューで機長が当時の状況を詳細に語った。操縦室内での突然の暴力的行為に直面した機長がどう対応し、乗客の安全をいかに守ったのか、その臨機応変な判断と緊急時プロトコールの重要性が浮き彫りになった。航空業界全体にも衝撃を与える事件として注目されている。"
+  },
+  {
+   "slug": "2026-10-05-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-11.html",
+   "title": "米大統領が対立議員の電話番号を公開、民主主義の危機か？政治対立の新たな段階へ",
+   "title_en": "US President Exposes Opposition Lawmaker's Phone Number: Is Democracy in Crisis?",
+   "category": "国際",
+   "published": "2026-10-05",
+   "summary": "米国の大統領が政治的な対立関係にある議員の個人的な電話番号を公開したとされています。このような行動は、政治対立が個人への嫌がらせレベルにまで発展していることを示唆しており、米国の政治文化における分断と緊張がさらに深刻化していることを物語っています。民主主義制度における礼儀と規範が問われる事態となっています。"
+  },
+  {
+   "slug": "2026-10-05-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-10.html",
+   "title": "プーチンの判断ミスを露元首相が公然と批判？ロシア内部からの異議唱え",
+   "title_en": "Does Russia's Inner Circle Show Cracks? Former PM Openly Criticizes Putin's Decisions",
+   "category": "国際",
+   "published": "2026-10-05",
+   "summary": "ロシアの露元首相がプーチン大統領の政策判断における過ちについて言及したことが報道されました。ロシア指導部内での意見対立や、現政権の決定に対する批判的な見方が存在することを示す事例として注目されています。ロシア政治の内部動向を理解する上で重要な発言となっています。"
+  },
+  {
+   "slug": "2026-10-05-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-9.html",
+   "title": "申ジエ、日本女子ゴルフの頂点へ。国内メジャー4冠達成の快挙",
+   "title_en": "Shin Ji-ae Makes History: Sweeps All Four Japan Women's Golf Majors",
+   "category": "スポーツ",
+   "published": "2026-10-05",
+   "summary": "韓国出身のゴルファー申ジエが、日本国内のメジャートーナメント4大会すべてで優勝を果たした。女子ゴルフ界において、国内メジャー全冠制覇は極めて稀な快挙。彼女の圧倒的なスキルと安定性が、日本のゴルフシーンに新たな衝撃を与えた形となっている。"
+  },
+  {
+   "slug": "2026-10-05-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-8.html",
+   "title": "ノーベル生理学・医学賞、いよいよ5日発表！日本人受賞の可能性は？",
+   "title_en": "Nobel Prize in Physiology or Medicine Announced October 5th—Will a Japanese Researcher Win?",
+   "category": "科学",
+   "published": "2026-10-05",
+   "summary": "10月5日はノーベル生理学・医学賞の発表日です。毎年、医学や生物学の分野で人類に大きな貢献をした研究者が選ばれます。日本の科学界も注目を集めており、受賞候補者の可能性が議論されています。過去の受賞者の業績と比較しながら、今年の発表を待つ時期となりました。"
+  },
+  {
+   "slug": "2026-10-05-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-7.html",
+   "title": "古賀若菜、世界選手権で初金メダル獲得！女子48キロ級で日本勢が頂点に",
+   "title_en": "Wakana Koga Captures First World Championship Gold in Women's 48kg Judo",
+   "category": "スポーツ",
+   "published": "2026-10-05",
+   "summary": "アゼルバイジャンで開幕した柔道の世界選手権で、日本の古賀若菜選手が女子48キロ級で初めての金メダルを獲得した。世界最高峰の舞台での栄冠は、日本柔道の層の厚さを改めて示す成果となった。"
+  },
+  {
+   "slug": "2026-10-05-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-6.html",
+   "title": "ロシアで1カ月に16人がクマに襲われ死亡…一体何が起きているのか",
+   "title_en": "16 Deaths in One Month: What's Driving Russia's Bear Attack Crisis?",
+   "category": "国際",
+   "published": "2026-10-05",
+   "summary": "ロシアでクマによる襲撃事件が相次ぎ、わずか1カ月間に16人が死亡するという深刻な状況が発生している。通常よりも大幅に増加した襲撃事件の背景には、クマの生息域と人間の活動域の重複や、餌場の変化など複数の要因が考えられている。当局は注意喚起と対策強化を急いでいる。"
+  },
+  {
+   "slug": "2026-10-05-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-5.html",
+   "title": "米国がAI政策の司令塔「SIフォース」を創設へ　中国との競争激化で動く",
+   "title_en": "US Creates AI Policy Command Center 'SI Force' as China Competition Heats Up",
+   "category": "国際",
+   "published": "2026-10-05",
+   "summary": "アメリカが人工知能（AI）政策の統括機関として「SIフォース」を創設する方針を発表した。急速に進化するAI技術への対応と、中国を含む他国との競争に対抗することが目的。一元的な政策立案と産業育成を強化する構えで、今後のAI規制・推進の方向性が大きく変わる可能性がある。"
+  },
+  {
+   "slug": "2026-10-05-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-4.html",
+   "title": "不倫をバラすと脅迫された場合、法的にはどうなる？弁護士が解説する意外な判例",
+   "title_en": "What Happens Legally When You Threaten to Expose an Affair? Expert Explains Surprising Court Cases",
+   "category": "国内",
+   "published": "2026-10-05",
+   "summary": "不倫相手が『不倫をバラすぞ』と脅迫してくる行為が、法的にどのような問題に該当するのかについて議論がある。単なる暴露の脅迫だけでは犯罪にならないケースもあれば、金銭要求や継続的な脅迫になれば恐喝罪に問われる可能性がある。プライバシー侵害と脅迫罪のバランスや、SNS時代における新しい法的課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-05-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-3.html",
+   "title": "DV被害者の個人情報が5年で68件も漏洩…保護制度に穴？",
+   "title_en": "Personal Information of 68 DV Victims Leaked Over 5 Years—Is the Protection System Broken?",
+   "category": "国内",
+   "published": "2026-10-05",
+   "summary": "DV被害者を保護するための制度下で、その個人情報が過去5年間で68件も漏洩していたことが明らかになった。加害者に住所などを知られると命の危険に直結する可能性があるため、情報管理の厳格性が問われている。当局の対応能力や制度的な欠陥の改善が急務となっている。"
+  },
+  {
+   "slug": "2026-10-05-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-2.html",
+   "title": "個人情報提供で企業に「事前報告義務」？あなたのデータはどうなる",
+   "title_en": "New Personal Data Protection Rules: What Happens When Companies Must Report Before Sharing Your Info?",
+   "category": "国内",
+   "published": "2026-10-05",
+   "summary": "個人情報を企業に提供する際、事前の報告や同意取得を企業に義務付ける新たな規制が導入される見通し。現在は提供後の報告のみが基本だが、より厳格な管理体制へ移行することで、個人の情報保護がより強化される方向で検討が進まれている。"
+  },
+  {
+   "slug": "2026-10-05-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-1.html",
+   "title": "自衛隊がAI自動運航船を導入へ、人手不足の海自にどう影響する?",
+   "title_en": "Japan's Maritime Self-Defense Force to Deploy AI-Powered Autonomous Ships",
+   "category": "国内",
+   "published": "2026-10-05",
+   "summary": "防衛省がAI技術を搭載した自動運航船の導入を進める方針を発表した。人員不足が課題となっている海上自衛隊の運用効率化を目指すもので、将来的には無人での遠洋航行も視野に入れているとみられる。日本の防衛力整備と最新技術の活用が注目される動きとなっている。"
+  },
+  {
+   "slug": "2026-10-05-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-05-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-05-0.html",
+   "title": "那覇の強殺事件、女性の首に『ひも状の痕』…捜査はどう進むのか",
+   "title_en": "Naha Murder Case: Ligature Marks Found on Victim's Neck - What's Next for the Investigation?",
+   "category": "国内",
+   "published": "2026-10-05",
+   "summary": "沖縄県那覇市で発生した強殺事件で、被害女性の首にひも状の痕跡が確認されたことが明らかになった。物理的な証拠の発見により、捜査当局は事件の状況解明に向けて新たな手がかりを得ることになった。警察は現場の詳細な鑑識と目撃情報の収集を強化している。"
+  },
   {
    "slug": "2026-10-04-39",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-04-39.html",
