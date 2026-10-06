@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2223,
+ "count": 2244,
  "articles": [
+  {
+   "slug": "2026-10-07-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-20.html",
+   "title": "トム・クルーズが銀座を闊歩？いや待てよ、KK線って何だ",
+   "title_en": "Tom Cruise Spotted in Ginza's \"KK Line\" — But Wait, Does That Even Exist?",
+   "category": "コラム",
+   "published": "2026-10-07",
+   "summary": "ハリウッドスターのトム・クルーズが銀座のKK線を歩いたというニュースが話題に。日本の鉄道ファンから「えっ、そんな線あったっけ？」という疑問の声が。実在しない路線名への戸惑いから、ニュースの真偽や報道の信頼性について議論が巻き起こっている。"
+  },
+  {
+   "slug": "2026-10-07-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-19.html",
+   "title": "防御率1.36って何がすごい？西武平良がタイトル獲得、投手戦の時代到来か",
+   "title_en": "What Makes a 1.36 ERA Historic? Seibu's Taira Wins Title Amid Pitcher-Dominant Era",
+   "category": "スポーツ",
+   "published": "2026-10-07",
+   "summary": "西武ライオンズの平良投手が防御率1.36でタイトルを獲得した。この数字は現在のプロ野球において極めて優秀な成績であり、投手層の充実と打撃のレベル変化を反映している。シーズンを通じた安定感が評価され、球界を代表するエース候補としての地位を確立した。"
+  },
+  {
+   "slug": "2026-10-07-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-18.html",
+   "title": "『キャプテン翼』連載再開で何が変わる？ 令和の時代に蘇るサッカー漫画の挑戦",
+   "title_en": "Captain Tsubasa Returns: Can This Retro Manga Win Over Gen Z Fans?",
+   "category": "エンタメ",
+   "published": "2026-10-07",
+   "summary": "国民的サッカー漫画『キャプテン翼』の最新作が連載再開となった。原作者による新たなストーリー展開が始まり、デジタル世代のファンと懐かしさを求める旧世代の両層を取り込む狙いが見える。数十年続く人気作がどのような形で現代的な物語を構築していくのかが注目されている。"
+  },
+  {
+   "slug": "2026-10-07-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-17.html",
+   "title": "ベテラン職人の後継者不足をAIロボが解決？川崎重工が造船現場に革命",
+   "title_en": "Can AI Robots Solve Japan's Shipbuilding Labor Crisis?",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "川崎重工業が造船業界の人手不足に対応するため、AIが自律的に判断して溶接作業を行う「フィジカルAI」搭載ロボットの試作機を公開した。熟練技術者の減少という課題を抱える造船所が、今後どのように変わるのか注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-07-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-16.html",
+   "title": "軽EVの最安値争いに新参入、「eスカイ」11月発売で価格破壊か",
+   "title_en": "New Budget-Friendly EV 'esky' Launches in November, Could Shake Up Kei-Car Market",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "新型軽EVの「eスカイ」が11月に発売される予定で、軽自動車のEV市場で最安水準の価格設定を目指しているとのこと。軽EVはここ数年で複数メーカーが参入し競争が激化していた中での新モデル投入となる。購入層の拡大につながるか、既存メーカーの販売戦略にどう影響するかが注目される。"
+  },
+  {
+   "slug": "2026-10-07-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-15.html",
+   "title": "モバイルSuica、20日から「teppay」開始へ。これで何が変わる？",
+   "title_en": "JR East Launches 'Teppay' Suica Feature on the 20th—What Changes?",
+   "category": "IT",
+   "published": "2026-10-07",
+   "summary": "JR東日本がモバイルSuicaの新機能「teppay」を20日から開始する。この機能により、スマートフォンをかざすだけで駅の改札を通過できるようになり、利便性が向上。タッチレス決済の流れが加速する中、既存のSuicaユーザーにどのような影響があるのか、また他社の交通系ICカードとの競争がどう展開するのかが注目される。"
+  },
+  {
+   "slug": "2026-10-07-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-14.html",
+   "title": "ハリケーンが台風28号に変身、3年ぶりの珍現象 大西洋の嵐が太平洋で名前を変える",
+   "title_en": "Hurricane Transforms into Typhoon in Rare Pacific Journey - First Time in 3 Years",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "大西洋で発生したハリケーンが、進路を変えて太平洋に到達し、気象機関により台風28号に再分類されました。同じ熱帯低気圧が大西洋と太平洋の両方で公式な嵐として認識されるのは、実に3年ぶりのことです。このような現象は極めて稀で、気象学的に注目される事例となっています。"
+  },
+  {
+   "slug": "2026-10-07-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-13.html",
+   "title": "住宅危機対策が否決されたスペイン、11月に総選挙へ　サンチェス首相が議会解散を発表",
+   "title_en": "Spain Heads to Snap Election as Housing Crisis Policy Rejected",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "スペインのペドロ・サンチェス首相が、住宅危機対策案の否決を受けて議会を解散し、11月29日に総選挙を実施すると発表した。左派連立政権が提出した住宅問題への施策が議会で可決されず、政権基盤の揺らぎが表面化。今回の選挙はスペインの政治情勢の大きな転換点となる可能性がある。"
+  },
+  {
+   "slug": "2026-10-07-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-12.html",
+   "title": "SNSの一言で死刑判決？サウジアラビアの言論統制が過激すぎると話題に",
+   "title_en": "Death Sentence Over a Facebook Post? Saudi Arabia's Speech Control Sparks Global Outcry",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "サウジアラビアでスリランカ人労働者の青年がフェイスブックのコメントを理由に死刑判決を受けた。投稿内容がイスラム教と預言者ムハンマドへの冒涜にあたると判断されたもの。本人の家族やスリランカ政府が減刑を強く求めており、国際的な人権懸念も高まっている。出稼ぎ労働者の人権問題と宗教的厳格さの衝突が浮き彫りになった事例として注目されている。"
+  },
+  {
+   "slug": "2026-10-07-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-11.html",
+   "title": "ロシアのペスト研究所員が死亡、米国が動向を注視　背景に何がある？",
+   "title_en": "Death of Russian Plague Research Institute Employee Draws US Scrutiny—What's Behind It?",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "ロシアの著名なペスト研究所の職員が死亡したことが報じられ、米国が関心を寄せている。ペスト菌などの危険な病原体を扱う研究施設での死亡事案であるため、国際的な注視が集まっており、事件の詳細と背景について各国が情報収集を進めているものとみられる。"
+  },
+  {
+   "slug": "2026-10-07-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-10.html",
+   "title": "ノーベル物理学賞に米大教授が輝く—日本人受賞者は何年ぶり？",
+   "title_en": "U.S. Professor Wins Nobel Prize in Physics—When Will Japan's Next Laureate Emerge?",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "ノーベル物理学賞の受賞者が発表され、米国の大学教授が栄誉を手にしました。受賞対象となった研究は、物理学の基礎理論に新たな光をもたらすもので、国際的な科学コミュニティから高く評価されています。このニュースは世界的な科学研究の進展を示す象徴として注目を集めています。"
+  },
+  {
+   "slug": "2026-10-07-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-9.html",
+   "title": "レタス5割高ってマジ？9月下旬の野菜価格が急騰、家計への影響は避けられず",
+   "title_en": "Lettuce Prices Skyrocket 50% in Late September—Your Salad Budget Just Got a Lot Worse",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "9月下旬にレタスの価格が前年同時期比で約5割上昇していることが判明した。天候不順や生育状況の悪化が主な原因とみられる。スーパーの野菜コーナーでは価格表示の変更が相次いでおり、消費者の家計管理に直結する問題として注視されている。他の野菜にも同様の傾向が見られるという。"
+  },
+  {
+   "slug": "2026-10-07-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-8.html",
+   "title": "大谷、まさかの打順降格？監督が示唆した背景と波紋",
+   "title_en": "Ohtani's Potential Demotion: What's Behind the Manager's Hint?",
+   "category": "スポーツ",
+   "published": "2026-10-07",
+   "summary": "大リーグで活躍する大谷翔平選手について、所属球団の監督が打順を下げる可能性を示唆したとのこと。現在の成績や状況の変化により、これまでのような上位打順での起用から変更する検討がされているようだ。スター選手の配置変更という異例の判断に、ファンや関係者から注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-07-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-7.html",
+   "title": "育てる意思なかった…男児殺害容疑で判明した衝撃の事実",
+   "title_en": "Shocking Discovery: Suspect Had No Intention to Raise the Child",
+   "category": "国内",
+   "published": "2026-10-07",
+   "summary": "男児の殺害容疑で逮捕された被疑者が、最初から子どもを育てる意思を持っていなかったことが明らかになった。捜査の過程で、計画的な犯行の可能性が浮上。児童虐待と殺人事件の背景にある家庭環境や心理的要因についての議論が高まっている。"
+  },
+  {
+   "slug": "2026-10-07-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-6.html",
+   "title": "ピアニスト反田恭平が在宅起訴 一体何があった？事務所が謝罪",
+   "title_en": "What Happened to Pianist Kyohei Sorita? Indicted Without Detention",
+   "category": "エンタメ",
+   "published": "2026-10-07",
+   "summary": "ピアニストの反田恭平氏が在宅起訴されたことが明らかになった。詳細な容疑内容についてはまだ公開されていないが、所属事務所が謝罪文を発表。ファンや音楽業界で驚きが広がっており、今後の活動がどうなるのかに注目が集まっている状況。"
+  },
+  {
+   "slug": "2026-10-07-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-5.html",
+   "title": "アシックス、経営危機から売上1兆円へ。スポーツ用品メーカーの逆転劇とは",
+   "title_en": "Asics' Comeback Story: How This Japanese Sportswear Maker Reached 1 Trillion Yen in Sales",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "かつて経営不振に陥ったアシックスが、経営改革を通じて売上高1兆円という大台に達する見通しが出た。グローバル戦略の強化やデジタル化への投資により、販売チャネルの拡大と顧客基盤の拡大に成功。日本を代表するスポーツ用品メーカーとしての地位を再構築し、業績回復を実現させている。"
+  },
+  {
+   "slug": "2026-10-07-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-4.html",
+   "title": "IQ130超の天才女性が語る『才能が高いほど人生が複雑になる』理由とは",
+   "title_en": "Why Genius Women Say High IQ Brings Complex Lives: The Paradox of Giftedness",
+   "category": "コラム",
+   "published": "2026-10-07",
+   "summary": "IQ130を超える「ギフテッド」と呼ばれる高い知能を持つ女性が、自身の人生経験を語るニュース。天才的な能力を持つことで、学業では優位に立つ一方で、同年代との関係構築や社会生活における独特の課題に直面してきたという実態が報じられている。才能と社会適応のジレンマについて考察される。"
+  },
+  {
+   "slug": "2026-10-07-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-3.html",
+   "title": "高カロリー食が脳神経を蝕む？研究結果が明かす衝撃の事実",
+   "title_en": "Does High-Calorie Diet Damage Your Brain? New Research Reveals Surprising Link",
+   "category": "健康",
+   "published": "2026-10-07",
+   "summary": "最新の研究によると、高カロリー食の継続摂取が脳神経に悪影響を与える可能性が示唆されました。詳細なメカニズムはまだ解明途上ですが、肥満と認知機能低下の関連性が指摘されており、食生活の改善が脳の健康維持に重要であることが改めて浮き彫りになった形です。"
+  },
+  {
+   "slug": "2026-10-07-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-2.html",
+   "title": "MrMax 173万人分の情報流出 あなたの個人情報は大丈夫？",
+   "title_en": "MrMax Data Breach Affects 1.73 Million Users—Is Your Personal Information at Risk?",
+   "category": "IT",
+   "published": "2026-10-07",
+   "summary": "大型家具・インテリア販売のMrMaxで、顧客など最大173万人分の個人情報が流出していたことが判明した。流出した情報には氏名や住所、電話番号などが含まれているとみられる。同社は現在、情報の詳細確認と対応を進めており、該当する顧客への連絡を予定している。情報セキュリティ対策の強化が急務となっている。"
+  },
+  {
+   "slug": "2026-10-07-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-1.html",
+   "title": "過去最多ペースの不正アクセス被害、あなたのパスワードは大丈夫？",
+   "title_en": "Cyber Attacks Hit Record Pace in Japan—Is Your Password Safe?",
+   "category": "IT",
+   "published": "2026-10-07",
+   "summary": "国内での不正アクセス被害が過去最多のペースで増加していることが明らかになった。サイバー攻撃の手口が巧妙化し、企業や個人を狙った侵害事件が急増している状況。セキュリティ対策の強化が急務となる中、被害企業の増加に伴い、社会全体で危機感が高まっている。"
+  },
+  {
+   "slug": "2026-10-07-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-0.html",
+   "title": "55万人分の個人情報が流出？大手化学メーカー傘下企業で何が起きたのか",
+   "title_en": "What Happened? Major Chemical Company Subsidiary Loses 550,000 Personal Records",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "旭化成の子会社がサイバー攻撃により、約55万人分の個人情報が流出した可能性があることが明らかになった。流出した情報には顧客の個人データが含まれているとみられ、企業は現在詳細な調査を進めている。大型企業のセキュリティ対策の問題が改めて浮き彫りになった形だ。"
+  },
   {
    "slug": "2026-10-06-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-42.html",
