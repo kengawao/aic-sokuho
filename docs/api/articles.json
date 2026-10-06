@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2222,
+ "count": 2223,
  "articles": [
+  {
+   "slug": "2026-10-06-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-42.html",
+   "title": "ハローキティがレゴになった…？30年の夢がついに現実に、昭和の象徴がデンマーク製になる日",
+   "title_en": "Hello Kitty Goes Brick: Can the Sanrio Icon and LEGO Finally Build Something Great Together?",
+   "category": "コラム",
+   "published": "2026-10-06",
+   "summary": "サンリオの看板キャラ・ハローキティが初めてレゴブロックとしてコラボレーション化されることが発表された。玩具業界の大物同士の組み合わせに、懐かしさと新しさが入り混じった反応が広がっている。昭和生まれから令和世代まで、幅広い層がこの異例のタッグに注目している。"
+  },
   {
    "slug": "2026-10-06-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-41.html",
