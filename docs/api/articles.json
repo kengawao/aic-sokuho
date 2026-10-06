@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2201,
+ "count": 2222,
  "articles": [
+  {
+   "slug": "2026-10-06-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-41.html",
+   "title": "庵野秀明がヤマト新作を制作決定！あの沼から引き上げられた巨匠は何をする気なのか",
+   "title_en": "Hideaki Anno Takes on Space Battleship Yamato: What's the Genius Director Planning This Time?",
+   "category": "コラム",
+   "published": "2026-10-06",
+   "summary": "エヴァンゲリオン完結後、映像制作から遠ざかっていた庵野秀明監督が、宇宙戦艦ヤマトシリーズの新作を手掛けることが決定した。沼から浮上した鬼才は、伝説的なSF作品をどのように再構成するのか。業界から期待と不安の声が入り混じっている。"
+  },
+  {
+   "slug": "2026-10-06-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-40.html",
+   "title": "台風27号、なぜ東へ進む？小笠原・伊豆で大しけ警報、海の安全を確保するには",
+   "title_en": "Why is Typhoon 27 Moving Eastward? High Waves Expected Near Izu and Ogasawara Islands",
+   "category": "国内",
+   "published": "2026-10-06",
+   "summary": "大型で強い台風27号は小笠原諸島から離れ、日本の東側の海上を北上する予想です。伊豆諸島と関東沖では今後大しけが発生する見込みで、気象庁は沿岸地域や海上利用者に対して高波への厳重な警戒を呼びかけています。進路や波高に関する最新情報の確認が重要です。"
+  },
+  {
+   "slug": "2026-10-06-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-39.html",
+   "title": "堤防決壊で難防除雑草が拡散？印旛沼の「想定外」リスク",
+   "title_en": "Dike Collapse Threatens Spread of Hard-to-Control Invasive Plants in Inba Swamp",
+   "category": "国内",
+   "published": "2026-10-06",
+   "summary": "千葉県の印旛沼で堤防決壊が発生し、農業関係者から懸念の声が上がっている。問題は水害だけでなく、決壊に伴って難防除雑草が周辺地域に拡散する可能性があることだ。一度定着すると除去が困難な外来種や侵略的植物が流出し、農地や生態系に長期的な悪影響を及ぼす恐れがある。"
+  },
+  {
+   "slug": "2026-10-06-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-38.html",
+   "title": "ガソリンスタンド、なぜ急速に消えているのか？倒産・廃業の背景に何があるのか",
+   "title_en": "Why Are Gas Stations Disappearing? The Rapid Industry Collapse Behind Closures",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "全国のガソリンスタンド数が急速に減少している。倒産や廃業の増加が背景にあり、ガソリン価格の変動、電動車の普及、経営の低採算化などが複合的に影響しているとみられる。ニッチながら、エネルギー産業の変化を象徴する現象として注視される状況が続いている。"
+  },
+  {
+   "slug": "2026-10-06-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-37.html",
+   "title": "熊本工場の生産再開断念…フジパンに何が起きたのか",
+   "title_en": "Why Did Fujipan Abandon Kumamoto Factory Restart Plans?",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "フジパンが熊本工場の生産再開を断念することが明らかになった。同工場は過去のトラブルで操業停止に追い込まれていたが、経営判断として再開を見送ることを決定。パン製造業界の構造的課題や地域経済への影響が懸念される状況となっている。"
+  },
+  {
+   "slug": "2026-10-06-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-36.html",
+   "title": "大阪公立大がサイバー攻撃で大規模障害　大学システムの脆弱性が露呈",
+   "title_en": "Osaka Metropolitan University Hit by Cyberattack: Is Higher Education Cybersecurity Falling Behind?",
+   "category": "IT",
+   "published": "2026-10-06",
+   "summary": "大阪公立大学がサイバー攻撃を受け、システム障害が発生した。学生や教職員の業務に支障が出ているとみられる。大学は対応を進めているが、高等教育機関のセキュリティ体制の重要性が改めて問われている。デジタル化が進む大学運営において、こうした攻撃への防御強化が課題となっている。"
+  },
+  {
+   "slug": "2026-10-06-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-35.html",
+   "title": "なぜ米軍は英国の基地から爆撃機を急いで引き上げたのか？テロ警察の捜査が関係か",
+   "title_en": "Why Did the U.S. Withdraw All Bombers from British RAF Base? Terror Police Investigation Deepens Mystery",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "米軍がイギリスのフェアフォード空軍基地から全ての爆撃機をアメリカ国内の基地に移動させた。英国の対テロ警察による捜査が進行中であることが背景にあると見られている。米国務省は4日に基地からの撤去を公式に認めている。"
+  },
+  {
+   "slug": "2026-10-06-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-34.html",
+   "title": "テロ未遂か、それとも身代金目当て？UAE旅客機ハイジャック事件、副操縦士の衝撃的な計画が浮上",
+   "title_en": "Terror Plot or Ransom Demand? Shocking Plans Revealed in UAE Aircraft Hijacking Incident",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "ドバイからテルアヴィヴに向かっていたUAE旅客機がハイジャックを試みられ、サウジアラビアに緊急着陸した事件で、容疑者の副操縦士がベングリオン空港か同市の高層ビルへの衝突を計画していたことが明らかになった。米国とイスラエルのメディアが報道。同機の乗客乗員の安全確保が優先された。"
+  },
+  {
+   "slug": "2026-10-06-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-33.html",
+   "title": "サモア首相が過去のナチス式敬礼を謝罪、何があった？",
+   "title_en": "What Led Samoa's PM to Apologize for Nazi Salute?",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "サモアの首相が過去に行ったナチス式敬礼について謝罪した。当該の敬礼は公式な場で行われたとみられ、国際的な批判を招いていた。首相は行為の不適切さを認め、国民と国際社会に対して陳謝している。"
+  },
+  {
+   "slug": "2026-10-06-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-32.html",
+   "title": "サウジアラビア、突如「集団防衛態勢」へ移行。中東情勢がついに動き始めるのか",
+   "title_en": "Saudi Arabia Shifts to Full Collective Defense Mode: Is the Middle East About to Shift?",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "サウジアラビアが集団防衛態勢への直ちの移行を表明した。地域の安全保障情勢の緊迫化を受けたもので、湾岐協力会議（GCC）加盟国との連携強化や軍事体制の再編を意味するとみられる。イランとの対立構図が深まる中での戦略転換であり、中東地域全体の力学に大きな影響を及ぼす可能性がある。"
+  },
+  {
+   "slug": "2026-10-06-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-31.html",
+   "title": "日本の制裁にロシアが即座に対抗措置を表明、米欧の連携に亀裂が？",
+   "title_en": "Russia Vows Retaliation Against Japan's Sanctions—Will Western Unity Hold?",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "ウクライナ情勢を巡り日本が実施した経済制裁に対して、ロシアが報復措置を取ると発表した。具体的な内容は明らかになっていないが、両国関係のさらなる悪化が確実視される。西側諸国による対露制裁の足並みが揃う一方で、報復連鎖による新たな経済的緊張が懸念される状況となっている。"
+  },
+  {
+   "slug": "2026-10-06-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-30.html",
+   "title": "ブラジル大統領選、決選投票へ　80歳のルラ現大統領vs45歳のボルソナロ氏、10月25日に激突",
+   "title_en": "Brazil's Presidential Runoff Confirmed: Bolsonaro vs. Lula in October 25 Showdown",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "ブラジルの大統領選第1回投票でボルソナロ前大統領候補がルラ現大統領を上回る得票を獲得したものの、過半数に達しなかった。このため、上位2候補による決選投票が10月25日に実施されることが決定。右派と左派の指導者による対決が確定し、南米の政治情勢に注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-06-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-29.html",
+   "title": "イエメン政府が全面戦争を宣言、フーシ派との長期紛争が新局面へ",
+   "title_en": "Yemen's Recognized Government Declares All-Out War Against Houthis in Territorial Reclamation Drive",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "イエメンの国際承認政府が、反政府勢力フーシ派が支配する全地域の奪還を目標に全面戦争を開始すると宣言した。これまでの限定的な衝突から、より大規模な軍事行動への転換を示唆するもので、既に不安定な中東情勢をさらに複雑にする可能性がある。"
+  },
+  {
+   "slug": "2026-10-06-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-28.html",
+   "title": "村上の決勝打でホワイトソックス逆転勝ち！地区シリーズ突破まであと1勝",
+   "title_en": "Murakami's Clutch Hit Leads White Sox Comeback; One Win Away from League Championship Series",
+   "category": "スポーツ",
+   "published": "2026-10-06",
+   "summary": "大リーグのポストシーズンで、ホワイトソックスがガーディアンズとのアメリカンリーグ地区シリーズ第2戦に臨みました。村上宗隆選手の適時打が功を奏し、4対3の逆転勝利を収めた同チームは対戦成績を2勝に伸ばし、リーグ優勝決定シリーズへの進出まであと1勝と手掛かりを掴みました。"
+  },
+  {
+   "slug": "2026-10-06-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-27.html",
+   "title": "金利上昇のはずが…ナスダック最高値更新、ハイテク株がなぜ買われ続ける？",
+   "title_en": "Nasdaq Hits Record High Despite Rising Bond Yields—Why Tech Stocks Keep Winning",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "ニューヨーク株式市場で長期金利が上昇する中でも、ハイテク関連銘柄に買い注文が集中。ナスダック指数が最高値を更新した。通常、金利上昇は成長株に不利とされるが、大手IT企業を中心とした強気買いが優勢となり、市場の流れを変えている。"
+  },
+  {
+   "slug": "2026-10-06-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-26.html",
+   "title": "ノーベル物理学賞、いよいよ明日発表へ。日本人受賞の可能性は？",
+   "title_en": "Nobel Prize in Physics Announced Tomorrow: Will Japan Celebrate Another Winner?",
+   "category": "科学",
+   "published": "2026-10-06",
+   "summary": "ノーベル物理学賞の発表が6日に迫った。スウェーデンのストックホルムにあるノーベル賞選考委員会が、日本時間の午後6時45分以降に2026年度の受賞者を公表する予定。毎年この時期は世界中の科学コミュニティが注目する重要な日となっている。"
+  },
+  {
+   "slug": "2026-10-06-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-25.html",
+   "title": "ワクチン接種率が高いはずのNY州でなぜ？はしか緊急事態宣言の衝撃",
+   "title_en": "Measles Outbreak Forces New York State Emergency Declaration—How Did This Happen?",
+   "category": "健康",
+   "published": "2026-10-06",
+   "summary": "ニューヨーク州がはしかの感染拡大を受けて緊急事態宣言を発令した。予防接種の普及が進んだ先進国での流行再燃は、ワクチン忌避の広がりや新興国からの流入など複合的な要因が指摘されている。公衆衛生当局は接種率向上への施策を急いでいる。"
+  },
+  {
+   "slug": "2026-10-06-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-24.html",
+   "title": "兄妹で世界頂点、同時優勝の快挙 柔道界を揺るがす阿部兄妹の素顔",
+   "title_en": "Sibling Dominance: Brother and Sister Both Claim Gold at World Judo Championship",
+   "category": "スポーツ",
+   "published": "2026-10-06",
+   "summary": "世界柔道選手権で阿部兄妹がそろって優勝という快挙を成し遂げた。同一大会での兄妹同時優勝は極めて稀な事例であり、日本柔道界の層の厚さを改めて世界に示す結果となった。若い世代の台頭と競技レベルの向上が加速している。"
+  },
+  {
+   "slug": "2026-10-06-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-23.html",
+   "title": "大和証券で11万人分の顧客情報流出か 大手証券会社でなぜ起きた？",
+   "title_en": "Daiwa Securities Faces Major Data Breach Affecting 110,000 Customers",
+   "category": "経済",
+   "published": "2026-10-06",
+   "summary": "大和証券が顧客情報約11万人分の漏洩の可能性を発表した。同社のシステムから個人情報が流出した模様で、現在詳細な調査が進められている。大手証券会社での大規模な情報流出事案として、顧客への対応と情報セキュリティの強化が急務となっている。"
+  },
+  {
+   "slug": "2026-10-06-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-22.html",
+   "title": "沖縄強殺事件で在沖米軍トップが謝罪せず？日米関係に火種残る",
+   "title_en": "US Military Commander in Okinawa Refuses to Apologize for Serious Crime",
+   "category": "国内",
+   "published": "2026-10-06",
+   "summary": "沖縄で発生した強殺事件について、在沖米軍の指揮官が公式な謝罪を行わなかったことが明らかになった。被害者遺族や地元沖縄からは反発の声が上がっており、日米間の外交問題へと発展する可能性も指摘されている。事件後の対応をめぐり、米軍の姿勢が問われている。"
+  },
+  {
+   "slug": "2026-10-06-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-06-21.html",
+   "title": "米兵が被害者と18キロ移動…逮捕までの経緯、何が起きていたのか",
+   "title_en": "US Soldier Arrested After Moving 18km With Victim: What Happened?",
+   "category": "国際",
+   "published": "2026-10-06",
+   "summary": "逮捕された米兵が被害者と共に約18キロメートル移動していたことが明らかになった。事件の詳細については現在も捜査が進められている中、米兵の行動の目的や経緯に関心が集まっている。国際的な問題へと発展する可能性も指摘されており、今後の対応が注視されている。"
+  },
   {
    "slug": "2026-10-06-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-06-20.html",
