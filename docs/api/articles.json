@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2266,
+ "count": 2287,
  "articles": [
+  {
+   "slug": "2026-10-08-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-20.html",
+   "title": "神戸にコウノトリ出現！赤ちゃんを運んでくるはずが、住民を運んでしまう",
+   "title_en": "A Stork Visits Kobe—But It's Delivering Something Better Than Babies",
+   "category": "コラム",
+   "published": "2026-10-08",
+   "summary": "神戸市灘区にコウノトリが現れ、地域の住民が大興奮。幸せの象徴とされるコウノトリの突然の来訪に、SNSでも話題沸騰中。実は野生のコウノトリが都市部に姿を見せるのは珍しく、生息地の変化や個体数回復の兆しかもしれないという見方もある。赤ちゃんではなく、希少な野生動物という贈り物をもらった形だ。"
+  },
+  {
+   "slug": "2026-10-08-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-19.html",
+   "title": "梅雨のコケ問題、意外な落とし穴？長雨で道路が滑りやすくなる理由",
+   "title_en": "Rainy Season Hazard: Why Moss Growth on Roads Poses Unexpected Fall Risks",
+   "category": "国内",
+   "published": "2026-10-08",
+   "summary": "長期間の降雨により、道路表面にコケが増殖し、転倒事故のリスクが高まっているという注意喚起。特に歩道や階段、橋の上など水分が溜まりやすい場所でコケの発生が顕著になり、高齢者や子どもが転倒する危険性が増している。自治体では清掃や防止策の強化を進めている。"
+  },
+  {
+   "slug": "2026-10-08-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-18.html",
+   "title": "締切を1ヶ月誤認？大阪中体連が重大ミス、大会エントリーで何が起きた",
+   "title_en": "Osaka Junior High Athletic Federation Missed Deadline by Over a Month—What Went Wrong?",
+   "category": "スポーツ",
+   "published": "2026-10-08",
+   "summary": "大阪中体連が大会の締切日を誤認していたことが判明し、報告書を発表した。この誤認により、参加予定だった複数の学校がエントリーの機会を逃すなど、実際の競技参加に支障が生じた可能性がある。組織的な管理体制の不備が明らかになり、今後の改善策が求められている。"
+  },
+  {
+   "slug": "2026-10-08-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-17.html",
+   "title": "公取委がビール大手を長年監視中？独占禁止法の目玉焦点に",
+   "title_en": "Fair Trade Commission Keeping Long Watch on Major Beer Makers—Why Now?",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "公正取引委員会がビール業界大手企業の事業活動を長期間にわたって注視していることが明らかになった。市場支配力の濫用や不正な取引慣行がないかを継続的に監視する姿勢を示しており、業界の競争環境維持を重視していることが伝わる。ビール業界の寡占化が進む中での規制当局の警戒ぶりが浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-08-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-16.html",
+   "title": "ビール大手4社に公取委が強制調査　何が問題だったのか",
+   "title_en": "Japan's Fair Trade Commission Launches Surprise Investigation into 4 Major Brewers — What's Going On?",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "公正取引委員会がビール業界大手4社に対して強制調査に踏み切った。業界では市場シェアの集中や価格形成に関する懸念が指摘されており、独占禁止法違反の可能性を視野に実態解明を進める方針。消費者にも影響が及ぶ可能性がある動きとして注視される。"
+  },
+  {
+   "slug": "2026-10-08-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-15.html",
+   "title": "原子力業界が人材難で悲鳴？官民新団体が本気で育成に乗り出す背景",
+   "title_en": "Nuclear Industry Faces Talent Crisis: Can Japan's New Public-Private Initiative Reverse the Trend?",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "脱炭素社会の実現に向けて政府が原子力発電の活用を推進する中、深刻な人材不足が課題となっている。これを受けて、政府と民間企業が共同で原子力分野の人材育成に取り組む新たな団体を設立。企業や大学と連携しながら、業界全体の人手不足の状況を分析し、次世代の技術者育成や待遇改善などの戦略を展開する予定。"
+  },
+  {
+   "slug": "2026-10-08-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-14.html",
+   "title": "南極の氷の中から宇宙の謎を解く、ベルギー教授がノーベル物理学賞受賞へ",
+   "title_en": "Belgian Professor Wins Nobel Prize in Physics for Unveiling Universe's Secrets Beneath Antarctic Ice",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "スウェーデン王立科学アカデミーは、ベルギー生まれのフランシス・ハルツェン教授に2026年のノーベル物理学賞を授与することを発表した。ハルツェン教授は宇宙から飛来するニュートリノを観測する技術の開発に先駆的な役割を果たし、遠い宇宙の謎解明に大きく貢献。南極での観測装置開発を通じて、素粒子物理学と宇宙物理学の発展を促進した。"
+  },
+  {
+   "slug": "2026-10-08-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-13.html",
+   "title": "障害者施設で何が起きていた？「お父さんと呼べ」という指示の背景に見える権力構造",
+   "title_en": "South Korea Care Facility Scandal: How Power Abuse Hides Behind Forced 'Father' Honorific",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "韓国の障害者介護施設で施設長が入居者に対して性的暴行を加えていた事件が裁判で有罪判決を受けた。被害者は施設長を「お父さん」と呼ぶよう強要されていたという。障害者という立場の弱さに付け込んだ構造的な問題として、韓国社会に大きな衝撃が広がっている。"
+  },
+  {
+   "slug": "2026-10-08-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-12.html",
+   "title": "ドイツ情報機関トップが逮捕　冷戦終結から30年後に明かされた衝撃のスパイ活動",
+   "title_en": "Former German Intelligence Chief Arrested on Spying Charges: A Cold War Legacy Resurfaces",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "ドイツの対外情報機関・連邦情報局（BND）の元長官アウグスト・ハニング容疑者が、スパイ活動と国家反逆の疑いで逮捕された。外国勢力のために機密情報を取得していた疑いも持たれており、元部下も関与の疑いで身柄を拘束されている。冷戦時代の遺物とも言える事件が、現在のドイツで発覚した。"
+  },
+  {
+   "slug": "2026-10-08-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-11.html",
+   "title": "人口580万人のデンマークで880万人分の個人情報流出？何が起きた",
+   "title_en": "880 Million Danes Exposed? Denmark's Data Breach Exceeds Its Entire Population",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "デンマーク政府が、国家データベースへの不正アクセスにより、国の人口を上回る約880万人分の個人情報が漏洩したことを明らかにしました。名前や個人識別番号などが含まれており、現在警察が捜査を進めています。流出規模の大きさと、人口を超える件数という異例の事態が注目されています。"
+  },
+  {
+   "slug": "2026-10-08-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-10.html",
+   "title": "ガザ戦闘3年で死者7万4000人　紛争の長期化がもたらす深刻な代償",
+   "title_en": "Death Toll Reaches 74,000 After 3 Years of Gaza Conflict",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "ガザ地域の武力紛争が開始から3年を経過し、死者数が7万4000人に達したことが報道された。継続する戦闘により、人道的危機が深刻化しており、民間人の犠牲が相次いでいる。国際社会からは停戦と人道支援の強化を求める声が高まっている。"
+  },
+  {
+   "slug": "2026-10-08-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-9.html",
+   "title": "メッシ代表引退で1ゴール2アシスト…最後の試合で何が起きたのか",
+   "title_en": "Messi's Argentina Farewell: 1 Goal, 2 Assists in Final Performance",
+   "category": "スポーツ",
+   "published": "2026-10-08",
+   "summary": "アルゼンチンの英雄リオネル・メッシが代表チームからの引退を表明した。引退試合となった最後の出場では1ゴール2アシストを記録し、その輝きは衰えを見せていない。20年近いキャリアを通じて数多の栄誉を手にした世界最高峰の選手の新たなステージへの決断が話題を呼んでいる。"
+  },
+  {
+   "slug": "2026-10-08-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-8.html",
+   "title": "中学1年生が100m10秒台の快挙、意外な特技はピアノ。どうやって両立させてるの？",
+   "title_en": "A 7th Grader Just Ran 100m in Under 10 Seconds—And His Secret Talent Is Playing Piano",
+   "category": "スポーツ",
+   "published": "2026-10-08",
+   "summary": "中学1年生にして100mを10秒台で走破するという快記録を達成した少年が話題を集めている。短距離走の才能を示す一方で、彼の特技はピアノという意外な一面が明かされた。文武両道を体現する若き逸材の登場に、関係者からも期待の声が上がっている。"
+  },
+  {
+   "slug": "2026-10-08-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-7.html",
+   "title": "レジェンド歌手・尾崎紀世彦、AIで新曲を発表。本人の歌声はどうなる?",
+   "title_en": "AI Resurrects Legendary Singer Ozaki Kiyohiko's Voice for New Song—But at What Cost?",
+   "category": "エンタメ",
+   "published": "2026-10-08",
+   "summary": "伝説のシンガーソングライター・尾崎紀世彦さんがAI技術を用いて新曲を制作・発表した。AIが本人の歌声の特性を学習し、新たな楽曲で彼の音声を生成するという試み。音楽業界でのAI活用が進む中、故人や高齢アーティストの作品継承という新しい可能性が注目される一方、著作権や倫理面での議論も生まれている。"
+  },
+  {
+   "slug": "2026-10-08-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-6.html",
+   "title": "損保J6万件の顧客情報漏えいか。あなたの保険情報は大丈夫？",
+   "title_en": "Sompo Japan's 60,000 Customer Records Compromised: Is Your Insurance Data Safe?",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "損害保険ジャパンが顧客約6万件の情報漏えいの可能性があると発表した。個人情報がどのような経路で流出したのか、また被害者への対応がどうなるのかが焦点となっている。大手保険会社での大規模漏えい事案は消費者の信頼に大きな影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-10-08-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-5.html",
+   "title": "盲導犬との入居を拒否する大家たち、国が実態調査へ。法律では認められているのになぜ？",
+   "title_en": "Why Are Landlords Rejecting Guide Dog Users? Japan Launches National Investigation into Housing Discrimination",
+   "category": "国内",
+   "published": "2026-10-08",
+   "summary": "盲導犬を連れた視覚障害者が賃貸住宅への入居を拒否される事例が相次いでいる。身体障害者補助犬法では公共の場での受け入れが義務化されているものの、民間の賃貸住宅では法的拘束力が弱い。国が実態把握と対策を検討することになった。障害者の住居確保と物件所有者の懸念のバランスが課題となっている。"
+  },
+  {
+   "slug": "2026-10-08-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-4.html",
+   "title": "阿曽山大噴火が難病診断…芸人の病との闘いはこれからが本番",
+   "title_en": "Comedian Asoyama Daihunsyaku Diagnosed with Rare Disease: What Lies Ahead?",
+   "category": "エンタメ",
+   "published": "2026-10-08",
+   "summary": "お笑い芸人の阿曽山大噴火が難病と診断されたことが明らかになった。具体的な病名や今後の活動予定については現在調査中だが、ファンや業界関係者から心配の声が上がっている。難病との診断は本人にとって大きな転機となる可能性があり、今後の回復と社会復帰への取り組みが注目される。"
+  },
+  {
+   "slug": "2026-10-08-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-3.html",
+   "title": "育休を取った男性社員が会社を提訴──パタハラの実態とは",
+   "title_en": "Male Employee Sues Over Paternity Leave Harassment: Revealing Japan's Workplace Reality",
+   "category": "国内",
+   "published": "2026-10-08",
+   "summary": "育児休暇を取得した男性従業員が、職場でのハラスメント（パタハラ）を理由に勤務先企業を提訴したニュースです。育休取得後の待遇悪化や嫌がらせなど、男性の育児参加を阻害する職場環境の問題が明らかになり、働き方改革が進む中での労働環境の課題が浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-10-08-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-2.html",
+   "title": "歯の自由診療でトラブル多発…なぜ歯医者は儲けようとするのか",
+   "title_en": "Why Are Dental Clinics Facing Rising Complaints Over Private Treatment?",
+   "category": "健康",
+   "published": "2026-10-08",
+   "summary": "歯科治療の自由診療（保険外診療）に関するトラブルが相次いでいる。高額な治療費や不適切な治療内容、説明不足など、患者と歯医者の間でトラブルが増加している背景には、自由診療の価格や内容に対する規制が限定的であることが指摘されている。消費者センターへの相談件数も増えており、治療前の十分な説明と患者側の知識の必要性が課題となっている。"
+  },
+  {
+   "slug": "2026-10-08-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-1.html",
+   "title": "ビール大手4社がカルテル疑いで調査対象に　消費者の負担増につながる可能性も",
+   "title_en": "Japan's Four Major Beer Companies Under Investigation for Suspected Cartel Activities",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "ビール業界の大手4社がカルテル疑いで当局の調査を受けていることが明らかになった。複数企業による価格協定や市場分割などの不正な合意がなかった場合の調査とみられている。カルテル行為が確認されれば、消費者負担の増加につながるだけでなく、企業に対する厳しい処分も予想される。業界の競争環境がどのように変わるかが注目される。"
+  },
+  {
+   "slug": "2026-10-08-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-0.html",
+   "title": "100年超の謎がついに解けた。ノーベル化学賞に輝いた発見とは",
+   "title_en": "A Century-Old Chemistry Mystery Finally Solved: The Nobel Prize-Winning Discovery",
+   "category": "科学",
+   "published": "2026-10-08",
+   "summary": "ノーベル化学賞を受賞した硤合氏らの研究が、100年以上にわたって化学の世界で未解明だった現象を説明することに成功しました。この発見は有機合成化学の分野に大きな影響を与え、医療やエネルギー産業など様々な応用可能性を秘めています。科学史における重要なマイルストーンとして評価されています。"
+  },
   {
    "slug": "2026-10-07-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-42.html",
