@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2265,
+ "count": 2266,
  "articles": [
+  {
+   "slug": "2026-10-07-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-42.html",
+   "title": "拍手の研究で金賞？校内で『最強の拍手』が誕生した理由が謎すぎるwww",
+   "title_en": "Student Research on the 'Perfect Applause' Wins Top Prize—What on Earth Did They Study?",
+   "category": "コラム",
+   "published": "2026-10-07",
+   "summary": "学生が拍手について研究を行い、校内の研究発表会で金賞を受賞したというニュース。一見ふざけているように思える拍手研究だが、音響学や人間心理、運動生理学など様々な観点から科学的に分析されたもの。地道な実験が評価された珍しい事例として注目を集めている。"
+  },
   {
    "slug": "2026-10-07-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-41.html",
