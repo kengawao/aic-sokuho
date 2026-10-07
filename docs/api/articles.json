@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2244,
+ "count": 2265,
  "articles": [
+  {
+   "slug": "2026-10-07-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-41.html",
+   "title": "高校生が500通りの拍手を研究した結果、最強の一手が判明ｗｗ",
+   "title_en": "High School Student Tests 500+ Clapping Patterns and Discovers the 'Ultimate Clap' lol",
+   "category": "コラム",
+   "published": "2026-10-07",
+   "summary": "ある高校生が拍手の研究に取り組み、500通り以上のパターンを試行錯誤した結果、最も効果的な拍手方法を発見したという。音量、リズム、手の角度など様々な要素を検証し、科学的アプローチで「最強の拍手」を導き出したユニークな取り組みが話題になっている。"
+  },
+  {
+   "slug": "2026-10-07-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-40.html",
+   "title": "30歳で自己破産、ゲーム依存の実態 なぜ若年層は依存に陥るのか",
+   "title_en": "Game Addiction Leads to Bankruptcy at 30: What Drives Young Adults into Financial Ruin?",
+   "category": "健康",
+   "published": "2026-10-07",
+   "summary": "ゲーム依存により経済的困窮に陥った30代男性の事例が報道された。長時間のゲームプレイに伴う就業機会の喪失や課金による多重債務が自己破産に至った背景にある。ゲーム業界の課金システムの設計と、依存症としての医学的認識の遅れが問題として指摘されている。"
+  },
+  {
+   "slug": "2026-10-07-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-39.html",
+   "title": "ゆうちょATM、ファミマから続々消滅へ。あなたの近所は大丈夫？",
+   "title_en": "Japan Post ATMs Disappearing from FamilyMart: Will Your Neighborhood Be Affected?",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "日本郵便がファミリーマート店舗に設置していたゆうちょATMの撤去を順次進めることが明らかになった。両社の経営判断により、全国のファミマからATMが減少していく見通し。利用者の利便性低下が懸念される一方、採算性や経営効率の観点から両社の方針転換が進んでいる状況だ。"
+  },
+  {
+   "slug": "2026-10-07-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-38.html",
+   "title": "日販がついに決断｜米AI企業への書籍販売を正式認可、出版界の転機か",
+   "title_en": "Major Japanese Publisher Approves Book Sales to US AI Companies—A Turning Point?",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "日本最大級の取次会社・日販が、米国のAI企業に対する書籍販売を認めることを発表した。これまで出版業界ではAI学習用データとしての無断利用への警戒が強かったが、日販はライセンス契約という形で販売を許可。出版界がAI時代への対応を本格化させる重要な局面となる。"
+  },
+  {
+   "slug": "2026-10-07-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-37.html",
+   "title": "不正アクセス急増の背景は？識者が指摘する意外な原因と対策の盲点",
+   "title_en": "Why Cyber Attacks Are Skyrocketing: What Security Experts Really Think",
+   "category": "IT",
+   "published": "2026-10-07",
+   "summary": "サイバーセキュリティの脅威として不正アクセスが急増している。情報セキュリティの専門家らは、テレワーク普及による管理体制の甘さ、使い回されやすいパスワード運用、そして企業側の対応遅れが主な原因だと指摘している。個人の意識向上だけでなく、組織的なセキュリティ対策の強化が急務となっている状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-07-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-36.html",
+   "title": "視力低下で一線を退く鉄道運転士たち。業界全体を揺るがす深刻な課題とは",
+   "title_en": "When Vision Fades: Railroad Operators Losing Jobs Over Eyesight. A Crisis the Industry Can't Ignore",
+   "category": "国内",
+   "published": "2026-10-07",
+   "summary": "鉄道運転士が視力の低下によって職を失う事例が増加し、業界全体の課題として浮上している。運転士には安全運行のために厳格な視力基準が設定されており、加齢に伴う視力低下は即座に職業継続が困難になる。高齢化する運転士層と人手不足の深刻化が相まって、再配置や転職支援などの対応が求められている状況にある。"
+  },
+  {
+   "slug": "2026-10-07-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-35.html",
+   "title": "脳の神経回路を自由に「切り替える」技術でノーベル賞。精神疾患の治療が変わる?",
+   "title_en": "Nobel Prize for Scientists Who Cracked the Brain's 'Switch': Will Mental Illness Treatment Change Forever?",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "スウェーデンのカロリンスカ研究所は、2026年のノーベル生理学・医学賞を米独の3教授に授与すると発表した。スタンフォード大のカール・ダイセロス教授、フンボルト大のペーター・ヘーゲマン教授、ヴュルツブルク大のゲオルグ・ナーゲル教授が受賞。彼らは記憶や感情、行動に関連する神経回路のスイッチング機構を解明し、神経科学の新しい時代を切り開いたと評価された。神経疾患や精神疾患の治療応用が期待される。"
+  },
+  {
+   "slug": "2026-10-07-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-34.html",
+   "title": "ウクライナ国民8割が「ロシアに勝てる」と考えるも、確信は揺らぎ始めている",
+   "title_en": "80% of Ukrainians Believe Victory Over Russia is Possible, But Confidence is Wavering",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "ウクライナの最新世論調査によると、ロシアの軍事侵攻に対して勝利できると考える国民がおよそ8割に達しました。しかし注目すべきは、「必ず勝利する」と確信を持つ人の割合が7月の前回調査から減少していることです。長期化する戦闘の中で、ウクライナ国民の心理にも変化が見られ始めています。"
+  },
+  {
+   "slug": "2026-10-07-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-33.html",
+   "title": "米中が核施設を相互訪問？トランプ政権と中国が協議中、軍事透明性の新展開か",
+   "title_en": "Will the US and China Really Exchange Nuclear Facility Visits? Trump Administration in Talks with Beijing",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "トランプ米政権が中国との間で核関連施設の相互訪問について協議を進めているとアメリカメディアが報じた。中国が軍事力を急速に強化させている状況下での動きとなる。米中両国が核施設の相互視察を実現すれば、両国間の軍事的透明性向上につながる可能性がある一方で、機密情報保護との兼ね合いなど慎重な判断が求められる局面でもある。"
+  },
+  {
+   "slug": "2026-10-07-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-32.html",
+   "title": "北朝鮮が地雷爆発は『韓国の自作自演』と主張　対立激化で責任の押し付け合い",
+   "title_en": "North Korea Claims Mine Explosion is 'South Korean False Flag Operation' as Tensions Escalate",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "韓国との非武装地帯で地雷爆発による負傷事案が発生した際、北朝鮮が公式声明を発表し、この事件は韓国側による自作自演だと主張した。北朝鮮は責任を全面否定する形で、むしろ韓国を非難する立場を示しており、南北の対立がさらに深刻化している状況が伝えられている。"
+  },
+  {
+   "slug": "2026-10-07-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-31.html",
+   "title": "ドイツ情報機関の元長官がスパイ容疑で逮捕？独情報機関内で何が起きているのか",
+   "title_en": "Former Head of German Intelligence Agency Faces Espionage Allegations - What's Happening Inside?",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "ドイツの情報機関幹部経験者がスパイ容疑で調査対象となっているというニュースが報じられました。情報機関の内部で信頼が揺らぐ事態となっており、詳細が明らかになるにつれドイツの情報セキュリティ体制全体が問われる可能性があります。冷戦終結後の欧州情報機関における新たな脅威として注目が集まっています。"
+  },
+  {
+   "slug": "2026-10-07-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-30.html",
+   "title": "実質賃金8ヶ月連続プラス、でも手取りは増えてる？給与3.8%増の謎を解く",
+   "title_en": "Real Wages Up 1.5% for 8 Straight Months—But Is Your Paycheck Really Growing?",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "8月の現金給与総額が前年同月比3.8％増となり、4年8ヶ月連続でプラスを維持しました。物価上昇を考慮した実質賃金も1.5％増で、8ヶ月連続のプラスとなっています。名目賃金の伸びが物価上昇率を上回る局面が継続し、働き手の購買力向上が示唆されている状況です。"
+  },
+  {
+   "slug": "2026-10-07-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-29.html",
+   "title": "痩身目的でマンジャロ使用、街の声から見えた医療現場の課題とは",
+   "title_en": "Weight Loss Trend or Medical Risk? Growing Off-Label Use of Manjaro Raises Health Concerns",
+   "category": "健康",
+   "published": "2026-10-07",
+   "summary": "糖尿病治療薬として開発されたマンジャロ（セマグルチド関連製剤）が、痩身目的での使用が広がっているという街頭取材が報道された。本来の治療適応外での使用が増える背景には、SNSでの情報拡散や美容トレンドの影響があるとみられる。医療現場では適切な指導や管理体制の必要性が指摘されている。"
+  },
+  {
+   "slug": "2026-10-07-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-28.html",
+   "title": "なぜ大谷は5番DHに？監督の決断に波紋、背景に何がある",
+   "title_en": "Why Was Ohtani Dropped to 5th Spot? Manager Explains Strategic Lineup Overhaul",
+   "category": "スポーツ",
+   "published": "2026-10-07",
+   "summary": "大谷翔平選手が打順を5番DHに変更された。これまでのクリーンアップやリードオフからの降格となり、ファンや評論家から驚きの声が上がっている。監督はこの采配の背景について、チーム全体の打線構成と現在の状態を考慮した戦略的判断だと説明している。"
+  },
+  {
+   "slug": "2026-10-07-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-27.html",
+   "title": "シチズン10万人分の個人情報流出か　腕時計メーカーで相次ぐ漏えい事件",
+   "title_en": "Citizen's Major Data Breach Exposes 100,000 Customer Records",
+   "category": "IT",
+   "published": "2026-10-07",
+   "summary": "時計メーカーのシチズンが約10万人分の顧客情報漏えいの可能性を発表した。流出した情報には名前や住所、電話番号などが含まれているとみられる。同社は情報セキュリティ対策の強化を進めるとともに、影響を受けた顧客への連絡を進めているという。大手企業での大規模な個人情報漏えい事件が相次いでいる状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-07-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-26.html",
+   "title": "小沢一郎氏が無所属へ転身、新党構想も浮上。政界の大物は何を狙うのか？",
+   "title_en": "Ichiro Ozawa Goes Independent: What's the Political Veteran Planning with His New Party Vision?",
+   "category": "国内",
+   "published": "2026-10-07",
+   "summary": "政治家の小沢一郎氏が所属政党を離党し無所属となることを表明した。今後、新しい政治勢力の立ち上げを模索する動きも報じられている。長年にわたり政界で影響力を持ってきた人物の新たな動きが注目を集めている。"
+  },
+  {
+   "slug": "2026-10-07-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-25.html",
+   "title": "首相が米国に日朝首脳会談の仲介を要請？背景にある日本の戦略とは",
+   "title_en": "Japan Requests US Mediation for Japan-North Korea Summit: What's the Strategy?",
+   "category": "国際",
+   "published": "2026-10-07",
+   "summary": "日本の首相がアメリカに対し、日本と北朝鮮の首脳会談実現に向けた仲介を正式に要請したことが明らかになった。米国の影響力を活用し、拉致問題解決と地域の安定化を目指す日本政府の外交戦略が浮き彫りになった形だ。米朝関係の現状や国際的な外交環境を踏まえた、慎重かつ戦略的なアプローチが検討されている。"
+  },
+  {
+   "slug": "2026-10-07-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-24.html",
+   "title": "自衛隊が原潜導入へ？防衛力強化の切り札になるのか、それとも課題が山積み？",
+   "title_en": "Is Japan Ready for Nuclear Submarines? A Game-Changer for Defense or a Minefield of Risks?",
+   "category": "国内",
+   "published": "2026-10-07",
+   "summary": "自衛隊への原子力潜水艦導入を検討する案が浮上している。従来は原発政策の制約から慎重だった日本の防衛戦略が転換を迎える可能性がある。原潜は長時間の潜行と広大な海域での作戦能力を持つ一方で、核燃料管理や乗員育成、国際的な目配りなど多くの課題が存在する状況だ。"
+  },
+  {
+   "slug": "2026-10-07-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-23.html",
+   "title": "シャウエッセンのX投稿がなぜ炎上？ネット上で議論沸騰",
+   "title_en": "Schauenstein's X Post Sparks Major Online Controversy—Here's Why",
+   "category": "経済",
+   "published": "2026-10-07",
+   "summary": "食肉加工メーカーのシャウエッセンがSNS・X（旧Twitter）に投稿した内容が炎上し、ネット上で大きな話題となっている。投稿内容に対して様々な意見が寄せられており、企業のSNS運用のあり方が問われている。詳細な背景や反応について、SNS利用者の声から事の経緯が明らかになりつつある。"
+  },
+  {
+   "slug": "2026-10-07-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-22.html",
+   "title": "水泳授業で性的被害相談が発生？教育委員会が対応を外部委託する背景に何が",
+   "title_en": "Why Are Schools Outsourcing Sexual Harassment Concerns in Swimming Classes?",
+   "category": "国内",
+   "published": "2026-10-07",
+   "summary": "学校の水泳授業における性的被害の相談対応が、教育委員会から外部機関へ委託される動きが広がっている。児童生徒の安全確保と相談しやすい環境整備が課題となる中、専門的な対応が求められるようになった。学校現場での対応限界と外部委託のメリット・課題について注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-07-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-07-21.html",
+   "title": "今年500件超の情報漏洩被害…あなたの個人情報は大丈夫？",
+   "title_en": "Over 500 Data Breaches This Year: Is Your Personal Information Safe?",
+   "category": "IT",
+   "published": "2026-10-07",
+   "summary": "サイバー攻撃による情報漏洩被害が急増しており、今年すでに500件を超える件数が報告されている。企業のセキュリティ対策の不備や、巧妙化する攻撃手法が背景にあるとみられる。個人情報の流出リスクが高まる中、組織体制の強化と利用者側の警戒が課題となっている。"
+  },
   {
    "slug": "2026-10-07-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-07-20.html",
