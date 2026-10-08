@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2309,
+ "count": 2330,
  "articles": [
+  {
+   "slug": "2026-10-09-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-20.html",
+   "title": "千葉県のマスコット『チーバくん』がX(旧Twitter)で突然ロック…理由は年齢判定？",
+   "title_en": "Chiba's Mascot 'Cheebaくん' Got Locked Out of X: The Unexpected Age Verification Mishap",
+   "category": "コラム",
+   "published": "2026-10-09",
+   "summary": "千葉県の公式マスコットキャラクター『チーバくん』のX公式アカウントが年齢制限により一時的にロックされるというユニークな事件が発生。キャラクターアカウントながら年齢判定システムに引っかかったようで、SNS時代の予想外のトラブルとして話題を集めている。"
+  },
+  {
+   "slug": "2026-10-09-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-19.html",
+   "title": "国勢調査で人口水増し疑惑、なぜ富山市は統計を改ざんしたのか",
+   "title_en": "Census Data Manipulation Scandal: Why Did Toyama City Falsify Population Figures?",
+   "category": "国内",
+   "published": "2026-10-09",
+   "summary": "富山県警が富山市役所による2025年国勢調査での人口水増し疑惑で捜査を開始した。総務省の告発を受け、統計法違反容疑で家宅捜索を実施。人口減少が加速する日本で、自治体が公式統計を改ざんする事態が明らかになり、国家統計の信頼性が問われることになった。"
+  },
+  {
+   "slug": "2026-10-09-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-18.html",
+   "title": "はま寿司が22時間営業に踏み切った理由―深夜需要とコスト削減のはざまで",
+   "title_en": "Why Hamazushi Is Going 22-Hour: The New Math of Late-Night Dining",
+   "category": "経済",
+   "published": "2026-10-09",
+   "summary": "回転寿司チェーン「はま寿司」が一部店舗で22時間営業（2時間休業）の試験導入を開始した。24時間営業の維持による人手不足や労務コスト増加への対応と、深夜利用客のニーズ確保のバランスを取る戦略と見られる。外食産業全体で営業時間の最適化が課題となる中、新たなモデルケースとして注目される。"
+  },
+  {
+   "slug": "2026-10-09-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-17.html",
+   "title": "真夏も真冬も同じ服？「季節を選ばない服」がなぜ今ブレイクしているのか",
+   "title_en": "Why 'Year-Round Fashion' Is Becoming the New Standard",
+   "category": "経済",
+   "published": "2026-10-09",
+   "summary": "気候変動や多様な働き方の浸透により、季節や場面を限定しない汎用的な衣類への需要が急速に高まっている。機能性素材の発展とファッションのニューノーマル化が相まって、春夏秋冬を通じて着用できる「トランシーズナル」な服飾が、アパレル業界の新たなトレンドとなりつつある動きを追う。"
+  },
+  {
+   "slug": "2026-10-09-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-16.html",
+   "title": "外国人材が都市部へ続々転職、地方が人手不足に悩む構図が浮き彫りに",
+   "title_en": "Foreign Workers Increasingly Flee Rural Areas for Japanese Cities, Raising Regional Concerns",
+   "category": "経済",
+   "published": "2026-10-09",
+   "summary": "外国人労働者が地方から都市部への転職を増やしている傾向が明らかになった。給与・待遇・生活環境の充実を求める動きが強まっており、特に製造業や農業など地方産業への人手確保が深刻化している。受け入れ企業側も都市部との競争力格差に直面し、外国人材の流出防止策が急務となっている。"
+  },
+  {
+   "slug": "2026-10-09-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-15.html",
+   "title": "194歳ゾウガメのゲノム解析で何が分かった？超長寿の秘密は遺伝子にあるのか",
+   "title_en": "194-Year-Old Tortoise Genome Reveals Secrets of Extreme Longevity—Can Humans Benefit?",
+   "category": "科学",
+   "published": "2026-10-09",
+   "summary": "樹齢が異常に長いゾウガメの個体のゲノム（全遺伝情報）が初めて詳細に解析されました。194歳という記録的高齢での生存メカニズムを遺伝子レベルで調べることで、がんの抑制機構や細胞の老化防止に関わる遺伝子群が特定されつつあります。この研究は、人間の寿命延伸やアンチエイジング医学への応用可能性を示唆しており、学術界で注目を集めています。"
+  },
+  {
+   "slug": "2026-10-09-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-14.html",
+   "title": "ペスト疑い例でWHOがロシアに情報要求、なぜ今？背景にある懸念とは",
+   "title_en": "WHO Demands Information From Russia Over Plague Suspicion: What's Really Going On?",
+   "category": "国際",
+   "published": "2026-10-09",
+   "summary": "世界保健機関（WHO）がロシアに対してペスト感染の疑い例に関する詳細な情報提供を要求している。この要求の背景には、感染症の国境を超えた拡大への警戒と、国際的な透明性確保の必要性がある。ペストは適切な治療がなければ致死率が高く、早期の情報共有が感染拡大防止に不可欠とされている。"
+  },
+  {
+   "slug": "2026-10-09-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-13.html",
+   "title": "シンガポールの空が消えた……インドネシアの山火事が招いた『煙の侵略』、東南アジア全域が危機的状況に",
+   "title_en": "Singapore's Sky Disappears: Indonesia's Wildfires Unleash a 'Smoke Invasion' Across Southeast Asia",
+   "category": "国際",
+   "published": "2026-10-09",
+   "summary": "インドネシアが過去最悪レベルの山火事シーズンに直面しており、発生した有害な煙がシンガポールを含む東南アジア諸国に流入している。シンガポールではランドマークとなる高層ビルが煙霧に覆われ、大気汚染が深刻化。この煙害は地域全体の健康と経済に影響を与えており、BBC記者が現地の状況を報告している。越境大気汚染への対策が急務となっている。"
+  },
+  {
+   "slug": "2026-10-09-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-12.html",
+   "title": "なぜ韓国とウクライナは対立を深めるのか？東欧情勢の新たな亀裂",
+   "title_en": "Why Are South Korea and Ukraine on a Collision Course? A New Rift in Eastern European Geopolitics",
+   "category": "国際",
+   "published": "2026-10-09",
+   "summary": "韓国とウクライナの関係が悪化している。ウクライナ側はロシアへの対抗姿勢を強める韓国の慎重な外交政策に不満を示し、韓国側はウクライナからの一方的な要求に反発しているとみられる。両国間の利益相反と戦争長期化への対応の違いが、対立を深める背景にあるようだ。"
+  },
+  {
+   "slug": "2026-10-09-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-11.html",
+   "title": "3年経っても終わらない悪夢　イスラエルは追悼、ガザは今も地獄のまま",
+   "title_en": "Three Years Later, Still No End in Sight: Israel Mourns While Gaza Remains in Crisis",
+   "category": "国際",
+   "published": "2026-10-09",
+   "summary": "2021年10月7日のハマスによるイスラエル襲撃から3年が経過した。イスラエルでは犠牲者の追悼行事が行われる一方で、報復戦争が続くガザ地区の状況は依然として深刻。210万人以上の住民が極めて悲劇的な生活環境に置かれており、1年前の停戦合意後も暴力行為が繰り返されている。"
+  },
+  {
+   "slug": "2026-10-09-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-10.html",
+   "title": "就寝中の子ども5人含む19人が死亡　ロシアのミサイル攻撃でウクライナ北部の集合住宅が直撃",
+   "title_en": "19 Dead Including 5 Children in Russian Missile Strike on Ukrainian Apartment Building",
+   "category": "国際",
+   "published": "2026-10-09",
+   "summary": "ウクライナ北部の集合住宅がロシアのミサイル攻撃を受け、就寝中だった子ども5人を含む19人が犠牲になった。同じ建物内の30戸が破壊される被害が出ており、民間人への被害が増加し続けている状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-09-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-9.html",
+   "title": "高橋塁が同性愛者公表後に語った本音「人生が変わった」",
+   "title_en": "\"My Life Has Changed\": Athlete Opens Up After Coming Out as Gay",
+   "category": "エンタメ",
+   "published": "2026-10-09",
+   "summary": "高橋塁が同性愛者であることを公表してから現在までの心境の変化について語った。公表前後での生活や人間関係の変化、そして現在の心身の状態について率直に述べており、社会的な受け入れの広がりを実感しているという。"
+  },
+  {
+   "slug": "2026-10-09-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-8.html",
+   "title": "みちょぱ、第1子誕生後に夫婦で初めて公の場へ　育児との両立で何が変わった？",
+   "title_en": "Micho Makes First Public Appearance with Husband After Baby's Birth: How Is She Balancing Motherhood and Entertainment?",
+   "category": "エンタメ",
+   "published": "2026-10-09",
+   "summary": "タレントのみちょぱが、子どもの誕生後に夫婦で初めて公開の場に姿を現した。出産を機に生活が大きく変わる中での公務復帰について、本人がどのような心境で臨んだのか、また今後の活動方針について注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-09-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-7.html",
+   "title": "過去最強レベルのエルニーニョが襲来？気象庁が警告、日本の天気はどうなる",
+   "title_en": "Record-Breaking El Niño Could Be Heading Our Way—What Does This Mean for Japan?",
+   "category": "科学",
+   "published": "2026-10-09",
+   "summary": "気象庁がエルニーニョ現象について、過去最も強い水準に達する可能性があると発表した。エルニーニョは太平洋赤道域の海水温が平年より高くなる現象で、世界中の気候に大きな影響をもたらす。日本国内でも気温や降水パターンの変化が予想され、農業や電力需要などへの影響が懸念されている。今後の推移を注視する必要がある。"
+  },
+  {
+   "slug": "2026-10-09-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-6.html",
+   "title": "脱炭素化で排出削減のはずが、なぜか中国への依存が深まるのか",
+   "title_en": "Decarbonization Strategy Backfires: Why Going Green Is Making Us More Dependent on China",
+   "category": "経済",
+   "published": "2026-10-09",
+   "summary": "世界的に脱炭素社会への転換が進む中、再生可能エネルギー関連産業や電池製造などの関連産業で中国への依存度が急速に高まっている。先進国の環境目標達成が、かえって特定国への経済的な依存リスクを増加させる矛盾が浮き彫りになっている。供給チェーン全体の脆弱性が指摘される中、各国は脱炭素と経済安保のバランスをどう取るかが課題となっている。"
+  },
+  {
+   "slug": "2026-10-09-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-5.html",
+   "title": "Appleに対抗？MSが仕掛けるPC用AI搭載強化戦略、どうなる Windows市場",
+   "title_en": "Microsoft Doubles Down on AI for PC: Can It Really Compete with Apple?",
+   "category": "IT",
+   "published": "2026-10-09",
+   "summary": "マイクロソフトがパソコンへのAI機能搭載を強化し、Appleの動きに対抗する姿勢を示している。両社ともOS統合型のAI機能を重視する戦略で、今後のPC市場での競争が激化する見通し。ユーザーにとっては、より高度なAI機能を標準搭載したデバイスが増える可能性が高まっている。"
+  },
+  {
+   "slug": "2026-10-09-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-4.html",
+   "title": "プルデンシャル、64人を解雇　不正問題でどうなる営業現場？",
+   "title_en": "Prudential Fires 64 Over Misconduct: What's Next for Insurance Sales?",
+   "category": "経済",
+   "published": "2026-10-09",
+   "summary": "大手保険会社プルデンシャルが不正行為に関連して64人の従業員を解雇したことが明らかになった。企業コンプライアンスの徹底とともに、営業現場での監督体制の強化が課題となっている。業界全体で信頼回復への取り組みが急務の状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-09-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-3.html",
+   "title": "ローソン215万件情報漏えい　あなたのポイントカード大丈夫？",
+   "title_en": "Lawson Data Breach Exposes 2.15 Million Customers—Is Your Loyalty Card at Risk?",
+   "category": "経済",
+   "published": "2026-10-09",
+   "summary": "大手コンビニチェーンのローソンで、顧客の個人情報約215万件が外部に流出していたことが明らかになった。漏えいした情報には会員の氏名やメールアドレス、ポイント情報などが含まれている。同社は原因の究明と被害者への対応を進めている。"
+  },
+  {
+   "slug": "2026-10-09-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-2.html",
+   "title": "阪神・佐藤輝明が三冠王達成！ 球界を揺るがす快挙、その強さの秘密とは",
+   "title_en": "Hanshin's Sato Teruyaki Achieves Triple Crown Glory: What's Behind the Historic Feat?",
+   "category": "スポーツ",
+   "published": "2026-10-09",
+   "summary": "阪神タイガースの佐藤輝明選手が2024年シーズンで三冠王（打率・本塁打・打点の3部門で首位）を獲得しました。球界を代表する打者として活躍してきた佐藤選手が、この栄誉ある成績を達成したことで、阪神ファンはもちろん野球界全体が大きな注目を集めています。"
+  },
+  {
+   "slug": "2026-10-09-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-1.html",
+   "title": "生命はなぜ左右非対称？ノーベル化学賞が解いた「キラリティ」の謎",
+   "title_en": "Why Is Life Asymmetrical? Nobel Chemistry Prize Explains the Mystery of Chirality",
+   "category": "科学",
+   "published": "2026-10-09",
+   "summary": "2024年のノーベル化学賞がフランスのアンリ・カガン氏と日本の硤合憲三氏に授与されることが発表された。両氏は生命分子の非対称性、すなわちキラリティの謎を化学的に解明した功績が評価された。この研究は医薬品開発などにおいて極めて重要な知見をもたらしている。"
+  },
+  {
+   "slug": "2026-10-09-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-0.html",
+   "title": "自覚症状なしで発見…藤崎奈々子を襲った脳梗塞、なぜ気づかなかった？",
+   "title_en": "Actress Fujisaki Nanako Diagnosed with Stroke Despite No Symptoms—How Was It Discovered?",
+   "category": "健康",
+   "published": "2026-10-09",
+   "summary": "タレントの藤崎奈々子が脳梗塞を発症していたことが明らかになった。本人が自覚症状を感じていなかったため、検査を受けるまで気づかなかったという。脳梗塞は重大な疾患であり、自覚なく進行するケースも存在することが改めて認識される形となった。早期発見の重要性と、予防検診の必要性についての議論が広がっている。"
+  },
   {
    "slug": "2026-10-08-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-42.html",
