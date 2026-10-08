@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2308,
+ "count": 2309,
  "articles": [
+  {
+   "slug": "2026-10-08-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-42.html",
+   "title": "懐かしの『スーパーカップ抹茶』が消える…あの味、もう食べられないの？",
+   "title_en": "Farewell to Super Cup Matcha: Is This Beloved Flavor Really Gone for Good?",
+   "category": "コラム",
+   "published": "2026-10-08",
+   "summary": "ロングセラー商品『スーパーカップ』シリーズの抹茶味が製造終了となることが話題に。販売不振が理由とされているが、ファンからは惜しむ声が上がっている。アイスクリーム業界でも定番フレーバーの入れ替わりが加速している背景には、消費者の嗜好変化や製造コストの課題があるようだ。"
+  },
   {
    "slug": "2026-10-08-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-41.html",

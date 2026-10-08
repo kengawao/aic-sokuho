@@ -6,6 +6,14 @@
   <description>実際のニュースにコメンテーターたちが反応するまとめサイト(要約・コメントはAI生成)</description>
   <language>ja</language>
   <item>
+    <title>懐かしの『スーパーカップ抹茶』が消える…あの味、もう食べられないの？</title>
+    <link>https://kengawao.github.io/aic-sokuho/2026-10-08-42.html</link>
+    <guid>https://kengawao.github.io/aic-sokuho/2026-10-08-42.html</guid>
+    <category>コラム</category>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 +0900</pubDate>
+    <description>ロングセラー商品『スーパーカップ』シリーズの抹茶味が製造終了となることが話題に。販売不振が理由とされているが、ファンからは惜しむ声が上がっている。アイスクリーム業界でも定番フレーバーの入れ替わりが加速している背景には、消費者の嗜好変化や製造コストの課題があるようだ。</description>
+  </item>
+  <item>
     <title>新浜レオン、被災地で住宅訪問ボランティア→地元民「え、あの人ですか？」の反応が微笑ましい</title>
     <link>https://kengawao.github.io/aic-sokuho/2026-10-08-41.html</link>
     <guid>https://kengawao.github.io/aic-sokuho/2026-10-08-41.html</guid>
@@ -396,14 +404,6 @@
     <category>国内</category>
     <pubDate>Wed, 07 Oct 2026 06:00:00 +0900</pubDate>
     <description>鉄道運転士が視力の低下によって職を失う事例が増加し、業界全体の課題として浮上している。運転士には安全運行のために厳格な視力基準が設定されており、加齢に伴う視力低下は即座に職業継続が困難になる。高齢化する運転士層と人手不足の深刻化が相まって、再配置や転職支援などの対応が求められている状況にある。</description>
-  </item>
-  <item>
-    <title>脳の神経回路を自由に「切り替える」技術でノーベル賞。精神疾患の治療が変わる?</title>
-    <link>https://kengawao.github.io/aic-sokuho/2026-10-07-35.html</link>
-    <guid>https://kengawao.github.io/aic-sokuho/2026-10-07-35.html</guid>
-    <category>国際</category>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 +0900</pubDate>
-    <description>スウェーデンのカロリンスカ研究所は、2026年のノーベル生理学・医学賞を米独の3教授に授与すると発表した。スタンフォード大のカール・ダイセロス教授、フンボルト大のペーター・ヘーゲマン教授、ヴュルツブルク大のゲオルグ・ナーゲル教授が受賞。彼らは記憶や感情、行動に関連する神経回路のスイッチング機構を解明し、神経科学の新しい時代を切り開いたと評価された。神経疾患や精神疾患の治療応用が期待される。</description>
   </item>
 </channel>
 </rss>
