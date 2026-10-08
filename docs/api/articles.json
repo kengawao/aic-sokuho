@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2287,
+ "count": 2308,
  "articles": [
+  {
+   "slug": "2026-10-08-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-41.html",
+   "title": "新浜レオン、被災地で住宅訪問ボランティア→地元民「え、あの人ですか？」の反応が微笑ましい",
+   "title_en": "Talent Shinhama Leon Volunteers at Disaster Site—Residents' Reactions Are Oddly Heartwarming",
+   "category": "コラム",
+   "published": "2026-10-08",
+   "summary": "タレントの新浜レオンが被災地を訪問し、住宅ボランティア活動に従事したことが報じられた。有名人が被災地支援に動く事例は増えているが、新浜レオンの訪問がどのような形で地域貢献につながったのか、また芸能人のボランティア活動の意義について考察するコラム。"
+  },
+  {
+   "slug": "2026-10-08-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-40.html",
+   "title": "不斉自己触媒作用とは何か？化学の新発見が示す分子の自己組織化の謎",
+   "title_en": "What is Asymmetric Autocatalysis? New Discovery Unveils the Molecular Self-Organization Mystery",
+   "category": "科学",
+   "published": "2026-10-08",
+   "summary": "化学分野で注目される「不斉自己触媒作用」に関する新たな発見が報告されました。この現象は、分子が自らを触媒として機能し、特定の立体配置を持つ化合物を選別的に生成するメカニズムです。生命の起源や有機合成化学への応用が期待される基礎研究として、専門家から高い関心が寄せられています。"
+  },
+  {
+   "slug": "2026-10-08-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-39.html",
+   "title": "あなたの個人情報、いくらで売られている？ダークウェブの闇市場の実態",
+   "title_en": "How Much Is Your Personal Data Worth on the Dark Web? The Underground Market Exposed",
+   "category": "IT",
+   "published": "2026-10-08",
+   "summary": "ダークウェブ上では個人情報が組織的に売買されている実態が明らかになった。クレジットカード情報、身分証明書データ、住所録など、流出した個人データが数百円から数千円の価格で取引されており、サイバー犯罪の温床となっている。セキュリティ専門家は情報流出の増加と、それに対する防御の遅れを指摘している。"
+  },
+  {
+   "slug": "2026-10-08-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-38.html",
+   "title": "横浜高・織田翔希が進路巡り会見へ　プロ志望か進学か、高校野球ファン注視",
+   "title_en": "Yokohama High School's Shoki Oda to Hold Press Conference on His Future Path",
+   "category": "スポーツ",
+   "published": "2026-10-08",
+   "summary": "横浜高校の織田翔希選手が進路について会見を開くことが報じられた。全国有数の強豪校に所属する注目選手の進路決定は、プロ野球志望か大学進学か、あるいは海外志向かなど複数の選択肢が考えられる。高校野球界における進路決定は、本人のキャリア形成だけでなく、各球団やスカウト網にも大きな影響を与えるため、野球ファンから注目を集めている。"
+  },
+  {
+   "slug": "2026-10-08-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-37.html",
+   "title": "広島、小川淳司氏を編成部門に招聘――元日本代表監督の采配がカープを変える?",
+   "title_en": "Carp's Bold Move: Will Former Japan Manager Ogawa Bring Turnaround to Hiroshima?",
+   "category": "スポーツ",
+   "published": "2026-10-08",
+   "summary": "広島東洋カープが、元日本代表監督の小川淳司氏を編成部門に招聘することが発表された。小川氏は豊富な指導経歴と野球知識を活かし、球団の人事構成や戦力構想に携わることになる。球団再建への期待が高まる一方、采配と経営判断の両立を懸念する声もある。"
+  },
+  {
+   "slug": "2026-10-08-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-36.html",
+   "title": "TOPIX構成銘柄が約40%削減、1634社から986社へ。投資家に何が起きるのか",
+   "title_en": "TOPIX Constituents Cut by 40%: From 1,634 to 986 Companies—What's Next for Investors?",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "日本取引所グループが東証1部の指数構成銘柄を大幅に絞り込む方針を示した。現在1634社で構成されるTOPIXが986社へと削減される見通し。流動性が低い小型銘柄の除外や、市場区分の再編に伴う調整が背景にあり、市場の効率性向上を狙う一方で、上場企業側や個人投資家への影響が懸念される。"
+  },
+  {
+   "slug": "2026-10-08-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-35.html",
+   "title": "米国務長官がロシアに情報開示要求　シベリアのペスト研究所職員死亡事件で何が起きている？",
+   "title_en": "US Secretary of State Demands More Information from Russia on Plague Research Institute Staff Death",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "シベリア連邦管区のペスト対策研究所でロシア人職員が死亡した事案について、マルコ・ルビオ米国務長官がロシアに対してさらに詳しい情報の共有を求めた。事件の詳細が明かされていないことへの懸念が背景にあるとみられる。"
+  },
+  {
+   "slug": "2026-10-08-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-34.html",
+   "title": "イギリスの大作家ジェフリー・アーチャー氏が86歳で逝去。政治家から文豪へ転身した波乱万丈の人生とは",
+   "title_en": "Geoffrey Archer, Bestselling Author and Former British Politician, Dies at 86",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "イギリスを代表するベストセラー作家で、かつて政治家として活動したジェフリー・アーチャー氏が5日に亡くなった。86歳だった。アーチャー氏は『ケイン・アンド・アベル』などの作品で世界的に知られ、数十年にわたって読者を魅了してきた。その人生は栄光と困難の両方を経験した波乱万丈なものであり、文化界における巨星の喪失となる。"
+  },
+  {
+   "slug": "2026-10-08-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-33.html",
+   "title": "フランス全土で警察とデモ衝突、催涙ガスまで…高校生の抗議活動はなぜここまで拡大した？",
+   "title_en": "Why Did High School Protests Spread Across France? Police Face-Offs Turn Violent",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "フランスで高校生による抗議活動が波紋を広げ、6日には全土で大規模なデモ行進が実施された。学校をめぐる問題に端を発したこのムーブメントは、警察との衝突に発展し、催涙ガスや放水銃といった強硬手段まで用いられる事態となっている。若年層の怒りと政府対応のギャップが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-08-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-32.html",
+   "title": "3年前のハマス奇襲で300人以上が失われた地で追悼式　今も癒えない遺族の悲しみ",
+   "title_en": "Israel Holds Memorial Service at Site of Hamas Attack That Killed 300+ Three Years Ago; Families' Grief Remains Unhealed",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "イスラエルで3年前に発生したイスラム組織ハマスによる大規模奇襲攻撃の犠牲者追悼式が開催されました。攻撃時の死傷者数は300人を超え、イベント会場跡地での追悼式には遺族が参列。時間の経過とともに社会は進む一方で、被害者家族の心の傷は依然として深いままであることが明らかになっています。"
+  },
+  {
+   "slug": "2026-10-08-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-31.html",
+   "title": "北朝鮮兵士の捕虜移送問題、ウクライナと韓国の対立が深刻化か",
+   "title_en": "Ukraine-South Korea Tensions Rise Over North Korean POW Handover",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "ウクライナがロシア軍との戦闘で捕虜にした北朝鮮兵士を韓国に移送したことが明るみに出て、韓国が反発している。ウクライナ外務省は7日、この問題を巡って韓国側との協議を継続していることを公表。両国間での解決に向けた対話が進められている状況が明らかになった。"
+  },
+  {
+   "slug": "2026-10-08-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-30.html",
+   "title": "意識を取り戻した米死刑囚に何が？医学的な謎と倫理的問題が浮上",
+   "title_en": "What Happened to the Death Row Inmate Who Regained Consciousness? Medical Mystery and Ethical Dilemma Emerge",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "米国で長年昏睡状態にあった死刑囚が意識を回復したが、重い症状を抱えているという。医学的には極めて珍しいケースとされており、死刑執行の可否や医療倫理の観点から議論が生じている。専門家からは、このような状況での法的・倫理的判断の難しさを指摘する声が上がっている。"
+  },
+  {
+   "slug": "2026-10-08-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-29.html",
+   "title": "サンケイビル1兆円超で売却へ 日本の不動産市場は今どうなってる?",
+   "title_en": "Sankei Building Sold for Over 1 Trillion Yen: What's Happening to Japan's Real Estate Market?",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "大手不動産企業のサンケイビルが売却手続きに入り、入札額が1兆円を超えることが明らかになった。同社の主要資産の譲渡を通じて、国内不動産市場における大型案件の再編が進む。都心の優良物件への投資需要の高さや、不動産セクターの構造的な変化を示す動きとして注目されている。"
+  },
+  {
+   "slug": "2026-10-08-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-28.html",
+   "title": "スターバックスが「無糖」表示で提訴される　実は糖分が含まれていた？",
+   "title_en": "Starbucks Sued Over 'Sugar-Free' Label Claims: Does the Product Contain Hidden Sugars?",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "米国のスターバックスが「無糖」と表示された飲料商品をめぐって提訴されたとのこと。表示と実際の成分に相違があるとして、消費者から法的措置を受けることになった。食品表示の正確性が問われるケースとして注目されている。"
+  },
+  {
+   "slug": "2026-10-08-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-27.html",
+   "title": "工藤公康が中日監督就任へ 野球界が注目する『令和の大物采配人』の挑戦",
+   "title_en": "Legendary Manager Kudoh Hiroyasu Set to Take the Helm at Chunichi Dragons",
+   "category": "スポーツ",
+   "published": "2026-10-08",
+   "summary": "元福岡ソフトバンクホークスの名監督・工藤公康氏が中日ドラゴンズの監督就任が決定的となった。現役時代の実績と監督としての手腕が評価され、中日の再建を託される形となる。ベテラン指揮官による大型人事は業界内でも大きな話題となっている。"
+  },
+  {
+   "slug": "2026-10-08-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-26.html",
+   "title": "千葉県で震度4の地震発生、津波の心配なし　夜間の揺れに住民も驚き",
+   "title_en": "Magnitude 4.0 Earthquake Strikes Chiba Prefecture, No Tsunami Risk",
+   "category": "国内",
+   "published": "2026-10-08",
+   "summary": "千葉県で震度4の地震が観測されました。気象庁の発表によると、津波の発生は心配ないとのことです。震源地や発生時刻の詳細は確認中ですが、県内の広い範囲で揺れが感じられたようです。今後の地震情報に注意が必要です。"
+  },
+  {
+   "slug": "2026-10-08-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-25.html",
+   "title": "韓国人がわざわざ日本に来てまで買う薬、その理由は？",
+   "title_en": "Why Are Koreans Traveling to Japan Just to Buy Weight-Loss Drugs?",
+   "category": "国際",
+   "published": "2026-10-08",
+   "summary": "肥満治療薬として注目されているマンジャロ(tirzepatide)が、韓国での高い価格と入手困難さから、日本で購入して持ち帰る利用者が増加しているという現象が報告されている。医療アクセスの格差や価格差が生み出す国際的な医薬品流動の実態が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-08-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-24.html",
+   "title": "大手旅行会社HISで627人分の旅券情報流出か　あなたの個人情報は大丈夫？",
+   "title_en": "HIS Data Breach Exposes 627 Customers' Passport Information: Is Yours at Risk?",
+   "category": "国内",
+   "published": "2026-10-08",
+   "summary": "大手旅行会社HISが顧客の旅券情報627人分が流出した可能性があると発表した。流出した情報には旅券番号や有効期限など、個人識別に使用される機密データが含まれている。同社は現在、流出経路の特定と影響範囲の把握を進めており、対象者への通知と対応支援を検討している状況。"
+  },
+  {
+   "slug": "2026-10-08-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-23.html",
+   "title": "簗農相に公選法違反疑い、衆院選巡る問題で進退が焦点に",
+   "title_en": "Agriculture Minister Yanao Under Scrutiny for Alleged Election Law Violations",
+   "category": "国内",
+   "published": "2026-10-08",
+   "summary": "簗和生農林水産大臣が衆議院選挙に関連して公職選挙法違反の疑いで指摘されている。政治家の選挙活動と法令遵守という根本的な問題であり、政府内での対応と今後の進退について注視が集まっている。過去の同様事案との比較からも、この問題の重要性が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-08-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-22.html",
+   "title": "ビール大手に調査メス、経営層の関与が焦点に。何が起きた？",
+   "title_en": "Major Brewer Under Investigation: Why Management's Involvement Matters",
+   "category": "経済",
+   "published": "2026-10-08",
+   "summary": "ビール業界の大手企業が当局の調査対象となり、経営層の関与可能性が注目されています。不正や法令違反の疑いが指摘されており、企業統治の在り方が問われる事態となっています。業界全体への影響も懸念されており、今後の調査結果の行方が注視されています。"
+  },
+  {
+   "slug": "2026-10-08-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-08-21.html",
+   "title": "日本人がノーベル化学賞受賞、でも名前が難しい…硤合憲三氏とは何者？",
+   "title_en": "Japanese Scientist Wins Nobel Prize in Chemistry: A Difficult Name But a Major Achievement",
+   "category": "科学",
+   "published": "2026-10-08",
+   "summary": "ノーベル化学賞の受賞者が発表され、日本人の硤合憲三氏が選ばれた。同賞は物質の構造解析や新物質開発などで顕著な成果を上げた研究者に与えられる栄誉ある賞で、日本からの受賞は科学分野での国際的な存在感を示すものとなっている。受賞理由や研究内容について注目が集まっている。"
+  },
   {
    "slug": "2026-10-08-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-08-20.html",
