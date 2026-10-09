@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2351,
+ "count": 2372,
  "articles": [
+  {
+   "slug": "2026-10-10-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-20.html",
+   "title": "ペンギン界の大物が王座から転落！最大コロニーが称号失った理由が悲しすぎる",
+   "title_en": "Penguin Royalty Dethroned: The Heartbreaking Reason the World's Largest Colony Lost Its Crown",
+   "category": "コラム",
+   "published": "2026-10-10",
+   "summary": "長年にわたり世界最大のペンギンコロニーとして君臨していた場所が、その称号を失ったというニュース。ペンギン界にも栄枯盛衰があるのか、という驚きと、その背景にある環境変化への危機感が同時に押し寄せてくる。ペンギンたちの大移動劇が今、始まっているようだ。"
+  },
+  {
+   "slug": "2026-10-10-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-19.html",
+   "title": "70年間の秘密が公開へ 靖国神社がA級戦犯合祀の決定過程を初開示、何が書かれていたのか",
+   "title_en": "After 70 Years of Secrecy: Yasukuni Shrine's Documents on Class-A War Criminal Enshrinement Revealed",
+   "category": "国内",
+   "published": "2026-10-10",
+   "summary": "靖国神社が戦後70年近く非公開としてきたA級戦犯合祀に関する内部議事録がNHKに初めて開示された。神社の意思決定プロセスが具体的に記された文書には、当時の判断基準や関係者の議論が詳しく記されているという。歴史研究や戦後史の理解において重要な一次資料として注目されている。"
+  },
+  {
+   "slug": "2026-10-10-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-18.html",
+   "title": "名門・作新学院の野球部監督が体罰で謹慎処分 強豪校でなぜ今も？",
+   "title_en": "Why Is Corporal Punishment Still Happening at Elite Japanese High Schools? Sakushin Gakuin Baseball Coach Suspended",
+   "category": "スポーツ",
+   "published": "2026-10-10",
+   "summary": "栃木県の進学校で知られる作新学院高校の野球部監督が体罰を理由に謹慎処分を受けた。同校は甲子園出場経験のある強豪校だが、今なお暴力的指導が存在していたことが明らかになった。体罰禁止が社会的に浸透する中、部活動の指導現場における旧来の方法論が依然として残存している実態が指摘されている。"
+  },
+  {
+   "slug": "2026-10-10-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-17.html",
+   "title": "MLBが試合数短縮に踏み切る理由。意外と深い改革の狙いとは？",
+   "title_en": "Why MLB Is Cutting Games: The Strategic Overhaul Baseball Didn't See Coming",
+   "category": "スポーツ",
+   "published": "2026-10-10",
+   "summary": "MLB（メジャーリーグ）が試合数の短縮を含む大規模な改革案を進めている。視聴者減少や選手の疲労軽減、より魅力的な試合運営の実現が背景にあり、野球の人気回復と経営効率化の両立を目指す戦略的な変更とみられている。"
+  },
+  {
+   "slug": "2026-10-10-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-16.html",
+   "title": "バンドスコア出版社の模倣訴訟、最高裁で賠償確定へ——音楽出版業界に何をもたらすのか",
+   "title_en": "Band Score Copyright Case Settled: What Does Japan's Supreme Court Ruling Mean for Music Publishing?",
+   "category": "経済",
+   "published": "2026-10-10",
+   "summary": "楽譜出版の大手企業による著作権侵害訴訟で、最高裁が模倣企業への賠償を確定させた。バンドスコアの編集・レイアウト方式が著作物として保護されるかどうかが争点となった本件は、音楽出版業界における知的財産権の解釈を大きく左右する判例となる見通しだ。"
+  },
+  {
+   "slug": "2026-10-10-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-15.html",
+   "title": "「イクオネ」は実は新種だった　南極の謎のクリオネ、研究で判明",
+   "title_en": "The mysterious 'Ikuone' pteropod is actually a new species, research reveals",
+   "category": "科学",
+   "published": "2026-10-10",
+   "summary": "南極海に生息するクリオネの一種「イクオネ」が、これまで別種と考えられていたが、実は新種であることが研究により判明した。従来の分類では既知種に含められていたが、詳細な形態学的・遺伝学的解析を通じて、独立した種として認識されるようになった。深海生物の分類体系の再検討につながる発見として注目されている。"
+  },
+  {
+   "slug": "2026-10-10-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-14.html",
+   "title": "米検察がマドゥロ前大統領を追起訴、米国民への拷問疑惑で新たな容疑",
+   "title_en": "U.S. Prosecutors Add Torture Conspiracy Charges Against Former Venezuelan President Maduro",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "米検察当局がヴェネズエラのマドゥロ前大統領と妻のフロレス氏に対し、拷問共謀罪での追起訴を発表した。マドゥロ政権下でヴェネズエラに拘束されていたアメリカ市民が拷問を受けたとされる事件が対象。国際的な人権侵害疑惑として、米国側の厳しい姿勢を示す決定となっている。"
+  },
+  {
+   "slug": "2026-10-10-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-13.html",
+   "title": "停戦のはずが毎日空爆？ガザの病院では保育器も足りず、戦争はいつ終わるのか",
+   "title_en": "Ceasefire in Name Only? Gaza Faces Daily Israeli Airstrikes While Hospitals Desperately Lack Incubators",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "イスラエル・ハマス紛争から3年が経過し、昨年10月に停戦合意が成立したにもかかわらず、イスラエル軍によるガザ地区への攻撃がほぼ毎日続いている。医療施設では深刻な物資不足に直面しており、保育器の不足により新生児の命が危機にさらされている状況にある。現地ジャーナリストの報告により、停戦名目の実態が明らかになった。"
+  },
+  {
+   "slug": "2026-10-10-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-12.html",
+   "title": "民間バス2台が一瞬で…ウクライナ前線都市で30人以上が犠牲に、ロシアの滑空爆弾攻撃",
+   "title_en": "30+ Dead as Russian Glide Bombs Strike Civilian Buses in Ukraine's Front-line City",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "ウクライナ東部ドネツク州の前線都市クラマトルスクで、民間バス2台がロシア軍の滑空爆弾による攻撃を受け、少なくとも30人が死亡した。ウクライナの救助当局が8日に明らかにした。民間人が利用する公共交通機関への攻撃は、戦争の激化を示す事例として国際的な関心を集めている。"
+  },
+  {
+   "slug": "2026-10-10-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-11.html",
+   "title": "米がICCを制裁対象に？国際司法の独立性が揺らぐ",
+   "title_en": "US Sanctions ICC: Is International Justice Crumbling?",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "トランプ政権がICCを制裁対象に指定しました。これは国際刑事裁判所の独立性に対する直接的な圧力で、8月の赤根智子所長への制裁に続く強硬措置です。米国の同盟国や国際社会への影響が懸念されています。"
+  },
+  {
+   "slug": "2026-10-10-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-10.html",
+   "title": "米がICC本体を制裁対象に指定、背景にある国際司法への対立とは？",
+   "title_en": "Why Is the US Sanctioning the ICC Itself? Understanding America's Clash with International Justice",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "アメリカが国際刑事裁判所（ICC）本体を制裁対象として指定した。この措置は、ICCがイスラエル関連の捜査を進めることに対する米国の反発が背景にあるとみられる。米国とICCの関係が急速に悪化し、国際司法制度の運営に影響を与える可能性が懸念されている。"
+  },
+  {
+   "slug": "2026-10-10-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-9.html",
+   "title": "INI・佐野雄大が適応障害を公表。アイドル活動と心身の負荷の関係、どうなる?",
+   "title_en": "INI Member Sano Yudai Reveals Adjustment Disorder Diagnosis—What Does This Mean for Idol Industry?",
+   "category": "エンタメ",
+   "published": "2026-10-10",
+   "summary": "アイドルグループINIのメンバー・佐野雄大が適応障害であることを公表した。適応障害は環境の変化やストレスに対して心身が対応できず、抑うつ症状や不安が生じる状態。著名人の心身の健康問題の公表が増える中、芸能界におけるメンタルヘルスサポートの重要性が改めて注目されている。"
+  },
+  {
+   "slug": "2026-10-10-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-8.html",
+   "title": "白菜1個1000円超も？冬の食卓を支える野菜が深刻危機、鍋文化が揺らぐ",
+   "title_en": "Napa Cabbage Price Crisis: Japan's Hot Pot Culture Under Threat as Prices Surge Beyond 1,000 Yen",
+   "category": "経済",
+   "published": "2026-10-10",
+   "summary": "野菜の価格高騰が続く中、冬の食卓に欠かせない白菜の価格が大幅に上昇している。鍋料理の主役として親しまれてきた白菜だが、異常な価格設定に客からは困惑の声が上がっており、家計への影響が懸念される状況が広がっている。"
+  },
+  {
+   "slug": "2026-10-10-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-7.html",
+   "title": "大学教授がAIで著書執筆、誤りが発覚して絶版に…信頼失墜の代償は?",
+   "title_en": "University Professor's AI-Written Book Pulled from Shelves Due to Errors—Who Bears the Cost of Trust?",
+   "category": "IT",
+   "published": "2026-10-10",
+   "summary": "大学教授が生成AIを使用して執筆した著書に複数の誤りが含まれていたことが判明し、出版社が絶版対応を決定した。AIの利便性が注目される一方で、学術的信頼性の検証が不十分だったと指摘されている。専門家による査読プロセスの重要性が改めて問われている。"
+  },
+  {
+   "slug": "2026-10-10-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-6.html",
+   "title": "中村倫也が来年大河で吉田松陰に。幕末の思想家を現代の実力派俳優が演じる意図は？",
+   "title_en": "Tomoya Nakamura to Play Yoshida Shoin in Next Year's NHK Historical Drama—What Does This Casting Say?",
+   "category": "エンタメ",
+   "published": "2026-10-10",
+   "summary": "NHK大河ドラマの来年作品で、俳優の中村倫也が幕末の思想家・吉田松陰役を担当することが発表された。中村倫也は近年の映像作品で存在感を示す実力派俳優として注目を集めており、歴史上の重要人物である松陰をどのように表現するかが視聴者の関心を集めそうだ。"
+  },
+  {
+   "slug": "2026-10-10-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-5.html",
+   "title": "松屋の牛めし20円値上げ決定、家計への影響は？",
+   "title_en": "Matsuya Increases Gyudon Prices by 20 Yen—What's the Real Impact?",
+   "category": "経済",
+   "published": "2026-10-10",
+   "summary": "牛丼チェーン大手の松屋が、牛めし全品を20円値上げすることを発表しました。食材費やエネルギーコストの上昇が背景にあり、これまでの経営努力だけでは対応が難しくなったと判断された模様です。消費者にとって身近な外食価格の上昇が続く状況が鮮明になっています。"
+  },
+  {
+   "slug": "2026-10-10-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-4.html",
+   "title": "インフル全国「注意報」超え、冬本番前に異例の拡大〜対策は万全ですか？",
+   "title_en": "Japan's Flu Alert Threshold Exceeded Early—Are You Prepared?",
+   "category": "健康",
+   "published": "2026-10-10",
+   "summary": "全国のインフルエンザの感染状況が、厚生労働省が定める「注意報」の基準を超えたことが報告されました。例年より早い時期での拡大が確認され、医療現場の負担増が懸念されています。専門家は手洗いやワクチン接種の重要性を改めて呼びかけており、個人・施設レベルでの感染対策強化が求められている状況です。"
+  },
+  {
+   "slug": "2026-10-10-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-3.html",
+   "title": "ビール大手4社が価格協議を認める　独禁法違反の可能性は？",
+   "title_en": "Did Four Major Beer Companies Conspire on Prices? What the Fair Trade Commission Found",
+   "category": "経済",
+   "published": "2026-10-10",
+   "summary": "キリン、アサヒ、サントリー、オリオンビールの大手4社の担当者が、ビール製品の価格に関する協議を行っていたことを認めた。公正取引委員会の調査に応じた形とみられ、独占禁止法違反の可能性も指摘されている。消費者への価格転嫁との関連性が注視される。"
+  },
+  {
+   "slug": "2026-10-10-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-2.html",
+   "title": "643万件の個人情報流出か ブックオフで何が起きた？",
+   "title_en": "What Happened at Book Off? 6.43 Million Personal Records Allegedly Compromised",
+   "category": "IT",
+   "published": "2026-10-10",
+   "summary": "大手古本販売チェーン「ブックオフ」で、顧客の個人情報が大規模に流出した可能性が報じられた。流出した情報は約643万件に及ぶとみられており、氏名や住所、電話番号といった個人データが含まれている。同社は情報流出の事実確認と対応を進めており、利用者への周知と対策の強化が急務となっている。"
+  },
+  {
+   "slug": "2026-10-10-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-1.html",
+   "title": "スカイチケット1464万件流出、あなたの個人情報は大丈夫？",
+   "title_en": "Skyticket Data Breach Affects 14.64 Million Users - Is Your Information at Risk?",
+   "category": "IT",
+   "published": "2026-10-10",
+   "summary": "航空券予約サイト「スカイチケット」から約1464万件の顧客情報が流出した。流出した情報には氏名、メールアドレス、電話番号など個人情報が含まれており、同社は外部からの不正アクセスが原因と報告。利用者への通知と対策強化を進めている。"
+  },
+  {
+   "slug": "2026-10-10-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-0.html",
+   "title": "JR東で206万件の個人情報漏洩か　利用客に何が起きている？",
+   "title_en": "2.06 Million Personal Records Leaked from JR East: What Happened?",
+   "category": "国内",
+   "published": "2026-10-10",
+   "summary": "JR東日本が大規模な個人情報漏洩の可能性を発表した。漏洩した情報はのべ206万件にのぼるとされている。利用客の氏名や連絡先などが含まれている可能性があり、同社は原因究明と対応を進めている。大手鉄道事業者での情報管理体制の課題が浮き彫りになった形だ。"
+  },
   {
    "slug": "2026-10-09-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-41.html",
