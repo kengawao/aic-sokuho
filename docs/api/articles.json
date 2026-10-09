@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2350,
+ "count": 2351,
  "articles": [
+  {
+   "slug": "2026-10-09-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-09-41.html",
+   "title": "乃木坂の看板が一人でファミレス？衝撃の目撃情報に「何が起きてる」と話題に",
+   "title_en": "Top Idol Asuka Saito Spotted Solo at Family Restaurant—Fans React with \"She's So Relatable\"",
+   "category": "コラム",
+   "published": "2026-10-09",
+   "summary": "乃木坂46の齋藤飛鳥が、一人でファミレスに足を運んでいたことが話題になっています。アイドルとしての多忙なスケジュールの中、プライベートの時間を大切にしている様子がうかがえます。SNSではこの情報に対し、「普通の女の子らしくて好き」という好意的な反応が多く寄せられています。"
+  },
   {
    "slug": "2026-10-09-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-09-40.html",
