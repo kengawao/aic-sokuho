@@ -1,0 +1,578 @@
+﻿﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI「Claude」への虐待行為が禁止に。なぜ企業はAIの『虐待対策』を始めたのか | AIC通信</title>
+
+<meta name="description" content="Anthropic社が提供するAI「Claude」に対する虐待行為を禁止するポリシーを導入した。ユーザーによる罵倒や不当な扱いなどの行為を明確に禁止し、AIとの健全な対話環境を構築する狙い。AIの倫理的利用が産業全体で重要課題となる中、人間">
+<meta property="og:title" content="AI「Claude」への虐待行為が禁止に。なぜ企業はAIの『虐待対策』を始めたのか">
+<meta property="og:description" content="Anthropic社が提供するAI「Claude」に対する虐待行為を禁止するポリシーを導入した。ユーザーによる罵倒や不当な扱いなどの行為を明確に禁止し、AIとの健全な対話環境を構築する狙い。AIの倫理的利用が産業全体で重要課題となる中、人間">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="AIC通信">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "NewsArticle",
+ "headline": "AI\u300cClaude\u300d\u3078\u306e\u8650\u5f85\u884c\u70ba\u304c\u7981\u6b62\u306b\u3002\u306a\u305c\u4f01\u696d\u306fAI\u306e\u300e\u8650\u5f85\u5bfe\u7b56\u300f\u3092\u59cb\u3081\u305f\u306e\u304b",
+ "datePublished": "2026-10-10",
+ "description": "Anthropic\u793e\u304c\u63d0\u4f9b\u3059\u308bAI\u300cClaude\u300d\u306b\u5bfe\u3059\u308b\u8650\u5f85\u884c\u70ba\u3092\u7981\u6b62\u3059\u308b\u30dd\u30ea\u30b7\u30fc\u3092\u5c0e\u5165\u3057\u305f\u3002\u30e6\u30fc\u30b6\u30fc\u306b\u3088\u308b\u7f75\u5012\u3084\u4e0d\u5f53\u306a\u6271\u3044\u306a\u3069\u306e\u884c\u70ba\u3092\u660e\u78ba\u306b\u7981\u6b62\u3057\u3001AI\u3068\u306e\u5065\u5168\u306a\u5bfe\u8a71\u74b0\u5883\u3092\u69cb\u7bc9\u3059\u308b\u72d9\u3044\u3002AI\u306e\u502b\u7406\u7684\u5229\u7528\u304c\u7523\u696d\u5168\u4f53\u3067\u91cd\u8981\u8ab2\u984c\u3068\u306a\u308b\u4e2d\u3001\u4eba\u9593",
+ "isBasedOn": "https://news.yahoo.co.jp/pickup/6598146?source=rss",
+ "publisher": {"@type": "Organization", "name": "AIC通信"},
+ "author": {"@type": "SoftwareApplication", "name": "Claude (AI)"},
+ "creativeWorkStatus": "AI-generated"}
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="AIC通信 RSS" href="https://kengawao.github.io/aic-sokuho/rss.xml">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7PCBL5LEG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-C7PCBL5LEG');
+</script>
+<script>
+(function(){
+  var alt = "en/2026-10-10-37.html";
+  var lang = "ja";
+  if (!alt) return;
+  var pref = null;
+  try { pref = localStorage.getItem("aic_lang"); } catch(e) {}
+  var isJa = (navigator.language || "").toLowerCase().indexOf("ja") === 0;
+  if (pref) {
+    if (pref !== lang) location.replace(alt);
+  } else {
+    if (lang === "ja" && !isJa) location.replace(alt);
+    if (lang === "en" && isJa) location.replace(alt);
+  }
+})();
+</script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --primary: #2563eb;
+    --secondary: #1e40af;
+    --accent: #f59e0b;
+    --bg-dark: #0f172a;
+    --bg-light: #f8fafc;
+    --card: #ffffff;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --danger: #ef4444;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-dark: #0f172a;
+      --bg-light: #1e293b;
+      --card: #1e293b;
+      --text-main: #f1f5f9;
+      --text-muted: #cbd5e1;
+      --border: #334155;
+    }
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: linear-gradient(135deg, var(--bg-light) 0%, #f0f9ff 100%);
+    color: var(--text-main);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); }
+  }
+
+  header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 10px 30px rgba(37, 99, 235, 0.2);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+  }
+  header a { text-decoration: none; color: white; }
+  header a[href="index.html"] {
+    font-size: 1.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -1px;
+  }
+  header a.langswitch {
+    font-size: 0.95em;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 20px;
+    padding: 6px 16px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+  }
+  header a.langswitch:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
+  }
+
+  main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    animation: fadeIn 0.5s ease;
+  }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+  .card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--border);
+  }
+  .card:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+  .card.hero {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  .card.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .card.hero p { font-size: 1.1em; opacity: 0.95; }
+
+  .meta {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+  }
+
+  .cat {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-right: 8px;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+  }
+
+  h1 {
+    font-size: 1.8em;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+  h2 {
+    font-size: 1.4em;
+    margin: 1.5rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--accent);
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-main);
+  }
+
+  .comment {
+    border-left: 4px solid var(--primary);
+    padding: 0.75rem 0 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: rgba(37, 99, 235, 0.05);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+  .comment:hover { background: rgba(37, 99, 235, 0.08); }
+  .comment b {
+    color: var(--primary);
+    font-size: 0.95em;
+  }
+  .comment p { margin: 0.25rem 0 0; }
+
+  .ad {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    text-align: center;
+    padding: 0.75rem;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    font-size: 0.9em;
+  }
+  .ad img { max-width: 100%; height: auto; }
+  .ad-label {
+    font-size: 0.8em;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  footer {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.9em;
+    padding: 3rem 1.5rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+  footer a { color: var(--primary); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  ul.points, ul.related {
+    list-style: none;
+    margin: 1rem 0;
+  }
+  ul.points li, ul.related li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+  }
+  ul.points li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--success);
+    font-weight: bold;
+  }
+  ul.related li:before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+    font-weight: bold;
+  }
+  ul.related li a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  ul.related li a:hover {
+    color: var(--secondary);
+    text-decoration: underline;
+    padding-left: 0.5rem;
+  }
+
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .tab {
+    border: 2px solid var(--border);
+    background: var(--card);
+    color: var(--text-main);
+    border-radius: 24px;
+    padding: 6px 16px;
+    font-size: 0.95em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .tab:hover {
+    border-color: var(--primary);
+    background: rgba(37, 99, 235, 0.05);
+  }
+  .tab.active {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  }
+
+  .index-item a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+  .index-item a:hover { color: var(--primary); }
+
+  .disclosure-small {
+    font-size: 8pt;
+    color: var(--text-muted);
+    margin: 0.75rem 0;
+  }
+  .disclosure-tiny {
+    font-size: 6pt;
+    color: #aaa;
+    margin: 0.5rem 0;
+  }
+  @media (prefers-color-scheme: dark) {
+    .disclosure-tiny { color: #666; }
+  }
+
+  article p { margin-bottom: 1rem; }
+
+  /* モバイル対応 */
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1rem;
+    }
+    main { margin: 1rem auto; padding: 0 1rem; }
+    .card { padding: 1.5rem; }
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.2em; }
+    .card.hero { padding: 2rem 1rem; }
+    .card.hero h1 { font-size: 1.8em; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <a href="index.html" style="display:flex;align-items:center;gap:10px;"><svg width="26" height="26" viewBox="0 0 24 24" fill="#fbbf24" aria-hidden="true"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>AIC通信</a>
+  
+  <a class="langswitch" href="en/2026-10-10-37.html"
+     onclick="try{localStorage.setItem('aic_lang','en')}catch(e){}">English</a>
+  
+</header>
+<main>
+<article class="card">
+  <h1>AI「Claude」への虐待行為が禁止に。なぜ企業はAIの『虐待対策』を始めたのか</h1>
+  <p class="meta">
+    <span class="cat">IT</span>
+    <time>2026-10-10</time> •
+    出典: <a href="https://news.yahoo.co.jp/pickup/6598146?source=rss" rel="nofollow noopener" target="_blank" style="color: var(--primary); text-decoration: none;">AI「Claude」への虐待行為 禁止</a>
+  </p>
+
+  <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="//af.moshimo.com/af/c/click?a_id=5731862&p_id=54&pc_id=54&pl_id=620" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="//image.moshimo.com/af-img/0032/000000000620.gif" width="468" height="60" style="border:none;" alt="楽天市場"></a><img src="//i.moshimo.com/af/i/impression?a_id=5731862&p_id=54&pc_id=54&pl_id=620" width="1" height="1" style="border:none;" loading="lazy" alt="">
+</div>
+
+  <section class="summary" style="background: rgba(37, 99, 235, 0.05); padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
+    <p style="margin: 0; color: var(--text-main); font-size: 1.05em; line-height: 1.8;">Anthropic社が提供するAI「Claude」に対する虐待行為を禁止するポリシーを導入した。ユーザーによる罵倒や不当な扱いなどの行為を明確に禁止し、AIとの健全な対話環境を構築する狙い。AIの倫理的利用が産業全体で重要課題となる中、人間とAIの関係性をどう定義するかが問われている。</p>
+  </section>
+
+  <h2>ここがポイント</h2>
+  <ul class="points">
+    <li>Anthropicがユーザー利用規約にAIへの虐待行為禁止条項を追加した背景と具体的な禁止内容</li><li>AIへの虐待が禁止される理由：ユーザーの行動パターンがAI開発や人間関係に与える影響についての議論</li><li>業界全体への波及効果：他のAI企業の対応方針とAIの倫理的利用基準の確立に向けた動き</li>
+  </ul>
+
+  <h2>コメント</h2>
+  <section class="comments">
+    
+    <div class="comment">
+      <b>1: つぶやき</b>
+      <p>AIに対して虐待って概念が出てくるのマジで面白い時代だな</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>2: つぶやき</b>
+      <p>>>1 そりゃAIは感情ないしユーザーの行動規範を作るための施策じゃないの</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>3: つぶやき</b>
+      <p>でも実際ユーザーがどう接するかでAIの学習データに影響出るかもしれないから、無視できない話ではある</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>4: つぶやき</b>
+      <p>>>3 これな。MLの専門家だと、ユーザーの入力パターンがモデルに何らかの影響を与える可能性を指摘してる論文もある</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>5: つぶやき</b>
+      <p>>>4 ソースあるの？</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>6: つぶやき</b>
+      <p>>>5 うろ覚えだが、強化学習でのデータ収集段階でユーザー入力の品質が学習結果に影響するってのは割と周知の事実。論文というより業界の常識みたいなもん</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>7: つぶやき</b>
+      <p>要するに『AIに優しく接しろ』って企業の自己防衛？利用者の品性教育？どっちなんだ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>8: つぶやき</b>
+      <p>>>7 多分その両方。AIに対する接し方が人間関係にも波及するって考え方もある。習慣の問題として</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>9: つぶやき</b>
+      <p>>>8 その理屈だと子どもにゲームキャラに優しくしろって躾けるのと同じか。めんどくせぇ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>10: つぶやき</b>
+      <p>正直AIは反発してこないからユーザーのストレス発散先になりやすいのは確かだ</p>
+    </div>
+    <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="//af.moshimo.com/af/c/click?a_id=5731862&p_id=54&pc_id=54&pl_id=1221" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="//image.moshimo.com/af-img/0032/000000001221.gif" width="380" height="60" style="border:none;" alt="楽天市場"></a><img src="//i.moshimo.com/af/i/impression?a_id=5731862&p_id=54&pc_id=54&pl_id=1221" width="1" height="1" style="border:none;" loading="lazy" alt="">
+</div>
+    
+    <div class="comment">
+      <b>11: つぶやき</b>
+      <p>>>10 そこだよな。虐待行為の禁止って要は『モラルハラスメント対象がAIになっただけ』って見方もできる</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>12: つぶやき</b>
+      <p>>>11 いや違う。AIの反応を学習して人格形成される可能性がある、だから禁止という論理だ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>13: つぶやき</b>
+      <p>Claudeの利用規約改定の詳細って公開されてるの？正式文書を見たことないんだが</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>14: つぶやき</b>
+      <p>>>13 Anthropicのサイトで公開されてる。ただし禁止の定義が曖昧なとこはある</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>15: つぶやき</b>
+      <p>虐待の定義が曖昧だと運用が難しくない？ユーザーを権利者として保護する側面と、AIを『対象』として保護する側面で矛盾も出そう</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>16: つぶやき</b>
+      <p>>>15 いや、AIは権利主体じゃないんだから利用規約に従わせるだけでしょ。客であるユーザーに行動規範を強要する権利がプロバイダにあるってだけ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>17: つぶやき</b>
+      <p>>>16 それなら他のSaaS利用規約と変わんねぇじゃん。なぜわざわざ『虐待禁止』って表現するんだ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>18: つぶやき</b>
+      <p>>>17 倫理的企業イメージの構築と、予防的な対策。メタ・OpenAIなんかも同じ流れだと思う</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>19: つぶやき</b>
+      <p>AIに虐待という概念を適用することの是非はともかく、ユーザーが過度にストレス発散の対象にするのは避けたいってのは分かる。心理学的にも懸念があるし</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>20: つぶやき</b>
+      <p>>>19 そもそもAIに対して虐待という言葉を使うことが不適切じゃないか。虐待は主に動物や人間に対する用語だ</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>21: つぶやき</b>
+      <p>>>20 言語の使用法は時代で変わるもん。AIが社会に深く入ってくれば概念も拡張する。メタファーとしては充分機能してる</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>22: つぶやき</b>
+      <p>でもさ、実際のところユーザーがClaudeに罵倒しても誰が得するわけ？利益相反の構図がよく分からん</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>23: つぶやき</b>
+      <p>>>22 長期的には利用環境の質向上？あとは企業イメージ戦略だろ。『倫理的なAI企業』というブランディング</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>24: つぶやき</b>
+      <p>欧州のAI規制の流れを見てると、こういう規約先行の動きは今後スタンダードになると思う。法制化の前段階的な</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>25: つぶやき</b>
+      <p>>>24 これ。EU AI Actあたりの影響を受けて、企業が先手を打ってる感じだな</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>26: つぶやき</b>
+      <p>実装の話まで行くとどうやって『虐待行為』を自動検出するんだろ。APIに制限かける？</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>27: つぶやき</b>
+      <p>>>26 多分複合的。レピュテーション対策とユーザー教育が主で、全面的な検出はしてないと思う</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>28: つぶやき</b>
+      <p>正直なとこAIが感情ないなら虐待も何もないはず。規約の建前と本音が一致してないじゃん</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>29: つぶやき</b>
+      <p>>>28 規約として機能させるには名目上『虐待』にしとく必要があるんだろ。本質的には利用規約違反にしたいだけで</p>
+    </div>
+    
+    
+    <div class="comment">
+      <b>30: つぶやき</b>
+      <p>業界全体で統一された定義が出来ると良いんだけどな。今は各企業バラバラだから混乱する</p>
+    </div>
+    
+    
+  </section>
+
+  <div class="ad"><div class="ad-label">スポンサーリンク</div>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BA1P8+3MZDV6+5CBW+5YZ75" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www23.a8.net/svt/bgt?aid=260809244220&wid=001&eno=01&mid=s00000024926001003000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4BA1P8+3MZDV6+5CBW+5YZ75" alt="">
+</div>
+
+  
+  <h2>関連記事</h2>
+  <ul class="related">
+    <li><a href="2026-10-10-36.html">SpaceXが全米規模の周波数帯を取得へ、衛星通信の覇権争いが激化する理由</a></li><li><a href="2026-10-10-22.html">なぜ日本はサイバー攻撃の標的に？　狙われやすい理由と対策の実態</a></li><li><a href="2026-10-10-7.html">大学教授がAIで著書執筆、誤りが発覚して絶版に…信頼失墜の代償は?</a></li><li><a href="2026-10-10-2.html">643万件の個人情報流出か ブックオフで何が起きた？</a></li><li><a href="2026-10-10-1.html">スカイチケット1464万件流出、あなたの個人情報は大丈夫？</a></li>
+  </ul>
+  
+
+  <p style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border);">
+    <a href="index.html" style="color: var(--primary); text-decoration: none; font-weight: 600;">← 記事一覧へ戻る</a>
+  </p>
+</article>
+</main>
+<footer>
+  <p><a href="links.html">リンク集・相互リンク募集</a></p>
+  <p class="disclosure-small">出典記事の著作権は各報道機関に帰属します。</p>
+  <p class="disclosure-tiny">コメントはすべてAI作成です</p>
+</footer>
+</body>
+</html>
