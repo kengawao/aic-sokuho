@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2394,
+ "count": 2415,
  "articles": [
+  {
+   "slug": "2026-10-10-63",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-63.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-63.html",
+   "title": "13年伸ばし続けた髪をバッサリ！少女の成長の証が医療の現場へ",
+   "title_en": "After 13 Years of Growing, A Girl Donates Her Hair to Help Others",
+   "category": "コラム",
+   "published": "2026-10-10",
+   "summary": "ある少女が13年間かけて伸ばし続けた髪を提供したというほほえましいニュース。長年の成長を象徴する髪が、ウィッグなどの医療用途に活かされることになった。子どもの成長過程を見つめ直させてくれる、素敵なエピソードである。"
+  },
+  {
+   "slug": "2026-10-10-62",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-62.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-62.html",
+   "title": "世界選手権で日本勢メダルゼロ、重量級で何が起きたのか",
+   "title_en": "What went wrong? Japan's heavyweights shut out of medal contention at judo worlds",
+   "category": "スポーツ",
+   "published": "2026-10-10",
+   "summary": "柔道世界選手権の7日目、男子100キロ超級と女子78キロ超級の決勝戦が行われました。日本選手団は両階級ともメダル獲得に至らず、大会を通じた成績に課題が残る結果となっています。重量級での敗退は、選手育成や国際競技力の現状を映す鏡となっており、今後の強化策が問われています。"
+  },
+  {
+   "slug": "2026-10-10-61",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-61.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-61.html",
+   "title": "東京理科大が異例の「栄誉教授」制度、ノーベル賞受賞者に新設・授与",
+   "title_en": "Tokyo University of Science Creates New 'Honorary Professor' Title for Nobel Prize Winner",
+   "category": "科学",
+   "published": "2026-10-10",
+   "summary": "東京理科大学は、2024年のノーベル化学賞を受賞した名誉教授に対して、新たに「栄誉教授」の称号を授与することを決定した。受賞者の研究業績を顕彰する措置で、大学の栄誉制度の強化を示すもの。同大は世界的な研究成果の輩出機関としての位置づけを進めており、この決定はその一環と見られている。"
+  },
+  {
+   "slug": "2026-10-10-60",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-60.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-60.html",
+   "title": "ゴルフ女子選手の打球が木に挟まる珍事発生、競技続行できず",
+   "title_en": "Golf Ball Gets Wedged in Tree During Women's Tournament—How Should It Be Ruled?",
+   "category": "スポーツ",
+   "published": "2026-10-10",
+   "summary": "女子ゴルフトーナメント中に、選手の打球がコース内の木に挟まるという極めて稀な事象が発生した。通常のルール判定では対応できない状況に直面し、競技委員による特殊な判断が必要となった。ゴルフの規則書にも明記されていない事態に、ファンからも業界からも注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-10-59",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-59.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-59.html",
+   "title": "日本サッカー協会がeスポーツW杯参加を見送り　なぜ今、FIFAの舞台を降りるのか",
+   "title_en": "Why is Japan's Football Association Withdrawing from eSports World Cup? Strategic Pivot or Competitive Gamble?",
+   "category": "スポーツ",
+   "published": "2026-10-10",
+   "summary": "日本サッカー協会（JFA）がeスポーツの国際大会であるFIFA eワールドカップへの参加を見送ることを発表しました。理由は明らかにされていませんが、デジタル領域での競争激化やゲーム内の様々な課題が背景にあるとみられます。eスポーツのサッカー分野は国際的に急速に拡大しており、この決定は日本の競技力維持にも影響を及ぼす可能性があります。"
+  },
+  {
+   "slug": "2026-10-10-58",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-58.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-58.html",
+   "title": "37年走り続けた「日本一遅い列車」がついに引退へ。乗客はどこへ？",
+   "title_en": "After 37 Years, Japan's Slowest Train Makes Its Final Journey—What's Next for Passengers?",
+   "category": "国内",
+   "published": "2026-10-10",
+   "summary": "日本を代表するローカル線を走る、最高速度が極めて低い列車が37年の歴史に幕を閉じることになった。この列車は沿線住民の重要な足として親しまれてきたが、利用者減少と老朽化の進行により引退を決断。今後、その役割を担う新しい交通手段の検討が進められている。"
+  },
+  {
+   "slug": "2026-10-10-57",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-57.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-57.html",
+   "title": "イスラエル行き旅客機で刺傷事件、乗客が撮影した機内の緊迫状況が明かに",
+   "title_en": "Stabbing Incident on Israel-Bound Flight: Passengers Capture Tense Moments in Cabin",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "ドバイを発着するフライ・ドバイ便でイスラエル行きの旅客機内で刺傷事件が発生した。乗客らが事件直後の機内の様子を撮影しており、その映像から緊迫した現場の状況が伝わってきている。詳細な事件の背景や容疑者の身元については現在調査中だが、国際線での突然の暴力事件として注目を集めている。"
+  },
+  {
+   "slug": "2026-10-10-56",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-56.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-56.html",
+   "title": "フランス政府、高校生の抗議に折れて3000人の教員増員を約束。若者の声が政策を動かす瞬間",
+   "title_en": "French Government Yields to Student Protests, Pledges to Hire 3,000 Temporary Teachers. When Youth Power Changes Policy",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "フランス政府は教育環境の改善を求めて抗議活動を行っていた高校生たちの要求に応じ、今後数日間で3000人の臨時教員を増員することを発表した。エドゥアール・ジェフレ教育相がテレビインタビューで方針を示し、若者たちの声に初めて譲歩する姿勢を見せた。政府が学生運動の圧力を受けて教育政策を転換させるのは異例。"
+  },
+  {
+   "slug": "2026-10-10-55",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-55.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-55.html",
+   "title": "トランプ大統領がロシア産ディーゼル輸入を発表　ウクライナが猛反発、その真意は？",
+   "title_en": "Trump Announces Russian Diesel Imports: Strategic Move or Gift to Putin?",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "トランプ米大統領が燃料価格引き下げを理由にロシア産ディーゼル燃料の輸入を発表した。米財務省はロシア産ディーゼルの輸出制裁を来年4月7日まで停止する方針。ウクライナはこれをプーチン大統領への贈り物と非難。一方で米国内の銀行資産など他の制裁は継続される。"
+  },
+  {
+   "slug": "2026-10-10-54",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-54.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-54.html",
+   "title": "パナマでM7.7の地震 ホテルなど建物が次々倒壊、太平洋沿岸に広がる影響",
+   "title_en": "Major Earthquake Strikes Panama: Hotels Collapse as M7.7 Shakes Central America",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "中米パナマを襲ったマグニチュード7.7の地震により、複数のホテルを含む建造物が倒壊するなど甚大な被害が発生。この規模の地震は同地域では比較的珍しく、救助活動が急ピッチで進められている。太平洋沿岸全域に影響が波及する可能性も指摘されており、今後の余震や被害拡大への警戒が続いている。"
+  },
+  {
+   "slug": "2026-10-10-53",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-53.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-53.html",
+   "title": "米がICC制裁に動く中、日本など8カ国が反対票を投じた理由とは？",
+   "title_en": "Why Did Japan and 7 Other Nations Oppose US Sanctions Against the ICC?",
+   "category": "国際",
+   "published": "2026-10-10",
+   "summary": "国際刑事裁判所（ICC）に対する米国の制裁措置をめぐり、国連安全保障理事会で投票が行われた。日本を含む8カ国が反対の立場を示した。この背景には、ICC独立性の維持と国家主権のバランスをめぐる各国の思惑が存在。米国の一方的な措置に対して、法の支配や国際協調の観点から異を唱える動きが広がっている。"
+  },
+  {
+   "slug": "2026-10-10-52",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-52.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-52.html",
+   "title": "決勝弾で興奮しすぎて酸欠状態に？度会選手の異例の喜び方が話題",
+   "title_en": "\"I Got Too Excited and Couldn't Breathe\": Degawa's Celebratory Moment Stole Hearts",
+   "category": "スポーツ",
+   "published": "2026-10-10",
+   "summary": "試合の決勝弾を放った度会選手が、その後のインタビューで『喜びすぎて酸欠になった』とコメント。極度の興奮で呼吸が乱れるほどの感情的な反応が注目を集めている。プロの大舞台における選手の生の感情表現として、ファンから共感の声が上がっている。"
+  },
+  {
+   "slug": "2026-10-10-51",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-51.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-51.html",
+   "title": "消費税8%への戻し方、識者から疑問の声…減税後の現実は?",
+   "title_en": "Can Japan Really Raise Consumption Tax Back to 8%? Experts Express Doubts",
+   "category": "経済",
+   "published": "2026-10-10",
+   "summary": "消費税減税を実施した後、税率を8%に戻すことができるかについて、経済学者や政策専門家の間で懸念が広がっている。減税による経済効果と その後の引き上げに伴う景気への影響、さらには国民の心理的反発など、複数の課題が指摘されており、実現の難しさが浮き彫りになっている状況だ。"
+  },
+  {
+   "slug": "2026-10-10-50",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-50.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-50.html",
+   "title": "分電盤点検商法でトラブル急増中。あなたの家も狙われてる?",
+   "title_en": "Electrical Panel Inspection Scams Surge: Is Your Home Next?",
+   "category": "国内",
+   "published": "2026-10-10",
+   "summary": "家庭の分電盤を点検名目に訪問し、不要な工事を勧める商法のトラブルが増加している。高齢者を中心に被害が拡大しており、点検自体は不要なケースがほとんど。消費者庁や自治体への相談件数が前年比で大幅に増えている状況が報告されている。"
+  },
+  {
+   "slug": "2026-10-10-49",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-49.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-49.html",
+   "title": "30年以上続いた不正…大手保険会社プルデンシャルに何が起きていたのか",
+   "title_en": "Over 30 Years of Misconduct: What Went Wrong at Major Insurer Prudential?",
+   "category": "経済",
+   "published": "2026-10-10",
+   "summary": "大手保険会社プルデンシャルが30年を超える長期にわたって不正行為を続けていたことが明らかになった。顧客への説明不足や契約内容の不適切な取扱いなど、多岐にわたる問題が指摘されている。同社は是正措置を進める方針を示しており、業界全体での信頼性向上が課題となっている。"
+  },
+  {
+   "slug": "2026-10-10-48",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-48.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-48.html",
+   "title": "AI自動運転、いよいよ普通車に搭載へ。あなたの愛車も近い将来『自分で運転』するようになる？",
+   "title_en": "AI Self-Driving Cars Coming to Your Personal Vehicle Sooner Than You Think. What Does This Mean for Drivers?",
+   "category": "IT",
+   "published": "2026-10-10",
+   "summary": "自動運転技術が急速に進化し、一般向けのマイカーへの搭載が相次ぐ見通しが明らかになった。従来は限定的な機能にとどまっていたが、AIの発展により完全自動運転に近い水準での導入が現実化しつつある。安全性の検証と法的整備が急務となる一方、自動車産業全体に大きな変革をもたらす可能性が高まっている。"
+  },
+  {
+   "slug": "2026-10-10-47",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-47.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-47.html",
+   "title": "162年の歴史が変わった瞬間。西山白玲、女性初の棋士資格獲得のなぜ今だったのか",
+   "title_en": "A 162-Year Barrier Broken: Why Nishiyama Hakurei Became Japan's First Female Professional Shogi Player Now",
+   "category": "スポーツ",
+   "published": "2026-10-10",
+   "summary": "将棋界の大きな転換点となる快挙が実現した。西山白玲が女性として初めて棋士資格を獲得。これまで女流棋士という別制度に限定されていた女性が、男性と同じ棋士の道を切り開いた。実力主義が徹底する将棋界において、この壁を突破した意味は大きく、今後の将棋界の多様性や競技環境にも影響を与える可能性がある。"
+  },
+  {
+   "slug": "2026-10-10-46",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-46.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-46.html",
+   "title": "産後に妻の愛情が冷める理由、科学が明かす夫婦関係の変化",
+   "title_en": "Why Does Postpartum Love Fade? Science Reveals the Truth Behind Marital Changes",
+   "category": "健康",
+   "published": "2026-10-10",
+   "summary": "出産後、妻が夫への愛情を減らす現象が指摘されている。ホルモン変化、育児疲労、睡眠不足、パートナーへのサポート不足などが複合的に影響していると考えられている。多くの夫婦が経験する課題だが、相互理解とコミュニケーションが重要とされている。"
+  },
+  {
+   "slug": "2026-10-10-45",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-45.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-45.html",
+   "title": "思春期のメンタルケアが急務…精神疾患の発症ピークが14.5歳という衝撃",
+   "title_en": "Mental Health Crisis: Why Age 14.5 Is the Critical Breaking Point for Young People",
+   "category": "健康",
+   "published": "2026-10-10",
+   "summary": "最新の研究報告によると、精神疾患の発症がピークを迎える年齢は14.5歳という統計が明らかになった。思春期は身体的・心理的な急速な変化の時期であり、この段階での精神健康支援の重要性が指摘されている。早期発見・早期対応が、その後の人生に大きな影響を与える可能性が高いとされており、学校や家庭での環境整備が課題となっている。"
+  },
+  {
+   "slug": "2026-10-10-44",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-44.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-44.html",
+   "title": "太陽系外の惑星から電波を初検出！地球外知的生命体の手がかりになる？",
+   "title_en": "Radio Signals Detected from Exoplanet for the First Time: A New Window into Alien Worlds?",
+   "category": "科学",
+   "published": "2026-10-10",
+   "summary": "天文学者たちが太陽系外の惑星から電波信号を初めて検出することに成功しました。これまで系外惑星の観測は主に光学望遠鏡で行われていましたが、電波による直接検出は新しい可能性を開くもの。この発見により、惑星の磁場や大気、さらには生命の痕跡を探索する新たな手段が確立される可能性があります。"
+  },
+  {
+   "slug": "2026-10-10-43",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-43.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-43.html",
+   "title": "なぜ繰り返される？だんじり祭りの横転事故、今年も2人死亡",
+   "title_en": "Why Do Danjiri Festival Accidents Keep Happening? Two More Dead This Year",
+   "category": "国内",
+   "published": "2026-10-10",
+   "summary": "大阪府内で開催された伝統的な「だんじり祭り」でだんじりの横転事故が複数発生し、泉佐野市と泉大津市で合わせて2人が死亡した。毎年多くの見物客が訪れる秋の風物詩だが、事故防止対策と安全管理のあり方が改めて問われている。"
+  },
   {
    "slug": "2026-10-10-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-42.html",
