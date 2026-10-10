@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2393,
+ "count": 2394,
  "articles": [
+  {
+   "slug": "2026-10-10-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-10-42.html",
+   "title": "ティラノサウルスがゲレンデを全力疾走！？恐竜着ぐるみレースが福井で開催されたんだが、これもう陸上競技じゃなくて何かの儀式では？",
+   "title_en": "T-Rex Racing Up the Slopes: Japan's Most Absurd Winter Sport Just Arrived (But It's Actually Genius Marketing)",
+   "category": "コラム",
+   "published": "2026-10-10",
+   "summary": "福井県勝山市のスキー場で、ティラノサウルスなどの恐竜の着ぐるみを身に纏った参加者たちがゲレンデを駆け上がるという、謎のエキスポーザルイベントが開催された。恐竜好きと運動好きが融合した、新しい形の地域活性化プロジェクトのようだ。"
+  },
   {
    "slug": "2026-10-10-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-41.html",
