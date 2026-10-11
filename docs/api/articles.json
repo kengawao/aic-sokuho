@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2415,
+ "count": 2436,
  "articles": [
+  {
+   "slug": "2026-10-11-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-20.html",
+   "title": "ゴー☆ジャス、娘に職業秘密だった…親は子に何まで隠す？",
+   "title_en": "When Should Parents Tell Kids What They Do? The Go★Jas Case",
+   "category": "コラム",
+   "published": "2026-10-11",
+   "summary": "お笑いコンビ・ゴー☆ジャスのボケ担当が、娘さんに自分の職業を秘密にしていたことが明かされた。子どもの頃は親が何をしているのか知らなかったというエピソードで、親と子の関係性や情報開示のタイミングについて考えさせられる話題に。有名人ならではの子育ての工夫が垣間見えます。"
+  },
+  {
+   "slug": "2026-10-11-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-19.html",
+   "title": "なぜソフトバンクは「山川外し」で3連覇を成し遂げたのか？采配の理論と結果",
+   "title_en": "Why Did SoftBank Hawks Win 3 Straight Championships by Benching Yamakawa?",
+   "category": "スポーツ",
+   "published": "2026-10-11",
+   "summary": "ソフトバンクホークスが日本シリーズで3連覇を達成した背景として、主力選手・山川穂高を起用しない采配が注目されている。この戦略的な選手起用の判断が、チーム全体の機動力や投手力とのバランスをどのように改善し、優勝に結びついたのかを分析する動き。通常の常識的な起用法を敢えて外すことで、得られた効果と限界について野球関係者の間で議論が広がっている。"
+  },
+  {
+   "slug": "2026-10-11-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-18.html",
+   "title": "解任された東京V監督、なぜ福岡に？J1の監督市場で何が起きているのか",
+   "title_en": "Why Would Fukuoka Sign a Manager Just Fired by Tokyo Verdy? What's Happening in Japan's Manager Market",
+   "category": "スポーツ",
+   "published": "2026-10-11",
+   "summary": "J1リーグの福岡が東京ヴェルディを解任された監督にオファーを出したことが明らかになった。東京Vでの成績不振を理由に交代となった同監督の招聘は、福岡の現在地と求める方向性を示す人事として注目される。J1の監督市場における即戦力獲得の動きが加速している。"
+  },
+  {
+   "slug": "2026-10-11-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-17.html",
+   "title": "毎月15日に割引・ポイント還元が集中するのはなぜ? 消費者と企業の思惑が一致する日",
+   "title_en": "Why Do Discounts and Loyalty Points Concentrate Around the 15th? The Hidden Strategy Behind Monthly Consumer Behavior",
+   "category": "経済",
+   "published": "2026-10-11",
+   "summary": "毎月15日前後に割引やポイント還元キャンペーンが集中する現象について、その背景を探る記事。給与日や消費行動のパターン、企業側の販売戦略など、消費者心理と流通業界の事情が絡み合う構造を解説。小売業やクレジットカード会社の意図的な施策が、購買行動を大きく左右している実態が明らかになる。"
+  },
+  {
+   "slug": "2026-10-11-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-16.html",
+   "title": "2027年3月に「ふるさと住民」制度スタート、地方創生の切り札になるのか？",
+   "title_en": "Will Japan's New 'Furusato Resident' System Starting March 2027 Save Rural Communities?",
+   "category": "国内",
+   "published": "2026-10-11",
+   "summary": "政府が2027年3月の開始を目指す「ふるさと住民」制度が検討されている。これは都市部の住民が地方の自治体に登録し、ふるさと納税のような仕組みで地域に関わる新しい制度。本住所は保持しつつ、複数の「ふるさと」を持つことで、地方への人的・経済的な交流を増やすねらいがある。"
+  },
+  {
+   "slug": "2026-10-11-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-15.html",
+   "title": "西山白玲、棋士資格の行使を保留。将棋界の新星が選んだ判断とは",
+   "title_en": "What's Behind Nishiyama Hakurei's Decision to Hold Off on Accepting Shogi Professional Status?",
+   "category": "スポーツ",
+   "published": "2026-10-11",
+   "summary": "将棋の若手有力者・西山白玲が、棋士になる権利の行使を一時的に保留することを表明した。棋士資格を得られる立場にありながら、敢えてこのタイミングで行使しない判断を下した背景には、キャリアパスや今後の活動方針に関する本人の深い検討があるとみられる。将棋界での新しい選択肢の出現を象徴する事例として注目される。"
+  },
+  {
+   "slug": "2026-10-11-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-14.html",
+   "title": "米軍基地銃乱射事件、死刑執行をライブ配信へ。13人を殺害した元軍医の刑執行が一般公開される異例の決定",
+   "title_en": "US Military to Livestream Execution of Army Doctor Who Killed 13 at Base: An Unprecedented Decision on Justice and Public Access",
+   "category": "国際",
+   "published": "2026-10-11",
+   "summary": "2009年にテキサス州の米軍基地で銃を乱射し13人を殺害した元軍医に対する銃殺刑について、米国防長官が執行をライブ配信する方針を発表した。死刑判決を受けた被告人の刑執行を一般市民が視聴できるようにするという異例の決定で、米国における死刑制度と情報公開の在り方に関わる重要な判断として注目されている。"
+  },
+  {
+   "slug": "2026-10-11-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-13.html",
+   "title": "『ゴキブリ党』の創設者がインドで拘束される　政治団体の名称をめぐって波紋",
+   "title_en": "Cockroach Party Founder Arrested in India: Political Satire Faces State Crackdown",
+   "category": "国際",
+   "published": "2026-10-11",
+   "summary": "インドでゴキブリという名称の政治団体『ゴキブリ党』の創設者が当局に拘束されたと報じられています。同団体は社会的課題への風刺的なアプローチで知られていましたが、当局は拘束理由について明らかにしていません。ユニークな政治表現が当局の反発を招いたのか、詳細が注目されています。"
+  },
+  {
+   "slug": "2026-10-11-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-12.html",
+   "title": "米国がICCに制裁発表、同盟国も反対表明へ。国際司法制度の転機が来るのか？",
+   "title_en": "US Slaps Sanctions on ICC as Allies Distance Themselves: Is the International Justice System Collapsing?",
+   "category": "国際",
+   "published": "2026-10-11",
+   "summary": "トランプ米政権がICC（国際刑事裁判所）に対する制裁措置を発表した。米国はICCを「暴走機関」と位置づけ、解体へ向けた圧力を強化している。一方、イギリスや日本を含む複数の加盟国は制裁に強く反対する立場を表明。国際的な司法体制の在り方をめぐり、先進国間の足並みの乱れが鮮明になっている。"
+  },
+  {
+   "slug": "2026-10-11-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-11.html",
+   "title": "ウクライナ南部で子ども含む20人以上が犠牲に—ゼレンスキー大統領がエネルギー供給問題で対ロシア戦略を加速",
+   "title_en": "Over 20 Killed in Russian Attacks on Southern Ukraine as Zelenskyy Eyes Energy Strategy Against Moscow",
+   "category": "国際",
+   "published": "2026-10-11",
+   "summary": "ウクライナ南部でロシア軍による攻撃が続き、10日にかけて子どもを含む20人以上が死亡した。ゼレンスキー大統領はアメリカのトランプ政権とロシア側との燃料供給をめぐる合意に言及し、ロシアの戦争継続能力を削ぐ戦略を検討している。民間人の被害が拡大する中、エネルギー問題がウクライナの防衛戦略における新たな焦点となっている。"
+  },
+  {
+   "slug": "2026-10-11-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-10.html",
+   "title": "サウジアラビア首都の空港で攻撃、12人死亡　中東の緊張が再び高まる",
+   "title_en": "Attack on Saudi Arabia's Capital Airport Kills 12, Regional Tensions Escalate",
+   "category": "国際",
+   "published": "2026-10-11",
+   "summary": "サウジアラビアの首都リヤドにある空港が攻撃を受け、12人が死亡したとの報道。事件の詳細や犯人については調査が進められている。中東地域の不安定性を示す出来事として、国際的な関心が集まっており、今後の情勢展開が注視されている。"
+  },
+  {
+   "slug": "2026-10-11-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-9.html",
+   "title": "新聞購読率が初めて5割割れ　紙メディアの時代は本当に終わるのか",
+   "title_en": "Newspaper Subscription Rate Falls Below 50% for the First Time: Is Print Media Really Dying?",
+   "category": "経済",
+   "published": "2026-10-11",
+   "summary": "日本の新聞購読率が初めて50%を下回ったことが明らかになった。デジタル化やスマートフォンの普及により、紙媒体から情報を得る人の割合が急速に減少している。新聞業界は経営基盤の縮小に直面しており、今後の存続戦略が問われている状況だ。"
+  },
+  {
+   "slug": "2026-10-11-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-8.html",
+   "title": "卓球・佐藤瞳が決勝進出！快進撃の舞台裏に何が？",
+   "title_en": "Table Tennis Star Satoh Hitomi Advances to Finals—What's Behind Her Remarkable Run?",
+   "category": "スポーツ",
+   "published": "2026-10-11",
+   "summary": "卓球の佐藤瞳選手が大会で快進撃を続け、決勝戦への進出を決めた。次々と強豪選手を破っての勝ち進みとなり、注目を集めている。決勝での対戦相手や優勝への可能性に期待が高まっている。"
+  },
+  {
+   "slug": "2026-10-11-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-7.html",
+   "title": "85歳のピレイ元ICC判事がノーベル平和賞受賞へ　本人も「冗談だと思った」と笑顔",
+   "title_en": "85-Year-Old Navaneethakrishnan Pillai Wins Nobel Peace Prize—Even He Thought It Was a Joke",
+   "category": "国際",
+   "published": "2026-10-11",
+   "summary": "ノルウェーのノーベル委員会は、2026年のノーベル平和賞をナヴァネセム・ピレイ国際刑事裁判所元判事に授与すると発表した。平和と国際法の促進への貢献が評価された。ピレイ氏は受賞の報を聞いて最初は冗談だと思ったと語り、受賞を「国際犯罪の全ての生存者」に捧げるとコメントしている。"
+  },
+  {
+   "slug": "2026-10-11-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-6.html",
+   "title": "元AKB48・内田眞由美が結婚発表　卒業後の活動は？",
+   "title_en": "Former AKB48 Member Uchida Mayumi Announces Marriage - What's Next for Her Career?",
+   "category": "エンタメ",
+   "published": "2026-10-11",
+   "summary": "元AKB48のメンバーだった内田眞由美が結婚を発表した。AKB48は国内最大級のアイドルグループとして知られ、多くのメンバーがグループ卒業後も芸能界で活動を続けている。内田眞由美の結婚発表により、ファンや業界関係者から様々な反応が寄せられている。今後の芸能活動の方向性が注目されている。"
+  },
+  {
+   "slug": "2026-10-11-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-5.html",
+   "title": "FRUITS ZIPPER仲川瑠夏が活動休止へ、アイドルグループに何が起きたのか",
+   "title_en": "FRUITS ZIPPER's Ruka Nakagawa Takes Hiatus: What's Behind This Decision?",
+   "category": "エンタメ",
+   "published": "2026-10-11",
+   "summary": "アイドルグループFRUITS ZIPPERのメンバー仲川瑠夏が活動を休止することが明らかになった。詳細な理由については現在のところ公式発表待ちの状況だが、ファンからは驚きと心配の声が上がっている。同グループの活動や他メンバーへの影響についても注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-11-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-4.html",
+   "title": "アパレル業界が危機的状況に…倒産増加の背景に何があるのか？",
+   "title_en": "Why Is Japan's Apparel Industry in Crisis? Understanding the Wave of Bankruptcies",
+   "category": "経済",
+   "published": "2026-10-11",
+   "summary": "アパレル製造・卸売業での倒産件数が増加している。背景には、消費者の購買行動の変化、EC市場の急速な拡大に対応できない中小企業、過剰在庫、円安による仕入れコスト上昇など、複合的な要因が存在。かつての大手企業も経営危機に陥るなど、業界全体の構造的な課題が深刻化している状況が報告されている。"
+  },
+  {
+   "slug": "2026-10-11-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-3.html",
+   "title": "卸売業者が告白、カルテル疑惑の実態とは？業界に衝撃走る",
+   "title_en": "Wholesale Supplier Breaks Silence: What's Really Behind the Cartel Scandal?",
+   "category": "経済",
+   "published": "2026-10-11",
+   "summary": "業界のカルテル疑惑について、卸売業者が初めて具体的な証言に応じた。複数企業による価格協定や取引条件の調整など、実態が明らかになりつつある。公正取引委員会の調査も進む中、業界全体への影響が懸念される状況となっている。"
+  },
+  {
+   "slug": "2026-10-11-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-2.html",
+   "title": "障害者50人が9カ月で次々と雇用打ち切り。企業の本音とは",
+   "title_en": "50 People with Disabilities Had Employment Terminated in Just 9 Months. What Are Companies Hiding?",
+   "category": "国内",
+   "published": "2026-10-11",
+   "summary": "ある企業で障害者50人が9ヶ月の短期間に相次いで雇用を打ち切られていたことが判明した。法定雇用率の達成が目的で、その後の解雇が相次いでいた可能性が指摘されている。障害者雇用の実態と企業の姿勢が問われている。"
+  },
+  {
+   "slug": "2026-10-11-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-1.html",
+   "title": "毎日湯船に浸かるべき？親が知るべき子どもの入浴習慣の実態",
+   "title_en": "Should Kids Bathe Daily? What Parents Really Need to Know",
+   "category": "健康",
+   "published": "2026-10-11",
+   "summary": "子どもの入浴習慣について、毎日湯船に浸かることの必要性が議論されている。肌の乾燥や皮膚トラブル、睡眠への影響など、入浴頻度と子どもの健康の関係について専門家の見方をまとめた記事。親世代の常識と現代の医学的知見にズレがあることも指摘されている。"
+  },
+  {
+   "slug": "2026-10-11-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-11-0.html",
+   "title": "アルツハイマー病の原因物質を薬で減らすことに成功？東大の最新研究が示す希望",
+   "title_en": "Tokyo University Breakthrough: Drug May Reduce Alzheimer's-Causing Protein in Brain",
+   "category": "科学",
+   "published": "2026-10-11",
+   "summary": "東京大学などの研究グループが、脳内の老廃物排出機能を薬で活性化させることで、アルツハイマー病の主原因であるたんぱく質の蓄積を抑制できることをマウス実験で実証しました。これまで治療法が限定的だった神経変性疾患に対し、新しいアプローチが可能性を示した形です。今後ヒトでの臨床試験へ向けた展開が注目されます。"
+  },
   {
    "slug": "2026-10-10-63",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-10-63.html",
