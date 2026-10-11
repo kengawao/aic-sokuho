@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2436,
+ "count": 2456,
  "articles": [
+  {
+   "slug": "2026-10-12-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-19.html",
+   "title": "紫の芋「ウベ」が世界制覇？日本人が知らない間に食卓侵略作戦が進行中",
+   "title_en": "Is Purple Sweet Potato 'Ube' Taking Over the World? Japan Might Be Left Behind",
+   "category": "コラム",
+   "published": "2026-10-12",
+   "summary": "フィリピン発祥の紫色の芋「ウベ」が、世界的なトレンドになっているという。スターバックスなどの大手チェーンもウベを使ったメニューを展開し、SNSでも話題沸騰。日本ではまだ認知度が低いが、グローバルな食ブームの波に乗って、今後さらに広がる可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-10-12-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-18.html",
+   "title": "専門家も予想外？コウノトリが相次ぎ目撃される背景に何が",
+   "title_en": "Japanese White Stork Sightings Surge: What's Behind the Wildlife's Unexpected Comeback?",
+   "category": "科学",
+   "published": "2026-10-12",
+   "summary": "全国でコウノトリの目撃情報が相次いでいる。かつて日本から絶滅した同種は、近年の保護活動により個体数が回復しつつあるが、専門家も今回の多数目撃には驚きを隠せない状況。目撃地域や時期から、その理由を探る動きが広がっている。"
+  },
+  {
+   "slug": "2026-10-12-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-17.html",
+   "title": "深刻な運転手不足、物流業界が外国人採用に活路？実現の課題は何か",
+   "title_en": "Logistics Industry Turns to Foreign Drivers Amid Severe Labor Shortage—But What Are the Real Challenges?",
+   "category": "経済",
+   "published": "2026-10-12",
+   "summary": "人手不足が深刻化する物流業界で、外国人運転手の採用拡大が進む動きが出ている。高齢化と若年層の就業希望者減少で、国内だけでは必要な人員確保が難しくなる中、特定技能制度などの枠組みを活用した採用が増加。ただし言語や安全教育、労働環境の整備など、実現に向けた課題も多い。"
+  },
+  {
+   "slug": "2026-10-12-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-16.html",
+   "title": "TSMC熊本進出で日本の半導体人材はどこへ？高給に引かれ流出の懸念",
+   "title_en": "TSMC's Japan Expansion Threatens Brain Drain: Will Japanese Semiconductor Engineers Choose Higher Salaries Over Domestic Industry?",
+   "category": "経済",
+   "published": "2026-10-12",
+   "summary": "TSMCの日本進出により、半導体産業における人材獲得競争が激化している。高い給与水準を提示するTSMCに国内企業の優秀な技術者が流出する可能性が指摘されている。日本の半導体復興を掲げながらも、産業全体の人材基盤が揺らぎかねない構造的問題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-12-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-15.html",
+   "title": "企業のサイバー攻撃相談が急増、何が起きている？",
+   "title_en": "Cybersecurity Threats Surge: Why Companies Are Scrambling for Defense?",
+   "category": "IT",
+   "published": "2026-10-12",
+   "summary": "サイバーセキュリティ関連の相談件数が急速に増加している。ランサムウェアやデータ流出など、企業への脅威が深刻化する中、防御サービスへの需要が高まっている。中小企業から大手まで、対策の強化を急ぐ動きが広がっており、専門業者の受注も急増しているという状況が報じられている。"
+  },
+  {
+   "slug": "2026-10-12-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-14.html",
+   "title": "91歳ローマ教皇が肺手術へ。高齢でも大丈夫なのか？",
+   "title_en": "Pope Francis, 91, to Undergo Lung Surgery: Can He Handle It?",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "ローマ教皇フランシスコが肺のしこり切除のため手術を受けることが明らかになった。91歳という高齢での手術となるため、健康状態や今後の公務への影響について注目が集まっている。バチカンは詳細な病状については明かしていない。"
+  },
+  {
+   "slug": "2026-10-12-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-13.html",
+   "title": "ドイツ情報機関トップが逮捕される？何が起きたのか",
+   "title_en": "German Intelligence Chief Arrested: What Happened and Why It Matters",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "ドイツの元情報機関トップが逮捕されたというニュースが報道され、国内外で大きな衝撃を呼んでいます。情報機関の指導部に関わる逮捕は極めて異例であり、ドイツ政治と国家安全保障に関する重要な局面を示唆しています。事件の詳細や背景については、現在も調査が進められている状況です。"
+  },
+  {
+   "slug": "2026-10-12-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-12.html",
+   "title": "サウジアラビア首都空港が攻撃される、12人死亡300人以上負傷。中東の緊張がさらに高まるおそれ",
+   "title_en": "Attack on Saudi Capital's Airport Kills 12, Injures 300+: Middle East Tensions Set to Escalate",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "サウジアラビアの首都リヤドにある国際空港が攻撃を受け、12人が死亡、300人以上が負傷する事態が発生しました。サウジアラビア当局は敵対するイエメンの反政府勢力フーシ派によるテロ行為と指摘しており、今後の報復措置が懸念されています。中東地域の不安定性が一層深刻化する可能性があります。"
+  },
+  {
+   "slug": "2026-10-12-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-11.html",
+   "title": "ジブチ沖で移民船転覆、100人超が死亡 地中海だけじゃない難民の悲劇",
+   "title_en": "Over 100 Dead in Migrant Boat Tragedy Off Djibouti: The Humanitarian Crisis Beyond the Mediterranean",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "アフリカ北東部のジブチ沖で移民を乗せた船が転覆し、100人以上が死亡する事故が発生した。この海域はイエメンへ向かう難民・移民の重要な経路となっており、過密状態の船での移動は常態化している。国際機関も懸念を強めており、根本的な難民問題の解決が急務とされている。"
+  },
+  {
+   "slug": "2026-10-12-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-10.html",
+   "title": "露とウクライナがエネルギー停戦で合意か？戦闘下での異例の交渉が進行中",
+   "title_en": "Russia and Ukraine in Energy Ceasefire Talks? Rare Negotiations Amid Ongoing Conflict",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "ロシアとウクライナが、エネルギーインフラを巡る停戦合意の協議を進めているとの報道。両国は戦闘が続く中、冬季の電力・ガス供給という人道的課題での限定的な協力を模索している可能性がある。実現すれば、対立下での実利的な合意として注目される。"
+  },
+  {
+   "slug": "2026-10-12-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-9.html",
+   "title": "恋愛感情で判断した個人M&Aが大失敗？「盲目的な決定」がもたらした悲劇",
+   "title_en": "Personal M&A Gone Wrong: How Emotional Judgment Leads to Massive Financial Loss",
+   "category": "経済",
+   "published": "2026-10-12",
+   "summary": "事業買収や投資判断において、感情的な判断が優先されたことで多額の損失を被ったケースが報告されている。特に人間関係や好意が絡む場合、冷静な経営判断が失われやすいという指摘。個人投資家が企業買収に乗り出す際、デューデリジェンスの重要性が改めて浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-12-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-8.html",
+   "title": "東京37日連続雨、なぜこんなに続いた？気象庁も異例と認める事態",
+   "title_en": "Tokyo's 37-Day Rain Streak: What Caused This Rare Weather Phenomenon?",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "東京都心で37日間にわたって連続で雨が降る異例の気象現象が発生した。この長期間の降雨がもたらした背景には、太平洋高気圧とチベット高気圧の二つの高気圧が重なり、その間に湿った空気が流れ込み続けたという特殊な大気の状態があったと考えられる。気象庁によれば、このような長期連続降雨は統計記録上でも稀な現象だという。"
+  },
+  {
+   "slug": "2026-10-12-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-7.html",
+   "title": "『まだ大丈夫だろう』が命取り？子宮体がん、受診先延ばしで後悔する女性たち",
+   "title_en": "Delaying Your Appointment Could Cost Your Life: Women with Uterine Cancer Express Regret Over Postponed Visits",
+   "category": "健康",
+   "published": "2026-10-12",
+   "summary": "子宮体がんの診断を受けた患者が、初期段階での受診を先延ばしにしたことを後悔する事例が報告されている。早期発見の重要性や、女性が医療機関を受診する際の心理的障壁、さらには検診啓発の課題などが浮かび上がる。医学的には早期発見で生存率が大きく向上することが知られており、症状の見過ごしや受診躊躇が予後に大きく影響する可能性がある。"
+  },
+  {
+   "slug": "2026-10-12-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-6.html",
+   "title": "サケ密漁が止まらない…被害額・検挙件数は過去最悪レベル？地元漁業者の怒りが爆発",
+   "title_en": "Illegal Salmon Fishing Crisis: Local Fishermen's Anger Reaches Breaking Point",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "北海道や東北地域で相次ぐサケの密漁が深刻化している。資源管理を担う漁協や地元漁業者からは、不正漁獲による経営圧迫への怒りが高まっている。密漁の背景には何があるのか、当局の対応は十分か。地域経済を支える水産資源の危機的状況が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-12-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-5.html",
+   "title": "なぜ今、平屋が選ばれるのか？新築の平屋率が増加、耐震性が決め手に",
+   "title_en": "Why Are Single-Story Homes Making a Comeback? Rising Demand for Earthquake Resilience",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "新築住宅における平屋の割合が増加傾向にあるという。背景には、耐震性への関心の高まりがあるとされている。地震が多い日本で、平屋は揺れに強く、構造が安定しているという利点が再評価されている。また、バリアフリーや高齢化社会への対応といった暮らしやすさも、選択の理由となっているようだ。"
+  },
+  {
+   "slug": "2026-10-12-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-4.html",
+   "title": "ビットコイン大暴落から1年、市場は本当に回復しているのか？",
+   "title_en": "One Year After Bitcoin's Crash: Is the Market Really Recovering?",
+   "category": "経済",
+   "published": "2026-10-12",
+   "summary": "1年前の大幅な下落から時間が経過したビットコイン市場について、流動性の回復状況が注目されている。機関投資家の参入増加や取引量の上昇が見られる一方で、市場の安定性や規制環境の動向が今後の価格形成に影響を与える見通し。仮想通貨市場の成熟度が問われている。"
+  },
+  {
+   "slug": "2026-10-12-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-3.html",
+   "title": "30～40代女性に体力低下傾向…スマホ時代の運動不足が深刻化？",
+   "title_en": "Women in Their 30s and 40s Showing Fitness Decline—Is the Smartphone Era Taking Its Toll?",
+   "category": "健康",
+   "published": "2026-10-12",
+   "summary": "最近の調査で30～40代の女性に体力低下が顕著に見られることが明らかになった。仕事や育児で忙しい世代が運動習慣を失い、筋力や持久力が低下している実態が浮き彫りになっている。専門家は定期的な運動の重要性を指摘しており、今後の健康寿命への影響が懸念されている。"
+  },
+  {
+   "slug": "2026-10-12-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-2.html",
+   "title": "玄関先でまさかの遭遇　クマの襲撃で眼球破裂、生死の境をさまよった人間ドラマ",
+   "title_en": "Bear Attack at Front Door Leaves Victim with Ruptured Eye—A Brush with Death at Home",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "住宅の玄関先でクマに襲われ、眼球破裂という重傷を負う事案が発生した。クマとの予期しない遭遇は、安全と思われていた自分の家の敷地内でも起こり得る危険性を改めて浮き彫りにした。被害者の回復と今後の野生動物対策が注目されている。"
+  },
+  {
+   "slug": "2026-10-12-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-1.html",
+   "title": "藤田ニコルが不妊治療の本当のところを明かした、その内容とは",
+   "title_en": "Nicolai Fujita Reveals the Hidden Realities Behind Infertility Treatment",
+   "category": "エンタメ",
+   "published": "2026-10-12",
+   "summary": "タレントの藤田ニコルが自身の不妊治療経験について言及し、一般には知られていない治療の実態や心身の負担について語った。SNSやメディアでの発信を通じ、同じ悩みを抱える人たちへの理解促進と情報提供を目指した内容となっている。"
+  },
+  {
+   "slug": "2026-10-12-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-0.html",
+   "title": "電車内で心臓発作、乗客たちの8分間の救命リレーが男性を救う",
+   "title_en": "Passengers Unite in 8-Minute Lifesaving Relay After Commuter's Cardiac Emergency on Train",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "走行中の電車内で乗客が心臓発作を起こした際、居合わせた複数の乗客が協力して応急手当を実施。119番通報から医療機関到着まで約8分間、AED使用や心肺蘇生など次々とバトンを渡すように対応し、患者の命が救われたというニュース。一般市民による連携した救急対応の重要性が改めて浮き彫りになった。"
+  },
   {
    "slug": "2026-10-11-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-11-20.html",
