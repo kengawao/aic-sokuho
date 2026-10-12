@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2478,
+ "count": 2499,
  "articles": [
+  {
+   "slug": "2026-10-13-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-21.html",
+   "title": "東海オンエアのりょう、ついに結婚報告！YouTuber界の独身貴族が遂に陥落か",
+   "title_en": "Ryo from Tokai On Air Finally Ties the Knot—The Unexpected Marriage That Shook YouTube Japan",
+   "category": "コラム",
+   "published": "2026-10-13",
+   "summary": "YouTubeの人気グループ・東海オンエアのメンバーであるりょうが結婚を報告した。動画投稿で日頃からファンと接する彼の人生の大きな転機が話題となっており、ファン界隈では祝福と驚きの声が相次いでいる。"
+  },
+  {
+   "slug": "2026-10-13-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-20.html",
+   "title": "北朝鮮ミサイルに『変則飛行』の兆候？専門家が指摘する新たな脅威とは",
+   "title_en": "North Korean Missile Shows 'Irregular Flight Pattern'—What Does It Mean for Regional Defense?",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "北朝鮮が発射したミサイルの一部に、従来と異なる変則的な飛行パターンが観測されたという報道。防衛当局の分析によると、通常の弾道軌道を逸脱した軌跡を描いており、新たな技術導入の可能性が指摘されている。ミサイル防衛システムの有効性に関わる重要な情報として注視されている。"
+  },
+  {
+   "slug": "2026-10-13-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-19.html",
+   "title": "新庄剛志の『偽装スクイズ』が大一番で炸裂　野球の奥深さを見せた采配とは",
+   "title_en": "Shinjo's Bold 'Fake Squeeze' Play Ignites Big Game Strategy Debate",
+   "category": "スポーツ",
+   "published": "2026-10-13",
+   "summary": "北海道日本ハムファイターズの新庄剛志監督が、重要な試合で偽装スクイズのプレーを成功させた。バントの構えをみせながら実は打つという高度な戦術が決まり、相手投手の予想を完全に裏切る采配が話題となっている。野球の読み合いの面白さが凝縮された一場面として、野球ファンから評価を集めている。"
+  },
+  {
+   "slug": "2026-10-13-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-18.html",
+   "title": "店員への社販強要、実はパワハラに当たる可能性も？ 労働法の専門家が見解",
+   "title_en": "Is Forcing Employees to Buy Company Products Workplace Harassment? Legal Experts Weigh In",
+   "category": "経済",
+   "published": "2026-10-13",
+   "summary": "小売店や飲食店などで店員に対し、企業の商品を従業員割引で購入させる「社販強要」がパワハラに該当するかどうかが議論になっている。労働法の専門家からは、強制性や拒否した際の扱いによっては違法な職場いじめに当たり得るという見解が出ている。職場環境と労働者の経済的負担の関係が改めて問われている。"
+  },
+  {
+   "slug": "2026-10-13-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-17.html",
+   "title": "クマ出没で学校休校、いつまで続く？教育現場が直面する難題",
+   "title_en": "When Will Schools Reopen? How Japan's Educational System Grapples with Bear Encounters",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "クマの出没が相次ぐ地域で、学校の休校判断に困惑が広がっている。児童の安全確保と教育機会の確保のバランスに悩む教育委員会。気象庁などの基準が明確でないため、各自治体が独自に判断を迫られている状況が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-13-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-16.html",
+   "title": "平良、MLB挑戦の道は開かれるのか？西武本部長がついに言及",
+   "title_en": "Will Taira Get His MLB Shot? Seibu Front Office Finally Weighs In",
+   "category": "スポーツ",
+   "published": "2026-10-13",
+   "summary": "西武ライオンズの本部長が、MLB志望を表明している平良海馬投手について公式にコメントした。日本球界の有望若手がメジャー移籍を目指す中、球団側がどのようなスタンスを示すのかが注目されている。国内有力投手のメジャー流出と、球団の選手育成方針の在り方が改めて問われている。"
+  },
+  {
+   "slug": "2026-10-13-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-15.html",
+   "title": "2日連続攻撃、死傷者も。中東の緊張が再び高まる",
+   "title_en": "Saudi Airport Attacked Again: Middle East Tensions Escalate",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "サウジアラビアの首都リヤドの国際空港が、イエメンのフーシ派による攻撃を2日連続で受けた。最新の攻撃では1人が死亡し、11人が負傷。同国と周辺地域の不安定な政治情勢が改めて浮き彫りになった形で、今後の対応が注視されている。"
+  },
+  {
+   "slug": "2026-10-13-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-14.html",
+   "title": "ロシアはブレグジット投票に干渉した、英首相が初めて公言…いま欧州全域で同じことが起きている",
+   "title_en": "UK PM Confirms Russia Interfered in Brexit Vote—and Warns It's Happening Now Across Europe",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "英国のバーナム首相は、2016年のブレグジット国民投票にロシアが干渉したことは「明確」だと述べた。首相がこうした発言をするのは初めて。さらに同様の干渉活動が現在フランスやドイツでも行われていると警告し、欧州全体が情報戦の脅威に直面していることを改めて浮き彫りにした。"
+  },
+  {
+   "slug": "2026-10-13-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-13.html",
+   "title": "トランプ氏が突然発表した「エネルギー停戦」、ロシアは沈黙のままなぜ？",
+   "title_en": "Trump Announces Russia-Ukraine 'Energy Ceasefire'—But Why Is Moscow Silent?",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "トランプ米大統領がロシアとウクライナの「エネルギー停戦」合意を発表し、即時発効すると主張した。ゼレンスキー・ウクライナ大統領は条件付きで支持の意向を示したものの、ロシア政府からは今のところ公式なコメントがない。詳細な合意内容は明かされていない状況だ。"
+  },
+  {
+   "slug": "2026-10-13-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-12.html",
+   "title": "欧州首脳が次々とキーウ訪問、ウクライナへの連帯姿勢を強化する背景は？",
+   "title_en": "Why Are European Leaders Making Surprise Visits to Kyiv to Show Solidarity with Ukraine?",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "欧州の主要首脳らがウクライナを訪問し、ロシアの侵攻に対する連帯と支援を表明している。EUと北大西洋条約機構（NATO）の指導部による相次ぐ訪問は、ウクライナの独立維持と戦後復興を巡る国際的な政治的コミットメントを示すものとなっている。"
+  },
+  {
+   "slug": "2026-10-13-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-11.html",
+   "title": "中露朝が同時に日本批判、背景に何がある？政府が警戒強める",
+   "title_en": "Why Are China, Russia, and North Korea Coordinating Japan Criticism?",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "中国、ロシア、北朝鮮が連動して日本に対する批判を展開している動きが報じられ、日本政府が警戒を強めている。これまで個別に対立関係にあった三国が、日本を共通の批判対象として取り上げることで、国際的な結束を示そうとしている可能性が指摘されている。日本の外交・防衛政策に対する圧力の高まりが懸念されている。"
+  },
+  {
+   "slug": "2026-10-13-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-10.html",
+   "title": "AIが悪用される時代、サイバー攻撃はどこまで進化するのか",
+   "title_en": "How Far Will AI-Powered Cyber Attacks Evolve in the Coming Years?",
+   "category": "IT",
+   "published": "2026-10-13",
+   "summary": "近年、サイバー攻撃の件数と規模が急速に増加しており、その背景にAI技術の活用が大きく関係していると指摘されている。AIを使うことで攻撃の自動化や精密化が進み、防御側の対応が追いつかなくなっているという実態が浮き彫りになっている。企業や組織のセキュリティ対策の重要性がさらに高まっている。"
+  },
+  {
+   "slug": "2026-10-13-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-9.html",
+   "title": "あなたの日常も知らぬ間に流出？『setlog』流行の裏側で何が起きているのか",
+   "title_en": "Is Your Daily Life Being Logged Without Your Knowledge? The Hidden Risks Behind 'setlog'",
+   "category": "IT",
+   "published": "2026-10-13",
+   "summary": "SNS上で流行中の『setlog』機能について、個人情報の漏洩リスクが指摘されている。日常の何気ない写真や位置情報が記録・共有される仕組みについて、専門家が警告を発している。特に若年層の利用が増える中、プライバシー設定の落とし穴が問題視されている状況。"
+  },
+  {
+   "slug": "2026-10-13-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-8.html",
+   "title": "モヤシ生産者が急減、ラーメン店が悲鳴　なぜ日本の食卓から消える？",
+   "title_en": "Japan's Bean Sprout Crisis: Why Ramen Shops Are Struggling to Find This Cheap Staple",
+   "category": "経済",
+   "published": "2026-10-13",
+   "summary": "モヤシの生産者が年々減少し、供給不足に陥っている。安価で栄養価の高い食材として親しまれてきたモヤシだが、生産の労力の割に利益が低いため、採算が取れなくなった生産者の廃業が相次いでいる。特にラーメン店や外食産業に大きな影響が出ており、食材確保に頭を悩ませている。"
+  },
+  {
+   "slug": "2026-10-13-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-7.html",
+   "title": "「やりがい搾取」の限界――介護職員の給与問題、どうなる介護報酬",
+   "title_en": "The Limits of \"Passion-Based Exploitation\"—Japan's Care Worker Wage Crisis",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "介護職員の給与が他業種と比べて相対的に低いまま続いている。専門家は「やりがいだけに頼るのは職員にとって限界がある」と指摘。物価高騰の中で生活が苦しくなり、転職を検討する職員も増えており、介護現場の人材確保が深刻な課題となっている。"
+  },
+  {
+   "slug": "2026-10-13-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-6.html",
+   "title": "経営判断までAIに頼る時代へ？日立が新サービス開始、CEO層の仕事が変わる",
+   "title_en": "AI Now Advises CEOs on Strategy: Japan's Hitachi Launches New Decision-Support Service",
+   "category": "IT",
+   "published": "2026-10-13",
+   "summary": "日立製作所がAIを活用した新サービスを開始。競合他社の経営計画や市場データを分析し、経営層に対して自社の取るべき戦略をアドバイスする仕組みだ。これまでAIは業務効率化や定型業務の自動化が主流だったが、経営の中枢に関わる意思決定支援へと活用の範囲が広がっている。企業の競争力強化を狙う一方で、人間の経営判断の役割をどう位置づけるかが課題となりそうだ。"
+  },
+  {
+   "slug": "2026-10-13-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-5.html",
+   "title": "エルニーニョ現象が加速中…水温が過去最高を記録、私たちの生活はどう変わる？",
+   "title_en": "El Niño Intensifying: Ocean Temperatures Hit Record Highs—What Does This Mean for Us?",
+   "category": "科学",
+   "published": "2026-10-13",
+   "summary": "世界的な気象現象であるエルニーニョが強まっており、海水温が観測史上最高を更新したことが報告されました。太平洋の水温上昇に伴い、気候パターンの変化が予想され、農作物の収穫やエネルギー需給、さらには異常気象の増加など、経済や生活に様々な影響をもたらす可能性があります。専門家は今後の動向に注視が必要だと指摘しています。"
+  },
+  {
+   "slug": "2026-10-13-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-4.html",
+   "title": "なぜ国立大がコスメ学部を作った？1期生が明かす意外な就職先",
+   "title_en": "Why Japan's National University Started Teaching Cosmetics Science: Hear from the First Graduates",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "国立大学でコスメティクス（化粧品学）を本格的に学べるコースが誕生し、初の卒業生たちが社会に出ている。従来は私立大や専門学校の領域だった化粧品科学が、研究機関として認められた背景には、産業界のニーズの高まりと学問的価値の認識がある。1期生たちは化粧品メーカーだけでなく、医薬品開発や化学メーカーなど多様な進路を選択している。"
+  },
+  {
+   "slug": "2026-10-13-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-3.html",
+   "title": "親子間の暴力事件が後を絶たない。家庭内での傷害容疑で長男逮捕—どうすれば防げるのか",
+   "title_en": "Family Violence Claims Another Life: Eldest Son Arrested in Mother's Death—How Can We Prevent These Tragedies?",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "東京都内の住宅で女性の遺体が発見され、傷害の疑いで同居していた長男が逮捕された。警察の調べによると、台所での暴力事件とみられており、親子間の深刻な対立が背景にあった可能性が指摘されている。高齢社会における世帯構成の変化や家庭内トラブルの増加が改めて注目されている。"
+  },
+  {
+   "slug": "2026-10-13-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-2.html",
+   "title": "ノーベル経済学賞に米大教授2人　日本人受賞はまたお預け？",
+   "title_en": "Two American Professors Win Nobel Prize in Economics; When Will Japan Get Its Turn?",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "ノーベル経済学賞がアメリカの大学教授2人に授与されることが決定した。受賞理由は経済学の重要な研究分野における貢献が評価されたもの。毎年注目を集める同賞だが、日本人受賞者の輩出が期待される中での結果となった。"
+  },
+  {
+   "slug": "2026-10-13-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-1.html",
+   "title": "マイクロソフトが独自AI半導体を発表、なぜ今自社製造に乗り出すのか？",
+   "title_en": "Microsoft Unveils Custom AI Chip: Why Is the Tech Giant Finally Breaking Free from NVIDIA?",
+   "category": "IT",
+   "published": "2026-10-13",
+   "summary": "マイクロソフトが独自開発のAI向け半導体を発表しました。同社はこれまでNVIDIAのGPUに依存していましたが、生成AI競争の激化に伴い、自社製造による性能向上とコスト削減を目指しています。クラウドサービスやAIアプリの競争力強化が狙いとみられます。"
+  },
   {
    "slug": "2026-10-13-0",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-0.html",
