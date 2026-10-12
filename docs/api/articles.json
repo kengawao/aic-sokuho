@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2456,
+ "count": 2477,
  "articles": [
+  {
+   "slug": "2026-10-12-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-40.html",
+   "title": "まさか虎に勝つとは…英動物公園の衝撃事件、飼育員の安全管理はどうなってる？",
+   "title_en": "Tiger Attack at UK Zoo: Can We Ever Be Safe Around Nature's Apex Predators?",
+   "category": "コラム",
+   "published": "2026-10-12",
+   "summary": "英国の動物公園でトラに襲われ、来園者が亡くなるという痛ましい事件が発生。野生動物との距離感や安全対策について改めて問われることになった。世界的には大型肉食動物による事故は稀だが、一度起きると深刻な事態になるというリスクが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-12-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-39.html",
+   "title": "子どもの習い事、いつやめるべき？親が知っておくべき「続ける基準」とは",
+   "title_en": "When Should You Let Your Child Quit Their Extracurricular Activity? A Practical Guide for Parents",
+   "category": "コラム",
+   "published": "2026-10-12",
+   "summary": "子どもの習い事を続けるか辞めるかは多くの親が悩む問題だ。ピコでは、習い事の効果を見極め、継続を判断するための具体的な基準を提示。子どもの適性・成長段階・家庭の事情など、複数の視点から検討すべきポイントをまとめた記事。費用対効果だけでなく、本人の主体性や親のサポート体制も重要な要素として指摘している。"
+  },
+  {
+   "slug": "2026-10-12-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-38.html",
+   "title": "なぜナルト新作は日本ではなく米コミコンで発表されたのか",
+   "title_en": "Why is the new Naruto announcement happening at San Diego Comic-Con instead of Japan?",
+   "category": "エンタメ",
+   "published": "2026-10-12",
+   "summary": "NARUTOの新作が米国サンディエゴで開催されるコミック・コン・インターナショナルで発表される予定だ。日本を代表するアニメ作品の重大発表が、なぜ海外のイベントを優先するのか。国内ファンからも注目が集まっている。グローバル戦略の転換と、世界規模での市場拡大を背景とした判断とみられる。"
+  },
+  {
+   "slug": "2026-10-12-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-37.html",
+   "title": "児童養護施設出身者の就職率が急落？「18歳の壁」がケア児の人生を左右する現実",
+   "title_en": "The \"Age 18 Barrier\": Why Foster Care Leavers Face a Jobs Crisis in Japan",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "児童養護施設などで育つケア児が、18歳で施設を退所した後の就職や進学に大きな困難を抱えている。親族の支援が期待できず、施設退所後の生活基盤が不安定になりやすいため、企業側の採用躊躇や本人の生活困窮が重なり、キャリア形成に深刻な影響を及ぼしているという課題が浮かび上がっている。"
+  },
+  {
+   "slug": "2026-10-12-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-36.html",
+   "title": "防衛費で鉄道整備？政府が検討する「一石二鳥」戦略の狙いとは",
+   "title_en": "Can Defense Budget Build Better Railways? Japan's Unexpected Strategy Explained",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "政府が防衛関連経費を活用して鉄道整備を検討していることが明らかになった。国防力強化と社会インフラ整備を同時に進める方針とみられ、有事対応や輸送能力向上を念頭に置いた施策と考えられる。防衛省と国土交通省の連携による新たな予算配分の在り方が注目される。"
+  },
+  {
+   "slug": "2026-10-12-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-35.html",
+   "title": "なぜVIVANTは『観る→解く→観る』の構造で視聴者を虜にするのか",
+   "title_en": "Why Does VIVANT's 'Watch → Analyze → Watch Again' Structure Captivate Audiences?",
+   "category": "エンタメ",
+   "published": "2026-10-12",
+   "summary": "日本テレビのドラマ『VIVANT』が話題となっている理由として、その物語構造が分析されている。視聴者が謎を観察し、推理し、再び物語を観直すというサイクルを意図的に設計することで、単なる受動的鑑賞を能動的な謎解き体験へと昇華させている点が指摘されている。この手法は従来のドラマの枠組みを超えた新しい視聴体験を生み出している。"
+  },
+  {
+   "slug": "2026-10-12-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-34.html",
+   "title": "サウジ空港攻撃で12人死亡、300人以上負傷。フーシ派の脅威はどこまで広がるのか",
+   "title_en": "12 Dead in Riyadh Airport Attack: How Far Will Houthi Threat Reach?",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "イエメンの反政府勢力フーシ派がサウジアラビアの首都リヤドの国際空港を攻撃したと声明を発表。同攻撃により少なくとも12人が死亡し、300人以上が負傷した。中東地域の緊張がさらに高まり、国際社会への波及懸念が広がっている。"
+  },
+  {
+   "slug": "2026-10-12-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-33.html",
+   "title": "ジブチ沖で移民船転覆、139人死亡…地中海より死亡率が高い『紅海ルート』の危険性",
+   "title_en": "139 Dead in Migrant Boat Capsizing Off Djibouti: Is the Red Sea Route Deadlier Than the Mediterranean?",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "アフリカの角に位置するジブチ沖で移民を乗せた船が転覆し、139人が死亡する事故が発生した。この海域は地中海ルートに代わる移民ルートとして利用が増加しており、安全対策の不備や過積載などが深刻な問題となっている。国際社会への対応が急務とされている。"
+  },
+  {
+   "slug": "2026-10-12-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-32.html",
+   "title": "ウクライナ軍が露のGoogle相当企業を次々攻撃、サイバー戦争の最前線で何が起きている?",
+   "title_en": "Ukraine Targets Russian Tech Giant in Escalating Cyberwarfare Campaign—What's Really Happening?",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "ウクライナ軍がロシアの大手検索エンジン企業に対して相次ぐサイバー攻撃を実施している。ロシア国内のインターネットインフラを標的とした戦略的な作戦とみられ、ロシア国民の情報流通や通信システムに影響を与える狙いがあるとされている。現代戦におけるサイバー領域の重要性が改めて浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-12-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-31.html",
+   "title": "停戦合意のはずが…ウクライナ「初耳です」エネルギー協定めぐる情報混乱",
+   "title_en": "Energy Ceasefire Deal Announced—But Ukraine Says 'This Is News to Us'",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "エネルギー停戦に関する発表がなされた一方で、ウクライナ側がこの合意について「初めて聞いた」と反応。両国間の情報共有の欠如や、停戦交渉の進捗状況が不透明であることが明らかになった。紛争地域でのエネルギーインフラ保護をめぐる協議の複雑さが浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-12-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-30.html",
+   "title": "米ウクライナが対露軽油制裁で対立？経済制裁の綻びが露呈",
+   "title_en": "US and Ukraine at Odds Over Russian Oil Sanctions—Is the Sanctions Alliance Cracking?",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "ウクライナとアメリカの首脳がロシアへの軽油制裁について相反する立場を示している。ウクライナは制裁の強化を求める一方、米国は一定の緩和を示唆しているとみられ、対露経済戦略をめぐって同盟国間で溝が生じている。エネルギー問題や経済的影響をめぐり、戦略的判断に違いが出ている。"
+  },
+  {
+   "slug": "2026-10-12-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-29.html",
+   "title": "停戦合意から1年、なぜガザではいま攻撃が相次ぐのか",
+   "title_en": "One Year After Gaza Ceasefire: Why Is Violence Escalating Now?",
+   "category": "国際",
+   "published": "2026-10-12",
+   "summary": "イスラエルとハマスの停戦合意発効から1年が経過した現在、ガザ地区ではイスラエル軍による攻撃が継続している。無人機による空爆で1人が死亡し、銃撃により妊婦を含む8人が負傷するなど、市民の被害が後を絶たない。停戦合意の実効性が問われる事態となっている。"
+  },
+  {
+   "slug": "2026-10-12-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-28.html",
+   "title": "巨人・坂本勇人、20年目でまさかの現役続行へ　2474本の大打者は引退しない",
+   "title_en": "Giants Legend Sakamoto Continues: 2,474 Career Hits Aren't Enough to Retire Yet",
+   "category": "スポーツ",
+   "published": "2026-10-12",
+   "summary": "巨人一筋20年の坂本勇人選手が、来シーズンも現役を続ける見通しであることが明らかになった。通算2474本のヒットを記録している主力選手の継続プレーは、チームの戦力維持に向けた重要な決断となる。ベテラン選手の活躍に対する期待が高まっている。"
+  },
+  {
+   "slug": "2026-10-12-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-27.html",
+   "title": "松島輝空がWTT最高峰大会で優勝！日本卓球界の新星が世界頂点を制した",
+   "title_en": "Teraku Matsushima Claims Victory at WTT Peak Tournament – Japan's Rising Star Reaches World Summit",
+   "category": "スポーツ",
+   "published": "2026-10-12",
+   "summary": "卓球の松島輝空選手がWTT（ワールド・テーブルテニス）の最高峰大会での優勝を達成し、大きな話題となっている。国際卓球連盟が主催する同大会は世界の一流選手が集う舞台。この快挙により、日本卓球界の次世代を担う有望株としての地位をさらに確固たるものにした。"
+  },
+  {
+   "slug": "2026-10-12-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-26.html",
+   "title": "鎌田大地、ついにやった！プレミア初ゴールの瞬間",
+   "title_en": "Daichi Kamada Finally Breaks Through with First Premier League Goal",
+   "category": "スポーツ",
+   "published": "2026-10-12",
+   "summary": "日本の国際的な選手として注目を集めてきた鎌田大地がプレミアリーグで待望の初ゴールを決めた。移籍後の活躍が期待される中、この得点はチームへの貢献と本人のキャリアにおいて大きなマイルストーンとなる。ゴールまでの道のりと今後の躍進に注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-12-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-25.html",
+   "title": "免許証画像が流出→再交付申請が殺到...一体何が起きた?",
+   "title_en": "Driver's License Data Breach Triggers Wave of License Replacement Applications",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "運転免許証の画像がインターネット上に流出し、多くの国民が再交付を申請する事態になっている。流出した画像には個人情報が含まれており、不正利用や詐欺被害の懸念から、安全のために新しい免許証の取得を望む人が相次いでいるという。当局も流出原因の調査を進めている。"
+  },
+  {
+   "slug": "2026-10-12-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-24.html",
+   "title": "貞子が姿を現した…鈴木光司さんを偲ぶ会で何が起きた？",
+   "title_en": "Sadako Appeared at Koji Suzuki's Memorial Gathering—What Does It Mean?",
+   "category": "エンタメ",
+   "published": "2026-10-12",
+   "summary": "ホラー小説『リング』の作者・鈴木光司さんの偲ぶ会が開催され、その場に貞子が登場するというサプライズが行われました。読者や関係者が集まる中、作品を象徴するキャラクターの出現は、故人の創作世界を追悼する演出として話題を呼んでいます。"
+  },
+  {
+   "slug": "2026-10-12-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-23.html",
+   "title": "オウム真理教の信者だった母を持つ女性、社会的偏見とどう向き合ったのか",
+   "title_en": "How Does One Cope? Woman Navigates Life as Daughter of Former Aum Shinrikyo Member",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "オウム真理教の信者だった母親を持つ女性が、その出自による社会的な困難や偏見とどのように向き合ってきたのかについてのドキュメンタリー的なニュース。親の過去と子どもの人生がどう交差し、本人がそれをどう受け止め乗り越えてきたかが描かれている。"
+  },
+  {
+   "slug": "2026-10-12-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-22.html",
+   "title": "医療機器不足の悪夢再び？政府が企業に備蓄補助金、その狙いとは",
+   "title_en": "Medical Device Shortage Returns? Government to Subsidize Corporate Stockpiling",
+   "category": "経済",
+   "published": "2026-10-12",
+   "summary": "政府が重要医療機器の国内備蓄を強化するため、企業に対して補助金を支給する方針を打ち出した。感染症拡大時やサプライチェーン混乱時における医療現場の機器不足に対応するのが目的。民間企業の備蓄を支援することで、有事の際の医療体制維持を図る施策として注目されている。"
+  },
+  {
+   "slug": "2026-10-12-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-21.html",
+   "title": "値下げしながら利益も増える？ワークマンが実現した『常識破りの経営戦略』",
+   "title_en": "How Workman Achieves the Impossible: Lower Prices AND Higher Profits",
+   "category": "経済",
+   "published": "2026-10-12",
+   "summary": "作業着チェーン・ワークマンが値下げと利益の両立を実現している。安さを武器に顧客数を大幅に増やす一方、商品企画や物流効率化により原価を削減。従来の『安かろう悪かろう』のイメージを払拭し、顧客満足度を高めながら経営状況を改善させている。その秘訣は徹底したコスト管理と顧客ニーズの的確な把握にあるとみられている。"
+  },
+  {
+   "slug": "2026-10-12-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-12-20.html",
+   "title": "縛られた遺体、窃盗疑いの妹が関与？家族内で何が起きたのか",
+   "title_en": "Body Found Bound: Could the Suspect's Sister Be Involved in Theft Case?",
+   "category": "国内",
+   "published": "2026-10-12",
+   "summary": "遺体が縛られた状態で発見される事件が報道される中、窃盗容疑で捜査されている妹の関与の可能性が浮上した。家族内での複雑な事情や事件の全容解明が急がれる状況。警察の捜査が進む中、事件の詳細が徐々に明らかになりつつある。"
+  },
   {
    "slug": "2026-10-12-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-19.html",
