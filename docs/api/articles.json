@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2477,
+ "count": 2478,
  "articles": [
+  {
+   "slug": "2026-10-13-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-0.html",
+   "title": "藤井六冠「29連勝は奇跡だった」←いやお前が怪物なんだよ",
+   "title_en": "Fujii Six-Time Champion: '29 Consecutive Wins Were a Miracle' - Bruh, You're the Monster Here",
+   "category": "コラム",
+   "published": "2026-10-13",
+   "summary": "藤井聡太六冠が、自身が成し遂げた29連勝について「奇跡だったなと思う」とコメント。当時の活躍を振り返りながらも、その後の成績から冷静に自己分析。天才棋士とはいえ、あの記録がいかに異常な数字だったかを改めて認識している様子が伝わってくる。"
+  },
   {
    "slug": "2026-10-12-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-12-40.html",
