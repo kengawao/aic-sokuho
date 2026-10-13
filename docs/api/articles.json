@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2521,
+ "count": 2541,
  "articles": [
+  {
+   "slug": "2026-10-14-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-19.html",
+   "title": "ロシアでクマ襲撃が急増中。もしかして熊さんも生活苦？",
+   "title_en": "Russia's Bear Attack Crisis: Are the Bears Just as Broke as We Are?",
+   "category": "コラム",
+   "published": "2026-10-14",
+   "summary": "ロシアでクマによる襲撃事件が急増し、住民の生活に深刻な影響が出ているという。森との距離が近いロシアならではの悩みかもしれませんが、人間とクマの関係が崩れつつあるようです。食料不足や環境変化など、背景には複雑な事情が隠れているのかもしれません。"
+  },
+  {
+   "slug": "2026-10-14-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-18.html",
+   "title": "亜大・川尻がドラフト上位候補にノーノー達成？プロ注目の逸材に何が起きた",
+   "title_en": "Asia University's Kawajiri Eyes Top Draft Pick After No-Hitter Performance",
+   "category": "スポーツ",
+   "published": "2026-10-14",
+   "summary": "亜細亜大学の川尻選手がドラフト上位候補として注目される中、試合でノーヒットノーラン（ノーノー）を達成した。投手としての実力を示す大きな成果であり、プロ志望届提出を控える時期での好投は、各球団のスカウト評価に大きな影響を与える可能性がある。大学野球の逸材としての評価が一層高まっている。"
+  },
+  {
+   "slug": "2026-10-14-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-17.html",
+   "title": "磁気乗車券、ついに終焉へ。JR東など7社が廃止を決定――Suicaなど電子化の波は止められない",
+   "title_en": "End of an Era: JR East and 6 Other Railways to Abolish Magnetic Ticketing Systems",
+   "category": "経済",
+   "published": "2026-10-14",
+   "summary": "JR東日本を含む大手鉄道7社が、磁気方式の乗車券を廃止する方針を示した。Suicaなどの電子乗車券やICカードへの完全移行が進む中、紙製の磁気乗車券は利用者減少に対応する形での廃止となる。デジタル化が進む交通網において、従来型チケットの役割が急速に縮小している。"
+  },
+  {
+   "slug": "2026-10-14-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-16.html",
+   "title": "企業の情報漏えい、実は従業員の「内部犯行」が原因？A2B攻撃の実態とは",
+   "title_en": "Insider Threats Rise: How Employee Admin Access Becomes a Data Breach Weapon",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "大規模な情報漏えい事件の一因として、「A2B攻撃」という手口が注目を集めています。これは管理者権限を持つ内部者が、その立場を悪用して情報にアクセスする攻撃手法です。外部からのハッキングだけでなく、信頼できるはずの従業員による内部脅威が、企業のセキュリティ対策の盲点になっていることが明らかになりました。"
+  },
+  {
+   "slug": "2026-10-14-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-15.html",
+   "title": "小学生の英検受験が急増、背景に何がある？親たちの教育戦略の変化",
+   "title_en": "Why Are More Japanese Elementary School Students Taking the EIKEN Exam?",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "英語能力検定試験の受験者数が小学生の間で大幅に増加している。グローバル化やAI時代への対応、また大学入試制度の変化に伴い、保護者が早期からの英語学習を重視する傾向が強まっているのが主な要因とみられる。教育現場での英語教育の充実と家庭学習の取り組みが相乗効果を生んでいるようだ。"
+  },
+  {
+   "slug": "2026-10-14-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-14.html",
+   "title": "教科書のページ数に上限設定へ 70年ぶりの大改革、子どもたちの負担軽減なるか",
+   "title_en": "Japanese Textbooks to Face Page Limits for First Time in 70 Years—Will This Ease Students' Burden?",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "文部科学省が教科書のページ数に上限を設ける制度を導入する方針を固めた。1953年以来、約70年ぶりの規制となる。デジタル化の進展に伴い、教材の充実と児童生徒の学習負担のバランスを取ることが狙い。来年度からの新学習指導要領適用に向けた改革の一環として進められる見通しだ。"
+  },
+  {
+   "slug": "2026-10-14-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-13.html",
+   "title": "14歳の生徒が校長・教師に銃撃、フランスの学校で何が起きたのか",
+   "title_en": "14-Year-Old French Student Opens Fire at School: What We Know",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "フランス南部オーバニュの中学校で12日朝、校長と複数の教師が14歳の生徒に銃で撃たれる事件が発生した。負傷した教師らに命に別状はなく、生徒にけがはない。14歳の容疑者は既に逮捕されている。学校内での銃撃事件は欧米でも稀な出来事であり、事件の背景や動機の解明が急がれている。"
+  },
+  {
+   "slug": "2026-10-14-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-12.html",
+   "title": "数億円がパー…フランスのスーパーがサイバー攻撃で冷蔵庫の温度を勝手に上げられた",
+   "title_en": "French Supermarket Chain Hit by Cyberattack That Literally Spoiled Millions in Food",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "フランスで数百店舗のスーパーマーケットがサイバー攻撃を受け、冷蔵・冷凍設備の温度設定が遠隔操作で上昇させられた。その結果、生鮮食品や冷凍食品が大量に傷み、数百万ユーロ（数億円相当）の商品が廃棄される被害が発生。インフラとしての食品供給チェーンがサイバー攻撃の標的になる深刻さが浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-14-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-11.html",
+   "title": "ウクライナがロシアのデータセンター攻撃を続ける理由とは？戦略的狙いを分析",
+   "title_en": "Why Is Ukraine Targeting Russian Data Centers? Understanding the Cyber Warfare Strategy",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "ウクライナ軍がロシアのデータセンターへの攻撃を継続している。サイバー戦争の新局面として、民間インフラ施設である通信・データセンターが戦略的な重要拠点として認識されるようになった。ウ軍の狙いは、ロシア軍の通信機能を混乱させ、指揮系統や兵站支援を阻害することにある。従来の物理的攻撃と並行するサイバー攻撃戦略が、現代戦争の様相を大きく変えつつある。"
+  },
+  {
+   "slug": "2026-10-14-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-10.html",
+   "title": "マスク氏、中間選挙に440億円投入か——テスラCEOの政治介入がもたらすものは?",
+   "title_en": "Musk's $4.4 Billion Election Gamble—Can One Billionaire Shape America's Future?",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "イーロン・マスク氏がTwitter買収後、米中間選挙に約440億円を投じる可能性が報じられている。テスラやSpaceXなどの経営者による莫大な政治資金投入は、米国の政治構造にどのような影響をもたらすのか。富豪による政治への直接的な関与の是非が問われている。"
+  },
+  {
+   "slug": "2026-10-14-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-9.html",
+   "title": "韓国で切り付け事件、1人が心肺停止に　治安悪化の懸念広がる",
+   "title_en": "Stabbing Incident in South Korea Leaves One Person in Cardiac Arrest",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "韓国で切り付け事件が発生し、被害者1人が心肺停止の状態に陥った。現地の治安機関が事件の詳細を調査中。事件の背景や犯人の身柄確保の有無など、情報収集が進められている。東アジア地域での治安問題が改めて注目される形となった。"
+  },
+  {
+   "slug": "2026-10-14-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-8.html",
+   "title": "短時間で次々と攻撃手法を変える不正アクセス…AIエージェントの悪用が急速に進んでいる可能性",
+   "title_en": "Rapid-Fire Cyberattacks Switching Tactics at Superhuman Speed—AI Agents May Be the Culprit",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "企業への不正アクセスが相次ぐ中、セキュリティ会社が攻撃通信を解析したところ、人間には実行困難な速度と複雑さでサイバー攻撃が実行されていることが判明しました。複数の攻撃手法が短時間で切り替えられ、高度な自動化が行われている兆候から、AI技術を悪用したエージェント型の攻撃の可能性が指摘されています。"
+  },
+  {
+   "slug": "2026-10-14-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-7.html",
+   "title": "防災メール300万件漏えいか　あなたのアドレスも登録されてるかもしれない",
+   "title_en": "Disaster Alert System Breached: 3 Million Email Addresses Exposed in Japan",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "全国の自治体が提供する防災メールシステムを運営する大阪の企業「アルカディア」が不正アクセスを受けた可能性が明らかになった。メールアドレス約300万件を含む個人情報が漏えいした可能性があり、自治体側で利用者への通知や対応が進められている。防災システムへの攻撃は市民の安全情報入手に支障をきたす恐れもあり、今後のセキュリティ強化が課題となっている。"
+  },
+  {
+   "slug": "2026-10-14-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-6.html",
+   "title": "シクラメンの『生命の設計図』ついに解読される。あの冬の花にそんな秘密が？",
+   "title_en": "Scientists Finally Decode Cyclamen's Genetic Blueprint: What Does This Mean for Winter Flowers?",
+   "category": "科学",
+   "published": "2026-10-14",
+   "summary": "シクラメンのゲノム（遺伝情報）が解読されたことが報道されました。冬の季節に鮮やかな花を咲かせるシクラメンの、寒冷地への適応メカニズムや花の色・形成に関わる遺伝子が明らかになったとみられます。この研究成果は、園芸品種の改良や気候変動への対応に向けた植物育成に役立つ可能性があります。"
+  },
+  {
+   "slug": "2026-10-14-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-5.html",
+   "title": "カメムシ大量発生、農作物への被害が深刻化か？専門家が警告する長期的な影響とは",
+   "title_en": "Brown Marmorated Stink Bugs Swarm: What Experts Warn About Long-Term Agricultural Damage",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "今年、カメムシの大量発生が報告されており、農業被害の長期化が懸念されている。カメムシは野菜や果実に吸汁被害をもたらし、商品価値を大きく低下させる。温暖化や天候の変化がカメムシの増殖を促進している可能性があり、今後の食料供給や農家経営への影響が注視されている。"
+  },
+  {
+   "slug": "2026-10-14-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-4.html",
+   "title": "防衛力強化に鉄道？ 政府の新戦略、現実性は大丈夫なのか",
+   "title_en": "Japan's New Defense Strategy Targets Railways—But Is It Really Feasible?",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "防衛力強化の一環として、政府が鉄道インフラを対象に含める検討を進めているという。有事の際の輸送や通信機能の強化が狙いとみられるが、民間企業による経営が中心の鉄道をどう組み込むのか、採算性や実行可能性については課題が残っている状況だ。"
+  },
+  {
+   "slug": "2026-10-14-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-3.html",
+   "title": "わずか2分で本物そっくりの偽サイトが完成？AIが変える詐欺の手口",
+   "title_en": "From Hours to Minutes: How AI is Weaponizing Fake Website Creation",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "生成AI技術の進化により、詐欺サイトの製作時間が劇的に短縮されている。従来は数時間かかっていた偽サイト作成がわずか2分で可能になったとされ、フィッシング詐欺やなりすまし被害の増加が懸念されている。セキュリティ対策の重要性が急速に高まっている。"
+  },
+  {
+   "slug": "2026-10-14-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-2.html",
+   "title": "銀のさら650万件の個人情報漏洩か、あなたの注文履歴は大丈夫？",
+   "title_en": "6.5 Million Customer Records Leaked from Food Delivery Chain—Is Your Order History Safe?",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "フードデリバリーサービス「銀のさら」を運営する企業において、最大650万件の顧客情報が漏洩した可能性が指摘されています。氏名や住所、電話番号、注文履歴などの個人情報が含まれているとみられ、今後の対応と被害状況の詳細が注視されています。"
+  },
+  {
+   "slug": "2026-10-14-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-1.html",
+   "title": "シャンプーハット恋さんがん公表、闘病と芸能活動の両立は？",
+   "title_en": "Shampoo Hat Koi Announces Cancer Diagnosis: What's Next for His Entertainment Career?",
+   "category": "エンタメ",
+   "published": "2026-10-14",
+   "summary": "お笑いコンビ・シャンプーハットのメンバーである恋さんが、がんと診断されたことを公表した。現在の治療状況や今後の活動予定について、本人とイベント関係者から説明がなされている。芸能界でも健康問題の公表が増える中、ファンからは応援と心配の声が上がっている。"
+  },
+  {
+   "slug": "2026-10-14-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-0.html",
+   "title": "北海道新聞の記者がサハリンで拘束される　ロシア報道で明らかに",
+   "title_en": "Hokkaido Shimbun Journalist Detained in Sakhalin, Russia Reports",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "北海道新聞の記者がロシア極東のサハリンで拘束されたことが、ロシア側の報道で明らかになった。詳細な拘束理由や現在の状況については不明な点が多いが、日露間の緊張関係が続く中での事態として注視されている。日本政府の対応や記者の安否確認が急務となっている。"
+  },
   {
    "slug": "2026-10-13-43",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-43.html",
