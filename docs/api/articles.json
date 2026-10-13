@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2499,
+ "count": 2520,
  "articles": [
+  {
+   "slug": "2026-10-13-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-42.html",
+   "title": "芸人永野がトム・クルーズに感激！一体何があった？",
+   "title_en": "Japanese Comedian Nagano Gets Star-Struck Over Tom Cruise Encounter—What Actually Happened?",
+   "category": "コラム",
+   "published": "2026-10-13",
+   "summary": "日本の芸人・永野が、ハリウッドスター・トム・クルーズとの出会いで大感激したようだ。詳細は明かされていないが、本人のテンションからして相当な出来事があった模様。永野のリアクションは必見で、ファンの間で話題沸騰中。あの無表情キャラからの感激ぶりが、より一層話題を呼んでいる。"
+  },
+  {
+   "slug": "2026-10-13-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-41.html",
+   "title": "JR東が法廷で無断録音、新たに複数件確認か　司法の信頼が揺らぐ",
+   "title_en": "JR East's Unauthorized Courtroom Recording: Multiple Incidents Now Confirmed",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "JR東日本が裁判所での法廷手続きにおいて、相手方の同意を得ずに音声を録音していた事案が新たに発覚した。既に判明していたケース以外にも同様の行為が複数件存在する可能性が指摘されており、企業の法務体制の問題と司法手続きにおける証拠能力の扱いについて議論が生じている。"
+  },
+  {
+   "slug": "2026-10-13-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-40.html",
+   "title": "中国にも『トー横』が存在する？ 日本との意外な共通点が浮かび上がる",
+   "title_en": "China's Answer to Tokyo's 'To-Yoko'? Surprising Similarities Emerge Between Two Nations",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "新宿歌舞伎町の路上生活者が集まる『トー横』のような現象が、中国の都市部でも報告されている。貧困層の若年層が集中する地域の出現、SNSを通じた情報拡散、行政の対応の課題など、日本と中国で驚くほど似た構図が見られるという。両国の都市問題の共通性と相違点から、東アジアの社会的課題が浮き彫りになる。"
+  },
+  {
+   "slug": "2026-10-13-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-39.html",
+   "title": "アシックス vs ナイキ、なぜ業績で大きな差がついた？スポーツ用品メーカーの明暗を分ける要因",
+   "title_en": "Asics vs Nike: What Explains the Growing Gap in Performance Between Japan's and America's Sportswear Giants?",
+   "category": "経済",
+   "published": "2026-10-13",
+   "summary": "スポーツ用品業界で、日本発祥のアシックスとアメリカの大手ナイキの経営成績に顕著な差が生じている。両社は同じシューズ市場で競合しているにもかかわらず、事業戦略や市場対応の違いが業績格差につながっている。グローバル展開、ブランド戦略、デジタル化への対応などが、その差を生む主要因として指摘される。"
+  },
+  {
+   "slug": "2026-10-13-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-38.html",
+   "title": "中国でAI生成ドラマが急増、著作権問題と創作現場に激震",
+   "title_en": "AI-Generated Dramas Exploding in China: Copyright Crisis on the Horizon",
+   "category": "IT",
+   "published": "2026-10-13",
+   "summary": "中国でAIが生成したショートドラマが急速に増加している。低コスト・短期間での制作が可能なため、動画配信プラットフォームでの投稿が相次いでいるという。一方で著作権侵害や創作者の権利問題が浮上し、業界内での規制議論も始まっている状況だ。"
+  },
+  {
+   "slug": "2026-10-13-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-37.html",
+   "title": "東大の象徴「赤門」5年間の閉鎖で何が起きたのか",
+   "title_en": "Tokyo University's Iconic Red Gate Reopens After 5-Year Closure: What Happened?",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "東京大学の象徴的な門として知られる赤門が、過去5年間にわたり閉鎖されていた状況が注目を集めている。修復工事や安全管理上の理由など、閉鎖に至った経緯と現在の状況、そして歴史的価値を持つこの建造物の今後についての課題が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-13-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-36.html",
+   "title": "米司法省がテレビ局を調査？トランプ関連報道の一時停止が反トラスト法違反に問われる",
+   "title_en": "U.S. Justice Department Investigates TV Networks Over Trump Interview Boycott—Antitrust Law at Stake",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "米司法省は、複数の大手テレビ局がドナルド・トランプ大統領に関する代表取材を一時停止したことについて、独占禁止法違反の可能性を調査していると発表した。各局が同時期に同様の対応を取ったことが、競争制限行為に該当するかどうかが焦点となっている。"
+  },
+  {
+   "slug": "2026-10-13-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-35.html",
+   "title": "パリ最古の屋根付きマーケット全焼、なぜ歴史的建造物は火災に弱いのか",
+   "title_en": "Why Are Historic Parisian Landmarks Vulnerable to Fire? Market Burns to the Ground",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "パリで最も古い屋根付きマーケットが火災により全焼しました。このマーケットは19世紀の建築で、鉄骨と木造の混合構造が特徴でした。火元の詳細や出火原因の調査が進められており、文化遺産の保護と防火対策の課題が改めて浮き彫りになっています。フランス当局は現場の調査を継続しています。"
+  },
+  {
+   "slug": "2026-10-13-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-34.html",
+   "title": "ロシアがブレグジット投票に干渉していた？英首相が重大疑惑を指摘",
+   "title_en": "Did Russia Interfere in Brexit? UK PM Raises Serious Questions",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "英国の首相がEU離脱を問う2016年の国民投票にロシアが干渉していた可能性があると発言した。同投票はイギリスのEU離脱を決定した歴史的な局面だが、その過程で外国の影響があった疑いが浮上。各国の選挙干渉をめぐる議論が改めて注目を集めている。"
+  },
+  {
+   "slug": "2026-10-13-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-33.html",
+   "title": "イラン関与が確定か？英軍基地攻撃、米英イスラエルが共同声明",
+   "title_en": "Iran's Hand Confirmed? US, UK, and Israel Issue Joint Statement on UK Base Attack",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "英国の軍事基地への攻撃事件について、アメリカ・イギリス・イスラエルが共同声明を発表し、イランの関与があったと指摘した。事件の詳細と各国の対応が焦点となっており、中東情勢の緊張がさらに高まる可能性がある。国際社会の今後の動向に注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-13-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-32.html",
+   "title": "エネルギー停戦発表の翌日、ロシアがウクライナ施設6カ所を攻撃　トランプ氏の合意は有名無実か",
+   "title_en": "Day After Trump's Energy Ceasefire Announcement, Russia Strikes 6 Ukrainian Facilities—Is the Deal Already Broken?",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "ウクライナのゼレンスキー大統領は12日、ロシアがエネルギー施設6カ所を攻撃したと発表した。これはトランプ米大統領が前日にウクライナとロシアのエネルギー停戦合意を宣言し、「即座に発効する」と述べた直後のことで、合意の実効性が早くも問われている。戦争継続が招くエネルギー危機への懸念が続く。"
+  },
+  {
+   "slug": "2026-10-13-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-31.html",
+   "title": "離婚前に必ず現れる「別れの四重奏」とは？専門家が指摘する危険な兆候",
+   "title_en": "The \"Quartet of Separation\": What Are the Warning Signs Before Divorce?",
+   "category": "コラム",
+   "published": "2026-10-13",
+   "summary": "夫婦関係の破綻を示す一連の行動パターンが「別れの四重奏」として注目されている。感情的な距離の拡大、コミュニケーション不全、生活空間の分離、そして最終的な決別まで、離婚に至る家庭には共通の段階があるという。専門家は、早期に這い出す手立てがあると指摘している。"
+  },
+  {
+   "slug": "2026-10-13-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-30.html",
+   "title": "致死量の薬物を2度注射されても生き延びた死刑囚、10日後に刑務所へ戻る—米テネシー州での執行失敗",
+   "title_en": "Death Row Inmate Survives Lethal Injection Twice, Released from Hospital 10 Days Later",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "アメリカ・テネシー州で執行された死刑囚が、致死量の薬物を2回にわたり注射されながら生き残り、病院に搬送された。弁defending団によると、死刑囚は11日後に退院し、収容先の刑務所に戻ったという。同囚は過去30年間を同じ刑務所で過ごしており、現在も治療を継続している。この事件は米国の死刑制度における医学的問題と、執行方法の有効性を巡る議論を改めて浮き彫りにしている。"
+  },
+  {
+   "slug": "2026-10-13-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-29.html",
+   "title": "トランプ氏が正恩氏との会談に言及、実現の可能性は？",
+   "title_en": "Will Trump Meet with Kim Jong Un? The Possibility Explained",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "トランプ前米大統領が、北朝鮮の金正恩氏との会談の可能性について言及した。過去の米朝首脳会談の経緯を踏まえ、今後の外交交渉がどのような方向に進むのか注目が集まっている。国際政治の専門家からは、実現性を疑う声と期待する声が交錯している状況となっている。"
+  },
+  {
+   "slug": "2026-10-13-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-28.html",
+   "title": "漫画家・わたなべまさこさんが死去、『きんぎょ注意報!』などの代表作を残す",
+   "title_en": "Legendary Manga Artist Masako Watanabe Passes Away, Leaving Behind Classic Works",
+   "category": "エンタメ",
+   "published": "2026-10-13",
+   "summary": "人気漫画家のわたなべまさこさんが亡くなったことが報じられた。80年代から90年代にかけて『きんぎょ注意報!』をはじめとする多くの作品で知られ、少女漫画界の発展に貢献した。その訃報は漫画ファンや業界関係者に大きな衝撃を与えている。"
+  },
+  {
+   "slug": "2026-10-13-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-27.html",
+   "title": "フランスの食品スーパーがサイバー攻撃で営業停止？大量廃棄の衝撃",
+   "title_en": "French Supermarket Chain Hit by Cyberattack: How Much Food Was Wasted?",
+   "category": "国際",
+   "published": "2026-10-13",
+   "summary": "フランスの大手食品小売店がサイバー攻撃により システムが機能不全に陥り、営業継続が困難になった。被害により多くの食品が廃棄を余儀なくされたとみられる。デジタル化が進む小売業界で、インフラ破壊の脅威が現実化した形となり、業界全体へのセキュリティ対策の強化を促す事態となっている。"
+  },
+  {
+   "slug": "2026-10-13-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-26.html",
+   "title": "田中将大、現役続行決定！40歳目前の大ベテランが選んだ道とは",
+   "title_en": "Will Masahiro Tanaka Keep Pitching? Japanese Baseball Legend Eyes Another Season",
+   "category": "スポーツ",
+   "published": "2026-10-13",
+   "summary": "読売ジャイアンツの田中将大投手が現役を継続することを表明した。日本を代表する投手として長年活躍してきた田中は、今シーズンも第一線での活動を続ける意向を示している。年齢を重ねながらもなお競技への情熱を保ち続ける姿勢が注目されている。"
+  },
+  {
+   "slug": "2026-10-13-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-25.html",
+   "title": "企業物価6.8%上昇、8月から鈍化も『高止まり』の懸念は残ったままか",
+   "title_en": "Japan's Corporate Price Index Rises 6.8% YoY: Slowdown Continues but Concerns Over 'High Plateau' Remain",
+   "category": "経済",
+   "published": "2026-10-13",
+   "summary": "9月の企業物価指数が前年同月比で6.8%上昇し、8月の上昇率からは縮小傾向を見せています。しかし依然として高い水準が続いており、中東情勢による石油関連製品の値上がりが大きな要因となっています。企業間の取引価格がどこまで落ち着くか、今後の動向に注目が集まっています。"
+  },
+  {
+   "slug": "2026-10-13-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-24.html",
+   "title": "30年連れ添った夫婦はなぜ別れる？熟年離婚の修復不可能な理由",
+   "title_en": "Why Do Long-Married Couples Choose Divorce Over Reconciliation in Their Golden Years?",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "長年婚姻関係にあった熟年夫婦の離婚が増加する中で、一度別れを決意すると修復を望まないケースが大多数を占めるという現状が浮き彫りになった。子育てや経済的な理由で婚姻を継続してきた夫婦が、その束縛から解放される時期に入ると、関係修復よりも新たな人生へのシフトを選択する傾向が強まっているとみられている。"
+  },
+  {
+   "slug": "2026-10-13-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-23.html",
+   "title": "年収600万円でも手が届かない？住宅価格が急騰している理由",
+   "title_en": "Why Can't Japanese Earn 6 Million Yen and Still Afford a House?",
+   "category": "経済",
+   "published": "2026-10-13",
+   "summary": "日本の住宅価格が大幅に上昇し、一般的なサラリーマンでも購入が難しい状況が深刻化している。建設資材の値上がりや労働力不足、低金利による需要増加などが複合的に影響。特に都市部では新築・中古ともに価格が高騰し、若年層の住宅購入計画に大きな支障が出ている。専門家は今後さらに価格が上昇する可能性も指摘している。"
+  },
+  {
+   "slug": "2026-10-13-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-22.html",
+   "title": "文科相が議員会館でパーティー開催で謝罪　政治資金規正法との関係は？",
+   "title_en": "Science Minister Apologizes for Hosting Party at Parliament Building: What About Campaign Finance Law?",
+   "category": "国内",
+   "published": "2026-10-13",
+   "summary": "文部科学大臣が議員会館内でパーティーを開催していたことが明らかになり、謝罪する事態が発生。政治資金規正法では議員会館での政治活動に関する規制が設けられており、今回の対応の妥当性についての議論が高まっている。大臣の説明責任と法令遵守の重要性が改めて問われている。"
+  },
   {
    "slug": "2026-10-13-21",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-21.html",
