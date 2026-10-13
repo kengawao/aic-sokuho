@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2520,
+ "count": 2521,
  "articles": [
+  {
+   "slug": "2026-10-13-43",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-43.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-13-43.html",
+   "title": "首相が「ダサイ」発言？政治家の言葉選びが話題に",
+   "title_en": "Prime Minister Calls Politician's Remarks \"Really Uncool\" - Politics Takes a Casual Turn",
+   "category": "コラム",
+   "published": "2026-10-13",
+   "summary": "政界で物議を醸した某氏の発言に対し、首相が「本当にダサイ」とコメント。政治家の日常会話が世間の注目を集めた。堅い政治用語だけでなく、時にはカジュアルな表現も飛び出す現代政治の風景が浮き彫りになった形だ。"
+  },
   {
    "slug": "2026-10-13-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-13-42.html",
