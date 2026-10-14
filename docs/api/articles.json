@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2562,
+ "count": 2583,
  "articles": [
+  {
+   "slug": "2026-10-14-61",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-61.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-61.html",
+   "title": "ロボットが少女にわいせつ行為……え、ロボットが？操作した少年2人が逮捕されるもドイツ警察の対応に爆笑",
+   "title_en": "A Robot Committed a Crime? Germany's Bizarre Case of Remote-Controlled Assault Leaves Everyone Confused",
+   "category": "コラム",
+   "published": "2026-10-14",
+   "summary": "ドイツで衝撃的なニュースが報道された。10代の少年2人がロボットを遠隔操作し、16歳の少女に対してわいせつ行為を行った疑いで捜査開始。被害者は実の少女で、犯人はロボット……いや操作者か。警察はロボットを押収したらしいが、責任の所在ってどこなん？という令和の新しい犯罪形態に、世界中が頭を抱えている。"
+  },
+  {
+   "slug": "2026-10-14-60",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-60.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-60.html",
+   "title": "左右のアミノ酸、どうやって見分ける？ 新手法が実験室を変える可能性",
+   "title_en": "New Method Makes Distinguishing Left and Right Amino Acids Easier—But Will Industry Actually Use It?",
+   "category": "科学",
+   "published": "2026-10-14",
+   "summary": "アミノ酸の左右の構造（光学異性体）を判別する新しい手法が開発されました。従来の方法より簡便で精度が高いこの技術は、医薬品開発や食品分析など幅広い分野での応用が期待されており、化学分野の実務に大きな影響を与える可能性があります。"
+  },
+  {
+   "slug": "2026-10-14-59",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-59.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-59.html",
+   "title": "町の片隅に眠っていた化石、実は250万年前のものだった",
+   "title_en": "Fossil Sleeping in Small Japanese Town Revealed to be 2.5 Million Years Old",
+   "category": "科学",
+   "published": "2026-10-14",
+   "summary": "地方の小さな町で展示されていた化石が、専門家による調査で約250万年前のものと判明した。従来の予想年代より大幅に古い可能性が高まり、その地域の地質学的な歴史を書き換える発見となる可能性がある。地元自治体は今後、より詳細な調査と研究機関との連携を検討しているという。"
+  },
+  {
+   "slug": "2026-10-14-58",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-58.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-58.html",
+   "title": "大学の改名ラッシュ、なぜ今？志願者減対策か、それとも新しいアイデンティティ模索か",
+   "title_en": "Why Are Japanese Universities Rebranding? A Strategic Gamble in the Age of Declining Enrollment",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "全国の大学が相次いで名称変更を実施している。少子化による入学定員割れへの対応や、グローバル化時代における新たなブランドイメージの構築、さらには学部再編に伴う戦略的なリブランディングが背景にあると指摘される。大学改名は受験生や社会的認知度に大きな影響を与えるため、各校は慎重に戦略を練っている。"
+  },
+  {
+   "slug": "2026-10-14-57",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-57.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-57.html",
+   "title": "ウインナーはなぜ2袋セットで売られるのか？意外な理由に納得",
+   "title_en": "Why Are Sausages Always Sold in Pairs? The Business Strategy Behind Dual Packs",
+   "category": "経済",
+   "published": "2026-10-14",
+   "summary": "スーパーでよく見かけるウインナーの2袋セット販売。この販売方式が採用される背景には、製造工程の効率化、流通コストの削減、消費者の購買心理など複数の要因がある。食品メーカーと小売店の戦略が交差する形で、今の販売スタイルが定着したとみられる。"
+  },
+  {
+   "slug": "2026-10-14-56",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-56.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-56.html",
+   "title": "AIでゲーム開発は効率化するのに、クリエイターの仕事は奪われる？業界内で賛否両論",
+   "title_en": "AI in Game Development: Efficiency Boost or Creative Death? Industry Split on Where to Draw the Line",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "ゲーム開発現場でAI活用が急速に広がる中、業界内で「どこまでAIに任せるべきか」という議論が加熱している。AIは素材生成や単純作業の効率化に優れる一方で、クリエイティビティの核となる部分をAIに依存することへの懸念が根深い。開発効率向上と人間にしかできない表現の価値をどう両立させるかが、今後の重要な課題となっている。"
+  },
+  {
+   "slug": "2026-10-14-55",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-55.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-55.html",
+   "title": "ウクライナ、同盟国からの警告なし？キーウ主要発電所がまたミサイル攻撃",
+   "title_en": "Ukraine Warns: Russia Strikes Kyiv Power Plants Without Allied Intelligence Heads-Up",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "ウクライナのゼレンスキー大統領は、キーウの暖房・電力供給を担う主要エネルギー施設がロシアの弾道ミサイル攻撃を受けたと発表。大統領は、このような攻撃に対してNATOなど同盟国からの事前警戒情報が提供されていないことに不満を表明。インフラへの組織的な攻撃が冬期に市民生活に深刻な影響を与える懸念が高まっている。"
+  },
+  {
+   "slug": "2026-10-14-54",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-54.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-54.html",
+   "title": "北海道新聞の記者がロシアでスパイ容疑により拘束――日露関係の冷え込みが深刻化",
+   "title_en": "Russian FSB Detains Hokkaido Shimbun Journalist on Espionage Charges Amid Worsening Japan-Russia Relations",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "ロシア連邦保安局（FSB）が、北海道新聞の日本人記者をスパイ容疑で拘束したと発表した。ロシア側は、この記者が日本政府の指示でロシアの防衛能力に関する情報収集を行っていたと主張している。両国の関係は、プーチン大統領が択捉島を訪問した8月以降、さらに悪化しているとされている。"
+  },
+  {
+   "slug": "2026-10-14-53",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-53.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-53.html",
+   "title": "ローマ教皇が肺がん診断、手術は成功　87歳の健康状態は今後どうなる?",
+   "title_en": "Pope Leo XIV Diagnosed with Lung Cancer: What Comes Next for the 87-Year-Old Leader?",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "カトリック教会のローマ教皇レオ14世が肺腺がんと診断され、右肺下葉の切除手術が行われたと教皇庁が発表した。手術は無事成功したという。高齢での大手術となるため、教会関係者や信者の間で今後の活動継続を巡る関心が高まっている。"
+  },
+  {
+   "slug": "2026-10-14-52",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-52.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-52.html",
+   "title": "中東の火種、なぜ消えない？サウジ石油施設への攻撃が示す深刻な現実",
+   "title_en": "Why Won't the Middle East Fire Go Out? The Harsh Reality Behind Attacks on Saudi Oil Facilities",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "サウジアラビアの国営石油会社がフーシ派による攻撃を受けたことが明らかになりました。イエメンの反政府勢力フーシ派との対立は長年続いており、今回の攻撃はさらなる報復につながるとみられています。フーシ派は攻撃の継続を主張しており、中東地域の不安定化が懸念されています。"
+  },
+  {
+   "slug": "2026-10-14-51",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-51.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-51.html",
+   "title": "ハンガリーがウクライナのEU加盟反対を撤回　何が変わったのか？",
+   "title_en": "Hungary Reverses Opposition to Ukraine's EU Membership—What Changed?",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "ハンガリーがウクライナのEU加盟に関する反対姿勢を撤回した。これまでオルバン首相が加盟交渉の開始に反対していたが、立場を転換。EU内での調整が進み、ウクライナの加盟プロセスが前進することになる。この動きは欧州政治の大きな転換点となる可能性がある。"
+  },
+  {
+   "slug": "2026-10-14-50",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-50.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-50.html",
+   "title": "偏食する幼い娘にどう向き合う？ 追い詰められた母親の葛藤",
+   "title_en": "How Should Parents Handle Picky Eating in Young Children? A Mother's Struggle",
+   "category": "健康",
+   "published": "2026-10-14",
+   "summary": "子どもの偏食に悩む親は多いが、その対応方法によっては親子関係にストレスが生じることもある。幼い娘の限定的な食事習慣に直面した母親が、どのような心理的負担を抱えているのか、また子どもの偏食にはどのような背景や対処法があるのかについて問い直す内容。親の不安と子どもの発達段階のバランスを考える重要性が指摘される。"
+  },
+  {
+   "slug": "2026-10-14-49",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-49.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-49.html",
+   "title": "東京23区に火葬場新設へ、なぜいま必要なのか？",
+   "title_en": "Why Tokyo Needs New Crematoriums in 23 Wards Now",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "東京都が23区内における火葬場の新設を検討していることが明らかになった。高齢化に伴う火葬需要の増加と、現在の火葬場の処理能力の逼迫が背景にある。都内の火葬場は施設が老朽化しており、新規整備による需要対応が急務となっているという。"
+  },
+  {
+   "slug": "2026-10-14-48",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-48.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-48.html",
+   "title": "警察まで狙われた個人情報漏えい、もう逃げ場なし？",
+   "title_en": "Personal Data Breaches Spreading—Even Police Can't Stay Safe?",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "不正アクセスによる個人情報流出が相次いでいる。14日には都内の複数自治体で住民情報が漏えいした可能性が判明した他、広島県警察本部の警察官や職員の個人情報も流出した可能性が明らかになった。セキュリティが高いはずの公的機関でも被害が拡大している現状が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-14-47",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-47.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-47.html",
+   "title": "大谷翔平が明かした不振の真犯人、ファンが予想していなかった理由とは",
+   "title_en": "Shohei Ohtani Reveals the Real Reason Behind His Recent Struggles",
+   "category": "スポーツ",
+   "published": "2026-10-14",
+   "summary": "メジャーリーグで活躍する大谷翔平選手が、近頃の成績不振について言及した。本人は単なるスランプではなく、特定の要因が影響していることを明かし、ファンやメディアの間で話題となっている。今後の巻き返しに向けた取り組みについても注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-14-46",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-46.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-46.html",
+   "title": "医師が病院の外から手術をサポート？弘前大が成功させた遠隔手術ロボットの衝撃",
+   "title_en": "Remote Surgery Robot Control Realized for First Time in Japan—What Does It Mean for Healthcare?",
+   "category": "科学",
+   "published": "2026-10-14",
+   "summary": "弘前大学などの研究チームが、離れた場所にいる医師が手術用ロボットを操作して遠隔で手術をサポートする臨床研究を実施しました。国内ではこれが初めての事例となります。通信技術の発展により、地理的な制約を超えた医療提供が現実へと近づいています。"
+  },
+  {
+   "slug": "2026-10-14-45",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-45.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-45.html",
+   "title": "ブックオフの退会者21万人の個人情報が漏えい、何が起きたのか",
+   "title_en": "What Happened? 210,000 Book Off Users' Personal Data Exposed",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "大手古本販売チェーン「ブックオフ」で、退会したユーザー約21万人の個人情報が外部に漏えいしていたことが判明した。流出した情報には氏名やメールアドレスなどが含まれている。同社は原因究明と対策に乗り出しており、利用者への通知を進めているという。個人情報管理の甘さが改めて問題となっている。"
+  },
+  {
+   "slug": "2026-10-14-44",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-44.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-44.html",
+   "title": "サイゼリヤ平均6%値上げへ、家計への影響は？",
+   "title_en": "Saizeriya Raises Menu Prices by 6% — What's Next for Budget Dining?",
+   "category": "経済",
+   "published": "2026-10-14",
+   "summary": "リーズナブルな価格帯で知られるサイゼリヤが、メニュー全体で平均6%の値上げを実施することが明らかになった。原材料費の高騰やエネルギーコスト上昇への対応が理由とされている。消費者の家計管理への影響が懸念される一方で、企業の経営維持の必要性も指摘されている。"
+  },
+  {
+   "slug": "2026-10-14-43",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-43.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-43.html",
+   "title": "がん闘病中の妻、カツラ姿で遺影を自撮り　その理由に涙が止まらない",
+   "title_en": "Woman with Cancer Takes Her Own Memorial Photo in a Wig—Her Reason Will Move You",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "がんと診断された妻が、治療による脱毛に備えてカツラを着用し、自分で遺影を撮影した。家族のために最後の記録を残そうとする姿勢と、病気と向き合う強い決意が話題となっている。医学の進歩がある一方で、患者が直面する心理的な課題や、家族との向き合い方について改めて考えさせられるストーリー。"
+  },
+  {
+   "slug": "2026-10-14-42",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-42.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-42.html",
+   "title": "選挙運動員買収疑惑で簗氏が窮地へ　24年衆院選での違法行為が浮上か",
+   "title_en": "Yanai Under Fire: Election Worker Bribery Allegations Emerge from 2024 Campaign",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "2024年の衆院選において、簗氏が選挙運動員を買収していた疑いが指摘されている。運動員への金銭供与が選挙法に違反する可能性があり、問題が顕在化している。政治資金と選挙活動の透明性を巡る議論が改めて注目を集めることになりそうだ。"
+  },
+  {
+   "slug": "2026-10-14-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-41.html",
+   "title": "農水相辞任で首相が任命責任に言及―政治責任の幕引きなのか、それとも始まりなのか",
+   "title_en": "Minister of Agriculture Resigns Amid Questions: Will This Be the End, or Just the Beginning?",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "農林水産大臣が辞任し、首相が任命責任について言及する事態が発生した。政治責任の所在をめぐる議論が浮上している。辞任に至った具体的な経緯や背景、および政権運営への影響について注視する必要がある。"
+  },
   {
    "slug": "2026-10-14-40",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-40.html",
