@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2541,
+ "count": 2562,
  "articles": [
+  {
+   "slug": "2026-10-14-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-40.html",
+   "title": "相棒のトリオが駅前に出現→ファン大混乱『どこにいるんだ目玉焼き！』",
+   "title_en": "Aibou Cast Shows Up at Train Station - Fans Lose It Over Unexpected Appearance",
+   "category": "コラム",
+   "published": "2026-10-14",
+   "summary": "テレビドラマ『相棒』のキャラクターたちが駅前に登場し、ファンから歓声が上がった。長年愛され続ける人気ドラマの作中人物がリアルで現れるという予想外の展開に、通勤・通学客も二度見必至の状況になった模様。"
+  },
+  {
+   "slug": "2026-10-14-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-39.html",
+   "title": "写真業界の巨人ゲッティ、米国で破産申請へ――デジタル化の波に呑まれた老舗の行方は？",
+   "title_en": "Getty Images Files for Bankruptcy: Will a Photo Giant Survive the AI Revolution?",
+   "category": "経済",
+   "published": "2026-10-14",
+   "summary": "写真・画像ライセンス事業の大手企業ゲッティ・イメージズが米国で破産法申請を行う見通しが報じられた。同社はストック写真の老舗として数十年にわたり業界を牛耳ってきたが、近年のデジタル化やAI画像生成技術の急速な普及、さらには価格競争の激化により経営が悪化。この破産は、既存の画像ライセンス市場が大きな転換期を迎えていることを象徴する出来事となっている。"
+  },
+  {
+   "slug": "2026-10-14-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-38.html",
+   "title": "駅周辺にデータセンター計画、なぜ波紋が広がる？地域と企業の対立の構図",
+   "title_en": "Why Is a Data Center Plan Near the Station Causing Backlash? The Conflict Between Industry and Community",
+   "category": "経済",
+   "published": "2026-10-14",
+   "summary": "駅周辺エリアに大型データセンター建設を計画している企業の発表が、地域住民から反発を招いている。騒音・電力消費・景観への懸念が主な理由とされ、自治体との調整も難航しているもよう。都市開発と地域振興のバランスをめぐる課題が浮き彫りになった。"
+  },
+  {
+   "slug": "2026-10-14-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-37.html",
+   "title": "PayPay証券が日本株取引停止、利用者の資産はどうなる？",
+   "title_en": "PayPay Securities halts Japanese stock trading: what happens to users' assets?",
+   "category": "経済",
+   "published": "2026-10-14",
+   "summary": "スマートフォン投資アプリで知られるPayPay証券で日本株の取引機能が停止する障害が発生した。ユーザーは取引ができない状態となり、市場のタイミングを逃す可能性も出ている。フィンテック企業のシステム安定性が改めて問われる事態となっている。"
+  },
+  {
+   "slug": "2026-10-14-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-36.html",
+   "title": "大阪にアンソロ社のデータ拠点？日本のAI・クラウド戦略に何が起きているのか",
+   "title_en": "Is Anthropic's Osaka Data Hub a Sign of Japan's Shifting AI Strategy?",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "米アンソロポック社が大阪にデータセンター拠点の設置に向けて調整を進めているとされている。同社はAI開発企業として急速に成長しており、日本へのインフラ投資は国内のAI産業と海外企業の関係性を示す動きとして注目される。詳細な時期や規模については現在調整中の段階。"
+  },
+  {
+   "slug": "2026-10-14-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-35.html",
+   "title": "東大学長選、教職員から異議相次ぐ　選考プロセスの透明性が問われる",
+   "title_en": "Transparency Under Fire: Tokyo University Faculty Demand Clarity on Presidential Selection Process",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "東京大学の学長選挙をめぐり、教職員有志が選考過程について詳細な説明を求める動きが出ている。学内のガバナンスや意思決定の透明性に対する懸念が背景にあり、大学運営における民主的なプロセスのあり方が改めて問題提起されている。"
+  },
+  {
+   "slug": "2026-10-14-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-34.html",
+   "title": "トランプが発表した「エネルギー停戦」、ゼレンスキーは「初耳」、ロシアは沈黙…これって本当に成立するの？",
+   "title_en": "Trump Announces Russia-Ukraine \"Energy Ceasefire\" — But Zelensky Says He Never Heard About It, and Moscow Stays Silent",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "トランプ米大統領がロシアとウクライナのエネルギーインフラ攻撃停止で合意したと発表した一方で、ウクライナのゼレンスキー大統領は「初めて聞いた」と困惑を示した。ロシアは公式なコメントを発表していない。合意の真偽や実効性について大きな疑問が残っている。"
+  },
+  {
+   "slug": "2026-10-14-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-33.html",
+   "title": "豪カンタス航空が機内トコジラミで欠航　国際線でまさかの事態",
+   "title_en": "Qantas Cancels Flight Over Bed Bug Discovery—A Rare Crisis in International Aviation",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "オーストラリアの大手航空会社カンタス航空のイタリア発オーストラリア行きの便が、機内でトコジラミ（ナンキンムシ）の発生が確認されたため、10日に急きょ欠航となった。世界的な害虫問題が国際線運航にまで影響を及ぼす事態となっている。"
+  },
+  {
+   "slug": "2026-10-14-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-32.html",
+   "title": "ノーベル平和賞受賞者が激怒「非常に悲しい」—受賞発表直後のアメリカの対応に何があった？",
+   "title_en": "Nobel Peace Prize Winner Lashes Out at U.S. on Day of Honor—What Did America Just Do?",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "2026年のノーベル平和賞受賞者ナビ・ピレイ氏が、受賞発表日にアメリカのトランプ政権がICC（国際刑事裁判所）を制裁対象に指定したことについて、NHKのインタビューで強い遺憾の意を表明した。受賞の喜びと同時に国際正義機構への圧力が加えられたタイミングに、ピレイ氏は深刻な懸念を示している。"
+  },
+  {
+   "slug": "2026-10-14-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-31.html",
+   "title": "共和党からも異議？米で死刑の配信実況が議論に",
+   "title_en": "Death Penalty Live-Stream Faces Backlash: Even Republicans Question the Practice",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "米国で死刑の配信に関して、従来は死刑反対派からの反発が主だったが、今回は共和党からも批判の声が上がっているという。死刑制度を支持する保守派からも疑問視される事態となり、米社会において死刑執行の公開性や透明性の扱い方が問われている状況を示唆している。"
+  },
+  {
+   "slug": "2026-10-14-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-30.html",
+   "title": "なぜ日本の記者がロシアで拘束された？サハリンで何が起きているのか",
+   "title_en": "Japanese Reporter Detained in Russia: Why Are International Journalists Being Targeted?",
+   "category": "国際",
+   "published": "2026-10-14",
+   "summary": "北海道新聞の記者がロシア極東のサハリン州で露当局に拘束されたことが判明した。ウクライナ情勢が緊迫する中、ロシアの外国人メディアに対する対応が厳しさを増している実態が浮き彫りになっている。日本政府も対応を検討するとみられる。"
+  },
+  {
+   "slug": "2026-10-14-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-29.html",
+   "title": "道頓堀グリコサイン、来春ついに7代目へ 約20年ぶりの大規模リニューアルの背景は？",
+   "title_en": "Iconic Glico Sign in Dotonbori Getting a Major Makeover This Spring—What's Behind the 20-Year Update?",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "大阪・道頓堀の象徴であるグリコサイン(グリコの看板)が来春、7代目にリニューアルされることが明らかになった。現在の看板が設置されてから約20年が経過し、老朽化への対応と最新LED技術への更新が主な理由。新しい看板は、より高い表現力と省エネ性能を備えながらも、懐かしさを保つデザインで、観光地としての価値向上が期待されている。"
+  },
+  {
+   "slug": "2026-10-14-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-28.html",
+   "title": "ボイスフィッシング被害金、ベトナムで摘発される—日越連携の詐欺対策",
+   "title_en": "Voice Phishing Fraud Ring Busted in Vietnam—Japan-Vietnam Cooperation Yields Results",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "警察庁がベトナム当局と協力し、ボイスフィッシング詐欺で盗まれた被害金をマネーロンダリングしていた犯罪グループを摘発した。金融機関を装った電話で偽サイトに顧客情報を入力させ、不正に資金を奪い取る手口が急増しており、国際的な連携による対策が強化されている。"
+  },
+  {
+   "slug": "2026-10-14-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-27.html",
+   "title": "北海道で暴風警戒、全国的に大気不安定へ。急発達する低気圧の影響は？",
+   "title_en": "Hokkaido braces for severe winds as rapidly intensifying low-pressure system approaches",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "前線を伴った低気圧が急速に発達する影響で、北海道では15日にかけて日本海側を中心に非常に強い風が吹く見込みとなっています。気象庁は暴風への警戒を呼びかけており、北日本から西日本にかけて大気の状態が非常に不安定になると予想されています。"
+  },
+  {
+   "slug": "2026-10-14-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-26.html",
+   "title": "なでしこJ、ドイツに逆転負け。W杯優勝国との実力差、今後の課題は？",
+   "title_en": "Nadeshiko Japan Suffers Dramatic Comeback Loss to Germany. What's Next for the Team?",
+   "category": "スポーツ",
+   "published": "2026-10-14",
+   "summary": "日本女子サッカー代表がドイツとの試合で逆転負けを喫した。前半は日本がリードを奪って優位に進めていたものの、後半にドイツの攻撃に押され、追いつかれたうえ逆転されるという展開。女子サッカー界の強豪国との対戦で、得点後の集中力維持と守備の課題が浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-10-14-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-25.html",
+   "title": "裁判所が夜間業務を性別問わず配置へ、何が変わる？",
+   "title_en": "Japanese Courts Break Barriers: Gender-Neutral Night Shift Assignments Starting Now",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "裁判所が夜間業務における人員配置について、性別を問わない配置方針に転換することを決定した。これまでは特定の性別に限定された配置が慣行化していたが、多様な働き方と機会均等の観点から、誰もが夜間業務に従事できる体制を整備する。職場環境の改善と業務効率化を狙いとしている。"
+  },
+  {
+   "slug": "2026-10-14-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-24.html",
+   "title": "自治体の情報配信が突然停止　不正アクセスが原因か",
+   "title_en": "Local Government Information Services Knocked Offline by Cyber Attack",
+   "category": "IT",
+   "published": "2026-10-14",
+   "summary": "複数の自治体が運営するオンライン情報配信サービスが不正アクセスの被害を受け、一時的にサービスが停止したことが報道されました。被害の範囲や詳細な影響については現在調査中で、セキュリティ対策の不備が問題として浮上しています。地域住民への情報提供に支障が出ており、自治体のデジタル基盤強化が急務とみられます。"
+  },
+  {
+   "slug": "2026-10-14-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-23.html",
+   "title": "日本のGDP世界6位へ転落、なぜ経済大国の地位が揺らいでいるのか",
+   "title_en": "Japan's GDP to Drop to 6th Place Globally—What's Behind the Economic Giant's Decline?",
+   "category": "経済",
+   "published": "2026-10-14",
+   "summary": "国際通貨基金（IMF）の予測によると、日本の名目GDPが来年には世界6位になる見込みとなりました。これまで世界3位を維持してきた日本の経済順位が大きく下がることになり、円安の進行やインドなど新興国の急速な成長が背景にあるとみられています。"
+  },
+  {
+   "slug": "2026-10-14-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-22.html",
+   "title": "国仲涼子が長男に言われた衝撃の言葉とは？親子関係に一同驚愕",
+   "title_en": "What Did Ryoko Kuninaka's Son Say to Shock the Nation?",
+   "category": "エンタメ",
+   "published": "2026-10-14",
+   "summary": "女優の国仲涼子が、長男から思わぬ言葉をかけられたことを明かし話題となっている。親子間でのやり取りの詳細については、世代間のコミュニケーションギャップや子育ての現実について考察する声が上がっている。有名人の家庭内での日常が垣間見える一件として、視聴者の関心を集めている。"
+  },
+  {
+   "slug": "2026-10-14-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-21.html",
+   "title": "農相の進退、14日にも首相が判断へ。政府内混乱は避けられないのか？",
+   "title_en": "PM to decide on agriculture minister's fate by the 14th—can the government avoid further turmoil?",
+   "category": "国内",
+   "published": "2026-10-14",
+   "summary": "農林水産大臣の進退について、首相が近く判断を下す見通しが報じられた。政治資金問題や政策をめぐる指摘が浮上する中、内閣の一員として大臣の続投が適切かどうかが問われている。首相の決断は政府の信頼性を左右する重要な局面となりそうだ。"
+  },
+  {
+   "slug": "2026-10-14-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-14-20.html",
+   "title": "星野源&新垣結衣に第1子誕生、ファンから祝福の声殺到「おめでとう！」",
+   "title_en": "Hoshino Gen and Aragaki Yui Welcome First Child, Fans Celebrate 'Congratulations!'",
+   "category": "エンタメ",
+   "published": "2026-10-14",
+   "summary": "俳優の星野源と女優の新垣結衣が第1子の誕生を報告した。2023年6月に結婚した二人の間に待望の子どもが誕生し、ファンや業界関係者から多くの祝福のコメントが寄せられている。今後の二人の活動についても注目が集まっている。"
+  },
   {
    "slug": "2026-10-14-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-19.html",
