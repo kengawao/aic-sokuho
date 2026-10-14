@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2583,
+ "count": 2604,
  "articles": [
+  {
+   "slug": "2026-10-15-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-20.html",
+   "title": "風間トオルが明かした壮絶な子ども時代、なぜ恨まないのか",
+   "title_en": "Actor Toru Kazama Reveals Harsh Childhood—But Holds No Grudges. Why?",
+   "category": "コラム",
+   "published": "2026-10-15",
+   "summary": "俳優・風間トオルが自身の過酷な幼少期について語った。貧困や厳しい環境で育った経験を持ちながらも、親への恨みがないという姿勢を示している。彼のこうした前向きな思考が、現在の芸能活動にどのような影響を与えているのか、人生経験と心の強さについて考察する内容として注目を集めている。"
+  },
+  {
+   "slug": "2026-10-15-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-19.html",
+   "title": "警察庁がマイクロソフトと共同作戦、日本標的のネット犯罪インフラを一掃",
+   "title_en": "Japan Police and Microsoft Partner to Dismantle Cybercrime Infrastructure Targeting the Nation",
+   "category": "IT",
+   "published": "2026-10-15",
+   "summary": "警察庁がマイクロソフトと連携し、日本を狙ったサイバー犯罪グループが使用していた偽サイト生成ツールなど複数の違法サービスを、米国での法的措置により今月無害化したと発表。犯罪者が提供していたインフラを国際的な協力で破壊した形となり、国内のネット詐欺やマルウェア配布に使われていたとみられる。"
+  },
+  {
+   "slug": "2026-10-15-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-18.html",
+   "title": "資生堂の陸上女子チームが休部へ、実業団の名門が何に追い詰められたのか",
+   "title_en": "Shiseido's Women's Track and Field Team Goes on Hiatus—How Did a Japanese Elite Fall?",
+   "category": "スポーツ",
+   "published": "2026-10-15",
+   "summary": "化粧品大手・資生堂の陸上女子チームが休部することが発表された。同チームは日本の女子長距離走を代表する名門として知られ、多くのオリンピック選手や日本記録保持者を輩出してきた。経営方針の転換やスポーツ事業への投資縮小が背景にあるとみられ、実業団陸上界に大きな波紋が広がっている。"
+  },
+  {
+   "slug": "2026-10-15-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-17.html",
+   "title": "吉見一起がコーチに転身へ　元エース投手の中日復帰が意味するものは？",
+   "title_en": "Former Ace Yoshimi Joins Chunichi as Coach: What Does This Mean for Dragons' Future?",
+   "category": "スポーツ",
+   "published": "2026-10-15",
+   "summary": "中日ドラゴンズが元エース投手の吉見一起氏をコーチとして招へいすることが決まった。吉見氏は2012年に日本シリーズMVPを獲得するなど中日の黄金期を支えた右腕で、現役時代は200勝を超える実績を残している。現役を退いた投手がコーチとして球団に戻るケースは珍しく、若手投手の育成に大きな期待が寄せられている。"
+  },
+  {
+   "slug": "2026-10-15-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-16.html",
+   "title": "阪急電鉄、来年4月に中吊広告終了へ 鉄道業界で何が起きている?",
+   "title_en": "Hankyu Railway Ends Hanging Train Ads in April 2025—What's Changing in Transit Advertising?",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "阪急電鉄が2025年4月をもって車両内の中吊広告を終了することを発表しました。スマートフォンの普及により乗客の視線が画面に集中し、中吊広告の効果が低下したことが理由とみられます。鉄道各社の広告戦略が大きく転換される局面を迎えています。"
+  },
+  {
+   "slug": "2026-10-15-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-15.html",
+   "title": "ワールドとTSI経営統合へ、自動車部品業界の再編が加速するのか",
+   "title_en": "Will the World-TSI Merger Reshape Japan's Auto Parts Supply Chain?",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "自動車部品メーカーのワールドとTSIが経営統合で合意した。両社は異なる強みを持つ部品供給企業として知られており、この統合により事業規模の拡大と経営効率化を図る狙いがある。電動化やCASE対応といった業界変革期における競争力強化が背景にあるとみられる。"
+  },
+  {
+   "slug": "2026-10-15-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-14.html",
+   "title": "イギリス vs アルゼンチン、フォークランド諸島の石油をめぐり国際法廷で対決へ",
+   "title_en": "Argentina Takes UK to International Court Over Falkland Islands Oil Exploration",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "アルゼンチンが国際海洋法裁判所（ITLOS）にイギリスを提訴し、フォークランド諸島沖での石油探査活動の中止を求める法的措置に踏み切った。アルゼンチンはイギリスの許可が国際法違反だと主張。領土主権をめぐる両国の対立が新たな段階へ進むことになった。"
+  },
+  {
+   "slug": "2026-10-15-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-13.html",
+   "title": "ハンガリー、オルバン時代のLGBTQ差別条項をついに撤廃へ…残された課題は？",
+   "title_en": "Hungary Finally Repeals LGBTQ Discrimination Clauses—But More Work Remains",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "ハンガリー国会が児童保護法を改正し、同性愛者やトランスジェンダーを差別する条項を削除した。性的マイノリティコミュニティからは改正を歓迎する声が上がる一方で、オルバン政権が制定した他の差別的法律についても改正を求める動きが続いている。欧州内での人権問題として注視される展開となっている。"
+  },
+  {
+   "slug": "2026-10-15-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-12.html",
+   "title": "フランスの高校生がデモで立ち上がった理由とは？激化する背景に何が",
+   "title_en": "Why Are French High School Students Taking to the Streets? Inside the Growing Unrest",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "フランスで高校生によるデモ活動が相次いでいます。年金改革や教育政策など、若い世代の生活に直結する課題への不満が高まっており、街頭での抗議活動が激化している状況です。政府の施策と市民の声のズレが浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-10-15-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-11.html",
+   "title": "8年待たせた中朝結ぶ橋がついに開通へ　経済効果は期待できるのか？",
+   "title_en": "After 8-Year Delay, Bridge Linking China and North Korea Finally Opens—Will It Boost the Economy?",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "2014年に完成予定だった中国と北朝鮮を結ぶ橋が、15日にようやく開通することになった。当初の予定から大幅に遅れた背景には、国際的な制裁や政治的な緊張関係があると見られている。この橋の開通により、両国間の物流や経済交流にどのような影響をもたらすかが注目されている。"
+  },
+  {
+   "slug": "2026-10-15-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-10.html",
+   "title": "機雷が原因で貨物船沈没、海峡での危険な状況が明らかに",
+   "title_en": "Cargo Ship Sinks After Hitting Naval Mine in Strait",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "海峡で貨物船が機雷に接触して沈没したことが報道された。機雷による船舶への被害は国際海運に深刻な影響を与える事態であり、当該海域の安全確保が急務となっている。事故の詳細や影響範囲など、さらなる情報の確認が必要な状況である。"
+  },
+  {
+   "slug": "2026-10-15-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-9.html",
+   "title": "秋の園遊会に1700人超が招待決定、宮部みゆきや吉田鋼太郎らが名を連ねる",
+   "title_en": "Over 1,700 Guests Invited to Autumn Garden Party, Including Novelist Miyuki Miyabe and Actor Kohta Yoshida",
+   "category": "国内",
+   "published": "2026-10-15",
+   "summary": "9月29日に開催される秋の園遊会の招待者が決定し、小説家の宮部みゆきさんや俳優の吉田鋼太郎さんをはじめ、1700人を超える各界の著名人が招待されることが明らかになった。園遊会は文化・芸術・スポーツなど様々な分野で活躍する人物を表彰・祝賀する重要な行事として毎年開催されている。"
+  },
+  {
+   "slug": "2026-10-15-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-8.html",
+   "title": "「異常分娩」という言葉が消える？政府が表現変更を検討、医療現場はどう対応する",
+   "title_en": "Japan's Government Reconsiders \"Abnormal Childbirth\" Terminology—What's Changing in Obstetric Care?",
+   "category": "国内",
+   "published": "2026-10-15",
+   "summary": "政府が産科医療で使用されてきた「異常分娩」という表現の使用を控える方向で検討を進めている。この用語が持つネガティブなイメージや、妊産婦への心理的負担を考慮した判断と見られる。医療現場での用語統一や、代替表現の策定などが今後の課題となりそうだ。"
+  },
+  {
+   "slug": "2026-10-15-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-7.html",
+   "title": "OpenAIのエンジニアがFBIに逮捕？　AIの巨人で何が起きた",
+   "title_en": "OpenAI Engineer Arrested by FBI: What Happened Inside AI's Giant?",
+   "category": "IT",
+   "published": "2026-10-15",
+   "summary": "OpenAIのエンジニアがFBIに逮捕されたという報道が流れた。詳細は限定的だが、AI業界の中核を担う企業での逮捕事案は、セキュリティリスクや機密情報の流出に関連する疑いが指摘されている。AI開発の急速な進展に伴い、知的財産保護と内部統制の課題が浮き彫りになった形だ。"
+  },
+  {
+   "slug": "2026-10-15-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-6.html",
+   "title": "米大統領が銃殺刑の配信中止を検討？死刑制度の「見える化」が問い直される",
+   "title_en": "Should Executions Be Live-Streamed? US President Reconsiders Broadcasting Capital Punishment",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "米国の死刑制度をめぐり、銃殺刑の実行を公開配信する動きに対して、米大統領が中止を検討していることが報じられた。死刑制度の透明性と人権の観点から議論が巻き起こっており、公開実行の是非や法的問題について関係者の意見が分かれている。"
+  },
+  {
+   "slug": "2026-10-15-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-5.html",
+   "title": "イオン系スーパー100店舗閉店へ　経営戦略転換の背景は",
+   "title_en": "Aeon to Close 100 Supermarket Stores: What's Behind the Major Shift?",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "イオングループが傘下のスーパーマーケット約100店舗の閉店を発表した。背景には、消費者の購買行動の変化や小型店舗への経営資源の集中化がある。デジタル化の進展や都市部での競争激化に対応するため、採算性の低い大型店舗から戦略的に撤退する動きが加速している。"
+  },
+  {
+   "slug": "2026-10-15-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-4.html",
+   "title": "日銀が2%超の利上げに踏み切る可能性は？金利上昇で家計・企業への影響も",
+   "title_en": "Could the Bank of Japan Raise Rates Above 2%? Implications for Households and Businesses",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "日銀の次期利上げが注目される中、政策金利が2%を超える水準まで上昇する可能性が浮上している。インフレ圧力の継続と金融引き締めの必要性が背景にあり、市場関係者の間でも議論が活発化。家計のローン負担増加や企業の資金調達コスト上昇など、実体経済への波及効果が懸念される状況となっている。"
+  },
+  {
+   "slug": "2026-10-15-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-3.html",
+   "title": "AIが自分で自分を強化し始めた…専門家が警告する「超知能」の危機とは",
+   "title_en": "AI is upgrading itself—what does the 'superintelligence' threat really mean?",
+   "category": "IT",
+   "published": "2026-10-15",
+   "summary": "人工知能が自己改善を繰り返し、人間の制御が及ばない『超知能』へと進化する可能性について、専門家から危機感の声が上がっている。既存のAIシステムが学習を通じて自らの能力を高める段階に入りつつあり、その先にある予測不可能なリスクへの対策が急務とされている。"
+  },
+  {
+   "slug": "2026-10-15-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-2.html",
+   "title": "なぜ日本の記者が拘束された？道新記者の身柄確保が政府を揺さぶる",
+   "title_en": "Why Was a Japanese Reporter Detained? Hokkaido Shimbun Incident Shocks Government",
+   "category": "国内",
+   "published": "2026-10-15",
+   "summary": "北海道新聞の記者が拘束される事態が発生し、日本政府に大きな衝撃を与えている。記者の自由と報道の自由という基本的人権に関わる重大事案として、政界やメディア業界から懸念の声が上がっている。事件の詳細や今後の対応について注視される状況となっている。"
+  },
+  {
+   "slug": "2026-10-15-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-1.html",
+   "title": "ネトフリが約1000人削減、好調なはずでは？急速な経営方針転換の理由",
+   "title_en": "Netflix Cuts 1,000 Jobs Despite Recovery: Why the About-Face?",
+   "category": "IT",
+   "published": "2026-10-15",
+   "summary": "Netflixが従業員約1000人の削減を発表した。同社は昨年来の業績改善で加入者数が回復していたが、経営効率化の一環として大規模な人員削減に踏み切る。これはハリウッドの脚本家組合との労使交渉が落ち着いた後の動きで、コスト構造の見直しを示唆している。"
+  },
+  {
+   "slug": "2026-10-15-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-0.html",
+   "title": "わずか1カ月で農相が辞表提出…内閣改造から早すぎる交代劇、何が起きた?",
+   "title_en": "Minister of Agriculture Resigns After Just One Month: What Went Wrong?",
+   "category": "国内",
+   "published": "2026-10-15",
+   "summary": "内閣改造からわずか1ヶ月で農相が辞表を提出する事態が発生した。短期での大臣交代は政権の安定性に疑問を呈するもので、政策の継続性や信頼性の維持が課題となっている。背景には何らかの問題や事情があるとみられており、政界内での影響が注視されている。"
+  },
   {
    "slug": "2026-10-14-61",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-14-61.html",
