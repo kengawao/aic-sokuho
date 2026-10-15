@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2604,
+ "count": 2625,
  "articles": [
+  {
+   "slug": "2026-10-15-41",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-41.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-41.html",
+   "title": "サケ漁のはずが大量のマヒマヒ？漁師たちが困惑する予想外の大漁劇",
+   "title_en": "Expecting Salmon but Getting Mahi-Mahi? Japan's Fishing Fleet Faces Unexpected Catch",
+   "category": "コラム",
+   "published": "2026-10-15",
+   "summary": "サケ漁の季節に、漁師たちの網に予想と違う魚が大量に引っかかる珍事が発生。狙いはサケだったのに、マヒマヒ（シイラ）が次々と揚がり、漁場の異変が明らかに。温暖化や海水温の変化など、海の環境変動が招いた想定外の出来事として注目されている。"
+  },
+  {
+   "slug": "2026-10-15-40",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-40.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-40.html",
+   "title": "787医療機関の患者情報流出か 産婦人科システムへの不正アクセス、妊産婦データの悪用リスクは？",
+   "title_en": "Data Breach Affects 787 Medical Facilities: Can OB-GYN Systems Protect Sensitive Patient Information?",
+   "category": "IT",
+   "published": "2026-10-15",
+   "summary": "産婦人科などの医療機関向けの予約・受付システムが外部からの不正アクセスを受けた。サービス提供企業の発表によると、最大787の医療機関に登録された患者の個人情報が漏洩した可能性がある。妊産婦や女性患者のセンシティブな医療情報が含まれることから、医療機関側は患者への通知と対応に追われている。"
+  },
+  {
+   "slug": "2026-10-15-39",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-39.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-39.html",
+   "title": "工藤新監督がオファーを受諾した真意は？就任理由から見える野球界の現在地",
+   "title_en": "Why Did New Manager Kudo Accept? What His Decision Reveals About Baseball's Future",
+   "category": "スポーツ",
+   "published": "2026-10-15",
+   "summary": "新監督に就任する工藤氏が、複数のオファーの中からこのチームを選んだ理由が明かされた。チームの将来性や経営方針の改革、自身の野球観との合致が大きな要因だったとみられる。業界内では、有能な指導者の選別眼がより厳しくなっていることを示す事例として注目されている。"
+  },
+  {
+   "slug": "2026-10-15-38",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-38.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-38.html",
+   "title": "織田翔希が米球界へ決断 「すごく悩んだ」背景に何があったのか",
+   "title_en": "Why Did Japanese Baseball Star Shoki Oda Choose MLB? The Decision Behind the Dilemma",
+   "category": "スポーツ",
+   "published": "2026-10-15",
+   "summary": "日本の野球選手・織田翔希がMLB挑戦を決めた。本人は決断までの過程で大きく悩んだと語っている。日本での安定したキャリアと米国での更なるステップアップの選択肢の間で、葛藤があったと考えられる。若き才能が国際舞台へ踏み出す背景には、日本球界の現状と本人の野心が交錯していると見られる。"
+  },
+  {
+   "slug": "2026-10-15-37",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-37.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-37.html",
+   "title": "習い事選びが変わった？親が重視するのは「成績」より「友達作り」と「時間効率」",
+   "title_en": "Japanese Parents' Priorities for Kids' Extracurriculars Shift: Social Skills Over Academic Achievement",
+   "category": "国内",
+   "published": "2026-10-15",
+   "summary": "子どもの習い事選びで親の価値観に変化が見られている。従来の「学力向上」や「競技成績」重視から、社会性の育成やタイムパフォーマンス（タイパ）を優先する傾向が強まっているという。共働き家庭の増加や習い事の多様化により、親が求める成果の定義が多様化している背景がある。"
+  },
+  {
+   "slug": "2026-10-15-36",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-36.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-36.html",
+   "title": "老舗うなぎパイが部門赤字に直面、どうやって復活させる？浜松の名産品が抱える経営課題",
+   "title_en": "Famous Florentine-Style Cookie Brand Faces Red Ink: Can Shizuoka's Signature Snack Make a Comeback?",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "浜松銘菓として知られるうなぎパイを製造する企業が、特定事業部門で赤字経営に陥っている。長年の主力商品でありながら、消費者の嗜好変化や原材料費の上昇、競合商品の増加などの要因が重なり、採算性が悪化。企業は販売戦略の見直しや製品ラインアップの再構成を検討しており、地元浜松の代表的な土産品がどのように経営危機を乗り越えるかが注目される。"
+  },
+  {
+   "slug": "2026-10-15-35",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-35.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-35.html",
+   "title": "死刑判決が破棄された理由は？サウジアラビア最高裁がSNS投稿めぐる決定を覆す",
+   "title_en": "Saudi Arabia's Supreme Court Overturns Death Sentence Over Facebook Post—What Changed?",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "サウジアラビアで、フェイスブックのコメント投稿がイスラム教と預言者ムハンマドへの冒涜とされ死刑判決を受けたスリランカ人労働者について、サウジアラビアの最高裁判所が判決を破棄した。スリランカ外務副大臣が明らかにしたもので、国際的な関心を集めていた本件に転機が訪れた形となる。"
+  },
+  {
+   "slug": "2026-10-15-34",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-34.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-34.html",
+   "title": "コンゴから帰国した男性が死亡、その親族が感染…ケニアでエボラ2例目の衝撃",
+   "title_en": "Second Ebola Case in Kenya Confirmed in Relative of Deceased Businessman",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "ケニアで14日、エボラ出血熱の2例目の感染者が確認された。感染者は10日前にコンゴ民主共和国での流行地から帰国した実業家が死亡した患者の親族。ケニアでのエボラ感染は初めてではなく、国境を越えた感染拡大の懸念が高まっている。"
+  },
+  {
+   "slug": "2026-10-15-33",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-33.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-33.html",
+   "title": "ゼレンスキー氏がロンドンへ急行、トランプ政権の冷遇で欧州同盟国との結びつき強化へ",
+   "title_en": "Zelenskyy Rushes to London as Trump Administration Shifts on Ukraine Support",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "ウクライナのゼレンスキー大統領がロンドンを訪問し、イギリスのバーナム首相と会談した。米国のトランプ政権がウクライナへの支援姿勢を厳しくする中、ゼレンスキー氏はヨーロッパの主要国との関係強化を戦略的に進めている。イギリスとの連携を強めることで、米国以外の支援ルート確保を目指す動きとみられる。"
+  },
+  {
+   "slug": "2026-10-15-32",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-32.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-32.html",
+   "title": "ノルド・ストリーム爆破、ついに被告の法廷戦が始まった…2年間の沈黙を破る一大事件",
+   "title_en": "Nord Stream Sabotage Trial Begins: After 4 Years, Prosecutors Face Off Against Ukrainian Defendant",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "2022年9月にロシアとドイツを結ぶガスパイプライン「ノルド・ストリーム」が爆破された事件で、関与の疑いをかけられたウクライナ人男性の裁判がドイツ・ハンブルク州裁判所で開始された。欧州エネルギー危機の象徴となったこの事件は、4年を経て初の法廷闘争の舞台へ。犯人特定の過程や、各国の疑惑の矛先がどう変わるかが焦点となる。"
+  },
+  {
+   "slug": "2026-10-15-31",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-31.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-31.html",
+   "title": "マスク氏が衝撃発言　スターリンク速度制限は米政府指示？ウクライナ軍事行動に影響",
+   "title_en": "Musk Hints at US Government Involvement in Starlink Speed Limits Affecting Ukraine's Drone Operations",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "ウクライナ政府高官が、軍事作戦で使用しているスターリンク衛星通信の接続速度に制限がかかり、ドローンの移動速度が低下していると報告。イーロン・マスク氏はこの制限が米国政府の関与による可能性を示唆し、波紋が広がっている。戦争と民間企業、政府の関係性が複雑に絡み合う事態へ。"
+  },
+  {
+   "slug": "2026-10-15-30",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-30.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-30.html",
+   "title": "ドイツが13歳未満のSNS利用を禁止へ。日本は対応遅れ？子どもたちの未来が変わる",
+   "title_en": "Germany Bans Social Media for Under-13s: Is Japan Falling Behind on Child Protection?",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "ドイツが13歳未満の子どもによるSNS利用を禁止する方針を打ち出した。子どもの精神衛生や発達への悪影響を懸念する動きが欧州で加速している。EUでは既に厳しい規制が進み、米国でも同様の議論が活発化。日本は対応が遅れており、このトレンドにどう向き合うかが課題となっている。"
+  },
+  {
+   "slug": "2026-10-15-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-29.html",
+   "title": "絶滅危機のヤンバルクイナ、人工授精で初成功…繁殖の新たな道が開かれた",
+   "title_en": "Endangered Okinawan Rail Takes Flight: Japan's First Successful Artificial Insemination Breakthrough",
+   "category": "科学",
+   "published": "2026-10-15",
+   "summary": "沖縄に生息する天然記念物のヤンバルクイナについて、人工授精による繁殖に日本で初めて成功したことが明らかになった。野生での繁殖が困難になっている現状から、この技術は種の保全に向けた重要な成果として期待されている。専門機関が開発した技術がいかに活用されるかが今後の課題となる。"
+  },
+  {
+   "slug": "2026-10-15-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-28.html",
+   "title": "野沢雅子さんも警告「声が勝手に使われる」AI時代、声優業界が初のガイドライン作成",
+   "title_en": "Voice Actors Warning: \"Our Voices Are Being Used Without Permission\" — Industry Creates First AI Guidelines",
+   "category": "エンタメ",
+   "published": "2026-10-15",
+   "summary": "生成AIによる声の無断利用が問題化する中、声優などが加入する業界団体が初めてのガイドラインを発表しました。野沢雅子さんをはじめとする声優たちが、自分たちの声が許可なくAIに学習・利用されるケースの増加に対して警鐘を鳴らしており、業界として対策を急ぐ必要が出ています。"
+  },
+  {
+   "slug": "2026-10-15-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-27.html",
+   "title": "米8州がOpenAIを一斉提訴、何が問題になっているのか？",
+   "title_en": "Why Are 8 U.S. States Suing OpenAI? Here's What You Need to Know",
+   "category": "IT",
+   "published": "2026-10-15",
+   "summary": "アメリカの8つの州がOpenAIに対して法的措置を講じることが明らかになった。提訴の主な争点は、AIの学習に用いられたデータの取り扱いやユーザー情報の管理、さらには著作権侵害の疑いなど多岐にわたっているとみられる。この動きはAI企業に対する規制強化の流れを象徴する出来事として注目を集めている。"
+  },
+  {
+   "slug": "2026-10-15-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-26.html",
+   "title": "北朝鮮が14日に潜水艦巡航ミサイル発射か？米韓が警戒態勢強化",
+   "title_en": "North Korea's Submarine-Launched Cruise Missile Test on the 14th: What's the Real Threat?",
+   "category": "国際",
+   "published": "2026-10-15",
+   "summary": "北朝鮮が14日に潜水艦から発射する巡航ミサイルの試験を計画しているとみられる。米国と韓国の情報当局が事前に察知し、動向を監視している。潜水艦発射型ミサイルの開発は朝鮮半島の軍事バランスに大きな影響を与える可能性があり、地域の緊張がさらに高まる懸念がある。"
+  },
+  {
+   "slug": "2026-10-15-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-25.html",
+   "title": "71歳なのに毎日働く…年金だけでは足りない現実、あなたの親世代は大丈夫？",
+   "title_en": "Working Every Day at 71: Is Your Parents' Pension Really Enough?",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "年金受給年齢に達しても経済的に困窮し、毎日働き続けるシニア層の実態が浮き彫りになった。インフレや医療費の増加、不十分な年金額により、多くの高齢者が働かざるを得ない状況に直面している。社会保障制度の課題と、高齢化する日本の経済構造の問題が深刻化している。"
+  },
+  {
+   "slug": "2026-10-15-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-24.html",
+   "title": "東証3318円安の衝撃 なぜこんなことになった？",
+   "title_en": "Tokyo Stock Exchange Plummets 3,318 Points: What Triggered the Third-Largest Decline?",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "東京証券取引所の株価が大きく下落し、終値で3318円の下げ幅を記録しました。これは過去3番目の大きな下げ幅となります。世界的な経済情勢の変化や金利動向の影響が背景にあるとみられており、投資家の間で市場の先行きへの懸念が広がっています。"
+  },
+  {
+   "slug": "2026-10-15-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-23.html",
+   "title": "ソースネクスト2000万件超流出か　あの有名ソフト企業で何が起きた？",
+   "title_en": "Over 20 Million Records Leaked from Source Next: What Happened to Japan's Prominent Software Company?",
+   "category": "IT",
+   "published": "2026-10-15",
+   "summary": "ソフトウェア販売大手のソースネクストから2000万件を超える顧客情報が流出した可能性が報じられた。流出した情報には個人名やメールアドレスなどが含まれているとみられる。同社は事態の詳細を調査中で、ユーザーへの通知と対応策の検討を進めているとのこと。大規模な情報漏洩事件として注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-15-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-22.html",
+   "title": "内閣支持率42%に下落、過去最低水準へ 時事通信調査で何が起きているのか？",
+   "title_en": "Cabinet Approval Rating Plummets to 42%: What's Behind Japan's Political Crisis?",
+   "category": "国内",
+   "published": "2026-10-15",
+   "summary": "時事通信の最新調査で内閣支持率が42%まで低下したことが明らかになった。前回調査からの下落幅や、支持率低下の背景にある国民の懸念事項について、複数の要因が絡み合っている状況が浮かび上がっている。経済状況や政策への評価が支持率に大きく影響している。"
+  },
+  {
+   "slug": "2026-10-15-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-15-21.html",
+   "title": "パナソニックの洗濯機が発火の恐れ？何千台がリコール対象に",
+   "title_en": "Panasonic Washing Machines Risk Catching Fire: Thousands Subject to Recall",
+   "category": "経済",
+   "published": "2026-10-15",
+   "summary": "パナソニックが特定の洗濯機モデルについて発火の危険性があるとしてリコールを発表しました。製造時期や型番によって対象商品が限定されており、該当するユーザーに対して点検・修理の案内が行われています。洗濯機は日常生活に欠かせない家電だけに、安全性への関心が高まっています。"
+  },
   {
    "slug": "2026-10-15-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-20.html",
