@@ -2,8 +2,218 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2625,
+ "count": 2646,
  "articles": [
+  {
+   "slug": "2026-10-16-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-20.html",
+   "title": "鈴木福、ついに金髪化！子役時代の面影はどこへ…役作りの執念が凄い",
+   "title_en": "Shiro Suzuki Goes Blonde for the First Time: The Commitment of a Mature Actor",
+   "category": "コラム",
+   "published": "2026-10-16",
+   "summary": "子役として活躍してきた鈴木福さんが、映画やドラマの役作りのため人生初の金髪に挑戦したことが話題に。幼少期から茶髪や黒髪でお馴染みだった彼が、大人俳優としてのキャリアの中で新たなステップを踏み出した形だ。役のためなら髪色も厭わない本気度が伝わってくる。"
+  },
+  {
+   "slug": "2026-10-16-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-19.html",
+   "title": "うるう秒、廃止へ。時間の「ズレ」を止める決断は何をもたらすのか",
+   "title_en": "Leap Second Abolished: What Does Switching to 'Leap Hours' Mean for Our Digital World?",
+   "category": "科学",
+   "published": "2026-10-16",
+   "summary": "国際的な時間管理機関がうるう秒制度の廃止を決定し、新たに「うるう時」という概念の導入が決まった。現在、地球の自転の微妙なズレを調整するため年1回程度うるう秒が挿入されているが、この制度がコンピュータシステムに与える影響が問題視されてきた。廃止後は1時間単位で時間を調整する仕組みに移行するとみられ、インフラシステムの大規模な変更が生じる可能性がある。"
+  },
+  {
+   "slug": "2026-10-16-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-18.html",
+   "title": "コミックシーモアが一時停止を発表　電子書籍界に何が起きている？",
+   "title_en": "Comic Seymour Goes Offline: What's Really Happening in Japan's E-Book Market?",
+   "category": "エンタメ",
+   "published": "2026-10-16",
+   "summary": "大手電子書籍配信サービスのコミックシーモアが、サービスの一時停止を発表しました。詳細な理由は公式発表により異なりますが、システムトラブルや業界の課題が背景にある可能性があります。ユーザーへの影響は大きく、愛読者からは不安の声が上がっています。電子書籍市場が拡大する中での重要な事態として注視されています。"
+  },
+  {
+   "slug": "2026-10-16-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-17.html",
+   "title": "ロックバンド[Alexandros]が中学校で特別授業、音楽教育の現場に何をもたらすのか",
+   "title_en": "Japanese Rock Band [Alexandros] Conducts Special Class at Middle School—What Will It Mean for Music Education?",
+   "category": "エンタメ",
+   "published": "2026-10-16",
+   "summary": "ロックバンド[Alexandros]が中学校で特別授業を実施することが明らかになった。音楽の専門家集団が学校教育の現場で直接生徒と関わることで、音楽への関心喚起や創作活動の動機付けが期待される。従来の教科書的な音楽教育とは異なる、実践的で刺激的な学びの場となる可能性がある。"
+  },
+  {
+   "slug": "2026-10-16-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-16.html",
+   "title": "大学生の部活・サークル離れが加速？ 調査で明らかになった意外な実態",
+   "title_en": "Are Japanese University Students Abandoning Club Activities? Latest Survey Reveals Surprising Trends",
+   "category": "国内",
+   "published": "2026-10-16",
+   "summary": "大学生の部活やサークル活動への参加率が低下している傾向が調査で判明した。従来は大学生活の中心的な活動とされてきたが、近年は就職活動の時間確保やオンライン化の影響、さらには価値観の多様化により、参加を見送る学生が増えているという。背景には新型コロナウイルスの影響による活動制限の長期化や、SNSを通じた新しい人間関係構築の方法の浸透も指摘されている。"
+  },
+  {
+   "slug": "2026-10-16-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-15.html",
+   "title": "たった3回の練習で中学新記録達成？バトンパスの「質」が量を超えた瞬間",
+   "title_en": "Breaking a Junior High Record with Only 3 Practice Sessions: When Quality Beats Quantity in Relay Training",
+   "category": "スポーツ",
+   "published": "2026-10-16",
+   "summary": "中学の陸上競技でバトンパスの練習がわずか3回で新記録を樹立したというニュース。従来の「繰り返し練習」という常識に反する結果に、指導方法や効率的なトレーニング法への関心が集まっている。短期間での記録向上の背景にある工夫や戦略が注目を集めている。"
+  },
+  {
+   "slug": "2026-10-16-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-14.html",
+   "title": "ベストセラー作家が出版社と決別？パレスチナ支持で英国での販売停止",
+   "title_en": "Bestselling Author Pulls Books from UK Bookstores Over Palestine Support",
+   "category": "国際",
+   "published": "2026-10-16",
+   "summary": "『ノーマル・ピープル』などの著作で国際的に知られるアイルランド人作家サリー・ルーニー氏が、親パレスチナ団体「パレスチナ・アクション」への支持を理由に、イギリスの書店での著書供給を停止すると発表した。政治的立場と創作活動をめぐる決断が注目を集めている。"
+  },
+  {
+   "slug": "2026-10-16-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-13.html",
+   "title": "マスクの衛星通信がウクライナ戦争の勝敗を分ける？現代戦争が「インターネット依存」になった理由",
+   "title_en": "How Musk's Starlink Became the Hidden Weapon Deciding Ukraine's War",
+   "category": "国際",
+   "published": "2026-10-16",
+   "summary": "イーロン・マスク率いるスペースXの衛星通信「スターリンク」が、ウクライナの軍事作戦で極めて重要な役割を果たしている。高速インターネット接続を提供するこのサービスは、現代戦争が通信網に大きく依存していることを象徴している。ウクライナの戦闘効率や指揮系統の維持において、通信インフラの確保が戦局を左右する鍵となっているという状況が明らかになってきた。"
+  },
+  {
+   "slug": "2026-10-16-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-12.html",
+   "title": "トランプ氏が銃殺刑の配信計画を中止、何が起きたのか？",
+   "title_en": "Trump Cancels Plan to Livestream Execution: What Changed?",
+   "category": "国際",
+   "published": "2026-10-16",
+   "summary": "トランプ前米大統領が進めていた銃殺刑の公開配信計画を中止したことが明らかになった。同氏はこれまで死刑制度の透明化と公開を掲げていたが、国内外からの強い批判と法的課題を理由に撤回を決めた。死刑制度をめぐる議論が再燃している。"
+  },
+  {
+   "slug": "2026-10-16-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-11.html",
+   "title": "米大統領が機密情報漏洩で不満表明、その真相とは？",
+   "title_en": "U.S. President Expresses Frustration Over Classified Information Leak",
+   "category": "国際",
+   "published": "2026-10-16",
+   "summary": "米国の大統領が機密情報の漏洩事件に関連して公式な説明を行い、事態に対する不満を示した。この件は情報管理体制や政府の透明性についての議論を呼んでいる。詳細な状況説明を通じ、大統領は関係機関の対応に問題があったとの見解を示唆している。"
+  },
+  {
+   "slug": "2026-10-16-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-10.html",
+   "title": "なぜロシアは邦人記者を拘束するのか？識者が指摘する戦略的背景",
+   "title_en": "Why Did Russia Detain a Japanese Reporter? Experts Point to Strategic Motives",
+   "category": "国際",
+   "published": "2026-10-16",
+   "summary": "ウクライナ情勢を報道していた邦人記者がロシアに拘束された事件について、国際関係の専門家らが分析を示している。識者たちは、ロシア側の情報統制戦略と国際世論への圧力戦術、さらには日本への政治的メッセージが拘束の背景にあると指摘。報道の自由と外交問題が複雑に絡み合う状況が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-16-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-9.html",
+   "title": "餃子の王将社長射殺事件、暴力団幹部に判決へ 13年前の未解決事件がついに決着？",
+   "title_en": "Verdict Delivered in 2013 Gyoza no Ohsho CEO Murder Case: Crime Boss Faces Sentence",
+   "category": "国内",
+   "published": "2026-10-16",
+   "summary": "2013年に京都市で餃子の王将社長が拳銃で撃たれて殺害された事件で、実行役として殺人罪などに問われた暴力団幹部に対して、京都地裁が判決を言い渡します。検察側は無期懲役を求刑しており、今回の判決がこの著名事件の重要な区切りとなります。"
+  },
+  {
+   "slug": "2026-10-16-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-8.html",
+   "title": "ペット店の無資格注射、なぜ起きた？動物医療の盲点",
+   "title_en": "Why Are Unqualified Injections Being Administered at Pet Shops?",
+   "category": "国内",
+   "published": "2026-10-16",
+   "summary": "ペットショップで獣医資格を持たないスタッフによる注射が行われていた疑いが報じられた。動物への医療行為は獣医師法で資格者のみに限定されているが、実際の運用面での監督や取り締まりの甘さが浮き彫りになった。飼い主の信頼や動物の健康リスクなど、複数の問題が指摘されている。"
+  },
+  {
+   "slug": "2026-10-16-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-7.html",
+   "title": "22歳の闘病者が両親への感謝を伝えられない理由　最期まで言葉にならなかった想い",
+   "title_en": "22-Year-Old Patient Never Gets to Say 'Thank You' to Parents: When Words Fail at Life's End",
+   "category": "国内",
+   "published": "2026-10-16",
+   "summary": "重い病気と闘う22歳の若者が、支えてくれた両親への感謝の気持ちをついに伝えられないまま、という痛ましい状況が報じられた。病の進行とともに、どのように心情の整理をしていたのか、そして親子の絆の中で言葉以外の通じ合いがあったのか、多くの人の胸を打つストーリーとなっている。"
+  },
+  {
+   "slug": "2026-10-16-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-6.html",
+   "title": "元日本代表MF三浦淳宏氏、イベント中に重傷を負う―現在の状況は？",
+   "title_en": "Former Japan National Team MF Atsuhiro Miura Sustains Serious Injury at Event",
+   "category": "スポーツ",
+   "published": "2026-10-16",
+   "summary": "日本代表の元ミッドフィールダーである三浦淳宏氏が、参加していたイベント会場で重傷を負う事故が発生しました。事故の詳細な原因や現在の容態については、関係者から正式な発表が待たれる状況となっています。元代表選手の予期せぬ出来事として、サッカー界でも話題となっています。"
+  },
+  {
+   "slug": "2026-10-16-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-5.html",
+   "title": "サイゼリヤ株が一時14%高騰！何があった？市場を揺さぶった急反発の理由",
+   "title_en": "Saizeriya Stock Surges 14%: What Sparked This Unexpected Rally?",
+   "category": "経済",
+   "published": "2026-10-16",
+   "summary": "イタリアンレストランチェーン大手のサイゼリヤの株価が急騰し、一時14%の上昇を記録した。外食業界の低迷が続く中での大幅な上昇は市場の注目を集めており、業績改善の期待感や買い材料の浮上が背景にあるとみられる。投資家の間では今後の動向に関心が高まっている。"
+  },
+  {
+   "slug": "2026-10-16-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-4.html",
+   "title": "バーガーキング1118万件情報漏えい、あなたのデータは大丈夫？",
+   "title_en": "Burger King's 11.18 Million Data Breach: Is Your Information Safe?",
+   "category": "IT",
+   "published": "2026-10-16",
+   "summary": "バーガーキングで大規模な個人情報漏えいが発生し、約1118万件のユーザーデータが流出した。漏えいした情報には顧客の氏名やメールアドレス、購買履歴などが含まれているとみられ、同社は対応を急ぐとともに利用者への通知を進めている。情報セキュリティの強化が急務となっている。"
+  },
+  {
+   "slug": "2026-10-16-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-3.html",
+   "title": "タクシー・バス業界が決断 カスハラ客の乗車拒否へ",
+   "title_en": "Public Transport Industry Takes Stand Against Abusive Passengers",
+   "category": "国内",
+   "published": "2026-10-16",
+   "summary": "タクシーやバスなどの公共交通機関で、運転手への暴言や迷惑行為など顧客ハラスメント（カスハラ）が相次いでいる問題を受け、業界が乗車拒否の仕組みを導入する方向で動く。安全運行の確保と従業員の労働環境改善を目的とし、明らかな暴力や悪質な行為に対しては乗車を断る基準が検討されている。"
+  },
+  {
+   "slug": "2026-10-16-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-2.html",
+   "title": "大谷、まさかの1番起用…本人に事前通知なし。監督の狙いは？",
+   "title_en": "Ohtani Batted Leadoff Without Warning: What's the Manager's Strategy?",
+   "category": "スポーツ",
+   "published": "2026-10-16",
+   "summary": "大谷翔平選手が打線の1番打者として起用されることが明らかになった。通常、大谷は中軸打者として機能してきたが、今回の起用は戦術的な変更を示唆している。興味深いことに、この起用方針は本人に事前に伝えられていなかったという。監督がこうした判断を下した背景には、チームの得点パターンや相手投手への対策など、複数の戦術的要因が存在する可能性が考えられる。"
+  },
+  {
+   "slug": "2026-10-16-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-1.html",
+   "title": "2029年8月から医療費の自己負担が変わる？金融所得が新たに反映される仕組みとは",
+   "title_en": "Major Healthcare Policy Shift Coming in August 2029: Financial Income Now Counts Toward Medical Expenses",
+   "category": "経済",
+   "published": "2026-10-16",
+   "summary": "2029年8月より、医療費の自己負担額を決定する際に金融所得が新たに反映される制度変更が予定されている。これまで医療費負担は主に給与所得や事業所得に基づいて判定されてきたが、株式配当やFX利益などの金融所得も考慮対象に加わることで、資産保有層の医療費負担が増加する可能性がある。高額療養費制度など複数の制度が影響を受けることが見込まれている。"
+  },
+  {
+   "slug": "2026-10-16-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-0.html",
+   "title": "米国の小学校で銃撃事件、子ども4人が犠牲に―なぜ学校での銃暴力は繰り返されるのか",
+   "title_en": "School Shooting in America Claims 4 Lives—Why Does Gun Violence Keep Targeting U.S. Schools?",
+   "category": "国際",
+   "published": "2026-10-16",
+   "summary": "アメリカの小学校で銃撃事件が発生し、子どもを含む4人が死亡したと報じられている。米国では学校での銃撃事件が繰り返されており、銃規制をめぐる議論が常に大きな課題となっている。今回の事件も、銃暴力対策の必要性について改めて議論を生み出している。"
+  },
   {
    "slug": "2026-10-15-41",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-15-41.html",
