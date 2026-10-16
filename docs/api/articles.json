@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2646,
+ "count": 2647,
  "articles": [
+  {
+   "slug": "2026-10-16-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-16-21.html",
+   "title": "タイ王妃が自分でパイロット？来日時に航空機操縦で話題に",
+   "title_en": "Thai Queen Takes the Controls: Royalty Turns Pilot on Japan Visit",
+   "category": "コラム",
+   "published": "2026-10-16",
+   "summary": "タイの王妃が来日する際に自ら航空機を操縦したというニュースが報じられた。通常、王族の移動は専門のパイロットに任せられるのが一般的だが、今回は異なる対応となったようだ。王妃の操縦技術や背景について、注目が集まっている。"
+  },
   {
    "slug": "2026-10-16-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-20.html",
