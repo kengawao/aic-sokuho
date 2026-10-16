@@ -2,8 +2,208 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2668,
+ "count": 2688,
  "articles": [
+  {
+   "slug": "2026-10-17-19",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-19.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-19.html",
+   "title": "13年ぶり30個超の台風が発生　気象の専門家が指摘する『今年だけの異常現象』とは",
+   "title_en": "Over 30 Typhoons Strike Japan for First Time in 13 Years: What Experts Say is Unique About 2024",
+   "category": "科学",
+   "published": "2026-10-17",
+   "summary": "2024年は台風が30個以上発生し、13年ぶりの多さとなった。この異例の状況は、海水温の上昇や大気の流れのパターン変化など複数の要因が重なった結果と考えられている。専門家は今後の台風発生傾向の予測可能性と、防災体制の強化の必要性を指摘している。"
+  },
+  {
+   "slug": "2026-10-17-18",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-18.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-18.html",
+   "title": "ガスト・サイゼ・ロイホ、同じファミレスなのに明暗分かれるワケ。戦略の違いを徹底比較",
+   "title_en": "Why Gusto, Saizeriya, and Royalhost Are Taking Completely Different Paths: A Deep Dive into Casual Dining Strategy",
+   "category": "経済",
+   "published": "2026-10-17",
+   "summary": "ファミレス大手3社のガスト、サイゼリヤ、ロイホの経営戦略が大きく異なっている。低価格路線を貫くサイゼリヤ、多角化を進めるガスト、プレミアム路線のロイホといった各社の事業展開や顧客層へのアプローチが、コロナ禍以降の市場環境で異なる成果を生み出している。業態の再編が進む外食産業で、各社がどのように競争力を確保しているのかが注目される。"
+  },
+  {
+   "slug": "2026-10-17-17",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-17.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-17.html",
+   "title": "93万円のウォークマンをソニーが発表、誰が買うのか",
+   "title_en": "Sony Launches $7,000+ Walkman: But Who's Actually Buying?",
+   "category": "IT",
+   "published": "2026-10-17",
+   "summary": "ソニーが高級ポータブルオーディオプレイヤー「ウォークマン」の新モデルを発表しました。価格は93万円という高額設定となっており、ハイエンドオーディオマニアをターゲットにした製品と見られます。スマートフォンの普及により衰退したポータブルプレイヤー市場において、音質にこだわる限定的な層に向けた戦略と言えます。"
+  },
+  {
+   "slug": "2026-10-17-16",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-16.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-16.html",
+   "title": "バレー佐藤駿一郎がインドリーグへ移籍、日本男子バレー界から海外進出相次ぐ背景は？",
+   "title_en": "Shunichiro Sato Moves to India League: What's Behind Japanese Volleyball Players' Asian Expansion?",
+   "category": "スポーツ",
+   "published": "2026-10-17",
+   "summary": "バレーボール選手の佐藤駿一郎がインドのプロリーグへの移籍を決めた。日本国内での活動から一転、南アジアの成長市場への挑戦となる。近年、日本のバレー選手による海外リーグへの進出が増加している中、アジア圏への展開はキャリア形成の新たな選択肢として注目されている。"
+  },
+  {
+   "slug": "2026-10-17-15",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-15.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-15.html",
+   "title": "山崎武司がコーチ就任、あの怪物バッターが中日の打線強化に本気か",
+   "title_en": "Baseball Legend Yamazaki Takeshi Joins Chunichi as New Hitting Coach—Will the Monster Slugger Transform the Dragons' Lineup?",
+   "category": "スポーツ",
+   "published": "2026-10-17",
+   "summary": "中日ドラゴンズが通算2位の本塁打記録を持つ山崎武司氏をコーチとして招へいすることが発表された。現役時代に中日で活躍し、打撃の技術に定評がある山崎氏は、チームの打撃力向上に向けた専門的指導を担当する予定。中日は近年の打線課題の改善を期待している。"
+  },
+  {
+   "slug": "2026-10-17-14",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-14.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-14.html",
+   "title": "イランの後ろ盾？フーシ派の攻撃激化でサウジが「厳しい対応」を宣言",
+   "title_en": "Houthi Attacks Escalate: Saudi Arabia Signals 'Stern Response' to Drone and Missile Strikes",
+   "category": "国際",
+   "published": "2026-10-17",
+   "summary": "イエメンの反政府勢力フーシ派がイランの支援を受けながら、サウジアラビアの空港や石油・ガス施設への攻撃を相次いで実行。複数の死傷者が出ている状況を受け、サウジのアブドルアジズ・ビン・サルマン・エネルギー相が報復を示唆する強硬姿勢を表明。中東の地政学的緊張がさらに高まる可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-10-17-13",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-13.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-13.html",
+   "title": "AI時代の新たな脅威？英MI5長官が年次演説で警告した「国家による脅威」とは",
+   "title_en": "New Threats in the AI Era: What Did Britain's MI5 Chief Warn About?",
+   "category": "国際",
+   "published": "2026-10-17",
+   "summary": "英情報局保安部（MI5）のマカラム長官が年次演説でテロ対策と国家による脅威への対応について言及し、人工知能がもたらす新しいセキュリティリスクに警告を発した。従来のテロ対策に加え、AIの悪用による脅威がイギリスの安全保障上の新しい課題として浮上していることを示唆している。"
+  },
+  {
+   "slug": "2026-10-17-12",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-12.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-12.html",
+   "title": "生物学的性別で病棟分け、それでいいの？　英NHS新指針が波紋",
+   "title_en": "Sex-Based Hospital Wards for Transgender Patients: Does England's NHS Guidelines Work?",
+   "category": "国際",
+   "published": "2026-10-17",
+   "summary": "英国民保健サービス・イングランドが新ガイドラインを発表。トランスジェンダー患者の入院時に、自認する性別ではなく生物学的性別に基づいた病棟や病室の利用を求めています。一方で医療機関に対しては、差別を避けるためジェンダー中立的な空間の提供も強調。医療現場での性自認と実際の運用をめぐる課題が浮き彫りになっています。"
+  },
+  {
+   "slug": "2026-10-17-11",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-11.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-11.html",
+   "title": "黒海でタンカー炎上、ドローン攻撃で乗組員7人が行方不明。ルーマニア沖での攻撃激化",
+   "title_en": "Black Sea Tanker Hit by Drone Attack Off Romania, Seven Crew Members Missing",
+   "category": "国際",
+   "published": "2026-10-17",
+   "summary": "ルーマニア領海の黒海で15日朝、化学製品を運搬するタンカーがドローンの攻撃を受けて炎上する事件が発生した。乗組員12人のうち7人が行方不明となり、現在捜索が続いている。海軍当局によると、これはルーマニア沖での最近の軍事的緊張を示す事例である。"
+  },
+  {
+   "slug": "2026-10-17-10",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-10.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-10.html",
+   "title": "領事面会できず、日本人記者はどうなる？ロシア拘置所での対応に懸念",
+   "title_en": "Consular Visit Denied: What Happens Next to the Detained Japanese Reporter in Russia?",
+   "category": "国際",
+   "published": "2026-10-17",
+   "summary": "ロシアの治安機関に拘束された北海道新聞の記者について、モスクワの日本大使館が領事面会を試みたものの実現しなかったことが明らかになった。拘置所訪問は行われたが、記者本人との面会は叶わず、大使館は今後の調整を急ぐ方針。日本とロシアの関係が冷え込む中での対応が注視されている。"
+  },
+  {
+   "slug": "2026-10-17-9",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-9.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-9.html",
+   "title": "堂本剛、無許可グッズ販売に声明「なぜこんなことが？」ファンからも怒りの声",
+   "title_en": "Tsuyoshi Domoto Speaks Out: Unauthorized Merchandise Sold Without His Consent",
+   "category": "エンタメ",
+   "published": "2026-10-17",
+   "summary": "タレントの堂本剛が、自身の許可を得ていないグッズが店舗で販売されていることを明らかにし、声明を発表した。本人が関知していない商品が市場に出回っていることに対し、ファンからも困惑と怒りの声が上がっている。知的財産権や肖像権に関わる問題として注目が集まっている。"
+  },
+  {
+   "slug": "2026-10-17-8",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-8.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-8.html",
+   "title": "台風30号が『非常に強い勢力』に発達する見込み。来週の進路予想に幅あり、気象庁が注意呼びかけ",
+   "title_en": "Typhoon No. 30 Expected to Intensify to 'Very Strong' Category; Weather Agency Issues Caution About Uncertain Trajectory Next Week",
+   "category": "国内",
+   "published": "2026-10-17",
+   "summary": "日本の南東海上を進む台風30号が、今後さらに勢力を強めて非常に強い台風へと発達する見通しが示されました。気象庁は来週の進路予想に不確実性があるとして、最新情報の確認を呼びかけています。予想進路に幅があるため、今後の気象情報に注視する必要があります。"
+  },
+  {
+   "slug": "2026-10-17-7",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-7.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-7.html",
+   "title": "意識を取り戻した川上審判員、現場復帰への強い思い　スポーツ界を揺るがせた事件から",
+   "title_en": "Baseball Umpire Regains Consciousness, Determined to Return to the Field",
+   "category": "スポーツ",
+   "published": "2026-10-17",
+   "summary": "野球の審判員・川上氏が意識を回復し、現場への復帰を強く望んでいることが明らかになった。今夏の事件により一時重篤な状態に陥っていたが、医療チームのサポートと本人の強い意志により回復に向かっている。審判員としてのキャリアを続けたいという意欲が報じられている。"
+  },
+  {
+   "slug": "2026-10-17-6",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-6.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-6.html",
+   "title": "テスラが空を飛んで宙返り？新型車の衝撃実演に世界が騒然",
+   "title_en": "Tesla's New Model Takes to the Sky: Flying Car Performs Mid-Air Backflip",
+   "category": "IT",
+   "published": "2026-10-17",
+   "summary": "テスラが新型車の実演イベントで、車両が空中を飛行し宙返りを行う映像を公開した。同社のイーロン・マスク氏は革新的な技術デモとして発表。物理的な可能性と実用化の現実性について、業界内外で議論が広がっている。"
+  },
+  {
+   "slug": "2026-10-17-5",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-5.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-5.html",
+   "title": "倖田來未、第2子出産を発表 育児と仕事の両立に注目集まる",
+   "title_en": "Koda Kumi Announces Birth of Second Child: Balancing Motherhood and Career",
+   "category": "エンタメ",
+   "published": "2026-10-17",
+   "summary": "歌手の倖田來未が第2子の出産を発表した。すでに第1子がいる中での出産となり、育児と芸能活動の両立への関心が高まっている。ファンからは祝福の声が相次ぎ、SNSでも話題となっている。今後の活動予定については、本人のペースでの復帰を望む声も多く挙がっている。"
+  },
+  {
+   "slug": "2026-10-17-4",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-4.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-4.html",
+   "title": "米オレゴン州の小学校で銃乱射、児童3人と教師が殺害　容疑者の16歳少年は現場で射殺される",
+   "title_en": "School Shooting in Oregon: 3 Children and Teacher Killed; 16-Year-Old Suspect Shot Dead by Resident",
+   "category": "国際",
+   "published": "2026-10-17",
+   "summary": "米オレゴン州ベンドの小学校で銃乱射事件が発生し、児童3人と教師1人が命を落とした。容疑者は16歳の少年で、事件直後に現場に居合わせた地元住民によって射殺された。米国内での銃暴力問題が改めて浮き彫りになった形となっている。"
+  },
+  {
+   "slug": "2026-10-17-3",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-3.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-3.html",
+   "title": "高市首相が靖国神社に真榊奉納、秋の例大祭で何が起きているのか",
+   "title_en": "Prime Minister Takaichi Presents Sakaki Offering at Yasukuni Shrine—What's Really at Stake?",
+   "category": "国内",
+   "published": "2026-10-17",
+   "summary": "高市総理大臣は17日から開始された靖国神社の秋の例大祭にあわせて、「真榊」という鉢植えの供え物を奉納しました。真榊は靖国神社の祭礼において重要な供え物で、首相による奉納は国家指導者の宗教施設への関与を示す行動として注目されています。この時期の例大祭参拝は毎年国内外で関心を集める恒例行事です。"
+  },
+  {
+   "slug": "2026-10-17-2",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-2.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-2.html",
+   "title": "2335万人分のデータ流出　ショップサーブで何が起きた？",
+   "title_en": "What Happened to Shop Serve? 23.35 Million Records Exposed",
+   "category": "IT",
+   "published": "2026-10-17",
+   "summary": "ECサイト構築サービス「ショップサーブ」から大規模なデータ流出が発生し、2335万人分の個人情報が影響を受けたことが明らかになった。流出した情報の詳細や原因の究明、ユーザーへの対応が急務となっており、同サービスの信頼性に対する懸念が広がっている。"
+  },
+  {
+   "slug": "2026-10-17-1",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-1.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-1.html",
+   "title": "無罪判決の衝撃…「餃子の王将」社長殺害事件、捜査の全容が問われる",
+   "title_en": "Not Guilty Verdict Shocks: Gyoza no Ohsho Murder Case Raises Questions About Investigation",
+   "category": "国内",
+   "published": "2026-10-17",
+   "summary": "京都市で餃子の王将の社長が拳銃で射殺された事件で、無期懲役を求刑されていた暴力団幹部に対し京都地方裁判所が無罪判決を下した。有力な容疑者とされていただけに判決は大きな波紋を呼んでいる。遺族は控訴を検討しており、今後の司法判断が注目される。"
+  },
+  {
+   "slug": "2026-10-17-0",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-0.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-0.html",
+   "title": "緊急地震速報の過大推定、過去の対策が機能せず　気象庁が明かした「本来使われないはずのデータ」とは",
+   "title_en": "Japan's Earthquake Early Warning System Fails Again: Why Past Safety Measures Didn't Work",
+   "category": "国内",
+   "published": "2026-10-17",
+   "summary": "16日、北海道から東海にかけて緊急地震速報の過大推定が発生した。気象庁の調査により、震源から遠く離れた観測点のデータが誤って使用されていたことが判明。以前導入されたはずの対策メカニズムが機能していなかったため、不正確な震度情報が配信されてしまった。気象庁は原因究明を進めており、システムの改善が急務となっている。"
+  },
   {
    "slug": "2026-10-16-42",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-16-42.html",
