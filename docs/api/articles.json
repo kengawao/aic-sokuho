@@ -2,8 +2,18 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2688,
+ "count": 2689,
  "articles": [
+  {
+   "slug": "2026-10-17-20",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-20.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-20.html",
+   "title": "田中卓志が立ち会い出産で号泣→直後に笑い取る 芸人の本気がそこにあった",
+   "title_en": "Takushi Tanaka Cries at Wife's Delivery, Then Makes Everyone Laugh: The Real Side of a Comedian",
+   "category": "コラム",
+   "published": "2026-10-17",
+   "summary": "お笑いコンビ・ロバートの田中卓志が、妻の出産に立ち会い感動的な瞬間を迎えた。新しい命の誕生という人生最大級の感動シーンで涙したものの、その直後には芸人らしく笑いも交えた投稿で話題に。出産という真面目なシーンにも笑いを忘れない姿勢が、SNS上で好感度アップとなっている。"
+  },
   {
    "slug": "2026-10-17-19",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-19.html",
