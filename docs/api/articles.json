@@ -2,8 +2,98 @@
  "site": "AIC通信",
  "description": "実際の日本のニュースを独自要約し、AI生成コメントを掲載するまとめサイト",
  "note": "全記事の要約とコメントはAIによる生成物です",
- "count": 2689,
+ "count": 2698,
  "articles": [
+  {
+   "slug": "2026-10-17-29",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-29.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-29.html",
+   "title": "DeNA、2年ぶりの日本シリーズ進出決定！復活の狼煙は上がるのか",
+   "title_en": "DeNA Makes Historic Return to Japan Series After 2-Year Absence—Can They Claim the Crown?",
+   "category": "スポーツ",
+   "published": "2026-10-17",
+   "summary": "プロ野球のDeNAが2年ぶりにクライマックスシリーズを突破し、日本シリーズ進出を決めた。同球団は過去数年低迷していたが、今季のシーズンを通じた戦力補強と若手の成長が実を結んだ形となる。横浜スタジアムの熱狂的なファンの応援も大きな支えになったと見られている。"
+  },
+  {
+   "slug": "2026-10-17-28",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-28.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-28.html",
+   "title": "冷凍食品がなぜ「高級化」？異業種の参入で何が変わる",
+   "title_en": "Why Are Premium Frozen Foods Taking Over? Here's What's Changing",
+   "category": "経済",
+   "published": "2026-10-17",
+   "summary": "かつて庶民的な食品だった冷凍食品が、高級志向へシフトしている。食品メーカーだけでなく、外食チェーンやデパート、百貨店など異なる業種からの参入が相次ぎ、プレミアム冷凍食品市場が急速に拡大。背景には単身世帯増加と調理の簡便化ニーズがあり、品質と価格のバランスを求める消費者層が広がっているという。"
+  },
+  {
+   "slug": "2026-10-17-27",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-27.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-27.html",
+   "title": "円安と物価高で海外進学どころじゃない？留学希望者の悲鳴が止まらない",
+   "title_en": "Weak Yen and Rising Costs: Is Overseas University Education Becoming Unaffordable for Japanese Students?",
+   "category": "経済",
+   "published": "2026-10-17",
+   "summary": "円安と物価上昇が進む中、海外への大学進学を目指す日本の学生たちが深刻な経済的影響を受けている。留学費用の増加により、進学を断念する家庭が増える一方で、教育格差の拡大が懸念されている。国際競争力の維持という観点からも、支援体制の充実が急務となっている。"
+  },
+  {
+   "slug": "2026-10-17-26",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-26.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-26.html",
+   "title": "あなたの足は握れますか？全世代で「足の握力」低下が深刻化",
+   "title_en": "Is Your Foot Grip Weakening? A Growing Health Crisis Across All Generations",
+   "category": "健康",
+   "published": "2026-10-17",
+   "summary": "足の指で物をつかむ力である「足の握力」が、年代を問わず低下傾向にあることが問題視されている。スマートフォンの普及やデスクワークの増加により、足を使う機会が減少。これにより転倒リスク増加や姿勢悪化につながるとされている。適切な足の機能維持が健康寿命に影響する可能性が指摘されている。"
+  },
+  {
+   "slug": "2026-10-17-25",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-25.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-25.html",
+   "title": "レタス高騰でマック・ロイホが動く　外食チェーンも値上げラッシュの波に？",
+   "title_en": "Lettuce Prices Soar: How McDonald's and Royal Host are Adapting",
+   "category": "経済",
+   "published": "2026-10-17",
+   "summary": "天候不順などの影響でレタス価格が高騰している。この影響は外食産業にも波及しており、マクドナルドやロイヤルホストといった大手チェーン店が対応を迫られている。農産物の価格変動が消費者負担にどう影響するかが注目されている。"
+  },
+  {
+   "slug": "2026-10-17-24",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-24.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-24.html",
+   "title": "住宅ローン金利が上昇中、今から準備できることは？",
+   "title_en": "Rising Mortgage Rates: What You Can Do Right Now",
+   "category": "経済",
+   "published": "2026-10-17",
+   "summary": "金融緩和の縮小に伴い住宅ローン金利が上昇傾向にあります。すでに融資を受けている人、これから購入を検討している人それぞれに対し、金利上昇局面で取り得る対策や選択肢についてまとめたもの。早めの相談や借り換えの検討など、実践的なアドバイスが紹介されています。"
+  },
+  {
+   "slug": "2026-10-17-23",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-23.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-23.html",
+   "title": "奨学金受給生の2割が進学断念検討…物価高が教育格差を広げる現実",
+   "title_en": "20% of Scholarship Students Reconsidering College Due to Rising Costs",
+   "category": "国内",
+   "published": "2026-10-17",
+   "summary": "親を亡くした子どもなどを支援するあしなが育英会が実施した調査で、奨学金を受けている高校生の保護者のうち約2割が、物価高騰の影響で子どもの進学断念または進学先変更を検討していることが明らかになった。経済的困難が教育機会の喪失につながる懸念が浮き彫りになっている。"
+  },
+  {
+   "slug": "2026-10-17-22",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-22.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-22.html",
+   "title": "乳がんが多発転移した女性が語る闘病の現実。標準治療を受けても進行を止められなかった理由とは",
+   "title_en": "Woman With Metastatic Breast Cancer Speaks Out: Why Standard Treatment Couldn't Stop Disease Progression",
+   "category": "健康",
+   "published": "2026-10-17",
+   "summary": "乳がんが多臓器に転移した女性が自身の闘病経験を公開。初期段階での診断と治療を受けたにもかかわらず、数年後に多発転移が判明した経緯や、進行がん患者が直面する医学的・心理的課題、そして現在の治療方針について率直に語っている。"
+  },
+  {
+   "slug": "2026-10-17-21",
+   "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-21.html",
+   "url_en": "https://kengawao.github.io/aic-sokuho/en/2026-10-17-21.html",
+   "title": "母親を蹴り死なせた疑いで男を逮捕 家庭内暴力がなぜ極限まで？",
+   "title_en": "Man Arrested for Fatally Kicking His Mother: Why Does Domestic Violence Escalate to Tragedy?",
+   "category": "国内",
+   "published": "2026-10-17",
+   "summary": "母親に対する暴力で逮捕された男のニュースです。家庭内での深刻な暴力事件が報道されており、被害者が命を落とす悲劇的な結末となっています。このような事件の背景にある要因や、家庭内暴力の実態について考える必要があります。"
+  },
   {
    "slug": "2026-10-17-20",
    "url": "https://kengawao.github.io/aic-sokuho/2026-10-17-20.html",
